@@ -6,14 +6,18 @@
       {
         "id": "50feb02d253fc4fa",
         "type": "tabs",
-        "dimension": 68.97374701670644,
+        "dimension": 71.36038186157518,
         "children": [
           {
             "id": "b8b6ead9f3d96fe9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2022-12-30.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,7 +25,7 @@
       {
         "id": "0148db9438cbcba8",
         "type": "tabs",
-        "dimension": 31.026252983293556,
+        "dimension": 28.639618138424822,
         "children": [
           {
             "id": "b81009e45275a439",
@@ -101,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2022-12-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2022-12-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2022-12-30.md"
+              }
             }
           }
         ]
@@ -160,6 +168,7 @@
   },
   "active": "b8b6ead9f3d96fe9",
   "lastOpenFiles": [
+    "Leetcode.md",
     "Read.md",
     "Daily/2022-12-30.md",
     "Generic.md",
