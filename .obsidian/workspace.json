@@ -6,17 +6,36 @@
       {
         "id": "50feb02d253fc4fa",
         "type": "tabs",
+        "dimension": 68.97374701670644,
         "children": [
           {
             "id": "b8b6ead9f3d96fe9",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
-        ],
-        "stacked": true
+        ]
+      },
+      {
+        "id": "0148db9438cbcba8",
+        "type": "tabs",
+        "dimension": 31.026252983293556,
+        "children": [
+          {
+            "id": "b81009e45275a439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Read.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -141,6 +160,7 @@
   },
   "active": "b8b6ead9f3d96fe9",
   "lastOpenFiles": [
+    "Read.md",
     "Daily/2022-12-30.md",
     "Generic.md",
     "TypeScript.md",
