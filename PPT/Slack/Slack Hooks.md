@@ -14,6 +14,7 @@
 ---
 
 * 擇要傳送訊息的群組，會得到一組Webhook URL
+
 ![PostToChannel](./postToChannel.png)
 
 ---
@@ -24,6 +25,7 @@
 
 ---
 
+Body Row
 ```json
 {
 	"username": "Bot",
@@ -39,3 +41,7 @@
 	]
 }
 ```
+
+---
+
+![notion v.s. obisian](notion_obsidian.png)
