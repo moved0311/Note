@@ -43,5 +43,10 @@ Body Row
 ```
 
 ---
+`.gitlab-ci.yaml`
+
+![gitlab.yaml]('./gitlab-ci.png')
+
+---
 
 ![notion v.s. obisian](notion_obsidian.png)
