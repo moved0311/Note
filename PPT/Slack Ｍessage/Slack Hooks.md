@@ -3,6 +3,10 @@
 
 ---
 
+## Contents
+* 建立Web hook
+* 測試Web hook(Postman / Shell)
+* Slack Message樣板
 
 ---
 
@@ -26,22 +30,35 @@
 ![Postman example](postman.png)
 
 ---
+
 Slack Message樣板
 
 https://app.slack.com/block-kit-builder/
+
 ---
+
 Gitlab CI
 
 ![gitlab.yaml](gitlab-ci.png)
 ---
 
-透過Shell Script執行
+透過Shell Script執行 (1)
 
 ![gitlab-cicd-2](gitlab-cicd-2.png)
 
 ---
 
-推坑
+透過Shell Script執行(2)
+
+---
+
+Github Predefine variables
+
+[Predefined variables reference | GitLab](https://docs.gitlab.com/ee/ci/variables/predefined_variables.html)
+
+---
+
+推坑Obsidian
 
 ---
 
