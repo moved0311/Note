@@ -27,14 +27,17 @@ Slack Message樣板
 
 https://app.slack.com/block-kit-builder/
 ---
-
-透過Shell Script執行
-![gitlab-cicd-2](/gitlab-cicd-2.png)
-
----
-`.gitlab-ci.yaml`
+Gitlab CI
 
 ![gitlab.yaml](./gitlab-ci.png)
+---
+
+透過Shell Script執行
+
+![gitlab-cicd-2](./gitlab-cicd-2.png)
+
+---
+
 
 
 ---
