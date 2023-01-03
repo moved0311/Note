@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "92769eb75f96bb21",
+        "id": "441111f4446aa6d1",
         "type": "tabs",
         "children": [
           {
-            "id": "824ed279279766f2",
+            "id": "0cbadbc1fc471b96",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -164,15 +164,15 @@
   },
   "active": "5323ccb8fb4f0793",
   "lastOpenFiles": [
-    "'./gitlab-ci.png'.md",
+    "gitlab-cicd-2.png.md",
     "PPT/Slack/Slack Hooks.md",
+    "gitlab-cicd-2.md",
+    "'./gitlab-ci.png'.md",
     "Leetcode.md",
     "Read.md",
     "Generic.md",
     "TypeScript.md",
     "PPT/Slack/notion_obsidian.png",
-    "Daily/2022-12-30.md",
-    "未命名.canvas",
-    "2022-12-30.md"
+    "Daily/2022-12-30.md"
   ]
 }
