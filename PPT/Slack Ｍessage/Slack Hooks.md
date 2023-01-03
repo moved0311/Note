@@ -50,6 +50,8 @@ Gitlab CI
 
 透過Shell Script執行(2)
 
+![slack-message-template](./slack-mseesage.png)
+
 ---
 
 Github Predefine variables
@@ -63,3 +65,7 @@ Github Predefine variables
 ---
 
 ![notion v.s. obisian](notion_obsidian.png)
+
+---
+
+Source Code: [gitlab-slack](https://gitlab.cnyes.cool/taiyijiang/gitlab-slack/-/tree/master)
