@@ -60,7 +60,7 @@ Github Predefine variables
 
 ---
 
-推坑Obsidian
+推坑 [Obsidian](https://obsidian.md/)
 
 ---
 

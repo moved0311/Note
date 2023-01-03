@@ -23,11 +23,11 @@
         "stacked": true
       },
       {
-        "id": "60be3831ccf386b8",
+        "id": "cfe46e16cb58c3b1",
         "type": "tabs",
         "children": [
           {
-            "id": "401705889b1a0e25",
+            "id": "b3149d29794db3f5",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -165,15 +165,15 @@
   },
   "active": "5323ccb8fb4f0793",
   "lastOpenFiles": [
-    "Read.md",
-    "PPT/Slack Ｍessage/Slack Hooks.md",
-    "gitlab-cicd-2.png.md",
+    "Vim.md",
     "gitlab-cicd-2.md",
+    "gitlab-cicd-2.png.md",
+    "PPT/Slack Ｍessage/Slack Hooks.md",
+    "Read.md",
     "'./gitlab-ci.png'.md",
     "Leetcode.md",
     "Generic.md",
     "TypeScript.md",
-    "PPT/Slack Ｍessage/notion_obsidian.png",
-    "Daily/2022-12-30.md"
+    "PPT/Slack Ｍessage/notion_obsidian.png"
   ]
 }
