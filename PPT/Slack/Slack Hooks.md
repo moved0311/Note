@@ -25,27 +25,13 @@
 
 ---
 
-Body Row
-```json
-{
-	"username": "Bot",
-	"icon_emoji": ":crying_cat_face:",
-	"blocks": [
-		{
-			"type": "section",
-			"text": {
-				"type": "mrkdwn",
-				"text": "*Hello:* ~World~"
-			}
-		}
-	]
-}
-```
+
 
 ---
 `.gitlab-ci.yaml`
 
-![gitlab.yaml]('./gitlab-ci.png')
+![gitlab.yaml](./gitlab-ci.png)
+
 
 ---
 
