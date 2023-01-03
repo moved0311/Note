@@ -3,6 +3,9 @@
 
 ---
 
+
+---
+
 ## 建立一組Web hook
 
 [slack app custom integrations](https://cnyesteam.slack.com/apps/manage/custom-integrations)
@@ -14,13 +17,13 @@
 
 * 擇要傳送訊息的群組，會得到一組Webhook URL
 
-![PostToChannel](./postToChannel.png)
+![PostToChannel](postToChannel.png)
 
 ---
 
 透過Postman來傳送訊息到Slack
 
-![Postman example](./postman.png)
+![Postman example](postman.png)
 
 ---
 Slack Message樣板
@@ -29,16 +32,16 @@ https://app.slack.com/block-kit-builder/
 ---
 Gitlab CI
 
-![gitlab.yaml](./gitlab-ci.png)
+![gitlab.yaml](gitlab-ci.png)
 ---
 
 透過Shell Script執行
 
-![gitlab-cicd-2](./gitlab-cicd-2.png)
+![gitlab-cicd-2](gitlab-cicd-2.png)
 
 ---
 
-
+推坑
 
 ---
 

@@ -13,13 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PPT/Slack/Slack Hooks.md",
+                "file": "PPT/Slack Ｍessage/Slack Hooks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       },
       {
         "id": "441111f4446aa6d1",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PPT/Slack/Slack Hooks.md",
+                "file": "PPT/Slack Ｍessage/Slack Hooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PPT/Slack/Slack Hooks.md",
+                "file": "PPT/Slack Ｍessage/Slack Hooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PPT/Slack/Slack Hooks.md"
+                "file": "PPT/Slack Ｍessage/Slack Hooks.md"
               }
             }
           }
@@ -164,15 +165,15 @@
   },
   "active": "5323ccb8fb4f0793",
   "lastOpenFiles": [
+    "Read.md",
+    "PPT/Slack Ｍessage/Slack Hooks.md",
     "gitlab-cicd-2.png.md",
-    "PPT/Slack/Slack Hooks.md",
     "gitlab-cicd-2.md",
     "'./gitlab-ci.png'.md",
     "Leetcode.md",
-    "Read.md",
     "Generic.md",
     "TypeScript.md",
-    "PPT/Slack/notion_obsidian.png",
+    "PPT/Slack Ｍessage/notion_obsidian.png",
     "Daily/2022-12-30.md"
   ]
 }
