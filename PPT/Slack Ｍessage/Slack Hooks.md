@@ -40,6 +40,7 @@ https://app.slack.com/block-kit-builder/
 Gitlab CI
 
 ![gitlab.yaml](gitlab-ci.png)
+
 ---
 
 透過Shell Script執行 (1)
@@ -47,8 +48,6 @@ Gitlab CI
 ![gitlab-cicd-2](gitlab-cicd-2.png)
 
 ---
-
-透過Shell Script執行(2)
 
 ![slack-message-template](./slack-mseesage.png)
 

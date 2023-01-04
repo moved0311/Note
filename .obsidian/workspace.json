@@ -21,6 +21,20 @@
           }
         ],
         "stacked": true
+      },
+      {
+        "id": "37d9e1f62e60844e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c23f3dbfd884846",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -151,15 +164,15 @@
   },
   "active": "5323ccb8fb4f0793",
   "lastOpenFiles": [
+    "Leetcode.md",
+    "Read.md",
+    "TypeScript.md",
+    "Genric.md",
+    "PPT/Slack Ｍessage/Slack Hooks.md",
     "Vim.md",
     "gitlab-cicd-2.md",
     "gitlab-cicd-2.png.md",
-    "PPT/Slack Ｍessage/Slack Hooks.md",
-    "Read.md",
     "'./gitlab-ci.png'.md",
-    "Leetcode.md",
-    "Generic.md",
-    "TypeScript.md",
-    "PPT/Slack Ｍessage/notion_obsidian.png"
+    "Generic.md"
   ]
 }
