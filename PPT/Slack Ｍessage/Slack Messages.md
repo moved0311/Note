@@ -1,4 +1,4 @@
-## Slack Hooks
+## Slack Messages
 2023/01/04
 
 ---
@@ -7,6 +7,7 @@
 * 建立Web hook
 * 測試Web hook(Postman / Shell)
 * Slack Message樣板
+* Gitlab CICD
 
 ---
 
@@ -31,6 +32,11 @@
 
 ---
 
+* 透過shell script執行 
+![slack-message-template](./slack-mseesage.png)
+
+---
+
 Slack Message樣板
 
 https://app.slack.com/block-kit-builder/
@@ -43,13 +49,7 @@ Gitlab CI
 
 ---
 
-透過Shell Script執行 (1)
-
 ![gitlab-cicd-2](gitlab-cicd-2.png)
-
----
-
-![slack-message-template](./slack-mseesage.png)
 
 ---
 
@@ -60,6 +60,9 @@ Github Predefine variables
 ---
 
 推坑 [Obsidian](https://obsidian.md/)
+* Ｍarkdown筆記
+* 能夠存在自己的儲存空間
+* 關聯圖
 
 ---
 

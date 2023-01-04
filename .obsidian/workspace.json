@@ -11,8 +11,12 @@
             "id": "5323ccb8fb4f0793",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PPT/Slack Ｍessage/Slack Messages.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PPT/Slack Ｍessage/Slack Messages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PPT/Slack Ｍessage/Slack Messages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PPT/Slack Ｍessage/Slack Messages.md"
+              }
             }
           }
         ]
@@ -142,15 +150,15 @@
   },
   "active": "5323ccb8fb4f0793",
   "lastOpenFiles": [
-    "PPT/Slack Ｍessage/Slack Hooks.md",
+    "PPT/Slack Ｍessage/postman.png",
+    "PPT/Slack Ｍessage/postToChannel.png",
+    "Read.md",
+    "PPT/Slack Ｍessage/Slack Messages.md",
     "HighChart.md",
     "Leetcode.md",
-    "Read.md",
     "TypeScript.md",
     "Genric.md",
     "Vim.md",
-    "gitlab-cicd-2.md",
-    "gitlab-cicd-2.png.md",
-    "'./gitlab-ci.png'.md"
+    "gitlab-cicd-2.md"
   ]
 }
