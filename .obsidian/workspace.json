@@ -21,6 +21,20 @@
           }
         ],
         "stacked": true
+      },
+      {
+        "id": "73c6001512d665f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aad407ff63a1c36e",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,14 +164,14 @@
   },
   "active": "2e119aa90d6a6f9f",
   "lastOpenFiles": [
-    "Event Loop Example.md",
-    "PPT/Slack Ｍessage/Slack Messages.md",
-    "PPT/Slack Ｍessage/postman.png",
     "PPT/Slack Ｍessage/postToChannel.png",
-    "Read.md",
-    "HighChart.md",
+    "PPT/Slack Ｍessage/postman.png",
+    "Event Loop Example.md",
     "Leetcode.md",
+    "HighChart.md",
+    "PPT/Slack Ｍessage/Slack Messages.md",
     "TypeScript.md",
+    "Read.md",
     "Genric.md",
     "Vim.md"
   ]
