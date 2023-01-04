@@ -21,7 +21,7 @@ setTimeout(() => Promise.resolve().then(
   function func3() {
     console.log(2);
 
-    () => Promise.resolve().then(
+    Promise.resolve().then(
       function func4() {
         func1()
       }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "PPT/Slack Ｍessage/Slack Messages.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "PPT/Slack Ｍessage/Slack Messages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "PPT/Slack Ｍessage/Slack Messages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "PPT/Slack Ｍessage/Slack Messages.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "2e119aa90d6a6f9f",
   "lastOpenFiles": [
+    "Event Loop Example.md",
     "PPT/Slack Ｍessage/Slack Messages.md",
     "PPT/Slack Ｍessage/postman.png",
     "PPT/Slack Ｍessage/postToChannel.png",
@@ -158,7 +159,6 @@
     "Leetcode.md",
     "TypeScript.md",
     "Genric.md",
-    "Vim.md",
-    "gitlab-cicd-2.md"
+    "Vim.md"
   ]
 }
