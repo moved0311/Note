@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PPT/Slack Ｍessage/Slack Messages.md",
+                "file": "HighChart.md",
                 "mode": "source",
                 "source": false
               }
@@ -21,20 +21,6 @@
           }
         ],
         "stacked": true
-      },
-      {
-        "id": "059520b3c0cde9d5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "30c01134f23d6920",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PPT/Slack Ｍessage/Slack Messages.md",
+                "file": "HighChart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PPT/Slack Ｍessage/Slack Messages.md",
+                "file": "HighChart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PPT/Slack Ｍessage/Slack Messages.md"
+                "file": "HighChart.md"
               }
             }
           }
@@ -164,15 +150,15 @@
   },
   "active": "2e119aa90d6a6f9f",
   "lastOpenFiles": [
-    "PPT/Slack Ｍessage/postToChannel.png",
-    "PPT/Slack Ｍessage/postman.png",
-    "Event Loop Example.md",
     "Leetcode.md",
-    "HighChart.md",
-    "PPT/Slack Ｍessage/Slack Messages.md",
     "TypeScript.md",
     "Read.md",
+    "HighChart.md",
+    "Event Loop Example.md",
+    "Vim.md",
     "Genric.md",
-    "Vim.md"
+    "PPT/Slack Ｍessage/Slack Messages.md",
+    "PPT/Slack Ｍessage/postToChannel.png",
+    "PPT/Slack Ｍessage/postman.png"
   ]
 }
