@@ -3,6 +3,10 @@
 
 ---
 
+![Flow](./flow.png)
+
+---
+
 ## Contents
 * 建立Web hook
 * 測試Web hook(Postman / Shell)
@@ -43,7 +47,7 @@ https://app.slack.com/block-kit-builder/
 
 ---
 
-Gitlab CI
+Gitlab CICD (`.gitlab-ci.yml`)
 
 ![gitlab.yaml](gitlab-ci.png)
 
