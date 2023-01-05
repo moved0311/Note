@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "b96739274dafe1cb",
+        "id": "34ffeac94cffb730",
         "type": "tabs",
         "children": [
           {
-            "id": "02b95e9406bdfc88",
+            "id": "10c21c85db706f23",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -139,11 +139,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "02b95e9406bdfc88",
+  "active": "10c21c85db706f23",
   "lastOpenFiles": [
-    "Leetcode.md",
     "Event Loop.md",
     "Event Loop Example.md",
+    "Leetcode.md",
     "HighChart.md",
     "TypeScript.md",
     "Read.md",
