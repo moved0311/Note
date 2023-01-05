@@ -4,23 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0c92dc617ef7d250",
+        "id": "b96739274dafe1cb",
         "type": "tabs",
         "children": [
           {
-            "id": "2e119aa90d6a6f9f",
+            "id": "02b95e9406bdfc88",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Event Loop Example.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Event Loop Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Event Loop Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Event Loop Example.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,12 +139,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2e119aa90d6a6f9f",
+  "active": "02b95e9406bdfc88",
   "lastOpenFiles": [
-    "Event Loop Example.md",
-    "Event Loop.md",
-    "HighChart.md",
     "Leetcode.md",
+    "Event Loop.md",
+    "Event Loop Example.md",
+    "HighChart.md",
     "TypeScript.md",
     "Read.md",
     "Vim.md",

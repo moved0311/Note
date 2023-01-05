@@ -51,3 +51,6 @@ setTimeout(() => {
 console.log(8);
 
 ```
+
+
+[[Event Loop]]
