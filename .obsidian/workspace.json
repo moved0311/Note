@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fbda9ff5ff001228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech Blog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react-router-dom.md",
+                "file": "Tech Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "react-router-dom.md",
+                "file": "Tech Blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react-router-dom.md"
+                "file": "Tech Blog.md"
               }
             }
           }
@@ -147,8 +160,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "10c21c85db706f23",
+  "active": "fbda9ff5ff001228",
   "lastOpenFiles": [
+    "react-router-dom.md",
     "Event Loop.md",
     "Event Loop Example.md",
     "Leetcode.md",
@@ -157,7 +171,6 @@
     "Read.md",
     "Vim.md",
     "Genric.md",
-    "PPT/Slack Ｍessage/Slack Messages.md",
-    "PPT/Slack Ｍessage/postToChannel.png"
+    "PPT/Slack Ｍessage/Slack Messages.md"
   ]
 }
