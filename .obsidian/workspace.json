@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Blog.md",
+                "file": "Event Loop Example.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Blog.md",
+                "file": "Event Loop Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech Blog.md",
+                "file": "Event Loop Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Blog.md"
+                "file": "Event Loop Example.md"
               }
             }
           }
@@ -162,15 +162,15 @@
   },
   "active": "fbda9ff5ff001228",
   "lastOpenFiles": [
-    "react-router-dom.md",
     "Event Loop.md",
+    "Tech Blog.md",
+    "react-router-dom.md",
     "Event Loop Example.md",
     "Leetcode.md",
     "HighChart.md",
     "TypeScript.md",
     "Read.md",
     "Vim.md",
-    "Genric.md",
-    "PPT/Slack Ｍessage/Slack Messages.md"
+    "Genric.md"
   ]
 }
