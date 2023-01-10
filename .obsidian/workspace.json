@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "34ffeac94cffb730",
+        "id": "ed9129be92c0b4e0",
         "type": "tabs",
         "children": [
           {
-            "id": "10c21c85db706f23",
+            "id": "0a6889400c148bd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react-router-dom.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbda9ff5ff001228",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Event Loop Example.md",
+                "file": "TypeScript.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Event Loop Example.md",
+                "file": "TypeScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Event Loop Example.md",
+                "file": "TypeScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Event Loop Example.md"
+                "file": "TypeScript.md"
               }
             }
           }
@@ -160,17 +147,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "fbda9ff5ff001228",
+  "active": "0a6889400c148bd1",
   "lastOpenFiles": [
-    "Event Loop.md",
+    "Vim.md",
+    "TypeScript.md",
     "Tech Blog.md",
+    "Read.md",
     "react-router-dom.md",
-    "Event Loop Example.md",
     "Leetcode.md",
     "HighChart.md",
-    "TypeScript.md",
-    "Read.md",
-    "Vim.md",
-    "Genric.md"
+    "Event Loop Example.md",
+    "Event Loop.md",
+    "Daily/2023-01-09.md"
   ]
 }
