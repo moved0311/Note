@@ -1,0 +1,1 @@
+*  [JavaScript Design Pattern](https://levelup.gitconnected.com/javascript-design-patterns-aa4adb7b85e6)

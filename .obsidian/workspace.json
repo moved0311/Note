@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b551097ef1cc8a6f",
+        "id": "9ff5815199c1562c",
         "type": "tabs",
         "children": [
           {
-            "id": "ad6b4d85c3be967a",
+            "id": "da62f61334f4d9ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,17 +148,17 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "ad6b4d85c3be967a",
+  "active": "da62f61334f4d9ca",
   "lastOpenFiles": [
-    "Event Loop.md",
-    "Event Loop Example.md",
-    "Debounce and throttle.md",
-    "Daily/2023-01-09.md",
+    "Design Pattern/Signleton.md",
     "Read.md",
-    "react-router-dom.md",
-    "Genric.md",
-    "[.md",
+    "未命名.md",
+    "Performance/Performance.md",
+    "Performance/Load file.md",
+    "HighChart.md",
+    "未命名.canvas",
     "TypeScript.md",
-    "Vim.md"
+    "Genric.md",
+    "Event Loop.md"
   ]
 }
