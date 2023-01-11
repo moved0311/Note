@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1f5d6db1ab214489",
+        "id": "b551097ef1cc8a6f",
         "type": "tabs",
         "children": [
           {
-            "id": "0c1d9c50937a44f8",
+            "id": "ad6b4d85c3be967a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-01-09.md",
+                "file": "Read.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-01-09.md",
+                "file": "Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-01-09.md",
+                "file": "Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-01-09.md"
+                "file": "Read.md"
               }
             }
           }
@@ -148,17 +148,17 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "0c1d9c50937a44f8",
+  "active": "ad6b4d85c3be967a",
   "lastOpenFiles": [
+    "Event Loop.md",
+    "Event Loop Example.md",
+    "Debounce and throttle.md",
+    "Daily/2023-01-09.md",
+    "Read.md",
     "react-router-dom.md",
     "Genric.md",
-    "Daily/2023-01-09.md",
     "[.md",
     "TypeScript.md",
-    "Vim.md",
-    "Tech Blog.md",
-    "Read.md",
-    "Leetcode.md",
-    "HighChart.md"
+    "Vim.md"
   ]
 }

@@ -1,0 +1,1 @@
+*  [How to debounce and throttle in React without losing your mind](https://www.developerway.com/posts/debouncing-in-react?ck_subscriber_id=1841440222&utm_source=convertkit&utm_medium=email&utm_campaign=How+to+debounce+and+throttle+in+React+without+losing+your+mind%20-%209773764) 

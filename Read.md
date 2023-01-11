@@ -1,6 +1,6 @@
-*  [✋🏼🔥 CS Visualized: CORS](https://dev.to/lydiahallie/cs-visualized-cors-5b8h)
-*  [⭐️ Interactive JavaScript Quiz #2](https://dev.to/lydiahallie/interactive-javascript-quiz-2-4pi1)
-* [⭐️ Interactive JavaScript Quiz #1](https://dev.to/lydiahallie/interactive-javascript-quiz-1-1flc)
-* [⭐️🎀 JavaScript Visualized: Promises & Async/Await - DEV Community 👩‍💻👨‍💻](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke) 
-* [为什么都说定时器 setTimeout 不能准时执行呢？ - 掘金](https://juejin.cn/post/6982081539249012766)
-* 
+* [ ]  [✋🏼🔥 CS Visualized: CORS](https://dev.to/lydiahallie/cs-visualized-cors-5b8h)
+* [ ] [⭐️ Interactive JavaScript Quiz #2](https://dev.to/lydiahallie/interactive-javascript-quiz-2-4pi1)
+* [ ] [⭐️ Interactive JavaScript Quiz #1](https://dev.to/lydiahallie/interactive-javascript-quiz-1-1flc)
+* [ ] [⭐️🎀 JavaScript Visualized: Promises & Async/Await - DEV Community 👩‍💻👨‍💻](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke) 
+* [ ] [为什么都说定时器 setTimeout 不能准时执行呢？ - 掘金](https://juejin.cn/post/6982081539249012766)
+* [ ] 
