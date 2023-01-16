@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Todo.md",
+                "file": "Debounce and throttle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21289fe2fa415530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-01-09.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Todo.md",
+                "file": "Daily/2023-01-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Todo.md",
+                "file": "Daily/2023-01-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Todo.md"
+                "file": "Daily/2023-01-09.md"
               }
             }
           }
@@ -150,15 +163,15 @@
   },
   "active": "0956f11c313356e2",
   "lastOpenFiles": [
-    "react-router-dom.md",
-    "Event Loop/Microtask v.s. Macrotask.md",
-    "HighChart.md",
-    "Event Loop/Event Loop.md",
-    "Daily/2023-01-09.md",
-    "Event Loop/Micro/Promise.md",
-    "Event Loop/Macro/setTimeout.md",
-    "Event Loop Example.md",
+    "TypeScript.md",
+    "Debounce and throttle.md",
+    "Vim.md",
+    "Tech Blog.md",
     "Read.md",
-    "Debounce and throttle.md"
+    "react-router-dom.md",
+    "HighChart.md",
+    "Daily/2023-01-09.md",
+    "Daily/2022-12-30.md",
+    "Design Pattern/Signleton.md"
   ]
 }
