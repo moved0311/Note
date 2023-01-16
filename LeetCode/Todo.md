@@ -1,4 +1,3 @@
-744	Find Smallest Letter Greater Than Target	45.60%	Easy
 1329	Sort the Matrix Diagonally	81.70%	Medium
 844	Backspace String Compare	47.00%	Easy
 1417	Reformat The String	55.10%	Easy
