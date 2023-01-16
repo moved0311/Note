@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Debounce and throttle.md",
+                "file": "Read.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-01-09.md",
+                "file": "Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-01-09.md",
+                "file": "Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-01-09.md"
+                "file": "Read.md"
               }
             }
           }
@@ -161,16 +160,16 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "0956f11c313356e2",
+  "active": "632cbab08cc2eae1",
   "lastOpenFiles": [
-    "TypeScript.md",
     "Debounce and throttle.md",
+    "Daily/2023-01-09.md",
+    "TypeScript.md",
     "Vim.md",
     "Tech Blog.md",
     "Read.md",
     "react-router-dom.md",
     "HighChart.md",
-    "Daily/2023-01-09.md",
     "Daily/2022-12-30.md",
     "Design Pattern/Signleton.md"
   ]
