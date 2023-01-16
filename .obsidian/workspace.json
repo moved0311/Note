@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Read.md",
+                "file": "Daily/2023-01-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Read.md",
+                "file": "Daily/2023-01-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Read.md"
+                "file": "Daily/2023-01-09.md"
               }
             }
           }
@@ -160,14 +161,14 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "632cbab08cc2eae1",
+  "active": "21289fe2fa415530",
   "lastOpenFiles": [
+    "Read.md",
     "Debounce and throttle.md",
     "Daily/2023-01-09.md",
     "TypeScript.md",
     "Vim.md",
     "Tech Blog.md",
-    "Read.md",
     "react-router-dom.md",
     "HighChart.md",
     "Daily/2022-12-30.md",
