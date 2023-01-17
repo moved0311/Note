@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-01-09.md",
+                "file": "Read.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1df0439f0a061b00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "小工具/Icon.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-01-09.md",
+                "file": "小工具/Icon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-01-09.md",
+                "file": "小工具/Icon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-01-09.md"
+                "file": "小工具/Icon.md"
               }
             }
           }
@@ -148,17 +161,17 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "0956f11c313356e2",
+  "active": "1df0439f0a061b00",
   "lastOpenFiles": [
-    "Daily/2022-12-30.md",
+    "Read.md",
     "Daily/2023-01-09.md",
+    "小工具/Icon.md",
+    "Daily/2022-12-30.md",
     "小工具/職涯.md",
     "小工具/圖片相關.md",
     "Performance/Load file.md",
     "Debounce and throttle.md",
     "TypeScript.md",
-    "Vim.md",
-    "Tech Blog.md",
-    "Read.md"
+    "Vim.md"
   ]
 }
