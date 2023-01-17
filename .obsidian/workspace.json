@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "87b9473018530974",
+        "id": "59369ede394bcffa",
         "type": "tabs",
         "children": [
           {
-            "id": "632cbab08cc2eae1",
+            "id": "5cf9dad10db69f69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Event Loop/Microtask v.s. Macrotask.md",
+                "file": "Daily/2023-01-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Event Loop/Microtask v.s. Macrotask.md",
+                "file": "Daily/2023-01-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Event Loop/Microtask v.s. Macrotask.md",
+                "file": "Daily/2023-01-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Event Loop/Microtask v.s. Macrotask.md"
+                "file": "Daily/2023-01-09.md"
               }
             }
           }
@@ -148,17 +148,17 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "632cbab08cc2eae1",
+  "active": "0956f11c313356e2",
   "lastOpenFiles": [
-    "Event Loop/Event Loop.md",
-    "Event Loop/Microtask v.s. Macrotask.md",
-    "Read.md",
-    "Tech Blog.md",
+    "Daily/2022-12-30.md",
+    "Daily/2023-01-09.md",
+    "小工具/職涯.md",
+    "小工具/圖片相關.md",
+    "Performance/Load file.md",
+    "Debounce and throttle.md",
     "TypeScript.md",
     "Vim.md",
-    "Daily/2023-01-09.md",
-    "Debounce and throttle.md",
-    "react-router-dom.md",
-    "HighChart.md"
+    "Tech Blog.md",
+    "Read.md"
   ]
 }
