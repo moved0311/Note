@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Reference.md",
+                "file": "Daily/2023-01-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Reference.md",
+                "file": "Daily/2023-01-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Reference.md",
+                "file": "Daily/2023-01-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Reference.md"
+                "file": "Daily/2023-01-09.md"
               }
             }
           }
@@ -162,15 +162,15 @@
   },
   "active": "5cf9dad10db69f69",
   "lastOpenFiles": [
-    "Read.md",
-    "小工具/Icon.md",
-    "LeetCode/Reference.md",
-    "Daily/2023-01-09.md",
     "Daily/2022-12-30.md",
     "小工具/職涯.md",
+    "Tech Blog.md",
+    "LeetCode/Reference.md",
+    "Read.md",
+    "小工具/Icon.md",
+    "Daily/2023-01-09.md",
     "小工具/圖片相關.md",
     "Performance/Load file.md",
-    "Debounce and throttle.md",
-    "TypeScript.md"
+    "Debounce and throttle.md"
   ]
 }
