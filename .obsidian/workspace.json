@@ -20,18 +20,19 @@
             }
           },
           {
-            "id": "b1482caa6bc8ba17",
+            "id": "f7fea9afaae7e9be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Reference.md",
+                "file": "Design Pattern/Reference.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript.md",
+                "file": "Design Pattern/Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript.md",
+                "file": "Design Pattern/Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript.md"
+                "file": "Design Pattern/Reference.md"
               }
             }
           }
@@ -160,17 +161,17 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "5cf9dad10db69f69",
+  "active": "f7fea9afaae7e9be",
   "lastOpenFiles": [
-    "Tech Blog.md",
     "TypeScript.md",
-    "Read.md",
-    "Daily/2023-01-09.md",
-    "Vim.md",
-    "Debounce and throttle.md",
-    "HighChart.md",
-    "react-router-dom.md",
-    "Daily/2022-12-30.md",
-    "小工具/職涯.md"
+    "Design Pattern/State.md",
+    "Design Pattern/Mediator.md",
+    "Design Pattern/Observer.md",
+    "Design Pattern/Iterator.md",
+    "Design Pattern/Proxy.md",
+    "Design Pattern/Facade.md",
+    "Design Pattern/Factory.md",
+    "Design Pattern/Builder.md",
+    "Design Pattern/Prototype.md"
   ]
 }
