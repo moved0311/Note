@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "59369ede394bcffa",
+        "id": "27813291e57532d9",
         "type": "tabs",
         "children": [
           {
-            "id": "f7fea9afaae7e9be",
+            "id": "d332140301d10404",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7568e24b2a238c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "面試.md",
+                "file": "面試問題.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面試.md",
+                "file": "面試問題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面試.md",
+                "file": "面試問題.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面試.md"
+                "file": "面試問題.md"
               }
             }
           }
@@ -161,8 +148,9 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "d7568e24b2a238c6",
+  "active": "d332140301d10404",
   "lastOpenFiles": [
+    "面試問題.md",
     "TypeScript.md",
     "Design Pattern/Reference.md",
     "Design Pattern/State.md",
@@ -171,7 +159,6 @@
     "Design Pattern/Iterator.md",
     "Design Pattern/Proxy.md",
     "Design Pattern/Facade.md",
-    "Design Pattern/Factory.md",
-    "Design Pattern/Builder.md"
+    "Design Pattern/Factory.md"
   ]
 }
