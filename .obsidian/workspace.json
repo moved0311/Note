@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面試問題.md",
+                "file": "LeetCode/Todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面試問題.md",
+                "file": "LeetCode/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面試問題.md",
+                "file": "LeetCode/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面試問題.md"
+                "file": "LeetCode/Todo.md"
               }
             }
           }
@@ -150,15 +150,15 @@
   },
   "active": "d332140301d10404",
   "lastOpenFiles": [
-    "面試問題.md",
+    "LeetCode/Reference.md",
+    "LeetCode/Todo.md",
+    "Debounce and throttle.md",
     "TypeScript.md",
+    "Vim.md",
+    "Tech Blog.md",
+    "面試/問題.md",
     "Design Pattern/Reference.md",
     "Design Pattern/State.md",
-    "Design Pattern/Mediator.md",
-    "Design Pattern/Observer.md",
-    "Design Pattern/Iterator.md",
-    "Design Pattern/Proxy.md",
-    "Design Pattern/Facade.md",
-    "Design Pattern/Factory.md"
+    "Design Pattern/Mediator.md"
   ]
 }
