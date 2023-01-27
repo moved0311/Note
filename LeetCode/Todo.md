@@ -1,4 +1,3 @@
-1329	Sort the Matrix Diagonally	81.70%	Medium
 844	Backspace String Compare	47.00%	Easy
 1417	Reformat The String	55.10%	Easy
 1275	Find Winner on a Tic Tac Toe Game	52.90%	Easy

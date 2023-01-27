@@ -6,36 +6,49 @@
  */
 
 // @lc code=start
-function swap(mat: number[][], i1: number, j1: number, i2: number, j2: number): void {
-  let tmp = mat[i1][j1];
-  mat[i1][j1] = mat[i2][j2];
-  mat[i2][j2] = tmp;
-}
-
 function diagonalSort(mat: number[][]): number[][] {
   const m = mat[0].length;
   const n = mat.length;
-
-  const groups: number[][] = Array.from({ length: m + n - 1 }).fill([]);
-
-  console.log(groups);
+  const groups: { [key: string]: number[] } = {};
 
   for (let i = 0; i < n; i++) {
     for (let j = 0; j < m; j++) {
-      groups[j - i].push(mat[i][j]);
+      let key = (j - i).toString();
+      if (groups[key]) {
+        groups[key].push(mat[i][j]);
+      } else {
+        groups[key] = [mat[i][j]];
+      }
     }
   }
+  // sort groups
+  Object.values(groups).map((g) => g.sort((a, b) => b - a));
 
-  console.log(groups);
+  // fill
+  for (let i = 0; i < n; i++) {
+    for (let j = 0; j < m; j++) {
+      let key = (j - i).toString();
+      mat[i][j] = groups[key].pop() || 0;
+    }
+  }
 
   return mat;
 }
 // @lc code=end
 
-console.log(
-  diagonalSort([
-    [3, 3, 1, 1],
-    [2, 2, 1, 2],
-    [1, 1, 1, 2],
-  ])
-); // [[1,1,1,1],[1,2,2,2],[1,2,3,3]]
+// console.log(
+//   diagonalSort([
+//     [3, 3, 1, 1],
+//     [2, 2, 1, 2],
+//     [1, 1, 1, 2],
+//   ])
+// );
+// console.log(
+//   diagonalSort([
+//     [11, 25, 66, 1, 69, 7],
+//     [23, 55, 17, 45, 15, 52],
+//     [75, 31, 36, 44, 58, 8],
+//     [22, 27, 33, 25, 68, 4],
+//     [84, 28, 14, 11, 5, 50],
+//   ])
+// );
