@@ -2,4 +2,5 @@
 * [Dcard Tech – Medium](https://dcardlab.medium.com/)
 * [架构\_架构\_软件架构\_架构设计-InfoQ\_InfoQ精选频道](https://www.infoq.cn/topic/architecture)
 * [Blog | PJCHENder 未整理筆記](https://pjchender.dev/blog/)
-* 
+* [Discord Blog](https://discord.com/blog)
+* [trivago tech blog](https://tech.trivago.com/)
