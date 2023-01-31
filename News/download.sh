@@ -1,0 +1,1 @@
+sh ./get.sh; sh ./loop.sh >> out.md
