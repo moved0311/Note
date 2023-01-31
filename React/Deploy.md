@@ -1,0 +1,1 @@
+* 在佈署到github page, 如果專案不是直接在`xxx.github.io/`下,而是在`xxx.github.io/[projectname]`下,在`/public/manifest.json`需要修改`start_url`路徑,不然編譯完引入js和css會遇到路徑錯誤

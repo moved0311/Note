@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIt/Subtree.md",
+                "file": "Daily/2023-01-30.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIt/Subtree.md",
+                "file": "Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIt/Subtree.md",
+                "file": "Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIt/Subtree.md"
+                "file": "Read.md"
               }
             }
           }
@@ -161,17 +160,17 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "c288c0b66deb11cc",
+  "active": "d332140301d10404",
   "lastOpenFiles": [
     "Daily/2023-01-30.md",
+    "Vim.md",
+    "LeetCode/Weekly Contest.md",
     "Read.md",
+    "React/Deploy.md",
     "GIt/Subtree.md",
     "Tech Blog.md",
     "Daily/2023-01-09.md",
     "npm package.md",
-    "LeetCode/Todo.md",
-    "LeetCode/Reference.md",
-    "Debounce and throttle.md",
-    "TypeScript.md"
+    "LeetCode/Todo.md"
   ]
 }
