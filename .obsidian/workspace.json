@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "News/2023-02-01.md",
+                "file": "GIt/Subtree.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "News/2023-02-01.md",
+                "file": "GIt/Subtree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "News/2023-02-01.md",
+                "file": "GIt/Subtree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "News/2023-02-01.md"
+                "file": "GIt/Subtree.md"
               }
             }
           }
@@ -150,15 +150,15 @@
   },
   "active": "24a8b4335381bd3b",
   "lastOpenFiles": [
-    "News/2023-01-31.md",
-    "News/daily.md",
-    "Daily/2023-01-30.md",
-    "News/out.md",
+    "npm package.md",
+    "TypeScript.md",
     "Read.md",
-    "Vim.md",
-    "LeetCode/Weekly Contest.md",
-    "React/Deploy.md",
-    "GIt/Subtree.md",
-    "Tech Blog.md"
+    "Tech Blog.md",
+    "react-router-dom.md",
+    "HighChart.md",
+    "Debounce and throttle.md",
+    "Function Programming.md",
+    "Daily/2023-01-30.md",
+    "Daily/2023-01-09.md"
   ]
 }
