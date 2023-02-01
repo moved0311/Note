@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "27813291e57532d9",
+        "id": "9d3bd3f1c9aac4da",
         "type": "tabs",
         "children": [
           {
-            "id": "c288c0b66deb11cc",
+            "id": "91120f34dd4e9bc6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2023-01-30.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-01-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-01-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/2023-01-30.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,17 +140,17 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "c288c0b66deb11cc",
+  "active": "91120f34dd4e9bc6",
   "lastOpenFiles": [
+    "News/daily.md",
+    "Daily/2023-01-30.md",
     "News/out.md",
     "Read.md",
-    "Daily/2023-01-30.md",
     "Vim.md",
     "LeetCode/Weekly Contest.md",
     "React/Deploy.md",
     "GIt/Subtree.md",
     "Tech Blog.md",
-    "Daily/2023-01-09.md",
-    "npm package.md"
+    "Daily/2023-01-09.md"
   ]
 }

@@ -1,1 +1,2 @@
-sh ./get.sh; sh ./loop.sh >> out.md
+sh ./get.sh
+sh ./loop.sh >> daily.md
