@@ -1,2 +1,4 @@
+now=$(date +"%Y-%m-%d")
+
 sh ./get.sh
-sh ./loop.sh >> daily.md
+sh ./loop.sh >> "${now}.md"
