@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9d3bd3f1c9aac4da",
+        "id": "c2f14b4af126398d",
         "type": "tabs",
         "children": [
           {
-            "id": "91120f34dd4e9bc6",
+            "id": "24a8b4335381bd3b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "News/2023-02-01.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "News/2023-02-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "News/2023-02-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "News/2023-02-01.md"
+              }
             }
           }
         ],
@@ -140,8 +148,9 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "91120f34dd4e9bc6",
+  "active": "24a8b4335381bd3b",
   "lastOpenFiles": [
+    "News/2023-01-31.md",
     "News/daily.md",
     "Daily/2023-01-30.md",
     "News/out.md",
@@ -150,7 +159,6 @@
     "LeetCode/Weekly Contest.md",
     "React/Deploy.md",
     "GIt/Subtree.md",
-    "Tech Blog.md",
-    "Daily/2023-01-09.md"
+    "Tech Blog.md"
   ]
 }
