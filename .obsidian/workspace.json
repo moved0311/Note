@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a642e7bfcddc5da7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PreCommit/Husky.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Package Manger/npx.md",
+                "file": "PreCommit/Husky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Package Manger/npx.md",
+                "file": "PreCommit/Husky.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Package Manger/npx.md"
+                "file": "PreCommit/Husky.md"
               }
             }
           }
@@ -173,8 +185,9 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "079419a0ef4be73b",
+  "active": "a642e7bfcddc5da7",
   "lastOpenFiles": [
+    "Package Manger/npx.md",
     "Daily/2023-01-30.md",
     "JavaScript/字串處理.md",
     "Read.md",
@@ -183,7 +196,6 @@
     "npm package.md",
     "TypeScript.md",
     "Tech Blog.md",
-    "react-router-dom.md",
-    "HighChart.md"
+    "react-router-dom.md"
   ]
 }
