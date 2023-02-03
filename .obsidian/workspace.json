@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/字串處理.md",
+                "file": "Daily/2023-01-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/字串處理.md",
+                "file": "Daily/2023-01-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/字串處理.md",
+                "file": "Daily/2023-01-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/字串處理.md"
+                "file": "Daily/2023-01-30.md"
               }
             }
           }
@@ -163,8 +163,8 @@
   },
   "active": "181ed1c16c34257f",
   "lastOpenFiles": [
-    "Read.md",
     "JavaScript/字串處理.md",
+    "Read.md",
     "CSR & SSR.md",
     "GIt/Subtree.md",
     "Daily/2023-01-30.md",
