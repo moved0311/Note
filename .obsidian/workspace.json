@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "181ed1c16c34257f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/字串處理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Read.md",
+                "file": "JavaScript/字串處理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Read.md",
+                "file": "JavaScript/字串處理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Read.md"
+                "file": "JavaScript/字串處理.md"
               }
             }
           }
@@ -148,17 +161,17 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "7dba24e68370a6c3",
+  "active": "181ed1c16c34257f",
   "lastOpenFiles": [
-    "CSR & SSR.md",
     "Read.md",
+    "JavaScript/字串處理.md",
+    "CSR & SSR.md",
     "GIt/Subtree.md",
     "Daily/2023-01-30.md",
     "npm package.md",
     "TypeScript.md",
     "Tech Blog.md",
     "react-router-dom.md",
-    "HighChart.md",
-    "Debounce and throttle.md"
+    "HighChart.md"
   ]
 }
