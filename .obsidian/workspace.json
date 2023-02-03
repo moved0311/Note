@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "079419a0ef4be73b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Package Manger/npx.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-01-30.md",
+                "file": "Package Manger/npx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-01-30.md",
+                "file": "Package Manger/npx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-01-30.md"
+                "file": "Package Manger/npx.md"
               }
             }
           }
@@ -161,13 +173,13 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "181ed1c16c34257f",
+  "active": "079419a0ef4be73b",
   "lastOpenFiles": [
+    "Daily/2023-01-30.md",
     "JavaScript/字串處理.md",
     "Read.md",
     "CSR & SSR.md",
     "GIt/Subtree.md",
-    "Daily/2023-01-30.md",
     "npm package.md",
     "TypeScript.md",
     "Tech Blog.md",
