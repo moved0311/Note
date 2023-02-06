@@ -12,5 +12,5 @@ do
     newsId=`echo ${row} | base64 --decode | jq -r '.newsId'`;
     publishAt=`echo ${row} | base64 --decode | jq -r '.publishAt'`;
     echo "* [$(date -r ${publishAt} +"%Y-%m-%d %T") $title]($baseUrl/$newsId)";
-  done >> "${now}.md"
+  done > "${now}.md"
 done

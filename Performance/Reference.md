@@ -1,0 +1,1 @@
+* [Advanced JavaScript Functions to Improve Code Quality](https://www.paulsblog.dev/advanced-javascript-functions-to-improve-code-quality/)
