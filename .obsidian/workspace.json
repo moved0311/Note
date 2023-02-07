@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "6ea24077df57a0b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Read.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "024d511c4cc1e81c",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,17 +173,17 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "bdc8a44a7ce694c6",
+  "active": "6ea24077df57a0b5",
   "lastOpenFiles": [
+    "Performance/Once.md",
+    "Read.md",
     "Performance/Debounce and Throttle.md",
     "Performance/Reference.md",
-    "Read.md",
     "Tech Blog.md",
     "TypeScript.md",
     "CSR & SSR.md",
     "Function Programming.md",
     "React/react-router-dom.md",
-    "Performance/Load file.md",
-    "Daily/2023-01-30.md"
+    "Performance/Load file.md"
   ]
 }
