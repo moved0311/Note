@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Read.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e07211776bae45ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Performance/Pipe.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,17 +148,17 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "e07211776bae45ff",
+  "active": "bdc8a44a7ce694c6",
   "lastOpenFiles": [
+    "Daily/2023-01-30.md",
+    "Read.md",
+    "Performance/Pipe.md",
     "Performance/Curry.md",
     "Performance/Reference.md",
     "Performance/Memoize.md",
-    "Read.md",
     "Performance/Once.md",
     "Performance/Debounce and Throttle.md",
     "Tech Blog.md",
-    "TypeScript.md",
-    "CSR & SSR.md",
-    "Function Programming.md"
+    "TypeScript.md"
   ]
 }
