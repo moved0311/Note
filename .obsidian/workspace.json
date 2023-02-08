@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9c7d285c6fd1dfac",
+        "id": "b00c91d3be4f2743",
         "type": "tabs",
         "children": [
           {
-            "id": "bdc8a44a7ce694c6",
+            "id": "87ceff7a0a8af2d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-01-30.md",
+                "file": "Daily/2023-02-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-01-30.md",
+                "file": "Daily/2023-02-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-01-30.md",
+                "file": "Daily/2023-02-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-01-30.md"
+                "file": "Daily/2023-02-08.md"
               }
             }
           }
@@ -148,17 +148,17 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "bdc8a44a7ce694c6",
+  "active": "87ceff7a0a8af2d3",
   "lastOpenFiles": [
-    "Performance/Pipe.md",
+    "[.md",
+    "Daily/2023-02-08.md",
     "Daily/2023-01-30.md",
+    "Performance/Pipe.md",
     "Read.md",
     "Performance/Curry.md",
     "Performance/Reference.md",
     "Performance/Memoize.md",
     "Performance/Once.md",
-    "Performance/Debounce and Throttle.md",
-    "Tech Blog.md",
-    "TypeScript.md"
+    "Performance/Debounce and Throttle.md"
   ]
 }
