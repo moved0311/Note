@@ -9,4 +9,5 @@
 * [ ] [4 React Tips to Instantly Improve Your Code | JavaScript in Plain English](https://javascript.plainenglish.io/4-react-tips-to-instantly-improve-your-code-7456e028cfa3)
 * [ ] [Mac Setup for Web Development [2023]](https://www.robinwieruch.de/mac-setup-web-development/)
 * [ ] [Primitives – Radix UI](https://www.radix-ui.com/)
+* [ ] [Arc：不再分心、增加工作效率的瀏覽器，吸引打造Chrome、Firefox的大神也加入 | Meet創業小聚](https://meet.bnext.com.tw/articles/view/49822?)
 * [ ] 
