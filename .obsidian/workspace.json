@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-02-08.md",
+                "file": "Performance/Debounce and Throttle.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 250.5
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-02-08.md",
+                "file": "Performance/Debounce and Throttle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-02-08.md",
+                "file": "Performance/Debounce and Throttle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-02-08.md"
+                "file": "Performance/Debounce and Throttle.md"
               }
             }
           }
@@ -164,6 +164,7 @@
   "active": "32d97c2a1f126403",
   "lastOpenFiles": [
     "Read.md",
+    "Performance/Debounce and Throttle.md",
     "Daily/2023-02-08.md",
     "Thrid Party Library/Search.md",
     "[.md",
@@ -171,7 +172,6 @@
     "Performance/Pipe.md",
     "Performance/Curry.md",
     "Performance/Reference.md",
-    "Performance/Memoize.md",
-    "Performance/Once.md"
+    "Performance/Memoize.md"
   ]
 }
