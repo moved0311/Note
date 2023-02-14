@@ -4,3 +4,4 @@
 * [Blog | PJCHENder 未整理筆記](https://pjchender.dev/blog/)
 * [Discord Blog](https://discord.com/blog)
 * [trivago tech blog](https://tech.trivago.com/)
+* [Jason's Web Memo](https://jason-memo.dev/)
