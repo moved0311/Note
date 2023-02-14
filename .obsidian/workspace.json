@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7c07b5a1fe18bbb8",
+        "id": "ee536b12bdd9c85a",
         "type": "tabs",
         "children": [
           {
-            "id": "be2c0383e4f72f0a",
+            "id": "73aa18efb3d912dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,8 +148,10 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "be2c0383e4f72f0a",
+  "active": "73aa18efb3d912dc",
   "lastOpenFiles": [
+    "[.md",
+    "Daily/2023-02-08.md",
     "JavaScript/字串處理.md",
     "LeetCode/Todo.md",
     "LeetCode/Weekly Contest.md",
@@ -157,8 +159,6 @@
     "Vim.md",
     "TypeScript.md",
     "Tech Blog.md",
-    "Read Queue.md",
-    "Tools/圖片相關.md",
-    "Thrid Party Library/Search.md"
+    "Read Queue.md"
   ]
 }
