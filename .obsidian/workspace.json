@@ -20,19 +20,18 @@
             }
           },
           {
-            "id": "32d97c2a1f126403",
+            "id": "38c60bd9e5f39208",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Performance/Debounce and Throttle.md",
+                "file": "Thrid Party Library/UI Library.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Performance/Debounce and Throttle.md",
+                "file": "Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Performance/Debounce and Throttle.md",
+                "file": "Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Performance/Debounce and Throttle.md"
+                "file": "Read.md"
               }
             }
           }
@@ -161,17 +160,17 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "32d97c2a1f126403",
+  "active": "87ceff7a0a8af2d3",
   "lastOpenFiles": [
+    "Thrid Party Library/Search.md",
+    "Thrid Party Library/UI Library.md",
     "Read.md",
     "Performance/Debounce and Throttle.md",
     "Daily/2023-02-08.md",
-    "Thrid Party Library/Search.md",
     "[.md",
     "Daily/2023-01-30.md",
     "Performance/Pipe.md",
     "Performance/Curry.md",
-    "Performance/Reference.md",
-    "Performance/Memoize.md"
+    "Performance/Reference.md"
   ]
 }
