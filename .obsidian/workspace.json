@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b00c91d3be4f2743",
+        "id": "7c07b5a1fe18bbb8",
         "type": "tabs",
         "children": [
           {
-            "id": "87ceff7a0a8af2d3",
+            "id": "be2c0383e4f72f0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Read.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38c60bd9e5f39208",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thrid Party Library/UI Library.md",
+                "file": "Daily/2023-02-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Read.md",
+                "file": "Daily/2023-02-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Read.md",
+                "file": "Daily/2023-02-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Read.md"
+                "file": "Daily/2023-02-08.md"
               }
             }
           }
@@ -160,17 +148,17 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "87ceff7a0a8af2d3",
+  "active": "be2c0383e4f72f0a",
   "lastOpenFiles": [
-    "Thrid Party Library/Search.md",
-    "Thrid Party Library/UI Library.md",
-    "Read.md",
-    "Performance/Debounce and Throttle.md",
-    "Daily/2023-02-08.md",
-    "[.md",
-    "Daily/2023-01-30.md",
-    "Performance/Pipe.md",
-    "Performance/Curry.md",
-    "Performance/Reference.md"
+    "JavaScript/字串處理.md",
+    "LeetCode/Todo.md",
+    "LeetCode/Weekly Contest.md",
+    "LeetCode/Reference.md",
+    "Vim.md",
+    "TypeScript.md",
+    "Tech Blog.md",
+    "Read Queue.md",
+    "Tools/圖片相關.md",
+    "Thrid Party Library/Search.md"
   ]
 }
