@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GA/升級GA4.md",
+                "file": "Daily/2023-02-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GA/升級GA4.md",
+                "file": "Daily/2023-02-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GA/升級GA4.md"
+                "file": "Daily/2023-02-08.md"
               }
             }
           }
@@ -161,8 +160,9 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "fd0678b07e41fcfb",
+  "active": "a701b628677a0182",
   "lastOpenFiles": [
+    "GA/升級GA4.md",
     "Tech Blog.md",
     "Daily/2023-02-08.md",
     "[.md",
@@ -171,7 +171,6 @@
     "LeetCode/Weekly Contest.md",
     "LeetCode/Reference.md",
     "Vim.md",
-    "TypeScript.md",
-    "Read Queue.md"
+    "TypeScript.md"
   ]
 }
