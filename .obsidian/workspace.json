@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a701b628677a0182",
+            "id": "fd0678b07e41fcfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,18 +20,19 @@
             }
           },
           {
-            "id": "fd0678b07e41fcfb",
+            "id": "c3a4575b87beb6e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GA/升級GA4.md",
+                "file": "Vim.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-02-08.md",
+                "file": "Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-02-08.md",
+                "file": "Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-02-08.md"
+                "file": "Vim.md"
               }
             }
           }
@@ -160,17 +161,17 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "a701b628677a0182",
+  "active": "c3a4575b87beb6e2",
   "lastOpenFiles": [
-    "GA/升級GA4.md",
     "Daily/2023-02-08.md",
+    "GA/升級GA4.md",
+    "Vim.md",
     "Tech Blog.md",
     "[.md",
     "JavaScript/字串處理.md",
     "LeetCode/Todo.md",
     "LeetCode/Weekly Contest.md",
     "LeetCode/Reference.md",
-    "Vim.md",
     "TypeScript.md"
   ]
 }
