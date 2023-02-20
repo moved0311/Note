@@ -7,3 +7,5 @@
 * [ ] [[GA4] Make the switch to Google Analytics 4 - Analytics Help](https://support.google.com/analytics/answer/10759417?hl=en&ref_topic=10737980&utm_source=awfe&utm_medium=email&utm_campaign=20237887)
 * [ ] [Multi-threaded React App using useWorker - DEV Community 👩‍💻👨‍💻](https://dev.to/nilanth/multi-threaded-react-app-using-useworker-gf8)
 * [ ] [4 React Tips to Instantly Improve Your Code | JavaScript in Plain English](https://javascript.plainenglish.io/4-react-tips-to-instantly-improve-your-code-7456e028cfa3)
+* [ ] [Tips For Remote Developers | CodeGuru.com](https://www.codeguru.com/csharp/remote-developer-tips/)
+* [ ] 

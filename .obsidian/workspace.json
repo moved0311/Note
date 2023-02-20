@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Blog.md",
+                "file": "Read Queue.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-02-20.md",
+                "file": "Read Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-02-20.md",
+                "file": "Read Queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-02-20.md"
+                "file": "Read Queue.md"
               }
             }
           }
@@ -160,17 +161,17 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "45e0a1faaf2554d9",
+  "active": "0956f11c313356e2",
   "lastOpenFiles": [
-    "[.md",
-    "Daily/2023-02-20.md",
-    "npm package.md",
     "Tech Blog.md",
+    "Read Queue.md",
+    "Daily/2023-02-20.md",
+    "[.md",
+    "npm package.md",
     "HighChart.md",
     "Function Programming.md",
     "CSR & SSR.md",
     "Vim.md",
-    "TypeScript.md",
-    "Read Queue.md"
+    "TypeScript.md"
   ]
 }
