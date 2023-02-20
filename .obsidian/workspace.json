@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Read Queue.md",
+                "file": "Daily/2023-02-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Read Queue.md",
+                "file": "Daily/2023-02-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Read Queue.md"
+                "file": "Daily/2023-02-20.md"
               }
             }
           }
@@ -161,8 +160,9 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "fd0678b07e41fcfb",
+  "active": "45e0a1faaf2554d9",
   "lastOpenFiles": [
+    "Read Queue.md",
     "Daily/2023-02-20.md",
     "Daily/2022-12-30.md",
     "Daily/2023-01-09.md",
@@ -171,7 +171,6 @@
     "Performance/Curry.md",
     "LeetCode/Todo.md",
     "LeetCode/Weekly Contest.md",
-    "LeetCode/Reference.md",
-    "JavaScript/字串處理.md"
+    "LeetCode/Reference.md"
   ]
 }
