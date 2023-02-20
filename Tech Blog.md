@@ -1,6 +1,7 @@
 |Title|Last Update|
 |---|---|
 |[Felix Chern – Medium](https://medium.com/@fchern)|2023-02-20|
+|[Robert-Jan Kuyper – Medium](https://medium.com/@datails)||2023-02-17|
 |[Advanced patterns for Frontend developers - Nadia](https://www.developerway.com/)|2023-02-14|
 |[Netflix Technology Blog – Medium](https://netflixtechblog.medium.com/) |2023-01-31|
 |[Addy Osmani – Medium](https://medium.com/@addyosmani) |2022-11-20|

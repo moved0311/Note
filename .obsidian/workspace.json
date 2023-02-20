@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd0678b07e41fcfb",
+            "id": "45e0a1faaf2554d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Blog.md",
+                "file": "Daily/2023-02-20.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "45e0a1faaf2554d9",
+            "id": "fd0678b07e41fcfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "npm package.md",
+                "file": "Tech Blog.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Blog.md",
+                "file": "Daily/2023-02-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech Blog.md",
+                "file": "Daily/2023-02-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Blog.md"
+                "file": "Daily/2023-02-20.md"
               }
             }
           }
@@ -160,17 +160,17 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "fd0678b07e41fcfb",
+  "active": "45e0a1faaf2554d9",
   "lastOpenFiles": [
+    "[.md",
+    "Daily/2023-02-20.md",
     "npm package.md",
+    "Tech Blog.md",
     "HighChart.md",
     "Function Programming.md",
     "CSR & SSR.md",
     "Vim.md",
     "TypeScript.md",
-    "Tech Blog.md",
-    "Read Queue.md",
-    "Daily/2023-02-20.md",
-    "Daily/2023-02-08.md"
+    "Read Queue.md"
   ]
 }
