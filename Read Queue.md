@@ -8,4 +8,7 @@
 * [ ] [Multi-threaded React App using useWorker - DEV Community 👩‍💻👨‍💻](https://dev.to/nilanth/multi-threaded-react-app-using-useworker-gf8)
 * [ ] [4 React Tips to Instantly Improve Your Code | JavaScript in Plain English](https://javascript.plainenglish.io/4-react-tips-to-instantly-improve-your-code-7456e028cfa3)
 * [ ] [Tips For Remote Developers | CodeGuru.com](https://www.codeguru.com/csharp/remote-developer-tips/)
+* [ ] [NestJS: The Good, The Bad, and The Ugly | by Robert-Jan Kuyper | Feb, 2023 | Better Programming](https://betterprogramming.pub/nestjs-the-good-the-bad-and-the-ugly-d51aea04f267)
+* [ ] [How to Learn JavaScript Effectively – Tips and Learning Strategies](https://www.freecodecamp.org/news/how-to-learn-javascript-effectively/)
+* [ ] [資料結構與演算法：LRU 快取機制 - Joseph's blog](https://josephjsf2.github.io/data/structure/and/algorithm/2020/05/09/LRU.html)
 * [ ] 

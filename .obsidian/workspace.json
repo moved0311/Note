@@ -161,17 +161,17 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "0956f11c313356e2",
+  "active": "fd0678b07e41fcfb",
   "lastOpenFiles": [
-    "Tech Blog.md",
-    "Read Queue.md",
     "Daily/2023-02-20.md",
-    "[.md",
-    "npm package.md",
-    "HighChart.md",
-    "Function Programming.md",
-    "CSR & SSR.md",
-    "Vim.md",
-    "TypeScript.md"
+    "Daily/2022-12-30.md",
+    "Daily/2023-01-09.md",
+    "Daily/2023-01-30.md",
+    "Daily/2023-02-08.md",
+    "Performance/Curry.md",
+    "LeetCode/Todo.md",
+    "LeetCode/Weekly Contest.md",
+    "LeetCode/Reference.md",
+    "JavaScript/字串處理.md"
   ]
 }
