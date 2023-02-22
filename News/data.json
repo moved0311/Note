@@ -1,6 +1,1554 @@
 [
   {
     "isOutsource": 0,
+    "content": "&lt;p&gt;信任科技 (TrustTech) 新創 Gogolook(走著瞧股份有限公司) 今 (22) 日攜手刑事局、發布 2022 年度詐騙報告表示，自去年 10 月旗下 Watchmen 商譽保護服務新增詐騙網域 AI 偵測系統，平均每月有超過 2000 個新生成的詐騙網域，且近 6 成屬於假投資詐騙，占比高達 57.7%。&lt;/p&gt;\n\n&lt;p&gt;Gogolook 說，旗下 Watchmen 商譽保護服務以 Whoscall 認證號碼搭配偽冒偵測系統，協助企業配置專屬系統與團隊，實時偵測簡訊、電話、網域、社群平台的偽冒情資，並能在第一時間啟動防詐機制，去年底也進一步加入與刑事局共同開發的「詐騙網域 AI 偵測系統」。&lt;/p&gt;\n\n&lt;p&gt;經 Watchmen 分析，Gogolook 指出，全台詐騙網域平均每月有超過 2000 個新生成的詐騙網域，依詐騙主題可以區分為假投資、一頁式詐騙、假電商、假博弈、假貸款等，其中，詐騙集團常依據不同主題鎖定特定知名企業進行偽冒，如假冒虛擬貨幣交易所幣安、FTX、JPEX 為大宗，電商平台則以假冒 PChome、momo 購物網為主，假貸款則多鎖定仿效知名銀行命名企圖魚目混珠。&lt;/p&gt;\n\n&lt;p&gt;因應近年詐騙盛行，Gogolook 旗下 Watchmen 也統整詐騙網域 4 大特徵，包含使用粗糙的網頁設計，未使用. com、.net、.org、.tw 等常見合法網域，網域註冊時間過短，以及採用陌生簡訊、LINE/Telegram 群組、社群平台等廣告與社團等散播。&lt;/p&gt;\n\n&lt;p&gt;Gogolook 成立於 2012 年，日前也以「走著瞧股份有限公司」名稱向證交所遞交創新板上市 (IPO) 申請，證券代碼為 6902，主要投資者包含通訊軟體 LINE 母公司 NAVER 集團外，還包含國泰私募股權、穩懋 (3105-TW)、數位經濟基金、資策會旗下資鼎中小企業等。&lt;/p&gt;\n",
+    "hasCoverPhoto": 1,
+    "isCategoryHeadline": 1,
+    "isIndex": 1,
+    "newsId": 5093513,
+    "otherProduct": [
+      "TWS:3105:STOCK:COMMON",
+      "CC:BTC:FOREX:COMMON"
+    ],
+    "payment": 0,
+    "source": "",
+    "stock": [
+      "3105"
+    ],
+    "summary": "信任科技 (TrustTech) 新創 Gogolook(走著瞧股份有限公司) 今 (22) 日攜手刑事局、發布 2022 年度詐騙報告表示，自去年 10 月旗下 Watchmen 商譽保護服務新增詐騙網域 AI 偵測系統。",
+    "title": "詐騙網域盛行 Gogolook統計近6成屬假投資詐騙",
+    "video": "",
+    "publishAt": 1677043786,
+    "coverSrc": {
+      "xs": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093513/xs/f89338d27a98e6974fe47f136e8dd5a4.jpg",
+        "width": 100,
+        "height": 56
+      },
+      "s": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093513/s/f89338d27a98e6974fe47f136e8dd5a4.jpg",
+        "width": 180,
+        "height": 101
+      },
+      "m": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093513/m/f89338d27a98e6974fe47f136e8dd5a4.jpg",
+        "width": 380,
+        "height": 214
+      },
+      "l": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093513/l/f89338d27a98e6974fe47f136e8dd5a4.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093513/xl/f89338d27a98e6974fe47f136e8dd5a4.jpg",
+        "width": 960,
+        "height": 540
+      },
+      "xxl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093513/xxl/f89338d27a98e6974fe47f136e8dd5a4.jpg",
+        "width": 1080,
+        "height": 608
+      }
+    },
+    "abTesting": null,
+    "categoryId": 827,
+    "columnists": null,
+    "magazine": null,
+    "fundCategoryAbbr": [],
+    "fbShare": 0,
+    "fbComment": 0,
+    "fbCommentPluginCount": 0,
+    "market": [
+      {
+        "code": "3105",
+        "name": "穩懋",
+        "symbol": "TWS:3105:STOCK"
+      }
+    ],
+    "categoryName": "台股新聞"
+  },
+  {
+    "isOutsource": 0,
+    "content": "&lt;p&gt;隨著美債殖利率飆升，美股重挫，台股加權指數今 (22) 日大跌超過百點，尤其中高價電子股遭摜壓，不過，觀光族群因去 (2022) 年比較基期低，又迎來營運強勁轉好復甦年，成為資金的避風港，有多達 8 家觀光餐飲業者亮燈漲停，占大盤總漲停家數達 4 成。&lt;/p&gt;\n\n&lt;p&gt;由於餐飲和觀光業者是「有基之彈」，共有 10 家上市櫃和興櫃業者 1 月合併營收創單月新高紀錄，也有不少創次高和同期高紀錄，隨著疫情趨緩，國旅、跨境旅遊、宴會餐飲需求均同步轉強，今年可說是觀光業者的營運轉機重要一年。&lt;/p&gt;\n\n&lt;p&gt;觀光股今日再度成為資金避風港，包括雲品 (2748-TW)、寒舍 (2739-TW)、新天地 (8940-TW)、老爺知 (5704-TW)、亞都 (5703-TW)、夏都 (2722-TW)、晶華 (2707-TW) 和力麗店 (5364-TW) 等均亮燈漲停，另外還有多達 7 檔漲超過半根停板。&lt;/p&gt;\n\n&lt;p&gt;其中，連鎖宴會餐飲業者新天地甫公布去年第四季稅後純益 0.51 億元，每股純益 (EPS)0.75 元，不但創近 2 年單季高點，還逆轉前三季虧損，全年稅後純益 0.23 億元，EPS 0.35 元，終結連 5 年虧損。&lt;/p&gt;\n\n&lt;p&gt;新天地趁疫情期間逆時加碼旗下各宴會品牌升級並展店，宴會總桌數達 1400 桌，並新增多間不同主題證婚禮堂。&lt;/p&gt;\n\n&lt;p&gt;新天地看好，隨著進駐高雄南灣最新五星級酒店承億酒店，砸下 2.5 億元打造可容納 120-140 桌宴會廳，第一季開始營運後，增添運動能可期。&lt;/p&gt;\n",
+    "hasCoverPhoto": 1,
+    "isCategoryHeadline": 1,
+    "isIndex": 1,
+    "newsId": 5093485,
+    "otherProduct": [
+      "TWS:TSE01:INDEX:COMMON",
+      "TWS:2748:STOCK:COMMON",
+      "TWS:2707:STOCK:COMMON",
+      "TWS:2722:STOCK:COMMON",
+      "TWS:5703:STOCK:COMMON",
+      "TWS:5704:STOCK:COMMON",
+      "TWS:8940:STOCK:COMMON",
+      "TWS:2739:STOCK:COMMON",
+      "TWS:5364:STOCK:COMMON"
+    ],
+    "payment": 0,
+    "source": "",
+    "stock": [
+      "2748",
+      "2739",
+      "8940",
+      "5704",
+      "5703",
+      "2722",
+      "2707",
+      "5364"
+    ],
+    "summary": "〈焦點股〉觀光族群聯袂亮燈 漲停家數占大盤近 4 成",
+    "title": "〈焦點股〉觀光族群聯袂亮燈 漲停家數占大盤近4成",
+    "video": "",
+    "publishAt": 1677042607,
+    "coverSrc": {
+      "xs": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093485/xs/77fc14982c1a88606f6958d95b455f57.jpg",
+        "width": 100,
+        "height": 56
+      },
+      "s": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093485/s/77fc14982c1a88606f6958d95b455f57.jpg",
+        "width": 180,
+        "height": 101
+      },
+      "m": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093485/m/77fc14982c1a88606f6958d95b455f57.jpg",
+        "width": 380,
+        "height": 214
+      },
+      "l": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093485/l/77fc14982c1a88606f6958d95b455f57.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093485/xl/77fc14982c1a88606f6958d95b455f57.jpg",
+        "width": 960,
+        "height": 540
+      },
+      "xxl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093485/xl/77fc14982c1a88606f6958d95b455f57.jpg",
+        "width": 960,
+        "height": 540
+      }
+    },
+    "abTesting": null,
+    "categoryId": 827,
+    "columnists": null,
+    "magazine": null,
+    "fundCategoryAbbr": [],
+    "fbShare": 0,
+    "fbComment": 0,
+    "fbCommentPluginCount": 0,
+    "market": [
+      {
+        "code": "2748",
+        "name": "雲品",
+        "symbol": "TWS:2748:STOCK"
+      },
+      {
+        "code": "2707",
+        "name": "晶華",
+        "symbol": "TWS:2707:STOCK"
+      },
+      {
+        "code": "2722",
+        "name": "夏都",
+        "symbol": "TWS:2722:STOCK"
+      },
+      {
+        "code": "5703",
+        "name": "亞都",
+        "symbol": "TWS:5703:STOCK"
+      },
+      {
+        "code": "5704",
+        "name": "老爺知",
+        "symbol": "TWS:5704:STOCK"
+      },
+      {
+        "code": "8940",
+        "name": "新天地",
+        "symbol": "TWS:8940:STOCK"
+      },
+      {
+        "code": "2739",
+        "name": "寒舍",
+        "symbol": "TWS:2739:STOCK"
+      },
+      {
+        "code": "5364",
+        "name": "力麗店",
+        "symbol": "TWS:5364:STOCK"
+      }
+    ],
+    "categoryName": "台股新聞"
+  },
+  {
+    "isOutsource": 0,
+    "content": "&lt;p&gt;紡織廠興采 (4433-TW) 接單報捷，拿下國防部逾 36 億元大單，董事長陳國欽表示，預計下半年開始出貨認列營收，且隨產業景氣回溫，今年營運「樂觀正面」。而此次標案金額也已超過興采去年創新高的營收 32 億元，後續營運大進補。&lt;/p&gt;\n\n&lt;p&gt;興采是透過旗下 100% 子公司神采時尚，參與國防部「第三 0 二廠委託民間經營案」，決標金額 36.1 億元，合約期間 5 年，後續若雙方合意，可望再額外延續 1 年。&lt;/p&gt;\n\n&lt;p&gt;陳國欽表示，此次跟國軍合作，主要協助提供各軍種的軍工紡織服裝、鞋襪等，像是具備抗菌除臭、吸濕排汗布料、防水透濕又透氣的戶外運動機能雨衣、戰鬥個裝等研發及生產需求。&lt;/p&gt;\n\n&lt;p&gt;針對此次標案，興采內部也成立專案團隊，陳國欽透露，目前研發、生產到服務的單位都已經進駐位在高雄機場旁的三 0 二廠，「一切都準備好了」，預計半年後就可以開始交貨。&lt;/p&gt;\n\n&lt;p&gt;陳國欽強調，將利用集團垂直整合的優勢、世界專利的咖啡紗，以及過去服務國際品牌的技術及經驗，持續與國軍、軍備局、紡織所、工研院導單位，共同研發並且提升優質且符合台灣環境需求的軍工服裝。&lt;/p&gt;\n",
+    "hasCoverPhoto": 1,
+    "isCategoryHeadline": 1,
+    "isIndex": 1,
+    "newsId": 5090429,
+    "otherProduct": [
+      "TWS:4433:STOCK:COMMON"
+    ],
+    "payment": 0,
+    "source": null,
+    "stock": [
+      "4433"
+    ],
+    "summary": "紡織廠興采 (4433-TW) 接單報捷，拿下國防部逾 36 億元大單，董事長陳國欽表示，預計下半年開始出貨認列營收，且隨產業景氣回溫，今年營運「樂觀正面」。而此次標案金額也已超過興采去年創新高的營收 32 億元，後續營運大進補。",
+    "title": "興采奪國軍5年大單業績吃補 董座：今年營運樂觀",
+    "video": "",
+    "publishAt": 1677040774,
+    "coverSrc": {
+      "xs": {
+        "src": "https://cimg.cnyes.cool/prod/news/5090429/xs/fe1f9fe0582f97ad1f14b89f4d69d6b5.jpg",
+        "width": 100,
+        "height": 56
+      },
+      "s": {
+        "src": "https://cimg.cnyes.cool/prod/news/5090429/s/fe1f9fe0582f97ad1f14b89f4d69d6b5.jpg",
+        "width": 180,
+        "height": 101
+      },
+      "m": {
+        "src": "https://cimg.cnyes.cool/prod/news/5090429/m/fe1f9fe0582f97ad1f14b89f4d69d6b5.jpg",
+        "width": 380,
+        "height": 214
+      },
+      "l": {
+        "src": "https://cimg.cnyes.cool/prod/news/5090429/l/fe1f9fe0582f97ad1f14b89f4d69d6b5.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5090429/xl/fe1f9fe0582f97ad1f14b89f4d69d6b5.jpg",
+        "width": 960,
+        "height": 540
+      },
+      "xxl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5090429/xl/fe1f9fe0582f97ad1f14b89f4d69d6b5.jpg",
+        "width": 960,
+        "height": 540
+      }
+    },
+    "abTesting": null,
+    "categoryId": 827,
+    "columnists": null,
+    "magazine": null,
+    "fundCategoryAbbr": [],
+    "fbShare": 0,
+    "fbComment": 0,
+    "fbCommentPluginCount": 0,
+    "market": [
+      {
+        "code": "4433",
+        "name": "興采",
+        "symbol": "TWS:4433:STOCK"
+      }
+    ],
+    "categoryName": "台股新聞"
+  },
+  {
+    "isOutsource": 0,
+    "content": "&lt;p&gt;台股今 (22) 日震盪下挫逾 200 點，電金無力上攻，觀光類股成為資金避風港，立法院三讀通過疫後特別條例，最快 4 月就能普發現金 6000 元，飯店、餐飲等個股盤中吸引買盤進駐，晶華、雲品、王品、老爺知、寒舍、夏都、力麗店、亞都、新天地等 9 檔強勢登上漲停。&lt;/p&gt;\n\n&lt;p&gt;上市觀光類股指數今天強勢走高，盤中勁揚 5%，成為盤面中最強勢族群，國內飯店龍頭晶華 (2707-TW) 股價逆勢翻紅，並亮燈漲停，達 294.5 元，攀近 8 年來新高，穩居觀光股王寶座。&lt;/p&gt;\n\n&lt;p&gt;此外，王品 (2727-TW) 盤中也觸及漲停價 279 元，同寫近 8 年新高，但漲停未能鎖住；雲品、寒舍、夏都三家飯店股及宴會餐飲業者新天地，今天均衝上漲停板。&lt;/p&gt;\n\n&lt;p&gt;上櫃觀光類股也表現不俗，指數上漲近 4%，其中，力麗店、老爺知、亞都盤中亮燈漲停，市場資金踴躍進駐，燦星旅、易飛網、富野、劍湖山、海灣等也大漲逾半根停板。&lt;/p&gt;\n\n&lt;p&gt;立法院會昨天三讀通過「疫後強化經濟與社會韌性及全民共享經濟成果特別條例」草案，規劃運用 3800 億元強化整體經濟、社會韌性及應變能力，預計最快 4 月全民普發現金 6000 元，此外，特別預算也將用於擴大吸引國際觀光客、公共運輸補貼、減輕居住負擔等項目。&lt;/p&gt;\n",
+    "hasCoverPhoto": 1,
+    "isCategoryHeadline": 1,
+    "isIndex": 1,
+    "newsId": 5093441,
+    "otherProduct": [
+      "TWS:2707:STOCK:COMMON",
+      "TWS:2727:STOCK:COMMON"
+    ],
+    "payment": 0,
+    "source": "",
+    "stock": [
+      "2707",
+      "2727"
+    ],
+    "summary": "台股今 (22) 日震盪下挫逾 200 點，電金無力上攻，觀光類股成為資金避風港，立法院三讀通過疫後特別條例，最快 4 月就能普發現金 6000 元，飯店、餐飲等個股盤中吸引買盤進駐",
+    "title": "〈焦點股〉普發現金6000元近了 9檔觀光股漲停歡慶",
+    "video": "",
+    "publishAt": 1677040755,
+    "coverSrc": {
+      "xs": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093441/xs/8c6180b9946d9b1686a687bc34d568b3.jpg",
+        "width": 100,
+        "height": 56
+      },
+      "s": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093441/s/8c6180b9946d9b1686a687bc34d568b3.jpg",
+        "width": 180,
+        "height": 101
+      },
+      "m": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093441/m/8c6180b9946d9b1686a687bc34d568b3.jpg",
+        "width": 380,
+        "height": 214
+      },
+      "l": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093441/l/8c6180b9946d9b1686a687bc34d568b3.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093441/xl/8c6180b9946d9b1686a687bc34d568b3.jpg",
+        "width": 960,
+        "height": 540
+      },
+      "xxl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093441/xxl/8c6180b9946d9b1686a687bc34d568b3.jpg",
+        "width": 1080,
+        "height": 607
+      }
+    },
+    "abTesting": null,
+    "categoryId": 827,
+    "columnists": null,
+    "magazine": null,
+    "fundCategoryAbbr": [],
+    "fbShare": 0,
+    "fbComment": 0,
+    "fbCommentPluginCount": 0,
+    "market": [
+      {
+        "code": "2707",
+        "name": "晶華",
+        "symbol": "TWS:2707:STOCK"
+      },
+      {
+        "code": "2727",
+        "name": "王品",
+        "symbol": "TWS:2727:STOCK"
+      }
+    ],
+    "categoryName": "台股新聞"
+  },
+  {
+    "isOutsource": 0,
+    "content": "&lt;p&gt;國際永續評比機構 S&amp;P Global 公布最新&nbsp;2023&nbsp;年永續年鑑 (The Sustainability Yearbook 2023) 評鑑結果，華航在 ESG(環境保護、社會責任和公司治理) 獲評全球航空產業最高分，並勇奪永續年鑑前&nbsp;1%&nbsp;最高殊榮，也是台灣唯一六度入榜的運輸業者，再度寫國籍航空永續布局新里程碑。&lt;/p&gt;\n\n&lt;p&gt;此次華航在環境和社會二大面向成績表現優異，除人力資本發展、企業公民與慈善公益、乘客安全、永續行銷及品牌認知等評選題組拿下滿分外，在環境政策與管理系統、營運生態效益、氣候策略、剩食與廢棄物等共&nbsp;10&nbsp;項，也取得航空產業最高分。&lt;/p&gt;\n\n&lt;p&gt;而華航疫情期間創下亮眼表現的貨運，在用油效率和管理評比項目中獲得滿分，展現企業營運策略成功結合永續理念。&lt;/p&gt;\n\n&lt;p&gt;華航力行企業永續作為，已宣示&nbsp;2050&nbsp;年「淨零碳排放」和&nbsp;11&nbsp;項環保永續發展 SDG 短中長期目標，每年落實高達&nbsp;70&nbsp;多項的環保節能 KPI，同時也自主推動地面作業於&nbsp;2030&nbsp;年使用&nbsp;10%&nbsp;再生能源的目標。&lt;/p&gt;\n\n&lt;p&gt;此外，因應氣候風險，華航已率先發布台灣運輸業唯一氣候相關財務資訊揭露&nbsp;(TCFD)&nbsp;獨立報告書，是國內唯一於新機隊引進飛渡添加永續燃油&nbsp;(SAF)&nbsp;的航空公司，去年參與天合聯盟&nbsp;(SkyTeam)&nbsp;第一屆永續飛行挑戰，榮獲「最佳貨運永續創新獎」和「最佳員工參與獎」兩項佳績。&lt;/p&gt;\n\n&lt;p&gt;2023&nbsp;年永續年鑑依道瓊永續指數 (Dow Jones Sustainability Indices, DJSI) 年度評鑑結果彙編，針對全球&nbsp;61&nbsp;個產業、超過&nbsp;7,800&nbsp;家大型企業的永續績效進行評比，再依各企業於產業領域成績，評定世界前&nbsp;1%&nbsp;、5% 和 10%&nbsp;的佼佼者，全球航空公司僅&nbsp;5&nbsp;家入選評鑑。&lt;/p&gt;\n\n&lt;p&gt;華航推動企業永續深獲各界肯定，自&nbsp;2017&nbsp;年起三度獲得永續年鑑航空業銅獎、連續兩年晉升入選銀獎，今年再攀高峰，勇奪&nbsp;2023&nbsp;年永續年鑑前&nbsp;1%&nbsp;最高殊榮。&lt;/p&gt;\n",
+    "hasCoverPhoto": 1,
+    "isCategoryHeadline": 1,
+    "isIndex": 1,
+    "newsId": 5093388,
+    "otherProduct": [
+      "GI:DJI:INDEX:COMMON"
+    ],
+    "payment": 0,
+    "source": "",
+    "stock": [],
+    "summary": "2023 年永續年鑑評比 華航勇奪全球航空業第一",
+    "title": "2023年永續年鑑評比 華航勇奪全球航空業第一",
+    "video": "",
+    "publishAt": 1677039922,
+    "coverSrc": {
+      "xs": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093388/xs/e2c81c686e9218a1cccc5a0502ebb025.jpg",
+        "width": 100,
+        "height": 56
+      },
+      "s": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093388/s/e2c81c686e9218a1cccc5a0502ebb025.jpg",
+        "width": 180,
+        "height": 101
+      },
+      "m": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093388/m/e2c81c686e9218a1cccc5a0502ebb025.jpg",
+        "width": 380,
+        "height": 214
+      },
+      "l": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093388/l/e2c81c686e9218a1cccc5a0502ebb025.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093388/xl/e2c81c686e9218a1cccc5a0502ebb025.jpg",
+        "width": 960,
+        "height": 540
+      },
+      "xxl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093388/xxl/e2c81c686e9218a1cccc5a0502ebb025.jpg",
+        "width": 1080,
+        "height": 608
+      }
+    },
+    "abTesting": null,
+    "categoryId": 827,
+    "columnists": null,
+    "magazine": null,
+    "fundCategoryAbbr": [],
+    "fbShare": 0,
+    "fbComment": 0,
+    "fbCommentPluginCount": 0,
+    "categoryName": "台股新聞"
+  },
+  {
+    "isOutsource": 0,
+    "content": "&lt;p&gt;電動車已於 2022 年達到一個關鍵里程碑，全球新車銷售占比首度站上&nbsp;10％ 關卡，和 2021 年相比更是有將近 70％ 的成長趨勢。&lt;/p&gt;\n\n&lt;p&gt;數據顯示 2022 年全球電動車銷量為 780 萬輛，和&nbsp;2021 年相比增長了 68%，對電動車需求最為強勁的則是中國和歐洲市場，2022 年這兩個市場的電動車銷售占比，已分別占所有新車總銷量的 19% 和 11%。&lt;/p&gt;\n\n&lt;p&gt;至於美國去年共計銷售了 80 萬電動車，在電動車市占率部分仍遠落後於中國和歐洲。&lt;/p&gt;\n\n&lt;p&gt;從整體車市來看，電動車的約 10% 市占率仍算不上多，但近年來的增長速度卻比外界預測的要快。先前國際能源署預計電動車一直要到 2030 年時，才能達到全球車輛的 7% 到&nbsp;12% 市占率，但從 2022 年的增長趨勢來看，有分析師認為電動車的全球市占率於&nbsp;2030 年時有機會超過&nbsp;20%，本篇主要分享因汽車電子化所帶動的導線架產業。&lt;/p&gt;\n\n&lt;figure&gt;&lt;img data-height=&quot;290&quot; data-mime=&quot;image/png&quot; data-ratio=&quot;1.910344827586207&quot; data-src-m=&quot;https://cimg.cnyes.cool/prod/news/5093438/m/91866def2c52859e65e1d575a1ccc7f7.jpg&quot; data-width=&quot;554&quot; src=&quot;https://cimg.cnyes.cool/prod/news/5093438/l/91866def2c52859e65e1d575a1ccc7f7.jpg&quot;&gt;&lt;/figure&gt;\n\n&lt;p&gt;汽車電子化也會帶動導線架的封裝需求，而導線架重點有三&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt;&lt;strong&gt; 導線架多使用於傳統封裝：&lt;/strong&gt;導線架主要以鐵鎳銅的合金組成，其中銅為主要的材料成本，導線架功能包括 (1) 支撐晶片，(2) 將晶片訊號傳輸到 PCB，(3) 散熱。依其晶片運用功能可分為 (1) 分離式 (單體) 元件用導線架；包括: 功率電晶體導線架、整流二極體導線架及 LED 導線架等 (2) 積體電路 (IC) 用導線架。&lt;/p&gt;\n\n&lt;p&gt;功率半導體元件 (Power Semiconductor Device)，主要用於電力設備的電能變換和電路控制，功率元件發展主要往耐壓、大電流、提升功率效率為主，因此多採用導線架的封裝方式，包括: TO 系列、SOP、QFN 與 QFP 等封裝；而 IC 則主要以微小化與資料處理 / 運算為發展方向，高 I/O 數的封裝包括: BGA 與先進封裝等。&lt;/p&gt;\n\n&lt;p&gt;&nbsp;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt;&lt;strong&gt; 車用電子&lt;/strong&gt;&lt;strong&gt; /&lt;/strong&gt;&lt;strong&gt; 電動車帶動傳統導線架封裝需求：&lt;/strong&gt;受惠汽車電子化、電動車與油電混合車等趨勢，使得汽車使用 IC 與功率元件的數量增加，應用包括: 車載娛樂系統、輔助系統、安全系統、ADAS 等舒適電子設備與動力系統等，車用為近年半導體產值成長最快的應用領域，且多使用傳統封裝，同步帶動導線架需求。&lt;/p&gt;\n\n&lt;p&gt;而相較於傳統燃油車，電動車需要更大量的功率元件 (導線架封裝)，依據英飛凌的法說會資料顯示，一台燃油車半導體總成本為 500 美元，而一台純電動車中半導體總成本為 1000 美元，其中增加的半導體產值，主要來自於 POWER 相關。&lt;/p&gt;\n\n&lt;p&gt;&nbsp;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;3.&lt;/strong&gt;&lt;strong&gt; 高功率應用，帶動導線架設計趨於複雜：&lt;/strong&gt;純電動車 / 油電混合車的充電與動力系統是由一連串的高壓電路系統所組成，包括: 400V/800V 的電池，DC-DC(HV)、OBC 與 inverter 等；在高功率、高溫、震動的環境，隨之產生的散熱與可靠度要求，帶動功率導線架的加工程序變多，包括 clip、溝槽 (散熱需求)、表面粗化、電鍍等設計，使得導線架的設計難度提高，有利導線架銷售單價與毛利率提升。&lt;/p&gt;\n\n&lt;p&gt;而台股與導線相關的個股有 (2351-TW) 順德、(5285-TW) 界霖、(6548-TW) 長科 *、(8070-TW) 長華 *、(3653-TW) 健策、(2486-TW) 一銓等。(延伸閱讀: &lt;a href=&quot;https://www.sinotrade.com.tw/richclub/SinoPacSecInv/-63f49df03d4a0b2374cb9276?utm_source=CS&quot;&gt;車用導線架相關廠商有哪些？&lt;/a&gt;)&lt;/p&gt;\n\n&lt;p&gt;&lt;br&gt;\n&lt;strong&gt;投資入門推薦閱讀：&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;1. &lt;/strong&gt;&lt;a href=&quot;https://www.sinotrade.com.tw/richclub/freshman/%E9%9B%B6%E8%82%A1%E4%BA%A4%E6%98%93%E6%98%AF%E4%BB%80%E9%BA%BC-%E7%9B%A4%E4%B8%AD%E9%9B%B6%E8%82%A1%E6%80%8E%E9%BA%BC%E8%B2%B7-%E9%9B%B6%E8%82%A1%E4%BA%A4%E6%98%93%E6%99%82%E9%96%93-%E6%89%8B%E7%BA%8C%E8%B2%BB-%E8%82%A1%E6%9D%B1%E7%A6%8F%E5%88%A9%E4%B8%80%E6%AC%A1%E7%9C%8B--61961348765f142548a4adac?utm_source=CS&quot; target=&quot;_blank&quot; title=&quot;https://www.sinotrade.com.tw/richclub/freshman/%e9%9b%b6%e8%82%a1%e4%ba%a4%e6%98%93%e6%98%af%e4%bb%80%e9%ba%bc-%e7%9b%a4%e4%b8%ad%e9%9b%b6%e8%82%a1%e6%80%8e%e9%ba%bc%e8%b2%b7-%e9%9b%b6%e8%82%a1%e4%ba%a4%e6%98%93%e6%99%82%e9%96%93-%e6%89%8b%e7%ba%8c%e8%b2%&quot;&gt;&lt;strong&gt;盤中零股怎麼買：零股交易時間、手續費、股東福利一次看！&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;2. &lt;/strong&gt;&lt;a href=&quot;https://www.sinotrade.com.tw/richclub/aiinvest/%E6%9C%80%E6%96%B0-2022%E8%82%A1%E5%88%A9%E4%BE%86%E4%BA%86-%E6%AE%96%E5%88%A9%E7%8E%878-%E4%BB%A5%E4%B8%8A-%E8%B1%90%E5%AD%98%E8%82%A1%E6%A8%99%E7%9A%84%E6%9C%89%E5%93%AA%E4%BA%9B--6231856fea761129747331ee?utm_source=CS&quot; target=&quot;_blank&quot; title=&quot;https://www.sinotrade.com.tw/richclub/aiinvest/%e6%9c%80%e6%96%b0-2022%e8%82%a1%e5%88%a9%e4%be%86%e4%ba%86-%e6%ae%96%e5%88%a9%e7%8e%878-%e4%bb%a5%e4%b8%8a-%e8%b1%90%e5%ad%98%e8%82%a1%e6%a8%99%e7%9a%84%e6%9c%89%e5%93%aa%e4%ba%9b--6231856fea761129747331ee?u&quot;&gt;&lt;strong&gt;最新！2023&lt;/strong&gt;&lt;strong&gt; 股利來了！殖利率 8%&lt;/strong&gt;&lt;strong&gt; 以上&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;豐存股標的有哪些？&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;3. &lt;/strong&gt;&lt;a href=&quot;https://www.sinotrade.com.tw/richclub/aiinvest/00891%E5%8F%B0%E7%81%A3%E5%8D%8A%E5%B0%8E%E9%AB%94ETF%E5%B8%82%E5%80%BC%E6%9C%80%E5%A4%A7-%E6%88%90%E5%88%86%E8%82%A1-%E9%85%8D%E6%81%AF-%E6%AE%96%E5%88%A9%E7%8E%87%E7%AD%89%E5%AE%8C%E6%95%B4%E5%85%AC%E9%96%8B%E8%B3%87%E8%A8%8A-%E5%8A%A0%E7%A2%BC-%E8%88%8700892-00881%E6%AF%94%E8%BC%83-61b945dc38b6c034a0a7d30c?utm_source=CS&quot; target=&quot;_blank&quot; title=&quot;https://www.sinotrade.com.tw/richclub/aiinvest/00891%e5%8f%b0%e7%81%a3%e5%8d%8a%e5%b0%8e%e9%ab%94etf%e5%b8%82%e5%80%bc%e6%9c%80%e5%a4%a7-%e6%88%90%e5%88%86%e8%82%a1-%e9%85%8d%e6%81%af-%e6%ae%96%e5%88%a9%e7%8e%87%e7%ad%89%e5%ae%8c%e6%95%b4%e5%85%ac%e9%96%8&quot;&gt;&lt;strong&gt;00891&lt;/strong&gt;&lt;strong&gt; 台灣半導體 ETF&lt;/strong&gt;&lt;strong&gt; 完整公開資訊 (&lt;/strong&gt;&lt;strong&gt;與 00892&lt;/strong&gt;&lt;strong&gt;、00881&lt;/strong&gt;&lt;strong&gt; 比較)&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;3. &lt;/strong&gt; &lt;a href=&quot;https://www.sinotrade.com.tw/richclub/Financialfreedom/%E5%AE%9A%E6%9C%9F%E5%AE%9A%E9%A1%8D%E6%87%B6%E4%BA%BA%E5%8C%85-%E5%AE%9A%E6%9C%9F%E5%AE%9A%E9%A1%8D%E8%A9%A6%E7%AE%97-%E6%89%8B%E7%BA%8C%E8%B2%BB-%E5%84%AA%E7%BC%BA%E9%BB%9E%E5%85%A8%E8%A7%A3%E6%9E%90--632d0ab94c2d8a225ca57214?utm_source=CS&quot; target=&quot;_blank&quot; title=&quot;https://www.sinotrade.com.tw/richclub/financialfreedom/%e5%ae%9a%e6%9c%9f%e5%ae%9a%e9%a1%8d%e6%87%b6%e4%ba%ba%e5%8c%85-%e5%ae%9a%e6%9c%9f%e5%ae%9a%e9%a1%8d%e8%a9%a6%e7%ae%97-%e6%89%8b%e7%ba%8c%e8%b2%bb-%e5%84%aa%e7%bc%ba%e9%bb%9e%e5%85%a8%e8%a7%a3%e6%9e%9&quot;&gt;&lt;strong&gt;定期定額懶人包｜定期定額試算、手續費、優缺點全解析！&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;\n\n&lt;p class=&quot;warning&quot;&gt;本公司所推薦分析之個別有價證券&lt;br&gt;\n無不當之財務利益關係 以往之績效不保證未來獲利&lt;br&gt;\n投資人應獨立判斷 審慎評估並自負投資風險&lt;/p&gt;\n",
+    "hasCoverPhoto": 1,
+    "isCategoryHeadline": 1,
+    "isIndex": 1,
+    "newsId": 5093438,
+    "otherProduct": [
+      "TWS:2351:STOCK:COMMON",
+      "TWS:5285:STOCK:COMMON",
+      "TWS:6548:STOCK:COMMON",
+      "TWS:8070:STOCK:COMMON",
+      "TWS:3653:STOCK:COMMON",
+      "TWS:2486:STOCK:COMMON"
+    ],
+    "payment": 0,
+    "source": "",
+    "stock": [
+      "2351",
+      "5285",
+      "6548",
+      "8070",
+      "3653",
+      "2486"
+    ],
+    "summary": "",
+    "title": "產業研究：電動車成長趨勢明確！高功率應用將帶動車用導線架平均單價走升？",
+    "video": "",
+    "publishAt": 1677039528,
+    "coverSrc": {
+      "xs": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093438/xs/e0881010998356bc2e25f6c8133bf767.jpg",
+        "width": 100,
+        "height": 56
+      },
+      "s": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093438/s/e0881010998356bc2e25f6c8133bf767.jpg",
+        "width": 180,
+        "height": 101
+      },
+      "m": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093438/m/e0881010998356bc2e25f6c8133bf767.jpg",
+        "width": 380,
+        "height": 214
+      },
+      "l": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093438/l/e0881010998356bc2e25f6c8133bf767.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093438/xl/e0881010998356bc2e25f6c8133bf767.jpg",
+        "width": 960,
+        "height": 539
+      },
+      "xxl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093438/xxl/e0881010998356bc2e25f6c8133bf767.jpg",
+        "width": 1080,
+        "height": 607
+      }
+    },
+    "abTesting": null,
+    "categoryId": 827,
+    "columnists": null,
+    "magazine": null,
+    "fundCategoryAbbr": [],
+    "fbShare": 0,
+    "fbComment": 0,
+    "fbCommentPluginCount": 0,
+    "market": [
+      {
+        "code": "2351",
+        "name": "順德",
+        "symbol": "TWS:2351:STOCK"
+      },
+      {
+        "code": "5285",
+        "name": "界霖",
+        "symbol": "TWS:5285:STOCK"
+      },
+      {
+        "code": "6548",
+        "name": "長科*",
+        "symbol": "TWS:6548:STOCK"
+      },
+      {
+        "code": "8070",
+        "name": "長華*",
+        "symbol": "TWS:8070:STOCK"
+      },
+      {
+        "code": "3653",
+        "name": "健策",
+        "symbol": "TWS:3653:STOCK"
+      },
+      {
+        "code": "2486",
+        "name": "一詮",
+        "symbol": "TWS:2486:STOCK"
+      }
+    ],
+    "categoryName": "台股新聞"
+  },
+  {
+    "isOutsource": 0,
+    "content": "&lt;p&gt;中國國台辦周三（22 日）表示，支持符合條件的台企在 A 股上市，為台商提供更多元金融服務，國台辦並說，兩岸 16 直航點仍不通，仍未獲蔡英文政府正面回覆。&lt;/p&gt;\n\n&lt;p&gt;本月 28 日適逢《關於促進兩岸經濟文化交流合作的若干措施》上路五周年，國台辦發言人朱鳳蓮周三在記者會上說明支持台胞、台企同等待遇的工作成果，她說，支持符合條件的台企在 A 股上市，為台胞、台商提供更多元高效的金融服務。&lt;/p&gt;\n\n&lt;p&gt;朱鳳蓮表示，去年有 10 家台企在 A 股上市，數量寫下歷來新高，目前在 A 股上市的台企家數累計達 59 家。&lt;/p&gt;\n\n&lt;p&gt;國台辦、國家發改委、工信部、商務部已批准在廣西、四川、湖北、江西、湖南、重慶設立六個海峽兩岸產業合作區，在山東設立海峽兩岸新舊動能轉換產業合作區，在福建廈門和泉州、安徽合肥設立海峽兩岸集成電路產業合作試驗區。朱鳳蓮說，這些措施有助於吸引台企集聚發展，也有助於有需求的台企向中西部地區轉移，融入新發展格局，從拓展中國內需市場中搶占更多商機。&lt;/p&gt;\n\n&lt;p&gt;中國近期督促蔡英文政府恢復兩岸 16 個直航點。本月初，中國航空主管部門循兩會協議聯繫渠道促請台灣優先恢復廣州等 16 個兩岸直航航點。&lt;/p&gt;\n\n&lt;p&gt;對此，朱鳳蓮說，目前仍未獲台灣正面回覆。中國政府希望台灣以兩岸同胞福祉為依歸，儘快取消人為限制，恢復兩岸空中客運直航正常化。&lt;/p&gt;\n\n&lt;p&gt;朱鳳蓮表示，中國政府積極支持兩岸航空業者大幅增加兩岸航線航班，由航空公司自主動態調整航班安排。本月 13 日至 19 日，兩岸航線執行客運航班共 214 班，雖較 1 月 8 日前的每周不到 100 班增加不少，但相較於 2020 年前每周最高 890 班的兩岸定期航班，目前運力難以滿足兩岸民眾需要。在民進黨當局單方面限制下，目前中國僅有北京、上海、廈門、成都等四個兩岸直航航點，兩岸往來仍相當不便。&lt;/p&gt;\n\n&lt;p&gt;目前中國政府希望優先恢復廣州、深圳、南京、無錫、杭州、寧波、武漢、福州、合肥、重慶、長沙、鄭州、海口、西安、瀋陽、哈爾濱等 16 個兩岸直航航點。&lt;/p&gt;\n\n&lt;p&gt;與此同時，兩岸「小三通」四條客運航線已全面復航。2 月 19 日 10 時，搭載 59 名旅客的「吉順 9 號」，從馬祖白沙啟航，前往連江黃岐客運碼頭，並於當日 12 時 30 分從連江返回馬祖，中斷三年的黃岐至馬祖「小三通」客運航線恢復通航。&lt;/p&gt;\n\n&lt;p&gt;至此，四條「小三通」客運航線全部復航，為金門、馬祖民眾往返兩岸提供更多便利。&lt;/p&gt;\n",
+    "hasCoverPhoto": 1,
+    "isCategoryHeadline": 1,
+    "isIndex": 1,
+    "newsId": 5093350,
+    "otherProduct": [
+      "GI:SSEC:INDEX:COMMON",
+      "TWS:TSE01:INDEX:COMMON"
+    ],
+    "payment": 0,
+    "source": null,
+    "stock": [],
+    "summary": "中國國台辦周三（22 日）表示，支持符合條件的台企在 A 股上市，為台商提供更多元金融服務，國台辦並說，兩岸 16 直航點仍不通，仍未獲蔡英文政府正面回覆。",
+    "title": "中國國台辦：支持台企在A股上市 兩岸16直航點仍不通",
+    "video": "",
+    "publishAt": 1677037761,
+    "coverSrc": {
+      "xs": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093350/xs/f9ffb45ff5cdfffec8a65ffe0d5037e1.jpg",
+        "width": 100,
+        "height": 56
+      },
+      "s": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093350/s/f9ffb45ff5cdfffec8a65ffe0d5037e1.jpg",
+        "width": 180,
+        "height": 101
+      },
+      "m": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093350/m/f9ffb45ff5cdfffec8a65ffe0d5037e1.jpg",
+        "width": 380,
+        "height": 214
+      },
+      "l": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093350/l/f9ffb45ff5cdfffec8a65ffe0d5037e1.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093350/l/f9ffb45ff5cdfffec8a65ffe0d5037e1.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xxl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093350/l/f9ffb45ff5cdfffec8a65ffe0d5037e1.jpg",
+        "width": 640,
+        "height": 360
+      }
+    },
+    "abTesting": null,
+    "categoryId": 828,
+    "columnists": null,
+    "magazine": null,
+    "fundCategoryAbbr": [
+      {
+        "name": "股票-大中華",
+        "categoryAbbrId": "C55"
+      },
+      {
+        "name": "股票-台灣",
+        "categoryAbbrId": "C54"
+      }
+    ],
+    "fbShare": 0,
+    "fbComment": 0,
+    "fbCommentPluginCount": 0,
+    "categoryName": "大陸政經"
+  },
+  {
+    "isOutsource": 0,
+    "content": "&lt;p&gt;安控大廠晶睿 (3454-TW) 開發的 AI 智能監控系統 VAST Security Station(VSS) 將於下 (3) 月正式上線，看好該產品結合工智慧及邊緣運算，最高可管理超過 2 萬台攝影機，大幅提升營運管理效率，有望再添成長動能。&lt;/p&gt;\n\n&lt;p&gt;VSS 為結合人工智慧及邊緣運算能力的監控站台，整合攝影機後可即時辨識人臉及車牌，最高更可連線管理超過 2 萬台攝影機，支援多種智能影像分析，提供精準查找及強大資安防護，可大幅提升營運管理效率。&lt;/p&gt;\n\n&lt;p&gt;產品企劃處處長廖邦廷表示，VSS 是容易上手的 AI 安防系統，從建置攝影機、連線子監控站台，甚至即時語音廣播皆可一步整合，使用介面人性化且操作直覺，也是現有影像管理軟體改版的全新系統。&lt;/p&gt;\n\n&lt;p&gt;此外，市場上對於整合型的監控系統仍有迫切需求，不過卻存在繁複門檻，因此在提高方案彈性及簡化流程，集成 AI 智慧影像分析，提供基礎監控至大型企業中央統管客戶高效搜索服務，來解決管理問題。&lt;/p&gt;\n\n&lt;p&gt;晶睿補充，VSS 分為 Lite、Standard、Professional 三種升級版本，其中 Standard 方案適合中小企業，打造高成本效益、Professional 方案可滿足市場上多樣監控需求，也是專為全天候及強烈中央管理需求的中大型企業設計。&lt;/p&gt;\n\n&lt;p&gt;根據調查 [1]，全球影像分析軟體市場為 19 億美元，約 570 億元新台幣，整合型的監控系統逐漸成為趨勢，預估 2026 年將達到 12.7% 年複合成長率，且邊緣運算 AI 攝影機銷量亦持續成長，屆時將占全球所有網絡攝影機出貨量逾 4 成。&lt;/p&gt;\n",
+    "hasCoverPhoto": 1,
+    "isCategoryHeadline": 1,
+    "isIndex": 1,
+    "newsId": 5093356,
+    "otherProduct": [
+      "TWS:3454:STOCK:COMMON",
+      "FX:USDTWD:FOREX:COMMON"
+    ],
+    "payment": 0,
+    "source": "",
+    "stock": [
+      "3454"
+    ],
+    "summary": "安控大廠晶睿 (3454-TW) 開發的 AI 智能監控系統 VAST Security Station(VSS) 將於下 (3) 月正式上線，看好該產品結合工智慧及邊緣運算，最高可管理超過 2 萬台攝影機，大幅提升營運管理效率。",
+    "title": "〈晶睿展望〉擴大AI應用 下月推智能監控系統",
+    "video": "",
+    "publishAt": 1677036423,
+    "coverSrc": {
+      "xs": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093356/xs/058865467a0c4a8352ad2db8d77e5030.jpg",
+        "width": 100,
+        "height": 56
+      },
+      "s": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093356/s/058865467a0c4a8352ad2db8d77e5030.jpg",
+        "width": 180,
+        "height": 101
+      },
+      "m": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093356/m/058865467a0c4a8352ad2db8d77e5030.jpg",
+        "width": 380,
+        "height": 214
+      },
+      "l": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093356/l/058865467a0c4a8352ad2db8d77e5030.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093356/xl/058865467a0c4a8352ad2db8d77e5030.jpg",
+        "width": 960,
+        "height": 540
+      },
+      "xxl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093356/xxl/058865467a0c4a8352ad2db8d77e5030.jpg",
+        "width": 1080,
+        "height": 608
+      }
+    },
+    "abTesting": null,
+    "categoryId": 827,
+    "columnists": null,
+    "magazine": null,
+    "fundCategoryAbbr": [],
+    "fbShare": 0,
+    "fbComment": 0,
+    "fbCommentPluginCount": 0,
+    "market": [
+      {
+        "code": "3454",
+        "name": "晶睿",
+        "symbol": "TWS:3454:STOCK"
+      }
+    ],
+    "categoryName": "台股新聞"
+  },
+  {
+    "isOutsource": 0,
+    "content": "&lt;p&gt;觸控模組廠 TPK-KY 宸鴻 (3673-TW) 近年因淡出小尺寸手機市場，營運動能相對放緩，不過昨 (21) 日宸鴻也宣布加入以富動科技 (6813-TW)、虹彩光電為首的膽固醇液晶彩色電子紙聯盟，正式切入電子紙應用市場，可望為今年營運增添動能，帶動今 (22) 日股價爆量強漲近半根停板。&lt;/p&gt;\n\n&lt;p&gt;宸鴻今日股價逆勢大盤走強，早盤由黑翻紅後、緩步墊高，最高來到 33.7 元大漲逾半根停板，也創下近半年來波段新高。&lt;/p&gt;\n\n&lt;p&gt;宸鴻昨日宣布與富動科技、虹彩光電、南京熊貓電子、雲創通訊等業者，發表多尺寸膽固醇液晶彩色電子紙商品化產品，將與現行主流應用的電泳式電子紙技術競爭，搶攻電子閱讀器、電子貨架廣告機、數位看板等商機。&lt;/p&gt;\n\n&lt;p&gt;宸鴻近年淡出小尺寸手機市場後，將營運重心放在筆電、平板等 IT 應用上，同時積極發展奈米銀 (SMW)、車載及 3D 列印市場，其中，3D 列印更已打入國際知名運動品牌球鞋供應鏈，不過新事業貢獻比重仍相對不高。&lt;/p&gt;\n\n&lt;p&gt;營運方面，反映元月工作天數減少，宸鴻 1 月營收下滑至 54.9 億元，月減 20.7%、年減 28.9%，宸鴻明 (23) 日也將召開法說會，揭露去年第四季財報、今年營運展望。&lt;/p&gt;\n",
+    "hasCoverPhoto": 1,
+    "isCategoryHeadline": 1,
+    "isIndex": 1,
+    "newsId": 5093351,
+    "otherProduct": [
+      "TWS:3673:STOCK:COMMON",
+      "TWG:6813:STOCK:COMMON"
+    ],
+    "payment": 0,
+    "source": "",
+    "stock": [
+      "3673",
+      "6813"
+    ],
+    "summary": "觸控模組廠 TPK-KY 宸鴻 (3673-TW) 近年因淡出小尺寸手機市場，營運動能相對放緩，不過昨 (21) 日宸鴻也宣布加入以富動科技 (6813-TW)、虹彩光電為首的膽固醇液晶彩色電子紙聯盟，正式切入電子紙應用市場。",
+    "title": "〈焦點股〉TPK-KY切入電子紙應用市場 爆量強漲近半根停板",
+    "video": "",
+    "publishAt": 1677036403,
+    "coverSrc": {
+      "xs": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093351/xs/22c10539eb51855b45cf06d56d7cf009.jpg",
+        "width": 100,
+        "height": 56
+      },
+      "s": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093351/s/22c10539eb51855b45cf06d56d7cf009.jpg",
+        "width": 180,
+        "height": 101
+      },
+      "m": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093351/m/22c10539eb51855b45cf06d56d7cf009.jpg",
+        "width": 380,
+        "height": 214
+      },
+      "l": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093351/l/22c10539eb51855b45cf06d56d7cf009.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093351/xl/22c10539eb51855b45cf06d56d7cf009.jpg",
+        "width": 960,
+        "height": 540
+      },
+      "xxl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093351/xxl/22c10539eb51855b45cf06d56d7cf009.jpg",
+        "width": 1080,
+        "height": 608
+      }
+    },
+    "abTesting": null,
+    "categoryId": 827,
+    "columnists": null,
+    "magazine": null,
+    "fundCategoryAbbr": [],
+    "fbShare": 0,
+    "fbComment": 0,
+    "fbCommentPluginCount": 0,
+    "market": [
+      {
+        "code": "3673",
+        "name": "TPK-KY",
+        "symbol": "TWS:3673:STOCK"
+      },
+      {
+        "code": "6813",
+        "name": "富動科",
+        "symbol": "TWG:6813:STOCK"
+      }
+    ],
+    "categoryName": "台股新聞"
+  },
+  {
+    "isOutsource": 0,
+    "content": "&lt;p&gt;長榮航 (2618-TW) 今 (22) 日宣布，對夏季班表持續增班，北美航線班次規模將與疫前相仿達到每周 84 班，歐洲線也將達每周 32 班，成為台灣飛航歐洲航點和班次最多的航空公司，將全力搶攻歐美長程旅遊和商務往來的龐大復甦商機。&lt;/p&gt;\n\n&lt;p&gt;長榮航說明，北美航線自 3 月 27 日起包括洛杉磯、芝加哥、舊金山均將陸續增班，5 月 15 日起將達每周 84 班，班次規模已與疫前相仿。&lt;/p&gt;\n\n&lt;p&gt;而歐洲航線自 5 月 15 日起，桃園 - 米蘭航線將由每周 2 班增為 4 班，結合巴黎、倫敦、維也納、阿姆斯特丹和慕尼黑等航點，屆時歐洲航線每周達 32 班。&lt;/p&gt;\n\n&lt;p&gt;另外，對於亞洲和港澳大陸各航班，長榮航表示，會依市場需求進行增班、增點或放大機型。&lt;/p&gt;\n\n&lt;p&gt;長榮航規劃，桃園 - 洛杉磯航線自 3 月 27 日起，新增 BR06 航班每日飛航，由目前每日 2 班增為每日 3 班，每周航班數將達 21 班；桃園 - 芝加哥航線自 5 月 1 日起，由目前每周飛航 3 班，增為每周飛航 7 班，天天直飛芝加哥。&lt;/p&gt;\n\n&lt;p&gt;另外，桃園 - 舊金山航線自 5 月 15 日起，新增 BR08 航班每日飛航，由目前每日 2 班增為 3 班，每周航班數將達 21 班。&lt;/p&gt;\n\n&lt;p&gt;而對國人出國旅遊熱愛的歐洲航線，長榮航自 5 月 15 日起增班桃園 - 米蘭航線為每周 4 班。&lt;/p&gt;\n\n&lt;p&gt;長榮航說明，米蘭是義大利最大的金融與商業中心，商務、旅遊皆宜，自去年開闢米蘭航線後，近幾個月來平均載客率高達 90% 以上，是旗下熱門航點之一。&lt;/p&gt;\n\n&lt;p&gt;長榮航目前已飛航北美 8 個航點、歐洲 6 個航點，無論是航點、航班數均是國籍航空業者之冠，同時，在越太和歐亞兩大航網下，搭配東南亞、東北亞及兩岸航線綿密的航班，也有利進一步深耕轉機市場。&lt;/p&gt;\n\n&lt;p&gt;展望後市，長榮航表示，將視整體航網的客流量，持續進行航班調整。&lt;/p&gt;\n",
+    "hasCoverPhoto": 1,
+    "isCategoryHeadline": 1,
+    "isIndex": 1,
+    "newsId": 5093352,
+    "otherProduct": [
+      "TWS:2618:STOCK:COMMON"
+    ],
+    "payment": 0,
+    "source": "",
+    "stock": [
+      "2618"
+    ],
+    "summary": "長榮航調夏季班表 歐美航線大增班搶暑期旅遊復甦商機",
+    "title": "長榮航調夏季班表 歐美航線大增班搶暑期旅遊復甦商機",
+    "video": "",
+    "publishAt": 1677036004,
+    "coverSrc": {
+      "xs": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093352/xs/b7f2b91667ec4d58d1e8d4a6ef4a63e3.jpg",
+        "width": 100,
+        "height": 56
+      },
+      "s": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093352/s/b7f2b91667ec4d58d1e8d4a6ef4a63e3.jpg",
+        "width": 180,
+        "height": 101
+      },
+      "m": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093352/m/b7f2b91667ec4d58d1e8d4a6ef4a63e3.jpg",
+        "width": 380,
+        "height": 214
+      },
+      "l": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093352/l/b7f2b91667ec4d58d1e8d4a6ef4a63e3.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093352/xl/b7f2b91667ec4d58d1e8d4a6ef4a63e3.jpg",
+        "width": 960,
+        "height": 540
+      },
+      "xxl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093352/xxl/b7f2b91667ec4d58d1e8d4a6ef4a63e3.jpg",
+        "width": 1080,
+        "height": 608
+      }
+    },
+    "abTesting": null,
+    "categoryId": 827,
+    "columnists": null,
+    "magazine": null,
+    "fundCategoryAbbr": [],
+    "fbShare": 0,
+    "fbComment": 0,
+    "fbCommentPluginCount": 0,
+    "market": [
+      {
+        "code": "2618",
+        "name": "長榮航",
+        "symbol": "TWS:2618:STOCK"
+      }
+    ],
+    "categoryName": "台股新聞"
+  },
+  {
+    "isOutsource": 0,
+    "content": "&lt;p&gt;金融股股利政策牽動股價表現，今 (22) 日金融股持續下跌，金控雙雄國泰金 (2882-TW)、富邦金 (2881-TW) 盤中跌幅均超過 1%，僅台企銀 (2834-TW) 逆勢走揚，盤中漲逾 1%，推升股價高點站上 14.2 元，一枝獨秀。&lt;/p&gt;\n\n&lt;p&gt;玉山金 (2884-TW) 日前宣布每股擬配發 0.6 元，創下近 13 年新低，不僅失望性賣壓壓垮股價，也讓金融股連帶籠罩在空頭氛圍中。&lt;/p&gt;\n\n&lt;p&gt;綜觀今天盤面上包括國票金 (2889-TW)、富邦金、國泰金、開發金 (2883-TW)、永豐金 (2890-TW) 盤中跌幅均逾 1% 以上，兆豐金 (2886-TW)、合庫金 (5880-TW)、新光金 (2888-TW)、元大金 (2885-TW)、玉山金 (2884-TW) 則同步在平盤下震盪。&lt;/p&gt;\n\n&lt;p&gt;銀行股包括高雄銀 (2836-TW)、聯邦銀 (2838-TW)、上海商銀 (5876-TW)、彰銀 (2801-TW) 等也是賣壓調節對象，拖累股價盤中在平盤下整理。&lt;/p&gt;\n\n&lt;p&gt;有別於金控股股價疲軟，台企銀則相對抗跌，今天以 13.9 元開出後，在買單敲進下推升股價緩步走揚，盤中成交量約 2.5 萬餘張，股價高點一度攻上 14.2 元，儘管盤中略有拉回，但仍穩守 14 元關卡，盤中漲幅逾 1%。&lt;/p&gt;\n\n&lt;p&gt;觀察三大法人動態，台企銀已獲外資連 4 買，單日買超張數均逾 4000 張以上，累計 4 個交易日共已買超 20720 張；投信則是連續 5 個交易日買超，僅自營商小幅調節。&lt;/p&gt;\n",
+    "hasCoverPhoto": 1,
+    "isCategoryHeadline": 1,
+    "isIndex": 1,
+    "newsId": 5093314,
+    "otherProduct": [
+      "TWS:2882:STOCK:COMMON",
+      "TWS:2881:STOCK:COMMON",
+      "TWS:5876:STOCK:COMMON",
+      "TWS:2838:STOCK:COMMON",
+      "TWS:2836:STOCK:COMMON",
+      "TWS:2885:STOCK:COMMON",
+      "TWS:2888:STOCK:COMMON",
+      "TWS:5880:STOCK:COMMON",
+      "TWS:2886:STOCK:COMMON",
+      "TWS:2890:STOCK:COMMON",
+      "TWS:2883:STOCK:COMMON",
+      "TWS:2889:STOCK:COMMON",
+      "TWS:2884:STOCK:COMMON",
+      "TWS:2834:STOCK:COMMON",
+      "TWS:2801:STOCK:COMMON"
+    ],
+    "payment": 0,
+    "source": "",
+    "stock": [
+      "2882",
+      "2881",
+      "2834",
+      "2884",
+      "2889",
+      "2883",
+      "2890",
+      "2886",
+      "5880",
+      "2888",
+      "2885",
+      "2836",
+      "2838",
+      "5876",
+      "2801"
+    ],
+    "summary": "金融股股利政策牽動股價表現，今 (22) 日金融股持續下跌，金控雙雄國泰金 (2882-TW)、富邦金 (2881-TW) 盤中跌幅均超過 1%，僅台企銀 (2834-TW) 逆勢走揚，盤中漲逾 1%，推升股價高點站上 14.2 元。",
+    "title": "〈焦點股〉金控雙雄股價雙挫 台企銀逆勢漲逾1%一枝獨秀",
+    "video": "",
+    "publishAt": 1677034939,
+    "coverSrc": {
+      "xs": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093314/xs/da5c78189733a1f2c244c7daac5ff32e.jpg",
+        "width": 100,
+        "height": 56
+      },
+      "s": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093314/s/da5c78189733a1f2c244c7daac5ff32e.jpg",
+        "width": 180,
+        "height": 101
+      },
+      "m": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093314/m/da5c78189733a1f2c244c7daac5ff32e.jpg",
+        "width": 380,
+        "height": 214
+      },
+      "l": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093314/l/da5c78189733a1f2c244c7daac5ff32e.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093314/xl/da5c78189733a1f2c244c7daac5ff32e.jpg",
+        "width": 960,
+        "height": 540
+      },
+      "xxl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093314/xl/da5c78189733a1f2c244c7daac5ff32e.jpg",
+        "width": 960,
+        "height": 540
+      }
+    },
+    "abTesting": null,
+    "categoryId": 829,
+    "columnists": null,
+    "magazine": null,
+    "fundCategoryAbbr": [],
+    "fbShare": 0,
+    "fbComment": 0,
+    "fbCommentPluginCount": 0,
+    "market": [
+      {
+        "code": "2882",
+        "name": "國泰金",
+        "symbol": "TWS:2882:STOCK"
+      },
+      {
+        "code": "2881",
+        "name": "富邦金",
+        "symbol": "TWS:2881:STOCK"
+      },
+      {
+        "code": "5876",
+        "name": "上海商銀",
+        "symbol": "TWS:5876:STOCK"
+      },
+      {
+        "code": "2838",
+        "name": "聯邦銀",
+        "symbol": "TWS:2838:STOCK"
+      },
+      {
+        "code": "2836",
+        "name": "高雄銀",
+        "symbol": "TWS:2836:STOCK"
+      },
+      {
+        "code": "2885",
+        "name": "元大金",
+        "symbol": "TWS:2885:STOCK"
+      },
+      {
+        "code": "2888",
+        "name": "新光金",
+        "symbol": "TWS:2888:STOCK"
+      },
+      {
+        "code": "5880",
+        "name": "合庫金",
+        "symbol": "TWS:5880:STOCK"
+      },
+      {
+        "code": "2886",
+        "name": "兆豐金",
+        "symbol": "TWS:2886:STOCK"
+      },
+      {
+        "code": "2890",
+        "name": "永豐金",
+        "symbol": "TWS:2890:STOCK"
+      },
+      {
+        "code": "2883",
+        "name": "開發金",
+        "symbol": "TWS:2883:STOCK"
+      },
+      {
+        "code": "2889",
+        "name": "國票金",
+        "symbol": "TWS:2889:STOCK"
+      },
+      {
+        "code": "2884",
+        "name": "玉山金",
+        "symbol": "TWS:2884:STOCK"
+      },
+      {
+        "code": "2834",
+        "name": "臺企銀",
+        "symbol": "TWS:2834:STOCK"
+      },
+      {
+        "code": "2801",
+        "name": "彰銀",
+        "symbol": "TWS:2801:STOCK"
+      }
+    ],
+    "categoryName": "台股盤勢"
+  },
+  {
+    "isOutsource": 0,
+    "content": "&lt;p&gt;安控大廠晶睿 (3454-TW) 受惠全球代工及品牌事業訂單增加，去年全年稅後純益 7.02 億元，年增 273.23%，每股純益 8.11 元；董事會決議擬配發 5.5 元現金股利，獲利、股利雙創 9 年來新高。&lt;/p&gt;\n\n&lt;p&gt;晶睿去年第四季營收 33.96 億元，季增 32.29%、年增 140.56%；毛利率 23.84%，季減 3.58 個百分點、年減 3.27 個百分點；營益率 8.33%，季減 0.93 個百分點、年增 1.9 個百分點；稅後純益 2.43 億元，季增 9.79%、年增 29.34%，每股純益 2.81 元。&lt;/p&gt;\n\n&lt;p&gt;去年營運方面，全年營收達 99.48 億元，年增 82.48%；毛利率 26.01%，年減 3.55 個百分點；營益率 7.86%，年增 6.19 個百分點；稅後純益 7.02 億元，年增 273.23%，每股純益 8.11 元。&lt;/p&gt;\n\n&lt;p&gt;展望 2023 年，晶睿表示，今年仍有國際局勢變動、通膨、升息等營運變數，公司旗下代工及品牌事業雙軌並進，專注本業發展，盡力滿足市場需求，並持續聚焦 AI 安防解決方案及服務，推動企業永續各項計畫，期望延續去 (2022) 年成長態勢。&lt;/p&gt;\n\n&lt;p&gt;晶睿指出，全球疫情解封，各國積極拓展旅遊商機，近期為日本三重縣伊勢市打造 AI 人流安防解決方案，加速振興日本旅遊業振興，透過分析人潮，優化商業活動，提高營運管理效率。&lt;/p&gt;\n",
+    "hasCoverPhoto": 1,
+    "isCategoryHeadline": 1,
+    "isIndex": 1,
+    "newsId": 5093312,
+    "otherProduct": [
+      "TWS:3454:STOCK:COMMON"
+    ],
+    "payment": 0,
+    "source": "",
+    "stock": [
+      "3454"
+    ],
+    "summary": "安控大廠晶睿 (3454-TW) 受惠全球代工及品牌事業訂單增加，去年全年稅後純益 7.02 億元，年增 273.23%，每股純益 8.11 元；董事會決議擬配發 5.5 元現金股利，獲利、股利雙創 9 年來新高。",
+    "title": "〈晶睿展望〉去年EPS 8.11元 擬配發5.5元現金股利 雙創9年新高",
+    "video": "",
+    "publishAt": 1677034814,
+    "coverSrc": {
+      "xs": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093312/xs/e963e8f580ee9e9eb0a203dbadd3bf2b.jpg",
+        "width": 100,
+        "height": 56
+      },
+      "s": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093312/s/e963e8f580ee9e9eb0a203dbadd3bf2b.jpg",
+        "width": 180,
+        "height": 101
+      },
+      "m": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093312/m/e963e8f580ee9e9eb0a203dbadd3bf2b.jpg",
+        "width": 380,
+        "height": 214
+      },
+      "l": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093312/l/e963e8f580ee9e9eb0a203dbadd3bf2b.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093312/xl/e963e8f580ee9e9eb0a203dbadd3bf2b.jpg",
+        "width": 960,
+        "height": 540
+      },
+      "xxl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093312/xxl/e963e8f580ee9e9eb0a203dbadd3bf2b.jpg",
+        "width": 1080,
+        "height": 608
+      }
+    },
+    "abTesting": null,
+    "categoryId": 827,
+    "columnists": null,
+    "magazine": null,
+    "fundCategoryAbbr": [],
+    "fbShare": 0,
+    "fbComment": 0,
+    "fbCommentPluginCount": 0,
+    "market": [
+      {
+        "code": "3454",
+        "name": "晶睿",
+        "symbol": "TWS:3454:STOCK"
+      }
+    ],
+    "categoryName": "台股新聞"
+  },
+  {
+    "isOutsource": 0,
+    "content": "&lt;p&gt;美股四大指數重挫，台股今 (22) 日也跟著臉綠，權王台積電 (2330-TW) 帶頭領跌，電子、金融股成為資金調節重點，拖累指數開盤後重挫逾 200 點，觀光、軍工股相對有撐，但難敵電子弱勢，指數接連失守 15500 點、15400 點關卡，低點一度下壓至&nbsp;15354.47 點，失守月線關卡。&lt;/p&gt;\n\n&lt;p&gt;俄羅斯總統普丁宣布退出美俄協議，同時拋出恢復核試爆的訴求，地緣政治緊繃嚇趴股市，道瓊暴跌近 700 點，幾乎回吐今年以來的漲幅，標普也失守 4000 點關卡，美股重挫也拖累亞股走跌，台股隨日韓陸股同步大跌。&lt;/p&gt;\n\n&lt;p&gt;漲多的電子股成為資金優先調節標的，晶圓雙雄中的台積電今天開盤就大跌 10 元，盤中股價低點下探至 505 元，持續失守月線關卡；聯電 (2303-TW) 盤中也有 2% 以上跌幅；另外，聯發科 (2454-TW)、鴻海 (2317-TW) 盤中也持續在平盤下震盪，股價雙雙偏弱整理。&lt;/p&gt;\n\n&lt;p&gt;半導體族群中智原 (3035-TW) 賣壓沉重盤中股價大跌逾 8%、愛普 (6531-TW)、穎崴 (6515-TW)、天鈺 (4961-TW)、晶心科 (6533-TW) 同樣難逃賣壓調節，進而拖累股價走跌；聯傑 (3094-TW) 盤中則逆勢大漲逾 9%，暫時攻上漲停關門，十詮 (4967-TW)、立萬利 (3054-TW)、宇瞻 (8271-TW) 也是買單敲進標的。&lt;/p&gt;\n\n&lt;p&gt;軍工股則搭地緣政治議題再度成為買盤追捧對象，雷虎 (8033-TW) 盤中強漲逾 5%，八貫 (1342-TW)、精剛 (1584-TW)、台船 (2208-TW)、寶一 (8222-TW) 等也在買單敲進下帶動股價走揚。&lt;/p&gt;\n\n&lt;p&gt;金融股深陷配息縮水隱憂，今天繼續遭賣盤調節，金控雙雄國泰金 (2882-TW)、富邦金 (2881-TW) 盤中重挫逾 1%，國票金 (2889-TW)、兆豐金 (2886-TW)、開發金 (2883-TW) 盤中也有 1% 的跌幅，台企銀 (2834-TW) 今天帶量走揚，盤中交易量 2 萬餘張，推升股價盤中大漲逾 1%，股價高點衝上 14.2 元。&lt;/p&gt;\n\n&lt;p&gt;觀光股則不受大盤空頭壓力威脅，寒舍 (2739-TW)、夏都 (2722-TW) 盤中先後亮起漲停紅燈，晶華 (2707-TW)、雲品 (2748-TW)、王品 (2727-TW)、新天地 (8940-TW) 等也是買單鎖定對象，盤中漲幅超過 4% 以上；旅行社類股包括雄獅 (-2731TW)、鳳凰 (5706-TW) 也是買單青睞對象，盤中漲幅均逾 1%。&lt;/p&gt;\n\n&lt;p&gt;整體而言，在地緣政治威脅、市場擔憂聯準會將繼續升息，促使資金撤離股市，再度班師回朝躲回美元避險，在美股下挫壓力下台股也難逃資金砍殺命運，短線漲多的類股將成優先調節目標。&lt;br&gt;\n&nbsp;&lt;/p&gt;\n",
+    "hasCoverPhoto": 1,
+    "isCategoryHeadline": 1,
+    "isIndex": 1,
+    "newsId": 5093266,
+    "otherProduct": [
+      "GI:DJI:INDEX:COMMON",
+      "TWS:2330:STOCK:COMMON",
+      "TWS:2454:STOCK:COMMON",
+      "TWS:2317:STOCK:COMMON",
+      "TWS:3035:STOCK:COMMON",
+      "TWS:6531:STOCK:COMMON",
+      "TWS:6515:STOCK:COMMON",
+      "TWS:4961:STOCK:COMMON",
+      "TWS:6533:STOCK:COMMON",
+      "TWS:3094:STOCK:COMMON",
+      "TWS:4967:STOCK:COMMON",
+      "TWS:3054:STOCK:COMMON",
+      "TWS:8271:STOCK:COMMON",
+      "TWS:8033:STOCK:COMMON",
+      "TWS:1342:STOCK:COMMON",
+      "TWS:2208:STOCK:COMMON",
+      "TWS:1584:STOCK:COMMON",
+      "TWS:8222:STOCK:COMMON",
+      "TWS:2882:STOCK:COMMON",
+      "TWS:2881:STOCK:COMMON",
+      "TWS:2889:STOCK:COMMON",
+      "TWS:2886:STOCK:COMMON",
+      "TWS:2883:STOCK:COMMON",
+      "TWS:2834:STOCK:COMMON",
+      "TWS:2739:STOCK:COMMON",
+      "TWS:2722:STOCK:COMMON",
+      "TWS:2707:STOCK:COMMON",
+      "TWS:2748:STOCK:COMMON",
+      "TWS:2727:STOCK:COMMON",
+      "TWS:8940:STOCK:COMMON",
+      "TWS:2303:STOCK:COMMON",
+      "TWS:5706:STOCK:COMMON"
+    ],
+    "payment": 0,
+    "source": "",
+    "stock": [
+      "2330",
+      "2303",
+      "2454",
+      "2317",
+      "3035",
+      "6531",
+      "6515",
+      "4961",
+      "6533",
+      "3094",
+      "4967",
+      "3054",
+      "8271",
+      "8033",
+      "1342",
+      "1584",
+      "2208",
+      "8222",
+      "2882",
+      "2881",
+      "2889",
+      "2886",
+      "2883",
+      "2834",
+      "2739",
+      "2722",
+      "2707",
+      "2748",
+      "2727",
+      "8940",
+      "5706"
+    ],
+    "summary": "美股四大指數重挫，台股今 (22) 日也跟著臉綠，台積電帶頭領跌，電子、金融股成為資金調節重點，拖累指數開盤後重挫逾 200 點，觀光、軍工股相對有撐，但難敵電子弱勢，指數失守月線。",
+    "title": "〈台股盤中〉普丁搗亂電金臉綠 大盤失守月線跌破15400點",
+    "video": "",
+    "publishAt": 1677032630,
+    "coverSrc": {
+      "xs": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093266/xs/84042bcdaf037339c6f4d92b9aa28bbe.jpg",
+        "width": 100,
+        "height": 56
+      },
+      "s": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093266/s/84042bcdaf037339c6f4d92b9aa28bbe.jpg",
+        "width": 180,
+        "height": 101
+      },
+      "m": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093266/m/84042bcdaf037339c6f4d92b9aa28bbe.jpg",
+        "width": 380,
+        "height": 213
+      },
+      "l": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093266/l/84042bcdaf037339c6f4d92b9aa28bbe.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093266/xl/84042bcdaf037339c6f4d92b9aa28bbe.jpg",
+        "width": 960,
+        "height": 539
+      },
+      "xxl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093266/xl/84042bcdaf037339c6f4d92b9aa28bbe.jpg",
+        "width": 960,
+        "height": 539
+      }
+    },
+    "abTesting": null,
+    "categoryId": 829,
+    "columnists": null,
+    "magazine": null,
+    "fundCategoryAbbr": [],
+    "fbShare": 0,
+    "fbComment": 0,
+    "fbCommentPluginCount": 0,
+    "market": [
+      {
+        "code": "2330",
+        "name": "台積電",
+        "symbol": "TWS:2330:STOCK"
+      },
+      {
+        "code": "2454",
+        "name": "聯發科",
+        "symbol": "TWS:2454:STOCK"
+      },
+      {
+        "code": "2317",
+        "name": "鴻海",
+        "symbol": "TWS:2317:STOCK"
+      },
+      {
+        "code": "3035",
+        "name": "智原",
+        "symbol": "TWS:3035:STOCK"
+      },
+      {
+        "code": "6531",
+        "name": "愛普",
+        "symbol": "TWS:6531:STOCK"
+      },
+      {
+        "code": "6515",
+        "name": "穎崴",
+        "symbol": "TWS:6515:STOCK"
+      },
+      {
+        "code": "4961",
+        "name": "天鈺",
+        "symbol": "TWS:4961:STOCK"
+      },
+      {
+        "code": "6533",
+        "name": "晶心科",
+        "symbol": "TWS:6533:STOCK"
+      },
+      {
+        "code": "3094",
+        "name": "聯傑",
+        "symbol": "TWS:3094:STOCK"
+      },
+      {
+        "code": "4967",
+        "name": "十銓",
+        "symbol": "TWS:4967:STOCK"
+      },
+      {
+        "code": "3054",
+        "name": "立萬利",
+        "symbol": "TWS:3054:STOCK"
+      },
+      {
+        "code": "8271",
+        "name": "宇瞻",
+        "symbol": "TWS:8271:STOCK"
+      },
+      {
+        "code": "8033",
+        "name": "雷虎",
+        "symbol": "TWS:8033:STOCK"
+      },
+      {
+        "code": "1342",
+        "name": "八貫",
+        "symbol": "TWS:1342:STOCK"
+      },
+      {
+        "code": "2208",
+        "name": "台船",
+        "symbol": "TWS:2208:STOCK"
+      },
+      {
+        "code": "1584",
+        "name": "精剛",
+        "symbol": "TWS:1584:STOCK"
+      },
+      {
+        "code": "8222",
+        "name": "寶一",
+        "symbol": "TWS:8222:STOCK"
+      },
+      {
+        "code": "2882",
+        "name": "國泰金",
+        "symbol": "TWS:2882:STOCK"
+      },
+      {
+        "code": "2881",
+        "name": "富邦金",
+        "symbol": "TWS:2881:STOCK"
+      },
+      {
+        "code": "2889",
+        "name": "國票金",
+        "symbol": "TWS:2889:STOCK"
+      },
+      {
+        "code": "2886",
+        "name": "兆豐金",
+        "symbol": "TWS:2886:STOCK"
+      },
+      {
+        "code": "2883",
+        "name": "開發金",
+        "symbol": "TWS:2883:STOCK"
+      },
+      {
+        "code": "2834",
+        "name": "臺企銀",
+        "symbol": "TWS:2834:STOCK"
+      },
+      {
+        "code": "2739",
+        "name": "寒舍",
+        "symbol": "TWS:2739:STOCK"
+      },
+      {
+        "code": "2722",
+        "name": "夏都",
+        "symbol": "TWS:2722:STOCK"
+      },
+      {
+        "code": "2707",
+        "name": "晶華",
+        "symbol": "TWS:2707:STOCK"
+      },
+      {
+        "code": "2748",
+        "name": "雲品",
+        "symbol": "TWS:2748:STOCK"
+      },
+      {
+        "code": "2727",
+        "name": "王品",
+        "symbol": "TWS:2727:STOCK"
+      },
+      {
+        "code": "8940",
+        "name": "新天地",
+        "symbol": "TWS:8940:STOCK"
+      },
+      {
+        "code": "2303",
+        "name": "聯電",
+        "symbol": "TWS:2303:STOCK"
+      },
+      {
+        "code": "5706",
+        "name": "鳳凰",
+        "symbol": "TWS:5706:STOCK"
+      }
+    ],
+    "categoryName": "台股盤勢"
+  },
+  {
+    "isOutsource": 0,
+    "content": "&lt;p&gt;兩岸「小三通」四條客運航線已全面復航，為金門、馬祖民眾往返兩岸帶來更多便利。&lt;/p&gt;\n\n&lt;p&gt;《中新網》報導，2 月 19 日 10 時，搭載 59 名旅客的「吉順 9 號」，從馬祖白沙啟航，前往連江黃岐客運碼頭，並於當日 12 時 30 分從連江返回馬祖，中斷三年的黃岐至馬祖「小三通」客運航線恢復通航。&lt;/p&gt;\n\n&lt;p&gt;至此，四條「小三通」客運航線全部復航，為金門、馬祖民眾往返兩岸提供更多便利。自 1 月 7 日「小三通」客運航線相繼復航以來，已運送旅客 6,715 人次，共計 62 個往返航班。&lt;/p&gt;\n\n&lt;p&gt;連江縣長王忠銘表示，連江在今年 1 月以春節「小三通」為復航起點，設定 2 月白沙黃岐航線復航，全程僅 25 分鐘，讓往返兩岸的民眾多了一個便捷又快速的選擇。&lt;/p&gt;\n\n&lt;p&gt;福建交通運輸部門則說，此次復航是契機，將持續做好「小三通」客運航線常態化運營服務與保障工作。自「小三通」客運航線正式啟動以來，已運送旅客 2,208 萬人次。&lt;/p&gt;\n",
+    "hasCoverPhoto": 1,
+    "isCategoryHeadline": 1,
+    "isIndex": 1,
+    "newsId": 5093081,
+    "otherProduct": [
+      "TWS:TSE01:INDEX:COMMON"
+    ],
+    "payment": 0,
+    "source": null,
+    "stock": [],
+    "summary": "兩岸「小三通」四條客運航線已全面復航，為金門、馬祖民眾往返兩岸帶來更多便利。",
+    "title": "兩岸「小三通」四條客運航線 全面復航",
+    "video": "",
+    "publishAt": 1677030790,
+    "coverSrc": {
+      "xs": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093081/xs/3ffc2e0cde2599bfbd0adae992fe9bc5.jpg",
+        "width": 100,
+        "height": 56
+      },
+      "s": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093081/s/3ffc2e0cde2599bfbd0adae992fe9bc5.jpg",
+        "width": 180,
+        "height": 101
+      },
+      "m": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093081/m/3ffc2e0cde2599bfbd0adae992fe9bc5.jpg",
+        "width": 380,
+        "height": 213
+      },
+      "l": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093081/l/3ffc2e0cde2599bfbd0adae992fe9bc5.jpg",
+        "width": 640,
+        "height": 359
+      },
+      "xl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093081/l/3ffc2e0cde2599bfbd0adae992fe9bc5.jpg",
+        "width": 640,
+        "height": 359
+      },
+      "xxl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093081/l/3ffc2e0cde2599bfbd0adae992fe9bc5.jpg",
+        "width": 640,
+        "height": 359
+      }
+    },
+    "abTesting": null,
+    "categoryId": 828,
+    "columnists": null,
+    "magazine": null,
+    "fundCategoryAbbr": [
+      {
+        "name": "股票-大中華",
+        "categoryAbbrId": "C55"
+      },
+      {
+        "name": "股票-台灣",
+        "categoryAbbrId": "C54"
+      }
+    ],
+    "fbShare": 0,
+    "fbComment": 0,
+    "fbCommentPluginCount": 0,
+    "categoryName": "大陸政經"
+  },
+  {
+    "isOutsource": 0,
+    "content": "&lt;p&gt;興櫃二大航空業者星宇航空 (&lt;a data-symbol-template=&quot;TWG:2646:STOCK:COMMON&quot; href=&quot;#&quot;&gt;2646-TWG&lt;/a&gt;) 和台灣虎航 (6757-TW) 今 (22) 日股價自高處回檔整理，星宇早盤一度跌近 20%，台灣虎航一度跌 7%，星宇最新宣布將辦理現增，預計募資不超過 50 億元，而台灣虎航則是通過申請股票創新板上市，在高人氣的關注下，後市行情仍受矚。&lt;/p&gt;\n\n&lt;p&gt;在 2 月以來股價接近翻倍漲的態勢下，星宇宣布將辦理現金增資，普通股以不超過 3 億股為上限，每股面額 10 元，將於定價後另行公告，預計募資不超過 50 億元，藉此充實營運資金、改善財務結構。&lt;/p&gt;\n\n&lt;p&gt;市場聚焦星宇 4 月將開航首條北美航線，在銜接東北亞、東南亞航點的布局下，未來發展跨太平洋航網的前景可期，不過，法人提醒，星宇開航以來持續虧損，且後續仍有新機折舊須攤提。&lt;/p&gt;\n\n&lt;p&gt;而台灣虎航通過證交所審核初次申請股票創新板上市，成為國內首家核准以創新板申請上市的航空業者。&lt;/p&gt;\n\n&lt;p&gt;台灣虎航以區域旅遊航線為主，過去幾年受疫情衝擊陷入連年虧損，隨著疫情趨緩，台灣虎航看好，營運可望逐漸恢復常軌。&lt;/p&gt;\n",
+    "hasCoverPhoto": 1,
+    "isCategoryHeadline": 1,
+    "isIndex": 1,
+    "newsId": 5093168,
+    "otherProduct": [
+      "TWG:2646:STOCK:COMMON",
+      "TWG:6757:STOCK:COMMON"
+    ],
+    "payment": 0,
+    "source": "",
+    "stock": [
+      "6757",
+      "2646"
+    ],
+    "summary": "興櫃兩大航空回檔小心！星宇航一度跌近 2 成",
+    "title": "興櫃兩大航空回檔小心了！星宇航一度跌近2成",
+    "video": "",
+    "publishAt": 1677029924,
+    "coverSrc": {
+      "xs": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093168/xs/8be3f8a333f4bf0d0ab989c29b037fac.jpg",
+        "width": 100,
+        "height": 56
+      },
+      "s": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093168/s/8be3f8a333f4bf0d0ab989c29b037fac.jpg",
+        "width": 180,
+        "height": 101
+      },
+      "m": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093168/m/8be3f8a333f4bf0d0ab989c29b037fac.jpg",
+        "width": 380,
+        "height": 214
+      },
+      "l": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093168/l/8be3f8a333f4bf0d0ab989c29b037fac.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093168/xl/8be3f8a333f4bf0d0ab989c29b037fac.jpg",
+        "width": 960,
+        "height": 539
+      },
+      "xxl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093168/xxl/8be3f8a333f4bf0d0ab989c29b037fac.jpg",
+        "width": 1080,
+        "height": 607
+      }
+    },
+    "abTesting": null,
+    "categoryId": 827,
+    "columnists": null,
+    "magazine": null,
+    "fundCategoryAbbr": [],
+    "fbShare": 0,
+    "fbComment": 0,
+    "fbCommentPluginCount": 0,
+    "market": [
+      {
+        "code": "6757",
+        "name": "台灣虎航",
+        "symbol": "TWG:6757:STOCK"
+      }
+    ],
+    "categoryName": "台股新聞"
+  },
+  {
+    "isOutsource": 0,
+    "content": "&lt;p&gt;美國財政部副部長艾迪耶摩 (Wally Adeyemo) 週二 (21 日) 指出，美國及其盟國計劃在「未來幾天」對俄羅斯實施更多制裁與出口管制，並警告多國企業若違反美國的制裁與俄羅斯開展業務，它們將受到懲罰將付出巨大代價。&lt;/p&gt;\n\n&lt;p&gt;Adeyemo 週二在外交關係委員會 (CFR) 演說時提到，美國、歐盟和其他國家將對俄羅斯實施新的制裁，限制冰箱和微波爐等軍民兩用產品出口，避免俄羅斯藉此取得軍方所需的半導體。還將尋求採取更多措施來阻止通過邊境國家轉運石油和其他受限貨物，但他並未提供更多細節。&lt;/p&gt;\n\n&lt;p&gt;由於美歐等多國實施俄油價格上限，Adeyemo 稱，俄羅斯已經被迫從戰爭中提撥數十億美元，用於支付油輪、航運和其他服務的保險，美方將尋求更多的措施來提高這些成本。&lt;/p&gt;\n\n&lt;p&gt;Adeyemo 還警告，仍與俄羅斯有業務往來的公司、金融機構和個人將面臨制裁，因為協助俄羅斯迴避制裁的後果嚴重，這些機構不要以為有政府撐腰就不用承擔後果。&lt;/p&gt;\n\n&lt;p&gt;Adeyemo 稱：「我們將迫使那些未能實施制裁和出口控制的國家在與美歐等國聯盟的經濟聯繫 (佔全球國內生產毛額 GDP 的一半以上) 和向俄羅斯提供物質支持之間做出選擇，俄羅斯的經濟正變得日益孤立。」&lt;/p&gt;\n\n&lt;p&gt;美方對俄羅斯與中國之間深化的關係感到擔憂，但 Adeyemo 表示，中方無法向俄羅斯提供先進半導體，用於軍事裝備製造。&lt;/p&gt;\n\n&lt;p&gt;當被問及有關中國領導人習近平將在未來幾個月訪問俄羅斯總統普丁時，Adeyemo 表示，考慮到對中國能源和食品成本的影響，以及中國對主權的尊重，他希望習近平敦促普丁結束俄國入侵烏克蘭的戰爭。&lt;/p&gt;\n",
+    "hasCoverPhoto": 1,
+    "isCategoryHeadline": 1,
+    "isIndex": 1,
+    "newsId": 5093050,
+    "otherProduct": [
+      "GI:SOX:INDEX:COMMON",
+      "GI:IXIC:INDEX:COMMON"
+    ],
+    "payment": 0,
+    "source": null,
+    "stock": [],
+    "summary": "美國財政部副部長艾迪耶摩 (Wally Adeyemo) 週二 (21 日) 指出，美國及其盟國計劃在「未來幾天」對俄羅斯實施更多制裁與出口管制",
+    "title": "美歐和其他國家數日內將對俄實施新制裁",
+    "video": "",
+    "publishAt": 1677029880,
+    "coverSrc": {
+      "xs": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093050/xs/139abd3e1de106d68099c53084a83420.jpg",
+        "width": 100,
+        "height": 56
+      },
+      "s": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093050/s/139abd3e1de106d68099c53084a83420.jpg",
+        "width": 180,
+        "height": 101
+      },
+      "m": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093050/m/139abd3e1de106d68099c53084a83420.jpg",
+        "width": 380,
+        "height": 214
+      },
+      "l": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093050/l/139abd3e1de106d68099c53084a83420.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093050/xl/139abd3e1de106d68099c53084a83420.jpg",
+        "width": 960,
+        "height": 539
+      },
+      "xxl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093050/xxl/139abd3e1de106d68099c53084a83420.jpg",
+        "width": 1080,
+        "height": 607
+      }
+    },
+    "abTesting": null,
+    "categoryId": 827,
+    "columnists": null,
+    "magazine": null,
+    "fundCategoryAbbr": [
+      {
+        "name": "產業-科技",
+        "categoryAbbrId": "C37"
+      }
+    ],
+    "fbShare": 0,
+    "fbComment": 0,
+    "fbCommentPluginCount": 0,
+    "categoryName": "美股雷達"
+  },
+  {
+    "isOutsource": 0,
+    "content": "&lt;p&gt;美股重挫，台股今 (22) 日也難逃殺機，雖然以下跌 21.83 點、開在 15541.17 點，但在台積電開盤大跌 10 元，金控雙雄摜壓迫使金融指數跌破月線之下，加權指數跌點快速擴大，早盤重挫超過 200 點。&lt;/p&gt;\n\n&lt;p&gt;蘋概三王中，因台積電 ADR 跌 2.73%、收 87.64 美元，台積電現貨以 506 元開出、下跌 10 元；大立光開低 25 元、開在 2235 元；鴻海則以 102 元開出，下跌 0.5 元。其餘權值股也幾乎一片綠油油，聯電跌逾 2%，矽力 - KY 下挫超過 3%，聯發科、日月光投控、台塑四寶、鋼鐵股等很疲弱。&lt;/p&gt;\n\n&lt;p&gt;金融股也賣壓沉重，國泰金、富邦金雙雙跌超過 1%，國票金大跌超過 2%，高雄銀、上海商銀、三商壽、聯邦銀、台新金、兆豐金等都連袂走低，摜壓金融指數最低跌到 1556.34 點，一度跌破月線。&lt;/p&gt;\n\n&lt;p&gt;今天比較抗跌的是部分生技股、吃喝玩樂股，此外，資金也再轉進軍工股，雷虎拉出第二根漲停，雖然漲停未鎖住，但仍在高檔盤旋，宇瞻、八貫、精剛、茂訊、台船、翔名、拓凱、寶一、千附等都逆勢走揚 1-2% 不等。&lt;/p&gt;\n\n&lt;p&gt;整體來說，台股今日早盤最低一度打到 15354.47 點，跌破月線，台股目前短均糾結，且五日線向下，不利多方走勢，資金輪動快速下，建議縮短操作週期因應。&lt;/p&gt;\n",
+    "hasCoverPhoto": 1,
+    "isCategoryHeadline": 1,
+    "isIndex": 1,
+    "newsId": 5093198,
+    "otherProduct": [
+      "TWS:TSE01:INDEX:COMMON"
+    ],
+    "payment": 0,
+    "source": "",
+    "stock": [],
+    "summary": "台積電跌 10 元 金融指跌破月線 台股重挫 200 點",
+    "title": "台積電跌10元 金融指跌破月線 台股重挫200點",
+    "video": "",
+    "publishAt": 1677029568,
+    "coverSrc": {
+      "xs": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093198/xs/405f3a368d214bf3e827326b0a2190bb.jpg",
+        "width": 100,
+        "height": 56
+      },
+      "s": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093198/s/405f3a368d214bf3e827326b0a2190bb.jpg",
+        "width": 180,
+        "height": 101
+      },
+      "m": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093198/m/405f3a368d214bf3e827326b0a2190bb.jpg",
+        "width": 380,
+        "height": 214
+      },
+      "l": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093198/l/405f3a368d214bf3e827326b0a2190bb.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093198/l/405f3a368d214bf3e827326b0a2190bb.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xxl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5093198/l/405f3a368d214bf3e827326b0a2190bb.jpg",
+        "width": 640,
+        "height": 360
+      }
+    },
+    "abTesting": null,
+    "categoryId": 827,
+    "columnists": null,
+    "magazine": null,
+    "fundCategoryAbbr": [],
+    "fbShare": 0,
+    "fbComment": 0,
+    "fbCommentPluginCount": 0,
+    "categoryName": "台股新聞"
+  },
+  {
+    "isOutsource": 0,
     "content": "&lt;p&gt;111 年農曆年封關在 14932，對 12 天長假投資人非常保守，但我建議讀者持股五成抱股過年且認為低本益比業績股及電動車不管美國股市農曆年期間漲或著跌，這些股票都易漲難跌，果然農曆年期間國際股市大漲，在新春開紅盤 (1/30) 狂飆 560 點以 15493 突破年線，1/31 回檔 228 點，至 2/1 收 15420 確定站穩年線的 15359，就維持高姿態的震盪趨堅走勢，一直站穩年線，到 2/14 收 15645 穩穩地站上年線的 15260，尤其特斯拉從 122.4 大漲到高點 214，漲幅 74.8%，所以電動車是今年的主流。回檔時可選擇低本益比股: 被動元件、封測、景氣復甦的部分 IC 設計 (聯詠、聯陽、創意) 及電動車 (胡連、貿聯、同致、騰輝、台半、興勤、世德、建和興、希華、金居、聚和&hellip;) 的最佳買點，盤勢將呈現選股不選市的走法，也就是 (A) 業績真正好低本益比高殖利率及今年業績比去年成長的電動車、IP 股、銅箔基板，網通將走主升段，至於 (B) 其他類股出現或多或少的中級反彈，我認為 (A) 呈現良性輪漲會越走越高，而 (B) 短中線將要回檔，但非一直跌，直到 KD 指標到達低檔才會有像樣的反彈，下周本益比非常低業績非常好的胡連、貿聯、興勤、建和興、同致及被動元件國巨、立隆、立敦、凱美、光頡、矽格、欣銓、台星科、頎邦、京元電、力成等 KD 已經修正到低檔，將會出現最佳買點&lt;/p&gt;\n\n&lt;p&gt;&lt;em&gt;景氣落底領先復甦的被動元件: 立隆&lt;/em&gt;&lt;/p&gt;\n\n&lt;p&gt;去年消費性電子大衰退，絕大多數做消費電子的被動元件，業績都出現大衰退如華新科去年前三季 eps 4.4 年減 69.4%，但轉型到車用電動車比例佔營收約 20% 今年成長到 25%、醫療約 4.2%、網通約 11.7%、電源及綠能約 13.8%、EMS 和代理商約 34.3%，消費電子只佔 11%，若把走下坡的消費電子及毛利率普通的 EMS 代理商約佔 45.3%，屬高毛率的部門佔營收比例逾 50% 以上，所以立隆業績卻有不一樣的走勢，去年前三季 eps6.35 年增 41.1 %(國巨切入車電及公共、立敦切入車電、電動車、網通一樣業績都成長)，就光頡去年前三季 eps 4.3 股價 57.2、凱美 4.74 股價 62.6，立隆 6.35 股價 60.8 相較凸顯立隆低估，今年電動車年增 38%、網通業績還不錯，今年只有消費電子還衰退，但不是 Q1 就是 Q2 落底，其他的部門都不錯，估去年 eps 7.5 元，配股 3.5 元殖利率約 5.8%，估今年 eps 5~6 元相當好，讀者自行參考圖中資料已站穩年線開始走主升段。&lt;/p&gt;\n\n&lt;figure&gt;&lt;img data-height=&quot;372&quot; data-mime=&quot;image/jpeg&quot; data-ratio=&quot;2.043010752688172&quot; data-src-m=&quot;https://cimg.cnyes.cool/prod/news/5089552/m/675c49149f711ba518a7ce3408775ced.jpg&quot; data-width=&quot;760&quot; src=&quot;https://cimg.cnyes.cool/prod/news/5089552/l/675c49149f711ba518a7ce3408775ced.jpg&quot; srcset=&quot;https://cimg.cnyes.cool/prod/news/5089552/l/675c49149f711ba518a7ce3408775ced.jpg 1x,https://cimg.cnyes.cool/prod/news/5089552/xl/675c49149f711ba518a7ce3408775ced.jpg 2x,https://cimg.cnyes.cool/prod/news/5089552/xxl/675c49149f711ba518a7ce3408775ced.jpg 3x&quot;&gt;&lt;/figure&gt;\n\n&lt;p&gt;【本文未完，全文詳情及圖表 請見完整內容萬寶週刊 1529 期】&lt;br&gt;\n更多精彩文章延伸閱讀：&lt;a href=&quot;https://www.marboweekly.com.tw/index.html&quot;&gt;點我看更多&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;◎台股照明燈：景氣領先復甦的被動元件展開主升段&lt;br&gt;\n◎投資總舖師：車用電子不畏市場動盪&lt;br&gt;\n◎高手選股：去中化趨勢明確！晶睿受惠&lt;br&gt;\n◎投資叫小赫：巨有科第二波主升段買點即將浮現&lt;br&gt;\n◎期蹟再現：ChatGPT &nbsp;將帶動那些股爆漲?&lt;/p&gt;\n\n&lt;p class=&quot;warning&quot;&gt;本公司所推薦分析之個別有價證券&lt;br&gt;\n無不當之財務利益關係 以往之績效不保證未來獲利&lt;br&gt;\n投資人應獨立判斷 審慎評估並自負投資風險&lt;br&gt;\n&nbsp;&lt;/p&gt;\n",
     "hasCoverPhoto": 0,
     "isCategoryHeadline": 1,
@@ -327,21 +1875,26 @@
   },
   {
     "isOutsource": 0,
-    "content": "&lt;p&gt;關注台股盤前要聞重點，台股 1 月強勢上漲，帶動券商獲利回升，稅後純益達&nbsp; 43.98 億元，年增 3.7 倍；臺慶科近期傳出通過中國電動車電池大廠認證，完成產線審查，在掌握多家關鍵車廠訂單下，網通需求也持穩，今年營運將重返成長。以下是今 (22) 日必看重要財經新聞。&lt;/p&gt;\n\n&lt;hr&gt;\n&lt;h6&gt;台股回神 券商 1 月獲利 43.98 億元 年增逾 3.7 倍&lt;/h6&gt;\n\n&lt;p&gt;台股 1 月在外資回補助攻下，帶動大盤指數走揚，證券商獲利也跟著回神，根據證交所統計，1 月全體券商稅後純益 43.98 億元，較去 (2022) 年 12 月增加約 9.76%，比起去年同期更大幅增加 3.73 倍。&lt;a href=&quot;https://news.cnyes.com/news/id/5092873&quot;&gt;閱讀全文...&lt;/a&gt;&lt;/p&gt;\n\n&lt;h6&gt;臺慶科車用添新動能 取得陸系電動車電池大廠認證&lt;/h6&gt;\n\n&lt;p&gt;電感廠臺慶科 (&lt;a href=&quot;https://invest.cnyes.com/twstock/TWS/3357&quot;&gt;3357-TW&lt;/a&gt;) 積極衝刺車用布局，近期再傳好消息，通過中國電動車電池大廠認證，完成產線審查，加上既有美系、陸系電動車龍頭，以及歐洲豪車大廠等客戶出貨暢旺，掌握多家關鍵車廠訂單，且網通需求也持穩，帶動今年營運重返成長。&lt;a href=&quot;https://news.cnyes.com/news/id/5092274&quot;&gt;閱讀全文...&lt;/a&gt;&lt;/p&gt;\n\n&lt;h6&gt;水情吃緊 台南 3 月轉亮橙燈、工業用戶節水 10%&lt;/h6&gt;\n\n&lt;p&gt;南部水情嚴峻，旱災經濟部災害緊急應變小組工作會報決議，自 3 月 1 日起台南地區水情將調整為減量供水「橙燈」，同時為能延長穩定供水，台水表示，安平、官田、永康、新營、台南科技等工業區以及南科台南園區，將由國科會及經濟部工業局負責，採總量管制方式實施節水 10%。&lt;a href=&quot;https://news.cnyes.com/news/id/5092450?exp=a&quot;&gt;閱讀全文...&lt;/a&gt;&lt;/p&gt;\n\n&lt;h6&gt;世界先進今年資本支出降至 100 億元 較去年大減近 5 成&lt;/h6&gt;\n\n&lt;p&gt;晶圓代工廠世界先進 (&lt;a href=&quot;https://invest.cnyes.com/twstock/TWS/5347&quot;&gt;5347-TW&lt;/a&gt;) 昨 (21) 日召開法說，營運長尉濟時表示，因應半導體景氣進入修正循環，今年資本支出將降至約 100 億元，較去年大減 48.45%。&lt;a href=&quot;https://news.cnyes.com/news/id/5092357?exp=a&quot;&gt;閱讀全文...&lt;/a&gt;&lt;/p&gt;\n\n&lt;h6&gt;網家 Q4 旺季轉盈 終結連 4 損 全年每股仍虧 0.42 元&lt;/h6&gt;\n\n&lt;p&gt;網家 (&lt;a href=&quot;https://invest.cnyes.com/twstock/TWS/8044&quot;&gt;8044-TW&lt;/a&gt;) 昨&nbsp;(21) 日公布去 (2022) 年財報，單季稅後純益 818 萬元，終結連 4 季虧損，每股純益 (EPS)0.06 元，在電商傳統旺季期間營運逐漸轉強，但全年稅後仍虧損 5279 萬元，每股虧損 0.42 元。&lt;a href=&quot;https://news.cnyes.com/news/id/5092449?exp=a&quot;&gt;閱讀全文...&lt;/a&gt;&lt;/p&gt;\n\n&lt;h6&gt;光寶科去年賺逾半個股本 Q4 擬配息 3 元&lt;/h6&gt;\n\n&lt;p&gt;光寶科 (230-TW) 昨&nbsp;(21) 日公布去年第四季財報，並召開法說會，公司表示，受惠雲端電源、車用電子出貨帶動，去年稅後純益 141.5 億元，年增 2%，每股純益 6.19 元；董事會並決議去年第四季擬配息 3 元。&lt;a href=&quot;https://news.cnyes.com/news/id/5092516&quot;&gt;閱讀全文...&lt;/a&gt;&lt;/p&gt;\n\n&lt;h6&gt;台幣貶 4.4 分收 30.415 元創 1 個多月新低 成交量仍低迷&lt;/h6&gt;\n\n&lt;p&gt;美股周一休市，台北股匯昨&nbsp;(21) 日走勢震盪，&lt;a href=&quot;https://invest.cnyes.com/forex/detail/usdtwd&quot;&gt;新台幣&lt;/a&gt;兌美元匯率再度失守 30.4 元關卡，最低來到 30.423 元，終場貶值 4.4 分，以 30.415 元作收，創下 1 個多月來的收盤新低，台北及元太外匯市場總成交值略增至 12.89 億美元，但交投仍顯清淡，市場關注美國 PCE、Markit PMI 最新數據及聯準會 2 月會議紀要。&lt;a href=&quot;https://news.cnyes.com/news/id/5092559&quot;&gt;閱讀全文...&lt;/a&gt;&lt;/p&gt;\n",
+    "content": "&lt;p&gt;關注台股盤前要聞重點，台股 1 月強勢上漲，帶動券商獲利回升，稅後純益達&nbsp; 43.98 億元，年增 3.7 倍；臺慶科近期傳出通過中國電動車電池大廠認證，完成產線審查，在掌握多家關鍵車廠訂單下，網通需求也持穩，今年營運將重返成長。以下是今 (22) 日必看重要財經新聞。&lt;/p&gt;\n\n&lt;hr&gt;\n&lt;h6&gt;台股回神 券商 1 月獲利 43.98 億元 年增逾 3.7 倍&lt;/h6&gt;\n\n&lt;p&gt;台股 1 月在外資回補助攻下，帶動大盤指數走揚，證券商獲利也跟著回神，根據證交所統計，1 月全體券商稅後純益 43.98 億元，較去 (2022) 年 12 月增加約 9.76%，比起去年同期更大幅增加 3.73 倍。&lt;a href=&quot;https://news.cnyes.com/news/id/5092873&quot;&gt;閱讀全文...&lt;/a&gt;&lt;/p&gt;\n\n&lt;h6&gt;臺慶科車用添新動能 取得陸系電動車電池大廠認證&lt;/h6&gt;\n\n&lt;p&gt;電感廠臺慶科 (&lt;a href=&quot;https://invest.cnyes.com/twstock/TWS/3357&quot;&gt;3357-TW&lt;/a&gt;) 積極衝刺車用布局，近期再傳好消息，通過中國電動車電池大廠認證，完成產線審查，加上既有美系、陸系電動車龍頭，以及歐洲豪車大廠等客戶出貨暢旺，掌握多家關鍵車廠訂單，且網通需求也持穩，帶動今年營運重返成長。&lt;a href=&quot;https://news.cnyes.com/news/id/5092274&quot;&gt;閱讀全文...&lt;/a&gt;&lt;/p&gt;\n\n&lt;h6&gt;水情吃緊 台南 3 月轉亮橙燈、工業用戶節水 10%&lt;/h6&gt;\n\n&lt;p&gt;南部水情嚴峻，旱災經濟部災害緊急應變小組工作會報決議，自 3 月 1 日起台南地區水情將調整為減量供水「橙燈」，同時為能延長穩定供水，台水表示，安平、官田、永康、新營、台南科技等工業區以及南科台南園區，將由國科會及經濟部工業局負責，採總量管制方式實施節水 10%。&lt;a href=&quot;https://news.cnyes.com/news/id/5092450?exp=a&quot;&gt;閱讀全文...&lt;/a&gt;&lt;/p&gt;\n\n&lt;h6&gt;世界先進今年資本支出降至 100 億元 較去年大減近 5 成&lt;/h6&gt;\n\n&lt;p&gt;晶圓代工廠世界先進 (&lt;a href=&quot;https://invest.cnyes.com/twstock/TWS/5347&quot;&gt;5347-TW&lt;/a&gt;) 昨 (21) 日召開法說，營運長尉濟時表示，因應半導體景氣進入修正循環，今年資本支出將降至約 100 億元，較去年大減 48.45%。&lt;a href=&quot;https://news.cnyes.com/news/id/5092357?exp=a&quot;&gt;閱讀全文...&lt;/a&gt;&lt;/p&gt;\n\n&lt;h6&gt;網家 Q4 旺季轉盈 終結連 4 損 全年每股仍虧 0.42 元&lt;/h6&gt;\n\n&lt;p&gt;網家 (&lt;a href=&quot;https://invest.cnyes.com/twstock/TWS/8044&quot;&gt;8044-TW&lt;/a&gt;) 昨&nbsp;(21) 日公布去 (2022) 年財報，單季稅後純益 818 萬元，終結連 4 季虧損，每股純益 (EPS)0.06 元，在電商傳統旺季期間營運逐漸轉強，但全年稅後仍虧損 5279 萬元，每股虧損 0.42 元。&lt;a href=&quot;https://news.cnyes.com/news/id/5092449?exp=a&quot;&gt;閱讀全文...&lt;/a&gt;&lt;/p&gt;\n\n&lt;h6&gt;光寶科去年賺逾半個股本 Q4 擬配息 3 元&lt;/h6&gt;\n\n&lt;p&gt;光寶科 (2301-TW) 昨&nbsp;(21) 日公布去年第四季財報，並召開法說會，公司表示，受惠雲端電源、車用電子出貨帶動，去年稅後純益 141.5 億元，年增 2%，每股純益 6.19 元；董事會並決議去年第四季擬配息 3 元。&lt;a href=&quot;https://news.cnyes.com/news/id/5092516&quot;&gt;閱讀全文...&lt;/a&gt;&lt;/p&gt;\n\n&lt;h6&gt;台幣貶 4.4 分收 30.415 元創 1 個多月新低 成交量仍低迷&lt;/h6&gt;\n\n&lt;p&gt;美股周一休市，台北股匯昨&nbsp;(21) 日走勢震盪，&lt;a href=&quot;https://invest.cnyes.com/forex/detail/usdtwd&quot;&gt;新台幣&lt;/a&gt;兌美元匯率再度失守 30.4 元關卡，最低來到 30.423 元，終場貶值 4.4 分，以 30.415 元作收，創下 1 個多月來的收盤新低，台北及元太外匯市場總成交值略增至 12.89 億美元，但交投仍顯清淡，市場關注美國 PCE、Markit PMI 最新數據及聯準會 2 月會議紀要。&lt;a href=&quot;https://news.cnyes.com/news/id/5092559&quot;&gt;閱讀全文...&lt;/a&gt;&lt;/p&gt;\n",
     "hasCoverPhoto": 1,
     "isCategoryHeadline": 1,
     "isIndex": 1,
     "newsId": 5092435,
     "otherProduct": [
+      "TWS:2301:STOCK:COMMON",
       "TWS:3357:STOCK:COMMON",
       "TWS:3035:STOCK:COMMON",
+      "TWS:5347:STOCK:COMMON",
+      "TWS:8044:STOCK:COMMON",
       "FX:USDTWD:FOREX:COMMON"
     ],
     "payment": 0,
     "source": "",
     "stock": [
       "3357",
-      "3035"
+      "5347",
+      "8044",
+      "2301"
     ],
     "summary": "關注台股盤前要聞重點，台股 1 月強勢上漲，帶動券商獲利回升，稅後純益達  43.98 億元，年增 3.7 倍；臺慶科近期傳出通過中國電動車電池大廠認證，完成產線審查，在掌握多家關鍵車廠訂單下，網通需求也持穩",
     "title": "〈台股盤前要聞〉券商1月獲利激增、臺慶科布局車用報捷 今日必看財經新聞",
@@ -389,6 +1942,11 @@
     "fbCommentPluginCount": 0,
     "market": [
       {
+        "code": "2301",
+        "name": "光寶科",
+        "symbol": "TWS:2301:STOCK"
+      },
+      {
         "code": "3357",
         "name": "臺慶科",
         "symbol": "TWS:3357:STOCK"
@@ -397,6 +1955,16 @@
         "code": "3035",
         "name": "智原",
         "symbol": "TWS:3035:STOCK"
+      },
+      {
+        "code": "5347",
+        "name": "世界",
+        "symbol": "TWS:5347:STOCK"
+      },
+      {
+        "code": "8044",
+        "name": "網家",
+        "symbol": "TWS:8044:STOCK"
       }
     ],
     "categoryName": "台股新聞"
@@ -874,1256 +2442,6 @@
         "src": "https://cimg.cnyes.cool/prod/news/5092873/xl/99dfa3d359960efdd7b17ad978065ccf.jpg",
         "width": 960,
         "height": 539
-      }
-    },
-    "abTesting": null,
-    "categoryId": 827,
-    "columnists": null,
-    "magazine": null,
-    "fundCategoryAbbr": [],
-    "fbShare": 0,
-    "fbComment": 0,
-    "fbCommentPluginCount": 0,
-    "categoryName": "台股新聞"
-  },
-  {
-    "isOutsource": 0,
-    "content": "&lt;p&gt;矽智財業者 M31(6643-TW)、ASIC 廠巨有科技 (8227-TW) 今 (21) 日雙雙公告 1 月自結，由於營收規模與上月相比，兩家分別呈現收斂、擴大，M31 營運也較上月轉為虧損，巨有科技則轉為獲利，每股稅後純益分別為 - 0.3 元、0.25 元。&lt;/p&gt;\n\n&lt;p&gt;M31 1 月因進入授權金認列淡季，營收約 9100 萬元、跌破 1 億元，寫下 10 個月來低點，月減 50.88%，年增 12.42%，稅後虧損 900 萬元，較上月與去年同期轉虧，每股稅後虧損 0.3 元。&lt;/p&gt;\n\n&lt;p&gt;巨有科技 1 月營收 5483 萬元，月增 27.96%，年增 8.57%，稅後純益 935 億元，較上月轉盈，年增 26%，每股稅後純益 0.25 元。&lt;/p&gt;\n\n&lt;p&gt;展望後市，市場看好，隨著 AI 聊天機器人 ChatGPT 發酵，有越來越多競爭者投入其中，將帶動高效能運算晶片 (HPC) 需求，由於 M31 與巨有科技皆以深耕先進製程，分別具有自家 IP 與 ASIC 量產技術，可望跟著趨勢一同成長。&lt;/p&gt;\n",
-    "hasCoverPhoto": 1,
-    "isCategoryHeadline": 1,
-    "isIndex": 1,
-    "newsId": 5092856,
-    "otherProduct": [
-      "TWS:6643:STOCK:COMMON",
-      "TWS:8227:STOCK:COMMON",
-      "TWG:8227:STOCK:COMMON"
-    ],
-    "payment": 0,
-    "source": "",
-    "stock": [
-      "6643",
-      "8227"
-    ],
-    "summary": "矽智財業者 M31(6643-TW)、ASIC 廠巨有科技 (8227-TW) 今 (21) 日雙雙公告 1 月自結，由於營收規模與上月相比，兩家分別呈現收斂、擴大，M31 營運也較上月轉為虧損，巨有科技則轉為獲利，每股稅後純益分別為 - 0",
-    "title": "M31 1月營運轉虧 巨有科技轉盈每股賺0.25元",
-    "video": "",
-    "publishAt": 1676980970,
-    "coverSrc": {
-      "xs": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092856/xs/a5ca7b22e9f13b4ec66054df1a8ed596.jpg",
-        "width": 100,
-        "height": 56
-      },
-      "s": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092856/s/a5ca7b22e9f13b4ec66054df1a8ed596.jpg",
-        "width": 180,
-        "height": 101
-      },
-      "m": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092856/m/a5ca7b22e9f13b4ec66054df1a8ed596.jpg",
-        "width": 380,
-        "height": 214
-      },
-      "l": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092856/l/a5ca7b22e9f13b4ec66054df1a8ed596.jpg",
-        "width": 640,
-        "height": 360
-      },
-      "xl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092856/xl/a5ca7b22e9f13b4ec66054df1a8ed596.jpg",
-        "width": 960,
-        "height": 540
-      },
-      "xxl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092856/xxl/a5ca7b22e9f13b4ec66054df1a8ed596.jpg",
-        "width": 1080,
-        "height": 608
-      }
-    },
-    "abTesting": null,
-    "categoryId": 827,
-    "columnists": null,
-    "magazine": null,
-    "fundCategoryAbbr": [],
-    "fbShare": 0,
-    "fbComment": 0,
-    "fbCommentPluginCount": 0,
-    "market": [
-      {
-        "code": "6643",
-        "name": "M31",
-        "symbol": "TWS:6643:STOCK"
-      },
-      {
-        "code": "8227",
-        "name": "巨有科技",
-        "symbol": "TWG:8227:STOCK"
-      },
-      {
-        "code": "8227",
-        "name": "巨有科技",
-        "symbol": "TWG:8227:STOCK"
-      }
-    ],
-    "categoryName": "台股新聞"
-  },
-  {
-    "isOutsource": 0,
-    "content": "&lt;p&gt;富邦證券、日盛證券與富邦期貨、日盛期貨合併案 2 月 17 日已經金管會核准，預訂 4 月 9 日為合併基準日，合併後分別以富邦證券及富邦期貨為存續公司。而因應合併需要，雙證、雙期分別預計於 4 月 7、8 日停機進行系統轉換作業。&lt;/p&gt;\n\n&lt;p&gt;富邦證券及富邦期貨表示，日盛證券及日盛期貨為歷史悠久的券商與期貨商，日盛證券開業已逾 60 年，客戶穩定度高，雙證合併後整體客戶數將超過 250 萬戶；日盛期貨成立迄今近 30 年時間，尤其在程式交易及智慧單之網路下單具優質研發實力。透過雙證雙期之雙方優勢互補，預期合併後可提升整體業務規模及市佔率，亦有助於期貨提升交易策略及程式交易之軟實力。&lt;/p&gt;\n\n&lt;p&gt;此外，富邦證券及富邦期貨為富邦集團成員，透過整合與運用富邦集團多元資源，相信能為日盛證券及日盛期貨客戶創造嶄新的金融體驗與服務。&lt;/p&gt;\n\n&lt;p&gt;為因應合併需要，富邦證券及日盛證券預計於 4 月 7 日 16 點 30 分、富邦期貨及日盛期貨則於 4 月 8 日 6 點停機進行系統轉換作業，預計於 4 月 9 日 23 點完成系統轉換並啟動開機。&lt;/p&gt;\n\n&lt;p&gt;為確保客戶權益，雙證及雙期均規劃進行 4 次系統平行測試、切轉演練及多次壓力測試，力求在安全、準確、穩定及高效的原則下完成系統合併。所有系統轉換、停機等時程除於各電子平台公告外，將連同合併後客戶權益與系統平台功能異動，同時公告於日盛證券、日盛期貨、富邦證券及富邦期貨官網特別設立之「合併專區」，協助雙方客戶查詢合併相關資訊。&lt;/p&gt;\n",
-    "hasCoverPhoto": 1,
-    "isCategoryHeadline": 1,
-    "isIndex": 1,
-    "newsId": 5092858,
-    "otherProduct": [],
-    "payment": 0,
-    "source": "",
-    "stock": [],
-    "summary": "富邦、日盛證券期貨 4/9 正式合併 停機系統轉換時間出爐",
-    "title": "富邦、日盛證券期貨4/9正式合併 停機系統轉換時間出爐",
-    "video": "",
-    "publishAt": 1676980486,
-    "coverSrc": {
-      "xs": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092858/xs/c153b660397d4b64412709778d613bff.jpg",
-        "width": 100,
-        "height": 56
-      },
-      "s": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092858/s/c153b660397d4b64412709778d613bff.jpg",
-        "width": 180,
-        "height": 101
-      },
-      "m": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092858/m/c153b660397d4b64412709778d613bff.jpg",
-        "width": 380,
-        "height": 213
-      },
-      "l": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092858/l/c153b660397d4b64412709778d613bff.jpg",
-        "width": 640,
-        "height": 359
-      },
-      "xl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092858/xl/c153b660397d4b64412709778d613bff.jpg",
-        "width": 960,
-        "height": 539
-      },
-      "xxl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092858/xl/c153b660397d4b64412709778d613bff.jpg",
-        "width": 960,
-        "height": 539
-      }
-    },
-    "abTesting": null,
-    "categoryId": 827,
-    "columnists": null,
-    "magazine": null,
-    "fundCategoryAbbr": [],
-    "fbShare": 0,
-    "fbComment": 0,
-    "fbCommentPluginCount": 0,
-    "categoryName": "台股新聞"
-  },
-  {
-    "isOutsource": 0,
-    "content": "&lt;p&gt;創新板掛牌條件再鬆綁，證交所今 (21) 日召開董事會決議，子公司申請創新板上市時，母公司降低持有子公司持股比重應該從現行的 70% 以下調整為 80% 以下，減輕母公司釋股壓力，提高子公司到創新板掛牌的誘因。&lt;/p&gt;\n\n&lt;p&gt;根據規定，目前屬於母子公司關係的子公司，在申請創新板上市時，母公司必須比照一般板申請上市規定，降低對子公司持股至 70%，轉板後還要提撥至少 10% 的持股辦理公開銷售。&lt;/p&gt;\n\n&lt;p&gt;證交所表示，考量創新板應提撥股份公開承銷比率及內部人以外的持股總額比例都比一般板還低，因此以差異性釋股的規範方式應屬可行，因此將釋股比重從 70% 以下調整為 80% 以下，降低母公司因子公司到創新板掛牌的釋股壓力，盼能提升子公司到創新板掛牌的誘因。&lt;/p&gt;\n\n&lt;p&gt;而甫通過創新板審議的台灣虎航 (6757-TW)，其母公司為上市公司華航 (2610-TW)，符合母公司的子公司申請創新板掛牌的情況，是否可適用剛通過的「鬆綁釋」股規定？&lt;/p&gt;\n\n&lt;p&gt;對此，證交所主管表示，今天剛通過的修正草案，仍需報請主管機關通過才會生效，以時間點來看台灣虎航應該無法適用，必須是之後申請創新板的公司才能適用。&lt;/p&gt;\n\n&lt;p&gt;另外，為配合未來將開放創新板初次上市承銷案件，得採洽商銷售方式配售給基石投資人，考量獲配售的基石投資人對創新事業具一定的了解程度同時具有風險承擔能力，因此增訂相關規定，明訂洽商銷售取得創新板股票的法人為合格投資人。&lt;/p&gt;\n",
-    "hasCoverPhoto": 1,
-    "isCategoryHeadline": 1,
-    "isIndex": 1,
-    "newsId": 5092847,
-    "otherProduct": [
-      "TWS:2610:STOCK:COMMON",
-      "TWG:6757:STOCK:COMMON"
-    ],
-    "payment": 0,
-    "source": "",
-    "stock": [],
-    "summary": "證交所今 (21) 日召開董事會決議，調整母公司的子公司申請創新板上市時，母公司降低持有子公司持股比重應該從現行的 70% 以下調整為 80% 以下，減輕母公司釋股壓力，提高子公司到創新板掛牌的誘因。",
-    "title": "提高子公司到創新板掛牌誘因 證交所鬆綁母公司釋股規定",
-    "video": "",
-    "publishAt": 1676979965,
-    "coverSrc": {
-      "xs": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092847/xs/08755c71118858390ca9c328817c389e.jpg",
-        "width": 100,
-        "height": 56
-      },
-      "s": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092847/s/08755c71118858390ca9c328817c389e.jpg",
-        "width": 180,
-        "height": 101
-      },
-      "m": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092847/m/08755c71118858390ca9c328817c389e.jpg",
-        "width": 380,
-        "height": 214
-      },
-      "l": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092847/l/08755c71118858390ca9c328817c389e.jpg",
-        "width": 640,
-        "height": 360
-      },
-      "xl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092847/xl/08755c71118858390ca9c328817c389e.jpg",
-        "width": 960,
-        "height": 540
-      },
-      "xxl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092847/xl/08755c71118858390ca9c328817c389e.jpg",
-        "width": 960,
-        "height": 540
-      }
-    },
-    "abTesting": null,
-    "categoryId": 827,
-    "columnists": null,
-    "magazine": null,
-    "fundCategoryAbbr": [],
-    "fbShare": 0,
-    "fbComment": 0,
-    "fbCommentPluginCount": 0,
-    "market": [
-      {
-        "code": "2610",
-        "name": "華航",
-        "symbol": "TWS:2610:STOCK"
-      },
-      {
-        "code": "6757",
-        "name": "台灣虎航",
-        "symbol": "TWG:6757:STOCK"
-      }
-    ],
-    "categoryName": "台股新聞"
-  },
-  {
-    "isOutsource": 0,
-    "content": "&lt;p&gt;美股昨日休市，但前天收得並不漂亮，所以今天觀望的整理盤繼續，可以看見指數在平盤位置上下整理，始終找不到一個突破點，這樣的情況我之前就已經在 LINE 多次預測，有興趣的投資朋友可以加入：（&lt;a href=&quot;https://lin.ee/cFL6Qcs&quot;&gt;https://lin.ee/cFL6Qcs&lt;/a&gt;），每天盤前都會有精準預測，而會有這樣的情況，主要是因為美國通膨、升息問題始終在糾結著，繼續升兩碼的機率我認為不低，屆時可能還會有一波恐慌賣壓，但恐慌不會持續太久，因為投資人已經漸漸習以為常。&lt;/p&gt;\n\n&lt;p&gt;整體上而言，我認為盤勢還是走「緩多」的，不會突然急漲，但是慢慢站回萬六應該是沒有問題，今年的盤會比全年要好做一點，在這種時候準備好自己的投資池非常重要。&lt;/p&gt;\n\n&lt;p&gt;惠珊老師從今年開紅盤公布投資池以來，已經多次驗證投資池股票強勢，從最早【電動車】華孚 (6235-TW) 就一路長紅，而華孚今天也繼續上漲 5%，突破前高來到最高位置，關於這一檔我也會在 LINE 持續分析，今天先不看它，來看看其他優質好股票。&lt;/p&gt;\n\n&lt;p&gt;威盛 (2388-TW) 在元宇宙領域依然享有熱度。根據美國 TrendForce 研調機構數據顯示，2021 年全球 VR（虛擬實境）應用內容市場規模達 21.6 億美元，預計 2025 年將高達 83.1 億美元，年複合成長率 40％相當驚人，而這也已經反應在威盛的營運上，威盛去年營收兩度（9 月、11 月）超越十億元的大關，這個表現甩脫了以往「威盛家族沒有基本面」的刻板印象，成為確確實實獲利的公司，今年仍然有不錯的前景性，目前仍在我的元宇宙觀察名單內，本日上漲 6%，有即將脫離底部的跡象。&lt;/p&gt;\n\n&lt;p&gt;創意 (3443-TW) 其實我有點不想再提，因為它實在太強了，我能講得東西前面幾篇就被講完了。創意做為台積電 (2330-TW) 的子公司，雖然台積電最近雜音不斷，但卻沒有影響到創意的強勢性，創意投入於高階製程 (5 奈米、3 奈米) 及先進封裝 CoWoS(基板上晶圓上晶片封裝)的研發有成，而最廣泛的商品 7 奈米與先進封裝 CoWoS 製程，則主要用在 AI、HPC 與 5G 晶片上，該公司涉獵的題材都屬於尖端科技，在科技不斷發展的當下，必然是走在最前面的公司之一，而因為其產業入門門檻較高，難以被其他公司追上，之後也會繼續強勢。&lt;/p&gt;\n\n&lt;p&gt;中興電 (1513-TW) 做為我們投資池【儲能節電】系列近期也有所表現，從營運面上來看，中興電先前取得台電及民間企業超高壓氣體絕緣開關（GIS）182 億元訂單，加上統包工程，在手訂單達 272 億元，今年營運基本上可以保底無慮，而業績表現上也已經開始反應，1 月營收 17.76 億元，月增 12.85%，年成長 33.80% 創同期新高。&lt;/p&gt;\n\n&lt;p&gt;由於字數有限，更多台股產業最全面、最完整的解析，我都會持續在 LINE 當中提及，投資人想免費索取請加 LINE︰@588vip 並留言「我想得到惠珊老師的最新分析」，將會有專人為您服務。&lt;/p&gt;\n\n&lt;p&gt;專人諮詢服務｜02-25415555&lt;br&gt;\nLINE ID｜&lt;a href=&quot;https://lin.ee/cFL6Qcs&quot;&gt;https://lin.ee/cFL6Qcs&lt;/a&gt;&lt;br&gt;\nFB｜&lt;a href=&quot;https://bit.ly/3F3elUD&quot;&gt;https://bit.ly/3F3elUD&lt;/a&gt;&lt;br&gt;\nYoutube｜&lt;a href=&quot;https://bit.ly/3mYYyPL&quot;&gt;https://bit.ly/3mYYyPL&lt;/a&gt;&lt;br&gt;\n諮詢表單｜&lt;a href=&quot;https://forms.gle/QZYzCJFe5445ZB8W7&quot;&gt;https://forms.gle/QZYzCJFe5445ZB8W7&lt;/a&gt;&lt;/p&gt;\n\n&lt;figure&gt;&lt;img data-height=&quot;428&quot; data-mime=&quot;image/jpeg&quot; data-ratio=&quot;1.7757009345794392&quot; data-src-m=&quot;https://cimg.cnyes.cool/prod/news/5092332/m/a907d8ecac6e33f874bd843a7789132b.jpg&quot; data-width=&quot;760&quot; src=&quot;https://cimg.cnyes.cool/prod/news/5092332/l/a907d8ecac6e33f874bd843a7789132b.jpg&quot; srcset=&quot;https://cimg.cnyes.cool/prod/news/5092332/l/a907d8ecac6e33f874bd843a7789132b.jpg 1x,https://cimg.cnyes.cool/prod/news/5092332/xl/a907d8ecac6e33f874bd843a7789132b.jpg 2x,https://cimg.cnyes.cool/prod/news/5092332/xxl/a907d8ecac6e33f874bd843a7789132b.jpg 3x&quot;&gt;&lt;/figure&gt;\n\n&lt;figure&gt;&lt;img data-height=&quot;428&quot; data-mime=&quot;image/jpeg&quot; data-ratio=&quot;1.7757009345794392&quot; data-src-m=&quot;https://cimg.cnyes.cool/prod/news/5092332/m/4cc3587f4ff218be6e61013a7133a931.jpg&quot; data-width=&quot;760&quot; src=&quot;https://cimg.cnyes.cool/prod/news/5092332/l/4cc3587f4ff218be6e61013a7133a931.jpg&quot; srcset=&quot;https://cimg.cnyes.cool/prod/news/5092332/l/4cc3587f4ff218be6e61013a7133a931.jpg 1x,https://cimg.cnyes.cool/prod/news/5092332/xl/4cc3587f4ff218be6e61013a7133a931.jpg 2x,https://cimg.cnyes.cool/prod/news/5092332/xxl/4cc3587f4ff218be6e61013a7133a931.jpg 3x&quot;&gt;&lt;/figure&gt;\n\n&lt;p class=&quot;warning&quot;&gt;&nbsp;&lt;br&gt;\n本公司所推薦分析之個別有價證券&lt;br&gt;\n無不當之財務利益關係 以往之績效不保證未來獲利&lt;br&gt;\n投資人應獨立判斷 審慎評估並自負投資風險&lt;br&gt;\n&nbsp;&lt;/p&gt;\n",
-    "hasCoverPhoto": 1,
-    "isCategoryHeadline": 1,
-    "isIndex": 1,
-    "newsId": 5092332,
-    "otherProduct": [
-      "TWS:6235:STOCK:COMMON",
-      "TWS:2388:STOCK:COMMON",
-      "TWS:3443:STOCK:COMMON",
-      "TWS:2330:STOCK:COMMON",
-      "TWS:1513:STOCK:COMMON"
-    ],
-    "payment": 0,
-    "source": "鉅亨研報",
-    "stock": [
-      "6235",
-      "2388",
-      "3443",
-      "2330",
-      "1513"
-    ],
-    "summary": "",
-    "title": "威盛、創意、中興電！投資池繼續強勢！",
-    "video": "",
-    "publishAt": 1676978406,
-    "coverSrc": {
-      "xs": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092332/xs/3eaf7511ee92fa9f72b75342f3747455.jpg",
-        "width": 100,
-        "height": 56
-      },
-      "s": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092332/s/3eaf7511ee92fa9f72b75342f3747455.jpg",
-        "width": 180,
-        "height": 101
-      },
-      "m": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092332/m/3eaf7511ee92fa9f72b75342f3747455.jpg",
-        "width": 380,
-        "height": 214
-      },
-      "l": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092332/l/3eaf7511ee92fa9f72b75342f3747455.jpg",
-        "width": 640,
-        "height": 360
-      },
-      "xl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092332/xl/3eaf7511ee92fa9f72b75342f3747455.jpg",
-        "width": 960,
-        "height": 539
-      },
-      "xxl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092332/xxl/3eaf7511ee92fa9f72b75342f3747455.jpg",
-        "width": 1080,
-        "height": 607
-      }
-    },
-    "abTesting": null,
-    "categoryId": 827,
-    "columnists": null,
-    "magazine": null,
-    "fundCategoryAbbr": [],
-    "fbShare": 0,
-    "fbComment": 0,
-    "fbCommentPluginCount": 0,
-    "market": [
-      {
-        "code": "6235",
-        "name": "華孚",
-        "symbol": "TWS:6235:STOCK"
-      },
-      {
-        "code": "2388",
-        "name": "威盛",
-        "symbol": "TWS:2388:STOCK"
-      },
-      {
-        "code": "3443",
-        "name": "創意",
-        "symbol": "TWS:3443:STOCK"
-      },
-      {
-        "code": "2330",
-        "name": "台積電",
-        "symbol": "TWS:2330:STOCK"
-      },
-      {
-        "code": "1513",
-        "name": "中興電",
-        "symbol": "TWS:1513:STOCK"
-      }
-    ],
-    "categoryName": "台股新聞"
-  },
-  {
-    "isOutsource": 0,
-    "content": "&lt;p&gt;中美晶 (5483-TW) 與友達 (2409-TW) 今 (21) 日共同宣布，為掌握全球淨零政策以及台灣政策推動下的綠能商機，雙方簽署長期電池供應合約，中美晶將供應大尺寸高效能 M10 PERC 電池，用於友達太陽能模組。&lt;/p&gt;\n\n&lt;p&gt;雙方看好，此次合作將強化台灣能源的本土產業鏈，透過在地供應打造高品質及高效能的太陽能產品，進一步發揮最大垂直整合效益，共同搶攻再生能源轉型商機。&lt;/p&gt;\n\n&lt;p&gt;友達長期深耕台灣及海外能源市場，其太陽能模組的高效能單晶 PERC 電池即是由中美晶生產，為滿足友達大尺寸需求，中美晶在去年完成全新 M10/G12 的產線擴產，平均轉換效率可達台灣業界最高的 23.5%，產品可靠度如光衰 / 熱光衰 / MLT 等，皆符合友達、台灣與國際的各項標準規範。&lt;/p&gt;\n\n&lt;p&gt;友達太陽能模組品質已獲台灣及國際一線大廠的肯定，為符合客戶規範，特別在台中園區引進與認證機構相同的可靠度測試設備，經國際原廠校正與認證，可完整符合台灣 VPC 品質規範及國際可靠度認證。&lt;/p&gt;\n\n&lt;p&gt;友達去年非純面板營收比重已超過 1 成以上，其中以太陽能為主的能源事業貢獻度最大，去年太陽能事業營收達 209 億元，較前一年大增 69.91%，營益率平均約 6-9%。&lt;/p&gt;\n\n&lt;p&gt;展望後市，受國際淨零減碳浪潮驅使，與台灣能源自主化政策支持，太陽能建置與發電量每年續創新高，預估台灣 2050 年再生能源佔比將達 7 成，不僅促使太陽能業者在技術品質上精進，也隨著產業需求而升級擴產。&lt;/p&gt;\n\n&lt;p&gt;另外，友達高瓦數模組可廣泛運用在各類場域，如大型電廠、漁電共生、農電共生與商業屋頂，並透過自行研發的太陽能發電監控系統，使企業與民間用戶都能及時有效的掌握發電效益，為後續維運作最有效的規劃與資源分配。&lt;/p&gt;\n\n&lt;p&gt;中美晶與友達此次合作後，也預計在未來導入新世代 N type 技術 Topcon，不僅可持續供應最先進的產品與技術，也將為用戶帶來長期穩定的發電收益。&lt;/p&gt;\n",
-    "hasCoverPhoto": 1,
-    "isCategoryHeadline": 1,
-    "isIndex": 1,
-    "newsId": 5092844,
-    "otherProduct": [
-      "TWS:5483:STOCK:COMMON",
-      "TWS:2409:STOCK:COMMON"
-    ],
-    "payment": 0,
-    "source": "",
-    "stock": [
-      "5483",
-      "2409"
-    ],
-    "summary": "中美晶 (5483-TW) 與友達 (2409-TW) 今 (21) 日共同宣布，為掌握全球淨零政策以及台灣政策推動下的綠能商機，雙方簽署長期電池供應合約，中美晶將供應大尺寸高效能 M10 PERC 電池，用於友達太陽能模組。",
-    "title": "中美晶與友達簽長約 供應大尺寸M10單晶電池",
-    "video": "",
-    "publishAt": 1676978240,
-    "coverSrc": {
-      "xs": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092844/xs/34bec13ebe067003660cbc7c078f1887.jpg",
-        "width": 100,
-        "height": 56
-      },
-      "s": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092844/s/34bec13ebe067003660cbc7c078f1887.jpg",
-        "width": 180,
-        "height": 101
-      },
-      "m": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092844/m/34bec13ebe067003660cbc7c078f1887.jpg",
-        "width": 380,
-        "height": 214
-      },
-      "l": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092844/l/34bec13ebe067003660cbc7c078f1887.jpg",
-        "width": 640,
-        "height": 360
-      },
-      "xl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092844/xl/34bec13ebe067003660cbc7c078f1887.jpg",
-        "width": 960,
-        "height": 540
-      },
-      "xxl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092844/xxl/34bec13ebe067003660cbc7c078f1887.jpg",
-        "width": 1080,
-        "height": 608
-      }
-    },
-    "abTesting": null,
-    "categoryId": 827,
-    "columnists": null,
-    "magazine": null,
-    "fundCategoryAbbr": [],
-    "fbShare": 0,
-    "fbComment": 0,
-    "fbCommentPluginCount": 0,
-    "market": [
-      {
-        "code": "5483",
-        "name": "中美晶",
-        "symbol": "TWS:5483:STOCK"
-      },
-      {
-        "code": "2409",
-        "name": "友達",
-        "symbol": "TWS:2409:STOCK"
-      }
-    ],
-    "categoryName": "台股新聞"
-  },
-  {
-    "isOutsource": 0,
-    "content": "&lt;p&gt;保護元件廠富致 (6642-TW) 今 (21) 日公告去年財報，稅後純益 1.59 億元，年增 3.6%，續創歷史新高，每股純益 4.25 元則為歷史次高，公司也決議，每股擬配息 3.6 元，維持去年高檔水準，若以今日收盤價 52.5 元估算，現金殖利率達 6.8%。&lt;/p&gt;\n\n&lt;p&gt;富致去年第四季受到電子產業市況調整，營收 9845 萬元，單季失守億元大關，季減 12.5%、年減 38%；毛利率 42.7%，季減 5.2 個百分點、年減 12.8 個百分點；營益率 17%，季減 3.2 個百分點、年減 19.7 個百分點。&lt;/p&gt;\n\n&lt;p&gt;除了本業衰退，新台幣在第四季回升，也導致富致業外出現外幣兌換損失約千萬元，衝擊稅後純益僅 673 萬元，季減 86.5%、年減 85.4%，每股純益 0.18 元，來到近年單季低點。&lt;/p&gt;\n\n&lt;p&gt;全年來看，富致去年營收 4.84 億元，年減 18.7%；毛利率 49.1%，年減 5.4 個百分點；營益率 25.6%，年減 6.6 個百分點，雖然本業獲利下滑，但在業外匯兌利益挹注下，仍推升富致整年獲利表現向上。&lt;/p&gt;\n\n&lt;p&gt;獲利創高下，富致董事會也決議，每股擬發放 3.6 元現金股利，包含盈餘分配 2.7 元，以及資本公積發放 0.9 元，維持去年高點水準。&lt;/p&gt;\n",
-    "hasCoverPhoto": 1,
-    "isCategoryHeadline": 1,
-    "isIndex": 1,
-    "newsId": 5092841,
-    "otherProduct": [
-      "TWS:6642:STOCK:COMMON",
-      "FX:USDTWD:FOREX:COMMON"
-    ],
-    "payment": 0,
-    "source": "",
-    "stock": [
-      "6642"
-    ],
-    "summary": "保護元件廠富致 (6642-TW) 今 (21) 日公告去年財報，稅後純益 1.59 億元，年增 3.6%，續創歷史新高，每股純益 4.25 元則為歷史次高，公司也決議，每股擬配息 3.6 元，維持去年高點水準。",
-    "title": "富致去年純益創高EPS 4.25元 擬配息3.6元延續高水準",
-    "video": "",
-    "publishAt": 1676978214,
-    "coverSrc": {
-      "xs": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092841/xs/3496c09d96c183d16f4d504ce64ff600.jpg",
-        "width": 100,
-        "height": 56
-      },
-      "s": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092841/s/3496c09d96c183d16f4d504ce64ff600.jpg",
-        "width": 180,
-        "height": 101
-      },
-      "m": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092841/m/3496c09d96c183d16f4d504ce64ff600.jpg",
-        "width": 380,
-        "height": 214
-      },
-      "l": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092841/l/3496c09d96c183d16f4d504ce64ff600.jpg",
-        "width": 640,
-        "height": 360
-      },
-      "xl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092841/xl/3496c09d96c183d16f4d504ce64ff600.jpg",
-        "width": 960,
-        "height": 540
-      },
-      "xxl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092841/xl/3496c09d96c183d16f4d504ce64ff600.jpg",
-        "width": 960,
-        "height": 540
-      }
-    },
-    "abTesting": null,
-    "categoryId": 827,
-    "columnists": null,
-    "magazine": null,
-    "fundCategoryAbbr": [],
-    "fbShare": 0,
-    "fbComment": 0,
-    "fbCommentPluginCount": 0,
-    "market": [
-      {
-        "code": "6642",
-        "name": "富致",
-        "symbol": "TWS:6642:STOCK"
-      }
-    ],
-    "categoryName": "台股新聞"
-  },
-  {
-    "isOutsource": 0,
-    "content": "&lt;p&gt;南部水情嚴峻，3 月 1 日起台南地區水情將調整為減量供水「橙燈」，南科也將採總量管制方式實施節水 10%，影響半導體廠。對此，台積電 (2330-TW)(TSM-US)、聯電(2303-TW)(UMC-US) 均表示，將增加再生水用量，台積電也說，已達成用水總量管制目標，不預期對營運有實質性影響。&lt;/p&gt;\n\n&lt;p&gt;旱災經濟部災害緊急應變小組工作會報決議，自 3 月 1 日起台南地區水情將調整為減量供水「橙燈」，同時為能延長穩定供水，台水表示，安平、官田、永康、新營、台南科技等工業區以及南科台南園區，將由國科會及經濟部工業局負責，採總量管制方式實施節水 10%。&lt;/p&gt;\n\n&lt;p&gt;台積電表示，就不同的限水階段備有因應計畫，同時攜手政府、私人單位就節水與開發水資源等範疇共同努力；因應減量供水橙燈，南科廠區已透過自主節水，包括降低系統排水損失、廠務系統用水減量、增加廠務廢水回收、提升系統產水量等，及再生水替代措施，達成南科管理局用水總量管制目標。&lt;/p&gt;\n\n&lt;p&gt;台積電並說，藉由公司全面的營運持續管理政策及企業風險管理系統，不預期水情對營運有實質性影響。&lt;/p&gt;\n\n&lt;p&gt;聯電表示，過去幾年在多元水源方面布局做很多努力，參與政府台南兩個再生水計畫，再生水用量大幅增加，同時製程技術精進，強化生產效率。3 月 1 日起南部科學園區採總量管制方式實施節水 10%，仍不需要出動水車載水，生產營運並不受影響。&lt;/p&gt;\n",
-    "hasCoverPhoto": 1,
-    "isCategoryHeadline": 1,
-    "isIndex": 1,
-    "newsId": 5092845,
-    "otherProduct": [
-      "TWS:2330:STOCK:COMMON",
-      "TWS:2303:STOCK:COMMON",
-      "USS:TSM:STOCK:COMMON",
-      "USS:UMC:STOCK:COMMON"
-    ],
-    "payment": 0,
-    "source": "",
-    "stock": [],
-    "summary": "南部水情嚴峻，3 月 1 日起台南地區水情將調整為減量供水「橙燈」，南科也將採總量管制方式實施節水 10%，影響半導體廠。對此，台積電 (2330-TW)(TSM-US) 回應，已達成南科管理局用水總量管制目標，不預期對營運",
-    "title": "南科總量管制節水10% 台積電：對營運無實質影響",
-    "video": "",
-    "publishAt": 1676978178,
-    "coverSrc": {
-      "xs": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092845/xs/314bbdccb42450c13630424e6f967599.jpg",
-        "width": 100,
-        "height": 56
-      },
-      "s": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092845/s/314bbdccb42450c13630424e6f967599.jpg",
-        "width": 180,
-        "height": 101
-      },
-      "m": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092845/m/314bbdccb42450c13630424e6f967599.jpg",
-        "width": 380,
-        "height": 214
-      },
-      "l": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092845/l/314bbdccb42450c13630424e6f967599.jpg",
-        "width": 640,
-        "height": 360
-      },
-      "xl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092845/xl/314bbdccb42450c13630424e6f967599.jpg",
-        "width": 960,
-        "height": 539
-      },
-      "xxl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092845/xxl/314bbdccb42450c13630424e6f967599.jpg",
-        "width": 1080,
-        "height": 607
-      }
-    },
-    "abTesting": null,
-    "categoryId": 827,
-    "columnists": null,
-    "magazine": null,
-    "fundCategoryAbbr": [],
-    "fbShare": 0,
-    "fbComment": 0,
-    "fbCommentPluginCount": 0,
-    "market": [
-      {
-        "code": "2330",
-        "name": "台積電",
-        "symbol": "TWS:2330:STOCK"
-      },
-      {
-        "code": "2303",
-        "name": "聯電",
-        "symbol": "TWS:2303:STOCK"
-      },
-      {
-        "code": "TSM",
-        "name": "台積電",
-        "symbol": "USS:TSM:STOCK"
-      },
-      {
-        "code": "UMC",
-        "name": "聯電",
-        "symbol": "USS:UMC:STOCK"
-      }
-    ],
-    "categoryName": "台股新聞"
-  },
-  {
-    "isOutsource": 0,
-    "content": "&lt;p&gt;玉晶光 (3406-TW)對今 (2023) 年營運看法仍正向，成長動能將來自光學元件、手機、VR 及 AR 小鏡頭等產品，玉晶光今 (21) 日通過以合計 19.65 億元進行台灣及廈門廠設備及產能的擴充。&lt;/p&gt;\n\n&lt;p&gt;玉晶光目前在台中及福建廈門都有設廠，公司考慮將部分 VR 產品產能移往廈門廠，產能擴充則以台中廠為主。今天通過的新增購置設備預算中，配置在台中的預算爲 6.75 億元，同時，對廈門廠新增購置設備預算則高達 12.9 億元。&lt;/p&gt;\n\n&lt;p&gt;玉晶光在 2023 年三大工作重點在與客戶溝通，將產能及新產品開發到位，以及產銷平衡做到高品質低成本製造；而手機搭配多鏡頭、提升規格加上虛擬實境 (VR) 產品開發，公司指出，光學產業仍是熱門行業。&lt;/p&gt;\n\n&lt;p&gt;玉晶光 2023 年 1 月營收爲 13.48 億元創歷史同期新高，月減 7.52%，年增 3.08%，玉晶光力拼今年首季營收表現將優於歷年同期。&lt;/p&gt;\n\n&lt;p&gt;玉晶光指出，玉晶光對未來營運仍是正面看待，同時另有部分客戶的新產品，玉晶光均能滿足客戶時程，至於何時會有較大貢獻，要看實際拉貨狀況而定。&lt;/p&gt;\n\n&lt;p&gt;玉晶光 2022 年前三季營收 134.69 億元，毛利率 38.21%，年增 3.37 個百分點，稅後純益 24.29 億元，年增 76.9%，已超越 2021 年全年，每股純益 21.57 元。&lt;/p&gt;\n",
-    "hasCoverPhoto": 1,
-    "isCategoryHeadline": 1,
-    "isIndex": 1,
-    "newsId": 5092792,
-    "otherProduct": [
-      "TWS:3406:STOCK:COMMON"
-    ],
-    "payment": 0,
-    "source": "",
-    "stock": [
-      "3406"
-    ],
-    "summary": "玉晶光 (3406-TW) 對今年營運看法仍正向，成長動能將來自光學元件、手機、VR 及 AR 小鏡頭等產品，玉晶光今 (21) 日通過以合計 19.65 億元在台灣及廈門廠購置設備進行產能的擴充。",
-    "title": "玉晶光擬砸近20億元投資 同步擴充兩岸產能",
-    "video": "",
-    "publishAt": 1676978028,
-    "coverSrc": {
-      "xs": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092792/xs/98339866834a382a1ba57f688cd05efe.jpg",
-        "width": 100,
-        "height": 56
-      },
-      "s": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092792/s/98339866834a382a1ba57f688cd05efe.jpg",
-        "width": 180,
-        "height": 101
-      },
-      "m": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092792/m/98339866834a382a1ba57f688cd05efe.jpg",
-        "width": 380,
-        "height": 214
-      },
-      "l": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092792/l/98339866834a382a1ba57f688cd05efe.jpg",
-        "width": 640,
-        "height": 360
-      },
-      "xl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092792/xl/98339866834a382a1ba57f688cd05efe.jpg",
-        "width": 960,
-        "height": 540
-      },
-      "xxl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092792/xl/98339866834a382a1ba57f688cd05efe.jpg",
-        "width": 960,
-        "height": 540
-      }
-    },
-    "abTesting": null,
-    "categoryId": 827,
-    "columnists": null,
-    "magazine": null,
-    "fundCategoryAbbr": [],
-    "fbShare": 0,
-    "fbComment": 0,
-    "fbCommentPluginCount": 0,
-    "market": [
-      {
-        "code": "3406",
-        "name": "玉晶光",
-        "symbol": "TWS:3406:STOCK"
-      }
-    ],
-    "categoryName": "台股新聞"
-  },
-  {
-    "isOutsource": 0,
-    "content": "&lt;p&gt;中華電 (2412-TW) 今 (21) 日宣布，與越南智慧城市聯盟 (VSCC) 簽訂合作備忘錄(MOU)，成為新的聯合創始會員，未來將持續擴展智慧城市，深耕越南市場又向前邁一大步。&lt;/p&gt;\n\n&lt;p&gt;中華電獲越南智慧城市聯盟邀請，參加與胡志明市建築建材協會 (SACA) 假越南胡志明市合辦的越南智慧城市未來大會，此活動有多位跨國的重量級與會者共同參與，並以其過去在全世界各地智慧城市發展、建設等領域的成功經驗進行交流及分享，期能具體應用在越南智慧城市各場域。&lt;/p&gt;\n\n&lt;p&gt;中華電表示，過去越南在智慧城市或智慧鄉鎮未標準化之際，不同城市間的建設及開發項目，也有不同的定義，導致越南城市及各地區間缺乏整體與一致性的規劃。&lt;/p&gt;\n\n&lt;p&gt;而中華電信研發之 City Operating System(CityOS) 城市治理平台，則提供標準化 API，可與任何應用服務介接，將所有資訊整合至 CityOS，提供儀表板功能，讓使用者可隨時監控城市內各角落發生的大小事，搭配事件趨動及 AI 分析功能，除了可即時發送各式告警事件外，也可連動設備或程式，達到提升城市安全性以及智慧節能功效，提供城市管理者最精準的決策輔助，是目前越南智慧城市發展上，最需要的智慧解決方案之一。&lt;/p&gt;\n\n&lt;p&gt;越南智慧城市聯盟 (VSCC) 的會員中，Fundaci&oacute;n Metropoli 是一個擁有為城市規劃、景觀設計、建築設計，和建立區域生態系統極具經驗的歐洲公司；Dien Quang 是一家研發智慧照明、服務和解決方案的上市公司，其產品已廣泛應用於多個領域。&lt;/p&gt;\n\n&lt;p&gt;中華電今日加入後，可將台灣在地電信基礎建設、國際服務、寬頻、互聯網及 5G 智慧服務的最佳應用經驗，協助越南升級現代化技術，除可提供最新的 5G 智慧解決方案，亦可提供最佳化連線速度、高效管理和大數據管理之整體方案。&lt;/p&gt;\n\n&lt;p&gt;VSCC 代表 Ho Quynh Hung 指出，中華電信一起加入越南智慧城市聯盟，對 VSCC 在提升和引領越南智慧城市發展戰略目標上，是很重要的一個里程碑，這不僅能成為智慧城市整體發展的核心力量，同時可確保每個解決方案和服務的效率和品質，深信定有助於越在地城市發展上的數位轉型。&lt;/p&gt;\n\n&lt;p&gt;中華電信國際分公司協理劉炫龍表示，透過加入 VSCC 聯盟，有效擴大與各國夥伴的合作規模、豐富各國在智慧城市解決方案的佈局；相信在越南產官學各部門力挺下，本次跨國聯盟將可讓中華電信在台灣智慧城市發展的寶貴經驗延伸到越南，同時借助 VSCC 在越南整體建築設計及智慧方案應用等實務經驗，與中華電信攜手在越南展開更多的合作機會、持續協助越南智慧城市發展的願景。&lt;/p&gt;\n",
-    "hasCoverPhoto": 1,
-    "isCategoryHeadline": 1,
-    "isIndex": 1,
-    "newsId": 5092789,
-    "otherProduct": [
-      "TWS:2412:STOCK:COMMON"
-    ],
-    "payment": 0,
-    "source": "",
-    "stock": [
-      "2412"
-    ],
-    "summary": "中華電 (2412-TW) 今 (21) 日宣布，與越南智慧城市聯盟 (VSCC) 簽訂合作備忘錄(MOU)，成為新的聯合創始會員，未來將持續擴展智慧城市，深耕越南市場又向前邁一大步。",
-    "title": "中華電加入越南智慧城市聯盟 成新聯合創始會員",
-    "video": "",
-    "publishAt": 1676977495,
-    "coverSrc": {
-      "xs": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092789/xs/639517df28c774f42604dac055178e38.jpg",
-        "width": 100,
-        "height": 56
-      },
-      "s": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092789/s/639517df28c774f42604dac055178e38.jpg",
-        "width": 180,
-        "height": 101
-      },
-      "m": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092789/m/639517df28c774f42604dac055178e38.jpg",
-        "width": 380,
-        "height": 214
-      },
-      "l": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092789/l/639517df28c774f42604dac055178e38.jpg",
-        "width": 640,
-        "height": 360
-      },
-      "xl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092789/xl/639517df28c774f42604dac055178e38.jpg",
-        "width": 960,
-        "height": 539
-      },
-      "xxl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092789/xxl/639517df28c774f42604dac055178e38.jpg",
-        "width": 1080,
-        "height": 607
-      }
-    },
-    "abTesting": null,
-    "categoryId": 827,
-    "columnists": null,
-    "magazine": null,
-    "fundCategoryAbbr": [],
-    "fbShare": 0,
-    "fbComment": 0,
-    "fbCommentPluginCount": 0,
-    "market": [
-      {
-        "code": "2412",
-        "name": "中華電",
-        "symbol": "TWS:2412:STOCK"
-      }
-    ],
-    "categoryName": "台股新聞"
-  },
-  {
-    "isOutsource": 0,
-    "content": "&lt;p&gt;驅動 IC 業者天鈺 (4961-TW) 今 (21) 日公佈 1 月自結，稅後純益 1.25 億元，年減 76.05%，每股稅後純益 0.67 元；由於 1 月為春節連假，工作天數減少，加上出貨量與價格皆較去年同期下滑，導致獲利降幅顯著。&lt;/p&gt;\n\n&lt;p&gt;天鈺去年前三季每股稅後純益達 14.62 元，法人看好，若再加上第四季獲利，以及過往配息率約 5-6 成，殖利率同樣看俏，近期吸引資金積極卡位，短短四個交易日漲幅近 29%。&lt;/p&gt;\n\n&lt;p&gt;其他驅動 IC 個股如矽創 (8016-TW)、瑞鼎 (3592-TW)、聯詠 (3034-TW) ，同樣在買盤推升下，紛紛創下波段高點，其中，聯詠今日衝上 425 元、創&nbsp;10 個月來新高。&lt;/p&gt;\n\n&lt;p&gt;展望後市，由於面板產業自去年上半年開始踩剎車，經歷一段時間去化，驅動 IC 業者也開始接獲急單，成為最快復甦的族群，天鈺也即將在 3 月 3 日召開法說會，屆時也將釋出全年營運展望、價格走勢以及對市況的最新看法。&lt;/p&gt;\n",
-    "hasCoverPhoto": 1,
-    "isCategoryHeadline": 1,
-    "isIndex": 1,
-    "newsId": 5092790,
-    "otherProduct": [
-      "TWS:4961:STOCK:COMMON",
-      "TWS:8016:STOCK:COMMON",
-      "TWS:3034:STOCK:COMMON",
-      "TWS:3592:STOCK:COMMON",
-      "TWG:3592:STOCK:COMMON"
-    ],
-    "payment": 0,
-    "source": "",
-    "stock": [
-      "4961",
-      "8016",
-      "3592",
-      "3034"
-    ],
-    "summary": "驅動 IC 業者天鈺 (4961-TW) 今 (21) 日公佈 1 月自結，稅後純益 1.25 億元，年減 76.05%，每股稅後純益 0.67 元；由於 1 月為春節連假，工作天數減少，加上出貨量與價格皆較去年同期下滑，影響天鈺獲利有顯著降幅。",
-    "title": "天鈺1月獲利年減76% 每股賺0.67元",
-    "video": "",
-    "publishAt": 1676977473,
-    "coverSrc": {
-      "xs": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092790/xs/35f96d25a7f44aeccedaaae44b2096cc.jpg",
-        "width": 100,
-        "height": 56
-      },
-      "s": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092790/s/35f96d25a7f44aeccedaaae44b2096cc.jpg",
-        "width": 180,
-        "height": 101
-      },
-      "m": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092790/m/35f96d25a7f44aeccedaaae44b2096cc.jpg",
-        "width": 380,
-        "height": 214
-      },
-      "l": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092790/l/35f96d25a7f44aeccedaaae44b2096cc.jpg",
-        "width": 640,
-        "height": 360
-      },
-      "xl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092790/xl/35f96d25a7f44aeccedaaae44b2096cc.jpg",
-        "width": 960,
-        "height": 540
-      },
-      "xxl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092790/xxl/35f96d25a7f44aeccedaaae44b2096cc.jpg",
-        "width": 1080,
-        "height": 608
-      }
-    },
-    "abTesting": null,
-    "categoryId": 827,
-    "columnists": null,
-    "magazine": null,
-    "fundCategoryAbbr": [],
-    "fbShare": 0,
-    "fbComment": 0,
-    "fbCommentPluginCount": 0,
-    "market": [
-      {
-        "code": "4961",
-        "name": "天鈺",
-        "symbol": "TWS:4961:STOCK"
-      },
-      {
-        "code": "8016",
-        "name": "矽創",
-        "symbol": "TWS:8016:STOCK"
-      },
-      {
-        "code": "3034",
-        "name": "聯詠",
-        "symbol": "TWS:3034:STOCK"
-      },
-      {
-        "code": "3592",
-        "name": "瑞鼎",
-        "symbol": "TWG:3592:STOCK"
-      },
-      {
-        "code": "3592",
-        "name": "瑞鼎",
-        "symbol": "TWG:3592:STOCK"
-      }
-    ],
-    "categoryName": "台股新聞"
-  },
-  {
-    "isOutsource": 0,
-    "content": "&lt;p&gt;外媒指出，寶成 (9904-TW) 旗下的越南寶元鞋廠今年訂單少，傳出將裁員 6000 人，寶成表示，此次越南廠裁員不超過 3000 人，並非 6000 人之多。&lt;/p&gt;\n\n&lt;p&gt;外媒表示，寶成越南廠因「2023 年生產訂單非常少」，將裁汰 3000 名工廠員工，另外 3000 名員工不再續約，寶成指出，目前客戶仍處於庫存調整階段影響製鞋業務，但並無裁員 6000 人。&lt;/p&gt;\n\n&lt;p&gt;寶成表示，旗下裕元工業越南胡志明市寶元鞋廠此次計畫裁員不超過 3000 人，影響人數相對有限，員工的人事作業流程均遵循當地政府相關法令規範辦理，將審慎應對經營環境的動態變化，持續致力於整體營運的穩健發展。&lt;/p&gt;\n\n&lt;p&gt;儘管寶成製鞋業務短期面臨壓力，但中國解封經濟回溫，買氣增強帶動通路業務營收成長、較前月倍增，集團 1 月營收 248.01 億元，月增 30%、年減 8.2%。&lt;/p&gt;\n",
-    "hasCoverPhoto": 1,
-    "isCategoryHeadline": 1,
-    "isIndex": 1,
-    "newsId": 5092742,
-    "otherProduct": [
-      "TWS:9904:STOCK:COMMON"
-    ],
-    "payment": 0,
-    "source": "",
-    "stock": [
-      "9904"
-    ],
-    "summary": "外媒指出，寶成 (9904-TW) 旗下的越南寶元鞋廠今年訂單少，傳出將裁員 6000 人，寶成表示，此次越南廠裁員不超過 3000 人，並非 6000 人之多。",
-    "title": "越南廠傳大幅裁員 寶成：不超過3000人",
-    "video": "",
-    "publishAt": 1676976611,
-    "coverSrc": {
-      "xs": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092742/xs/93f3feb865e41db7e3658162190ae89e.jpg",
-        "width": 100,
-        "height": 56
-      },
-      "s": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092742/s/93f3feb865e41db7e3658162190ae89e.jpg",
-        "width": 180,
-        "height": 101
-      },
-      "m": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092742/m/93f3feb865e41db7e3658162190ae89e.jpg",
-        "width": 380,
-        "height": 214
-      },
-      "l": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092742/l/93f3feb865e41db7e3658162190ae89e.jpg",
-        "width": 640,
-        "height": 360
-      },
-      "xl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092742/l/93f3feb865e41db7e3658162190ae89e.jpg",
-        "width": 640,
-        "height": 360
-      },
-      "xxl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092742/l/93f3feb865e41db7e3658162190ae89e.jpg",
-        "width": 640,
-        "height": 360
-      }
-    },
-    "abTesting": null,
-    "categoryId": 827,
-    "columnists": null,
-    "magazine": null,
-    "fundCategoryAbbr": [],
-    "fbShare": 0,
-    "fbComment": 0,
-    "fbCommentPluginCount": 0,
-    "market": [
-      {
-        "code": "9904",
-        "name": "寶成",
-        "symbol": "TWS:9904:STOCK"
-      }
-    ],
-    "categoryName": "台股新聞"
-  },
-  {
-    "isOutsource": 0,
-    "content": "&lt;p&gt;神準 (3558-TW) 今 (21) 日公布 1 月自結，稅後純益 5800 萬元，年減 33%，每股純益 1.2 元，去年 12 月至今年 1 月稅後純益 1.47 億元，年增 8%，每股純益 3.01 元。&lt;/p&gt;\n\n&lt;p&gt;神準 1 月營收 13.67 億元，年增 46%，稅前盈餘 8100 萬元，年減 29%，稅後純益 5800 萬元，年減 33%，每股純益 1.2 元；近兩個月營收 32.22 億元，年增 71%，稅前盈餘 1.97 億元，年增 11%，稅後純益 1.47 億元，年增 8%，每股純益 3.01 元。&lt;/p&gt;\n\n&lt;p&gt;神準看好資安需求持續，企業對網路、資安等升級還在高峰期，預估升級趨勢至少會延續到明年，預期今年穩健中持續成長，毛利率也可望維持。&lt;/p&gt;\n\n&lt;p&gt;神準表示，目前訂單能見度看到第三季，加上華亞新廠即將在第一季投產，今年營收目標成長雙位數，達到 10 億美元。&lt;/p&gt;\n",
-    "hasCoverPhoto": 1,
-    "isCategoryHeadline": 1,
-    "isIndex": 1,
-    "newsId": 5092724,
-    "otherProduct": [
-      "TWS:3558:STOCK:COMMON"
-    ],
-    "payment": 0,
-    "source": "",
-    "stock": [
-      "3558"
-    ],
-    "summary": "神準 (3558-TW) 今 (21) 日公布 1 月自結，稅後純益 5800 萬元，年減 33%，每股純益 1.2 元，近兩個月稅後純益 1.47 億元，年增 8%，每股純益 3.01 元。",
-    "title": "神準1月純益年減33% 每股賺1.2元",
-    "video": "",
-    "publishAt": 1676976470,
-    "coverSrc": {
-      "xs": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092724/xs/e52af6156fbfb01808ba74d27382ed5b.jpg",
-        "width": 100,
-        "height": 56
-      },
-      "s": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092724/s/e52af6156fbfb01808ba74d27382ed5b.jpg",
-        "width": 180,
-        "height": 101
-      },
-      "m": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092724/m/e52af6156fbfb01808ba74d27382ed5b.jpg",
-        "width": 380,
-        "height": 214
-      },
-      "l": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092724/l/e52af6156fbfb01808ba74d27382ed5b.jpg",
-        "width": 640,
-        "height": 360
-      },
-      "xl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092724/xl/e52af6156fbfb01808ba74d27382ed5b.jpg",
-        "width": 960,
-        "height": 539
-      },
-      "xxl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092724/xxl/e52af6156fbfb01808ba74d27382ed5b.jpg",
-        "width": 1080,
-        "height": 607
-      }
-    },
-    "abTesting": null,
-    "categoryId": 827,
-    "columnists": null,
-    "magazine": null,
-    "fundCategoryAbbr": [],
-    "fbShare": 0,
-    "fbComment": 0,
-    "fbCommentPluginCount": 0,
-    "market": [
-      {
-        "code": "3558",
-        "name": "神準",
-        "symbol": "TWS:3558:STOCK"
-      }
-    ],
-    "categoryName": "台股新聞"
-  },
-  {
-    "isOutsource": 0,
-    "content": "&lt;p&gt;樂迦再生 (6891-TW) 宣布，延攬全球 CAR-T 權威 Dr. Campana 擔任首席科學顧問，並在旗下團隊與國內臨床醫師，以及國內各大研發團隊的通力協助下，將台灣打造成 Car-T 全球研發中心。&lt;/p&gt;\n\n&lt;p&gt;Campana 是諾華 CD19 CAR-T 產品序列的發明人，該產品 2021 年 10 月取得台灣藥證許可，適應症包括血癌、淋巴瘤，病患可望在國內接受此項新興癌症療法，一次療程即可達到疾病緩解。&lt;/p&gt;\n\n&lt;p&gt;Campana 本 (2) 月初訪台、接受台大醫院與樂迦再生科技共同邀請，於台大兒童醫院舉辦演講，參與貴賓皆為台灣醫學界舉足輕重的重要醫學人士，此外訪台期間陸續與相關部會會晤。&lt;/p&gt;\n\n&lt;p&gt;Campana 表示，台灣細胞治療總體環境有潛力，對於未來創新的 CAR-T 數位化應用也充滿興趣與期許，即日起擔任樂迦首席科學顧問 (Chief Scientific Advisor)，進而促進台灣 CAR-T 細胞治療發展。&lt;/p&gt;\n\n&lt;p&gt;目前全球有 6 個 CAR-T 產品，未來樂迦將引進 Dr. Campana 的 PEBL 專利技術平台，朝向異體細胞治療的目標邁進，也會引進一站式設備以及規劃多站式系統，與國內臨床醫師，以及國內各大研發團隊的通力協助下，將台灣打造成為 Car-T 全球研發中心。&lt;/p&gt;\n",
-    "hasCoverPhoto": 1,
-    "isCategoryHeadline": 1,
-    "isIndex": 1,
-    "newsId": 5092721,
-    "otherProduct": [
-      "TWS:6891:STOCK:COMMON",
-      "TWG:6891:STOCK:COMMON"
-    ],
-    "payment": 0,
-    "source": "",
-    "stock": [
-      "6891"
-    ],
-    "summary": "樂迦再生 (6891-TW) 宣布，延攬全球 CAR-T 權威 Dr. Campana 擔任首席科學顧問，並在旗下團隊與國內臨床醫師，以及國內各大研發團隊的通力協助下，將台灣打造成 Car-T 全球研發中心。",
-    "title": "全球 CAR-T權威Dr. Campana 接任樂迦再生首席科學顧問",
-    "video": "",
-    "publishAt": 1676976206,
-    "coverSrc": {
-      "xs": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092721/xs/8fe8160c857bfdd6abc6c6d1235b6746.jpg",
-        "width": 100,
-        "height": 56
-      },
-      "s": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092721/s/8fe8160c857bfdd6abc6c6d1235b6746.jpg",
-        "width": 180,
-        "height": 101
-      },
-      "m": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092721/m/8fe8160c857bfdd6abc6c6d1235b6746.jpg",
-        "width": 380,
-        "height": 214
-      },
-      "l": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092721/l/8fe8160c857bfdd6abc6c6d1235b6746.jpg",
-        "width": 640,
-        "height": 360
-      },
-      "xl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092721/xl/8fe8160c857bfdd6abc6c6d1235b6746.jpg",
-        "width": 960,
-        "height": 539
-      },
-      "xxl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092721/xxl/8fe8160c857bfdd6abc6c6d1235b6746.jpg",
-        "width": 1080,
-        "height": 607
-      }
-    },
-    "abTesting": null,
-    "categoryId": 827,
-    "columnists": null,
-    "magazine": null,
-    "fundCategoryAbbr": [],
-    "fbShare": 0,
-    "fbComment": 0,
-    "fbCommentPluginCount": 0,
-    "market": [
-      {
-        "code": "6891",
-        "name": "樂迦再生-新",
-        "symbol": "TWS:6891:STOCK"
-      },
-      {
-        "code": "6891",
-        "name": "樂迦再生-新",
-        "symbol": "TWS:6891:STOCK"
-      }
-    ],
-    "categoryName": "台股新聞"
-  },
-  {
-    "isOutsource": 0,
-    "content": "&lt;p&gt;創新板再添新成員，證交所董事會今 (21) 日董事會審議並通過台灣虎航 (6757-TW) 初次申請創新板股票上市案，是第 4 家通過審查的創新板個股，預計今 (2023) 年下半年有望掛牌上市。&lt;/p&gt;\n\n&lt;p&gt;台灣虎航母公司為華航 (2610-TW)，目前華航持有台灣虎航股份比重約 78%，資本額 40 億元、市值 100 億元，主要經營國際航空業務與運輸服務。&lt;/p&gt;\n\n&lt;p&gt;台灣虎航曾在 2021 年申請上市，但因新冠肺炎疫情重挫全球旅遊業，連帶影響航空業獲利表現，導致台灣虎航自 2020 年疫情爆發以來已連續 3 年陷入虧損困境，也打亂虎航原本規劃的上市進度，直到去年底決議轉往創新板掛牌。&lt;/p&gt;\n\n&lt;p&gt;台灣虎航 2020 年稅前淨損 17.51 億元、每股虧損 6.45 元，2021 年稅前淨損擴大至 28.21 億元、每股淨損 7.19 元。另外，截至去 (2022) 年第 3 季，稅前淨損已達 30.83 億元、每股淨損 6.15 元。&lt;/p&gt;\n\n&lt;p&gt;台灣虎航目前主要航線包括日本、韓國、澳門、泰國等地，隨著國境開放、防疫措施鬆綁出國人潮激增，可望帶動航空業擺脫疫情陰霾，推升營收、獲利成長。&lt;/p&gt;\n\n&lt;p&gt;法人認為，隨著各國防疫政策陸續鬆綁，帶動旅遊業復甦回溫，預期台灣虎航在航線與海外觀光人潮加持下，有望在今年扭轉虧損命運，帶動獲利轉虧為盈。&lt;/p&gt;\n\n&lt;p&gt;台灣虎航今天以 41.8 元開出後，早盤股價一度衝上 44.75 元高點，隨後震盪拉回低點下探至 36 元，終場以 39.2 元作收，跌幅 2.22%。&lt;/p&gt;\n",
-    "hasCoverPhoto": 1,
-    "isCategoryHeadline": 1,
-    "isIndex": 1,
-    "newsId": 5092725,
-    "otherProduct": [
-      "TWS:2610:STOCK:COMMON",
-      "TWG:6757:STOCK:COMMON"
-    ],
-    "payment": 0,
-    "source": "",
-    "stock": [
-      "6757",
-      "2610"
-    ],
-    "summary": "創新板再添新成員，證交所董事會今 (21) 日董事會審議並通過台灣虎航 (6757-TW) 初次申請創新板股票上市案，是第 4 家通過審查的創新板個股，預計今年下半年有望掛牌上市。",
-    "title": "台灣虎航通過審議 預計下半年創新板掛牌上市",
-    "video": "",
-    "publishAt": 1676976104,
-    "coverSrc": {
-      "xs": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092725/xs/eb11c94d7d4aeb0759d623896bd284f8.jpg",
-        "width": 100,
-        "height": 56
-      },
-      "s": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092725/s/eb11c94d7d4aeb0759d623896bd284f8.jpg",
-        "width": 180,
-        "height": 101
-      },
-      "m": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092725/m/eb11c94d7d4aeb0759d623896bd284f8.jpg",
-        "width": 380,
-        "height": 213
-      },
-      "l": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092725/l/eb11c94d7d4aeb0759d623896bd284f8.jpg",
-        "width": 640,
-        "height": 360
-      },
-      "xl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092725/xl/eb11c94d7d4aeb0759d623896bd284f8.jpg",
-        "width": 960,
-        "height": 539
-      },
-      "xxl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092725/xl/eb11c94d7d4aeb0759d623896bd284f8.jpg",
-        "width": 960,
-        "height": 539
-      }
-    },
-    "abTesting": null,
-    "categoryId": 827,
-    "columnists": null,
-    "magazine": null,
-    "fundCategoryAbbr": [],
-    "fbShare": 0,
-    "fbComment": 0,
-    "fbCommentPluginCount": 0,
-    "market": [
-      {
-        "code": "2610",
-        "name": "華航",
-        "symbol": "TWS:2610:STOCK"
-      },
-      {
-        "code": "6757",
-        "name": "台灣虎航",
-        "symbol": "TWG:6757:STOCK"
-      }
-    ],
-    "categoryName": "台股新聞"
-  },
-  {
-    "isOutsource": 0,
-    "content": "&lt;p&gt;光寶科 (2301-TW) 今 (21) 日召開法說會，公司表示，將持續建立多元生產基地，越南第二期擴廠已開始進行，不過，美國廠由於當地政府供電分配不符公司要求，正在申請增容，預計將延後至第三季量產。&lt;/p&gt;\n\n&lt;p&gt;光寶科指出，越南新廠將先負責資通訊、網通產品，因應地緣政治風險，未來也有一部分雲端產品將移至越南，預計越南未來將是中國以外最大生產中心。&lt;/p&gt;\n\n&lt;p&gt;另一方面，美國廠持續建置中，不過，由於 30KW 充電樁需要一定的電力需求，目前該場不符公司要求正在申請增容，預計量產時間將較原先預估第二季延後。&lt;/p&gt;\n\n&lt;p&gt;光寶科也宣布，高雄研發中心二期將開始擴產，預計 2025 年完工，二期規劃 14 樓，將生產車用產品，目前高雄廠有 1 條車載充電，以及 7 條充電樁產線。&lt;/p&gt;\n\n&lt;p&gt;光寶科表示，今年重要產品為 30KW 直流電 (DC) 充電樁，瞄準充電營運商、車廠客戶，而短期不會推出利基型超級快充，預計 30-60KW 充電樁仍是市場主流。&lt;/p&gt;\n",
-    "hasCoverPhoto": 1,
-    "isCategoryHeadline": 1,
-    "isIndex": 1,
-    "newsId": 5092719,
-    "otherProduct": [
-      "TWS:2301:STOCK:COMMON"
-    ],
-    "payment": 0,
-    "source": "",
-    "stock": [
-      "2301"
-    ],
-    "summary": "光寶科 (2301-TW) 今 (21) 日召開法說會，公司表示將持續建立多元生產基地，越南第二期擴廠已開始進行，不過，美國廠由於當地政府供電分配不符公司要求，正在申請增容，預計將延後至第三季才能量產。",
-    "title": "〈光寶科法說〉越南二期啟動擴廠 美國廠延至Q3量產",
-    "video": "",
-    "publishAt": 1676974960,
-    "coverSrc": {
-      "xs": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092719/xs/e7d516da07ba86ab91c203e0856d9b69.jpg",
-        "width": 100,
-        "height": 56
-      },
-      "s": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092719/s/e7d516da07ba86ab91c203e0856d9b69.jpg",
-        "width": 180,
-        "height": 101
-      },
-      "m": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092719/m/e7d516da07ba86ab91c203e0856d9b69.jpg",
-        "width": 380,
-        "height": 213
-      },
-      "l": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092719/m/e7d516da07ba86ab91c203e0856d9b69.jpg",
-        "width": 380,
-        "height": 213
-      },
-      "xl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092719/m/e7d516da07ba86ab91c203e0856d9b69.jpg",
-        "width": 380,
-        "height": 213
-      },
-      "xxl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092719/m/e7d516da07ba86ab91c203e0856d9b69.jpg",
-        "width": 380,
-        "height": 213
-      }
-    },
-    "abTesting": null,
-    "categoryId": 827,
-    "columnists": null,
-    "magazine": null,
-    "fundCategoryAbbr": [],
-    "fbShare": 0,
-    "fbComment": 0,
-    "fbCommentPluginCount": 0,
-    "market": [
-      {
-        "code": "2301",
-        "name": "光寶科",
-        "symbol": "TWS:2301:STOCK"
-      }
-    ],
-    "categoryName": "台股新聞"
-  },
-  {
-    "isOutsource": 0,
-    "content": "&lt;p&gt;台灣大 (3045-TW) 董事會將於本周五 (24 日) 決議合併台灣之星，若順利合併，國內將重回三強鼎立局面，對此，遠傳 (4904-TW) 總經理井琪今 (21) 日表示，未來三家電信商規模相當，將會處於理性競爭態勢，並積極提供新服務給消費者。&lt;/p&gt;\n\n&lt;p&gt;井琪認為，合併議題已經討論一年，國內電信市場一直都很競爭，當初遠傳宣布合併亞太電，過程有受到阻礙，競爭激烈程度不言而喻。&lt;/p&gt;\n\n&lt;p&gt;她進一步說，過去小電信商為撐住營運，成為價格破壞者，導致其他業者成本跟著受到影響，預期未來三家電信商規模相差不大，會形成良性競爭的環境、理性競爭，並提供新服務給消費者。&lt;/p&gt;\n\n&lt;p&gt;針對資費價格，井琪表示，4G 吃到飽的用戶，網路數據使用量差距大，但費用差距不大，其實也不公平，以環保的角度，用戶使用夠用的數據量，才是永續的作法。&lt;/p&gt;\n\n&lt;p&gt;展望台灣 5G 發展，井琪指出，台灣 5G 滲透率相較國際發展其實並沒有落後，根據 GSMA 資料，以同樣開台 10 個季度來相比，台灣 5G 滲透率仍高居全球第二，發展速度一點都不慢。&lt;/p&gt;\n\n&lt;p&gt;從 GSMA 數據來看，台灣滲透率 35.31%，僅次香港的 50.14%，為全球第二，台灣滲透率優於中國 29.26%、日本 29.01%、南韓 28.21%、新加坡 25.74%、美國 12.07%、澳洲 15.87%。&lt;/p&gt;\n",
-    "hasCoverPhoto": 1,
-    "isCategoryHeadline": 1,
-    "isIndex": 1,
-    "newsId": 5092718,
-    "otherProduct": [
-      "TWS:3045:STOCK:COMMON",
-      "TWS:4904:STOCK:COMMON"
-    ],
-    "payment": 0,
-    "source": "",
-    "stock": [
-      "3045",
-      "4904"
-    ],
-    "summary": "台灣大 (3045-TW) 董事會將於本周五 (24 日) 決議合併台灣之星，若順利合併，國內將重回三強鼎立局面，對此，遠傳 (4904-TW) 總經理井琪今 (21) 日表示，未來三家電信商規模相當，將會處於理性競爭態勢。",
-    "title": "談電信合併案 遠傳井琪：各家規模相當將更理性競爭",
-    "video": "",
-    "publishAt": 1676974839,
-    "coverSrc": {
-      "xs": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092718/xs/d223449903af3a469cd819fb0b566e45.jpg",
-        "width": 100,
-        "height": 56
-      },
-      "s": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092718/s/d223449903af3a469cd819fb0b566e45.jpg",
-        "width": 180,
-        "height": 101
-      },
-      "m": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092718/m/d223449903af3a469cd819fb0b566e45.jpg",
-        "width": 380,
-        "height": 213
-      },
-      "l": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092718/l/d223449903af3a469cd819fb0b566e45.jpg",
-        "width": 640,
-        "height": 359
-      },
-      "xl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092718/xl/d223449903af3a469cd819fb0b566e45.jpg",
-        "width": 960,
-        "height": 539
-      },
-      "xxl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092718/xl/d223449903af3a469cd819fb0b566e45.jpg",
-        "width": 960,
-        "height": 539
-      }
-    },
-    "abTesting": null,
-    "categoryId": 827,
-    "columnists": null,
-    "magazine": null,
-    "fundCategoryAbbr": [],
-    "fbShare": 0,
-    "fbComment": 0,
-    "fbCommentPluginCount": 0,
-    "market": [
-      {
-        "code": "3045",
-        "name": "台灣大",
-        "symbol": "TWS:3045:STOCK"
-      },
-      {
-        "code": "4904",
-        "name": "遠傳",
-        "symbol": "TWS:4904:STOCK"
-      }
-    ],
-    "categoryName": "台股新聞"
-  },
-  {
-    "isOutsource": 0,
-    "content": "&lt;p&gt;星宇航空近期股價飆漲，帶動興櫃市場的交易熱度，有一檔清潔產品廠股票&mdash;&mdash;清淨海 (7516-TW) 比星宇更誇張，今 (21) 日因為狂飆近 7 成，觸動興櫃市場熔斷機制，對此，金管會表示，已列入監視股票。&lt;/p&gt;\n\n&lt;p&gt;清淨海股價連兩個交易日大漲，今日盤中一度大漲 70%，從 5.15 元漲到 8.7 元，更因此觸及興櫃市場熔斷機制，並於 9 點多暫停交易；清淨海兩天下來由 4.02 元漲到 8.57 元，短短兩個交易日不到，股價飆漲 113%。&lt;/p&gt;\n\n&lt;p&gt;證期局副局長張子敏表示，清淨海是興櫃股票，所以沒有漲跌幅限制，且要透過推薦券商做報價買賣，因此流動性很低，呼籲投資人投資要審慎研判。&lt;/p&gt;\n\n&lt;p&gt;張子敏，依規定，興櫃股單日漲跌 50%，就會啟動熔斷機制、暫停交易。同時，櫃買中心已將清淨海列為線上監視股票，有價證券查核若有涉不法交易情事，將依相關規定辦理，以維護投資大眾的權益。&lt;/p&gt;\n",
-    "hasCoverPhoto": 1,
-    "isCategoryHeadline": 1,
-    "isIndex": 1,
-    "newsId": 5092720,
-    "otherProduct": [],
-    "payment": 0,
-    "source": "",
-    "stock": [],
-    "summary": "興櫃交易夯！這檔比星宇還狂 飆漲 70% 觸發熔斷遭列監視股票",
-    "title": "這檔個股比星宇還狂 飆漲70%觸發熔斷遭列監視股票",
-    "video": "",
-    "publishAt": 1676974600,
-    "coverSrc": {
-      "xs": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092720/xs/abc8ee63e1ec2c77944efe45c84ee88d.jpg",
-        "width": 100,
-        "height": 56
-      },
-      "s": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092720/s/abc8ee63e1ec2c77944efe45c84ee88d.jpg",
-        "width": 180,
-        "height": 101
-      },
-      "m": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092720/m/abc8ee63e1ec2c77944efe45c84ee88d.jpg",
-        "width": 380,
-        "height": 214
-      },
-      "l": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092720/l/abc8ee63e1ec2c77944efe45c84ee88d.jpg",
-        "width": 640,
-        "height": 360
-      },
-      "xl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092720/xl/abc8ee63e1ec2c77944efe45c84ee88d.jpg",
-        "width": 960,
-        "height": 540
-      },
-      "xxl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5092720/xl/abc8ee63e1ec2c77944efe45c84ee88d.jpg",
-        "width": 960,
-        "height": 540
       }
     },
     "abTesting": null,
