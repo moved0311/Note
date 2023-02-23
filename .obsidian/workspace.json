@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-02-20.md",
+                "file": "Daily/2023-02-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,9 +42,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "988c15d290e12b46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIt/Tag.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GA/升級GA4.md",
+                "file": "Daily/2023-02-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GA/升級GA4.md",
+                "file": "Daily/2023-02-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GA/升級GA4.md"
+                "file": "Daily/2023-02-08.md"
               }
             }
           }
@@ -173,17 +184,17 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "3c0d7d80a74ecaf3",
+  "active": "45e0a1faaf2554d9",
   "lastOpenFiles": [
     "Daily/2023-02-20.md",
-    "GA/升級GA4.md",
     "Read Queue.md",
+    "GIt/Tag.md",
+    "Daily/2023-02-08.md",
+    "GA/升級GA4.md",
     "Daily/2022-12-30.md",
     "Daily/2023-01-09.md",
     "Daily/2023-01-30.md",
-    "Daily/2023-02-08.md",
     "Performance/Curry.md",
-    "LeetCode/Todo.md",
-    "LeetCode/Weekly Contest.md"
+    "LeetCode/Todo.md"
   ]
 }
