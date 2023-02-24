@@ -4,52 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ee536b12bdd9c85a",
+        "id": "9bc28e0c1e3553a4",
         "type": "tabs",
         "children": [
           {
-            "id": "45e0a1faaf2554d9",
+            "id": "3929a87a74332f63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Daily/2023-02-08.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd0678b07e41fcfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Read Queue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c0d7d80a74ecaf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GA/升級GA4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "988c15d290e12b46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIt/Tag.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,17 +148,17 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "45e0a1faaf2554d9",
+  "active": "3929a87a74332f63",
   "lastOpenFiles": [
+    "Daily/2023-01-30.md",
+    "Daily/2023-02-08.md",
     "Daily/2023-02-20.md",
     "Read Queue.md",
-    "GIt/Tag.md",
-    "Daily/2023-02-08.md",
     "GA/升級GA4.md",
+    "指令/GIt/Tag.md",
+    "指令/GIt/清除untrack files.md",
+    "指令/Shell/目錄大小.md",
     "Daily/2022-12-30.md",
-    "Daily/2023-01-09.md",
-    "Daily/2023-01-30.md",
-    "Performance/Curry.md",
-    "LeetCode/Todo.md"
+    "Daily/2023-01-09.md"
   ]
 }

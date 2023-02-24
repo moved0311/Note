@@ -1,6 +1,139 @@
 [
   {
     "isOutsource": 0,
+    "content": "&lt;p&gt;隨著中國解封、當地房市止穩，鋼市需求轉強並推升近期鐵礦砂價格，主要運送鐵礦砂的大型散裝船指標─波羅的海海峽型指數 (BCI) 最新報價更狂飆 46.92%，法人指出， FFA 遠期契約運價呈現季季增態勢，看好主要經營海岬型船舶的裕民 (2606-TW)、中航 (2612-TW) 最受惠。&lt;/p&gt;\n\n&lt;p&gt;中鋼日前開出盤價連 3 漲，並罕見對外預告鋼價將調漲，在此同時，澳洲煤鐵礦原料價格持續走升，近日煤礦最新報價來到每噸衝破 400 美元，創近 1 年新高，而鐵礦砂也漲至每噸近 130 美元。&lt;/p&gt;\n\n&lt;p&gt;因此，主要運送鐵礦砂的海岬型船舶需求快速升溫，BCI 最新報價強彈 46.92%，近一周已狂飆 108%，推升波羅的海綜合指數 (BDI) 反彈 21%，一周來漲幅超過 50%。&lt;/p&gt;\n\n&lt;p&gt;法人指出，據過去 10 年統計數據，BDI 指數於中國農曆新年過後一個月上漲機率高達 90%，加上中國解封帶動鋼市景氣回暖，煉鋼原料運輸需求提升，運價持續看漲。&lt;/p&gt;\n\n&lt;p&gt;另一方面，從 FFA 海運遠期契約運價觀察，第一季為 7900 美元，第二季為 1.32 萬美元，第三季為 1.9 萬美元，呈現季季增態勢，反映市場對中國解封看法偏多。&lt;/p&gt;\n\n&lt;p&gt;考量散裝運價趨勢向上，散裝航商營運將重拾成長動能，法人認為，目前海岬型運價水準明顯低估，未來彈升幅度將最顯著，可留意海岬型船舶占比高的散裝航商裕民、中航。&lt;/p&gt;\n\n&lt;p&gt;其中，中航今明兩年預計將加入 4 艘 21 萬噸新船，裕民今年也預計交付 5 艘新船，正好搭上這波漲價潮可期。&lt;/p&gt;\n",
+    "hasCoverPhoto": 1,
+    "isCategoryHeadline": 1,
+    "isIndex": 1,
+    "newsId": 5096268,
+    "otherProduct": [
+      "EOD:BDI:EOD:FUTURES_INDEX",
+      "TWS:2606:STOCK:COMMON",
+      "TWS:2612:STOCK:COMMON"
+    ],
+    "payment": 0,
+    "source": "",
+    "stock": [
+      "2606",
+      "2612"
+    ],
+    "summary": "FFA 遠期契約運價季季增 海岬船商裕民、中航喜迎旺市",
+    "title": "FFA遠期契約運價季季增 海岬船商裕民、中航喜迎旺市",
+    "video": "",
+    "publishAt": 1677203242,
+    "coverSrc": {
+      "xs": {
+        "src": "https://cimg.cnyes.cool/prod/news/5096268/xs/a9a189d2ff5e867f5787f908160314d5.jpg",
+        "width": 100,
+        "height": 56
+      },
+      "s": {
+        "src": "https://cimg.cnyes.cool/prod/news/5096268/s/a9a189d2ff5e867f5787f908160314d5.jpg",
+        "width": 180,
+        "height": 101
+      },
+      "m": {
+        "src": "https://cimg.cnyes.cool/prod/news/5096268/m/a9a189d2ff5e867f5787f908160314d5.jpg",
+        "width": 380,
+        "height": 214
+      },
+      "l": {
+        "src": "https://cimg.cnyes.cool/prod/news/5096268/l/a9a189d2ff5e867f5787f908160314d5.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5096268/xl/a9a189d2ff5e867f5787f908160314d5.jpg",
+        "width": 960,
+        "height": 540
+      },
+      "xxl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5096268/xl/a9a189d2ff5e867f5787f908160314d5.jpg",
+        "width": 960,
+        "height": 540
+      }
+    },
+    "abTesting": null,
+    "categoryId": 827,
+    "columnists": null,
+    "magazine": null,
+    "fundCategoryAbbr": [],
+    "fbShare": 0,
+    "fbComment": 0,
+    "fbCommentPluginCount": 0,
+    "market": [
+      {
+        "code": "2606",
+        "name": "裕民",
+        "symbol": "TWS:2606:STOCK"
+      },
+      {
+        "code": "2612",
+        "name": "中航",
+        "symbol": "TWS:2612:STOCK"
+      }
+    ],
+    "categoryName": "台股新聞"
+  },
+  {
+    "isOutsource": 0,
+    "content": "&lt;p&gt;台股今 (24) 日為禁空令退場首日，以上漲 54.47 點、開在 15669.88 點，隨後一度漲逾百點，衝高到 15717.96 點、創 8 個月以來波段新高之後，傳產金融壓盤，尤其漲多的觀光類股、生技族群賣單調節最重，摜壓大盤漲勢大舉收斂，至僅剩小漲不到 10 點的平盤上震盪，回測 15600 點。&lt;/p&gt;\n\n&lt;p&gt;台積電今天開在 524 點、上漲 6 元；大立光以上漲 20 元、2245 元開盤；鴻海開在平盤 103 元；今日電子權值股扮演撐盤要角，面板雙虎持續強勢，友達無懼昨日遭外資大賣，仍往上走高漲逾 2%，群創也被外資獲利了結，今日股價依舊未被打下來，還是走揚超過 1%；聯電、聯發科、日月光投控等都連袂上漲。&lt;/p&gt;\n\n&lt;p&gt;觀光類股漲多修正，雲品跌超過 6% 賣壓最重，雄獅、六福、國賓、華園、美食 - KY、萬企都跌 2-4% 不等。生技醫療部分也一片綠油油，羅麗芬 - KY、佳醫、旭富、寶齡富錦、美時、麗豐 - KY、視陽、和康生、全宇生技 - KY、科妍等都跌超過 2%。&lt;/p&gt;\n\n&lt;p&gt;受 228 長假因素影響，市場心態偏謹慎，目前大盤未脫離月初以來在短均糾結的震盪走勢，惟月線有向上趨勢，有助支撐指數維持 15600 點附近的震盪走勢，不過，MSCI 將在今天盤後生效，要慎防尾盤大甩尾。&lt;/p&gt;\n",
+    "hasCoverPhoto": 1,
+    "isCategoryHeadline": 1,
+    "isIndex": 1,
+    "newsId": 5096273,
+    "otherProduct": [],
+    "payment": 0,
+    "source": "",
+    "stock": [],
+    "summary": "台股漲逾百點衝高 8 個月新高後 觀光、生技壓盤 指數收斂至平盤上震盪",
+    "title": "台股漲逾百點衝高8個月新高後 觀光、生技壓盤 指數收斂至平盤上震盪",
+    "video": "",
+    "publishAt": 1677202925,
+    "coverSrc": {
+      "xs": {
+        "src": "https://cimg.cnyes.cool/prod/news/5096273/xs/7636d5049dafac08956a53782f4604d6.jpg",
+        "width": 100,
+        "height": 56
+      },
+      "s": {
+        "src": "https://cimg.cnyes.cool/prod/news/5096273/s/7636d5049dafac08956a53782f4604d6.jpg",
+        "width": 180,
+        "height": 101
+      },
+      "m": {
+        "src": "https://cimg.cnyes.cool/prod/news/5096273/m/7636d5049dafac08956a53782f4604d6.jpg",
+        "width": 380,
+        "height": 214
+      },
+      "l": {
+        "src": "https://cimg.cnyes.cool/prod/news/5096273/l/7636d5049dafac08956a53782f4604d6.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5096273/l/7636d5049dafac08956a53782f4604d6.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xxl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5096273/l/7636d5049dafac08956a53782f4604d6.jpg",
+        "width": 640,
+        "height": 360
+      }
+    },
+    "abTesting": null,
+    "categoryId": 829,
+    "columnists": null,
+    "magazine": null,
+    "fundCategoryAbbr": [],
+    "fbShare": 0,
+    "fbComment": 0,
+    "fbCommentPluginCount": 0,
+    "categoryName": "台股盤勢"
+  },
+  {
+    "isOutsource": 0,
     "content": "&lt;p&gt;連鎖超商龍頭統一超 (2912-TW) 公布去年財報，全年稅後純益 92.82 億元，年增 4.74%，每股純益 (EPS)8.93 元，董事會也通過擬配發每股現金股利 9 元，配息率逾 100%，以昨日收盤價計算，現金殖利率 3.3%。&lt;/p&gt;\n\n&lt;p&gt;統一超指出，去年受惠台灣 7-ELEVEN 漢轉投資事業如菲律賓 7-ELEVEN、悠旅生活 (星巴克)、統一精工、統一生活 (康是美) 等表現亮眼，共同推動營收成長，全年合併營收 2,904.34 億元，年增 10.54%，是連 7 年營收創高。&lt;/p&gt;\n\n&lt;p&gt;展望後市，統一超強調，將持續展店並強化多元複合經營、整合創新商品與服務，同時推進 OPEN POINT 生態圈鞏固會員經營，營運成長樂觀可期。&lt;/p&gt;\n\n&lt;p&gt;截至 2022 年底，統一超全台已有逾百家聯名店，複合經營門市則超過千店規模。&lt;/p&gt;\n\n&lt;p&gt;統一超說明，台灣 7-ELEVEN 整合創新商品與服務體驗，並結合各項智能科技，瞄準不同客群需求，擴大消費場景，去年首創外送自有品牌「OPEN NOW」串聯 3 大外送平台，並於 6,600 家門市導入外送服務，更與 foodomo 推動熱便當預點、店轉宅包裹外送等創新體驗，帶動外送業績倍數成長。&lt;/p&gt;\n\n&lt;p&gt;而迷你商店「智 FUN 機」布局空白購物商圈，服務據點已拓展 1600 台，成功將 X-STORE 智能科技擴散至一般型門市。&lt;/p&gt;\n\n&lt;p&gt;由於 OPEN POINT 生態圈會員數已達 1600 萬名，去年點數流通規模成長 6 成、會員消費金額成長 2 成、貢獻占比達 6 成，尤其點數跨 20 大通路可使用，並可折抵多項公共代收規費最受會員青睞。&lt;/p&gt;\n\n&lt;p&gt;另一方面，台灣 7-ELEVEN 餐食體驗強化品牌經營，包括星級饗宴、Ohlala、天素地蔬等自有品牌鮮食均是億元級規模，推升鮮食業績再成長 2 成，而 CITY 系列飲品以品牌聯名、產品優化和數位體驗等三大策略創造話題，也帶動業績成長超過 1 成。&lt;/p&gt;\n",
     "hasCoverPhoto": 1,
     "isCategoryHeadline": 1,
@@ -1931,163 +2064,6 @@
         "code": "6669",
         "name": "緯穎",
         "symbol": "TWS:6669:STOCK"
-      }
-    ],
-    "categoryName": "台股新聞"
-  },
-  {
-    "isOutsource": 0,
-    "content": "&lt;p&gt;FED 週三公布會議紀錄，顯示大部分的官員支持繼續升息 1 碼，但仍有少部分官員支持升息 2 碼。對外界來說，這樣的結果偏「鴿」，可是其中隱藏的鷹派氣息仍然揮之不去，如果再有一些經濟數據顯示通膨沒有辦法解決，聯準會重回升息 2 碼的可能性並不低，這樣的結果讓美股昨天依然委靡不振，美國投資人普遍擔憂股市重新受創，進而讓這段時間多空拔河力道較強，全球股市進入一個不上不下的整理期，唯有台股今天一枝獨秀，盤中上漲超過 200 點。&lt;/p&gt;\n\n&lt;p&gt;今天包括半導體、IC 設計、光電族群等電子股再度成為買盤焦點，傳產部份也有觀光、航運股在盤勢上做出表現，而整個盤勢最強的，果然還是 IC 設計族群的創意 (3443-TW)，我已經多次在自己的【惠珊老師投資池】當中提過它，並且也一次又一次驗證它的強勢性。&lt;/p&gt;\n\n&lt;p&gt;創意做為台積電 (2330-TW) 的子公司，雖然台積電最近雜音不斷（包括遷廠至美國、也包括巴菲特賣股）但卻沒有影響到創意的強勢性，創意投入於高階製程 (5 奈米、3 奈米) 及先進封裝 CoWoS（基板上晶圓上晶片封裝）研發有成，而最廣泛的商品 7 奈米與先進封裝 CoWoS 製程，則主要用在 AI、HPC 與 5G 晶片上，該公司涉獵的題材都屬於尖端科技，在科技不斷發展的當下，必然是走在最前面的公司之一，而因為其產業入門門檻較高，難以被其他公司追上，之後也會繼續強勢。&lt;/p&gt;\n\n&lt;p&gt;威盛 (2388-TW) 依然在元宇宙領域享有熱度。根據美國 TrendForce 研調機構數據顯示，2021 年全球 VR（虛擬實境）應用內容市場規模達 21.6 億美元，預計 2025 年將高達 83.1 億美元，年複合成長率 40％相當驚人，而這也已經反應在威盛的營運上，威盛去年營收兩度（9 月、11 月）超越十億元的大關，且威盛 2022 年全年營收為 92.97 億元，寫下 15 年以來新高，相較 2021 成長 32.6%。這個表現甩脫了以往「威盛家族沒有基本面」的刻板印象，成為確確實實獲利的公司。&lt;/p&gt;\n\n&lt;p&gt;瑞昱 (2379-TW) 從底部一路向上沒有轉弱過，已經突破去年 11 月的整理平台區間，是至今以來最優秀的一次波段。瑞昱數位轉型及 5G 帶動相關連結技術帶來的效益是長線的，雖然具體資料仍然等待統計，但預估 2023 年 WiFi 6 應用於 PC、router 滲透率，分別達 50％～60％，整體公司前景透明可見，再加上瑞昱去年前三季 EPS 27.47 元，表現已優於預期，全年本益比偏低，都是瑞昱可見的優勢。&lt;/p&gt;\n\n&lt;p&gt;這三支都有一個共通點，那就是與「元宇宙」題材有關係，其中瑞昱做網通的乍看下關係薄弱，但其實有在做乙太網路的網通晶片，而乙太網路是發展整個元宇宙必要的技術，在有實體線路的支持下，可以瞬間傳輸較大的網路數據來做反應，這是一般 WIFI 等電波網路比較難做到的事。&lt;/p&gt;\n\n&lt;p&gt;最後來說說創意，當初我看好它的時候，其實有很多分析師覺得它不會再繼續向上漲，現在已經證實我的看法是對的，而在創意之後，我挑選了一檔【小創意】來進行布局，近期會在我的 LINE（&lt;a href=&quot;https://lin.ee/cFL6Qcs&quot;&gt;https://lin.ee/cFL6Qcs&lt;/a&gt;）公開是哪一支股票給大家參考，有興趣的趕快加入收看！&lt;/p&gt;\n\n&lt;p&gt;由於字數有限，更多台股產業最全面、最完整的解析，我都會持續在 LINE 當中提及，投資人想免費索取請加 LINE︰@588vip 並留言「我想得到惠珊老師的最新分析」，將會有專人為您服務。&lt;/p&gt;\n\n&lt;p&gt;專人諮詢服務｜02-25415555&lt;br&gt;\nLINE ID｜&lt;a href=&quot;https://lin.ee/cFL6Qcs&quot;&gt;https://lin.ee/cFL6Qcs&lt;/a&gt;&lt;br&gt;\nFB｜&lt;a href=&quot;https://bit.ly/3F3elUD&quot;&gt;https://bit.ly/3F3elUD&lt;/a&gt;&lt;br&gt;\nYoutube｜&lt;a href=&quot;https://bit.ly/3mYYyPL&quot;&gt;https://bit.ly/3mYYyPL&lt;/a&gt;&lt;br&gt;\n諮詢表單｜&lt;a href=&quot;https://forms.gle/QZYzCJFe5445ZB8W7&quot;&gt;https://forms.gle/QZYzCJFe5445ZB8W7&lt;/a&gt;&lt;/p&gt;\n\n&lt;figure&gt;&lt;img data-height=&quot;428&quot; data-mime=&quot;image/jpeg&quot; data-ratio=&quot;1.7757009345794392&quot; data-src-m=&quot;https://cimg.cnyes.cool/prod/news/5095343/m/d83a9fd3c61b212caf16e1b4c6560a31.jpg&quot; data-width=&quot;760&quot; src=&quot;https://cimg.cnyes.cool/prod/news/5095343/l/d83a9fd3c61b212caf16e1b4c6560a31.jpg&quot; srcset=&quot;https://cimg.cnyes.cool/prod/news/5095343/l/d83a9fd3c61b212caf16e1b4c6560a31.jpg 1x,https://cimg.cnyes.cool/prod/news/5095343/xl/d83a9fd3c61b212caf16e1b4c6560a31.jpg 2x,https://cimg.cnyes.cool/prod/news/5095343/xxl/d83a9fd3c61b212caf16e1b4c6560a31.jpg 3x&quot;&gt;&lt;/figure&gt;\n\n&lt;figure&gt;&lt;img data-height=&quot;428&quot; data-mime=&quot;image/jpeg&quot; data-ratio=&quot;1.7757009345794392&quot; data-src-m=&quot;https://cimg.cnyes.cool/prod/news/5095343/m/233d562fd2ce3349e6216db9c2980080.jpg&quot; data-width=&quot;760&quot; src=&quot;https://cimg.cnyes.cool/prod/news/5095343/l/233d562fd2ce3349e6216db9c2980080.jpg&quot; srcset=&quot;https://cimg.cnyes.cool/prod/news/5095343/l/233d562fd2ce3349e6216db9c2980080.jpg 1x,https://cimg.cnyes.cool/prod/news/5095343/xl/233d562fd2ce3349e6216db9c2980080.jpg 2x,https://cimg.cnyes.cool/prod/news/5095343/xxl/233d562fd2ce3349e6216db9c2980080.jpg 3x&quot;&gt;&lt;/figure&gt;\n\n&lt;p class=&quot;warning&quot;&gt;本公司所推薦分析之個別有價證券&lt;br&gt;\n無不當之財務利益關係 以往之績效不保證未來獲利&lt;br&gt;\n投資人應獨立判斷 審慎評估並自負投資風險&lt;/p&gt;\n",
-    "hasCoverPhoto": 1,
-    "isCategoryHeadline": 1,
-    "isIndex": 0,
-    "newsId": 5095343,
-    "otherProduct": [
-      "TWS:3443:STOCK:COMMON",
-      "TWS:2330:STOCK:COMMON",
-      "TWS:2388:STOCK:COMMON",
-      "TWS:2379:STOCK:COMMON"
-    ],
-    "payment": 0,
-    "source": "",
-    "stock": [
-      "3443",
-      "2330",
-      "2388",
-      "2379"
-    ],
-    "summary": "",
-    "title": "元宇宙依然最夯！威盛、創意、瑞昱後的小創意是誰？",
-    "video": "",
-    "publishAt": 1677151203,
-    "coverSrc": {
-      "xs": {
-        "src": "https://cimg.cnyes.cool/prod/news/5095343/xs/7afcde8c63b8036a855db56b0e2ac636.jpg",
-        "width": 100,
-        "height": 56
-      },
-      "s": {
-        "src": "https://cimg.cnyes.cool/prod/news/5095343/s/7afcde8c63b8036a855db56b0e2ac636.jpg",
-        "width": 180,
-        "height": 101
-      },
-      "m": {
-        "src": "https://cimg.cnyes.cool/prod/news/5095343/m/7afcde8c63b8036a855db56b0e2ac636.jpg",
-        "width": 380,
-        "height": 214
-      },
-      "l": {
-        "src": "https://cimg.cnyes.cool/prod/news/5095343/l/7afcde8c63b8036a855db56b0e2ac636.jpg",
-        "width": 640,
-        "height": 360
-      },
-      "xl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5095343/xl/7afcde8c63b8036a855db56b0e2ac636.jpg",
-        "width": 960,
-        "height": 540
-      },
-      "xxl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5095343/xxl/7afcde8c63b8036a855db56b0e2ac636.jpg",
-        "width": 1080,
-        "height": 608
-      }
-    },
-    "abTesting": null,
-    "categoryId": 827,
-    "columnists": null,
-    "magazine": null,
-    "fundCategoryAbbr": [],
-    "fbShare": 0,
-    "fbComment": 0,
-    "fbCommentPluginCount": 0,
-    "market": [
-      {
-        "code": "3443",
-        "name": "創意",
-        "symbol": "TWS:3443:STOCK"
-      },
-      {
-        "code": "2330",
-        "name": "台積電",
-        "symbol": "TWS:2330:STOCK"
-      },
-      {
-        "code": "2388",
-        "name": "威盛",
-        "symbol": "TWS:2388:STOCK"
-      },
-      {
-        "code": "2379",
-        "name": "瑞昱",
-        "symbol": "TWS:2379:STOCK"
-      }
-    ],
-    "categoryName": "台股新聞"
-  },
-  {
-    "isOutsource": 0,
-    "content": "&lt;p&gt;電動巴士大廠華德動能 (2237-TW) 今 (23) 日宣布，與 iBus 台灣愛巴士交通聯盟之中鹿汽車客運、巨業交通簽約，兩大業者將分別採購 33、16 輛示範型電動低地板大巴，合約總金額约 5.12 億元，預計今 (2023) 年分批交車。&lt;/p&gt;\n\n&lt;p&gt;華德動能說明，此次簽約的中鹿客運 (45 路、99 路、105 路、525 路) 和巨業交通 (305 路) 配置於大台中市區，停靠各級學校、醫院、交通要點，營運路線連通大台中地區的山線與海線，其中，巨業交通的 305 路更是首條全程行駛台灣大道 (台中火車站至沙鹿) 的電動公車。&lt;/p&gt;\n\n&lt;p&gt;為因應國內外訂單需求快速成長，華德台中港廠區興建全新電動巴士工廠，已於去年正式量產，產能逐年攀升，每年可生產至少 1700 輛電動巴士整車，以及底盤三電超過 1 萬套。&lt;/p&gt;\n\n&lt;p&gt;為加速生態系創新服務的布局，華德動能已併入台灣公共運輸管理系統占有率超過 70% 的銓鼎公司。&lt;/p&gt;\n\n&lt;p&gt;華德動能說明，銓鼎是國內唯一有能力提供電動巴士營運場站建置、儲能系統和智慧充電排程的廠家，可有效降低客運業者電網負擔；不僅如此，銓鼎的公車營運管理平台系統，與國內某家科技廠商合作，軟體管理系統成功已導入越南最大集團 VinGroup 旗下電動巴士廠商 VinBus 大量使用。&lt;/p&gt;\n\n&lt;p&gt;華德去年獲核准 270 輛示範型電動巴士，核准車輛數超過交通部示範計畫數量 50% 以上，其中，2021 年示範型核定數已 100% 交車，遠遠領先其他示範型業者。&lt;/p&gt;\n",
-    "hasCoverPhoto": 1,
-    "isCategoryHeadline": 1,
-    "isIndex": 1,
-    "newsId": 5095619,
-    "otherProduct": [
-      "TWG:2237:STOCK:COMMON"
-    ],
-    "payment": 0,
-    "source": "",
-    "stock": [
-      "2237"
-    ],
-    "summary": "華德動能拿下二客運業者逾 5 億元大單 今年分批交車認列",
-    "title": "華德動能拿下二客運業者逾5億元大單 今年分批交車認列",
-    "video": "",
-    "publishAt": 1677151148,
-    "coverSrc": {
-      "xs": {
-        "src": "https://cimg.cnyes.cool/prod/news/5095619/xs/33fae005782c5a535f852a32c485ffd8.jpg",
-        "width": 100,
-        "height": 56
-      },
-      "s": {
-        "src": "https://cimg.cnyes.cool/prod/news/5095619/s/33fae005782c5a535f852a32c485ffd8.jpg",
-        "width": 180,
-        "height": 101
-      },
-      "m": {
-        "src": "https://cimg.cnyes.cool/prod/news/5095619/m/33fae005782c5a535f852a32c485ffd8.jpg",
-        "width": 380,
-        "height": 214
-      },
-      "l": {
-        "src": "https://cimg.cnyes.cool/prod/news/5095619/l/33fae005782c5a535f852a32c485ffd8.jpg",
-        "width": 640,
-        "height": 360
-      },
-      "xl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5095619/xl/33fae005782c5a535f852a32c485ffd8.jpg",
-        "width": 960,
-        "height": 540
-      },
-      "xxl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5095619/xxl/33fae005782c5a535f852a32c485ffd8.jpg",
-        "width": 1080,
-        "height": 608
-      }
-    },
-    "abTesting": null,
-    "categoryId": 827,
-    "columnists": null,
-    "magazine": null,
-    "fundCategoryAbbr": [],
-    "fbShare": 0,
-    "fbComment": 0,
-    "fbCommentPluginCount": 0,
-    "market": [
-      {
-        "code": "2237",
-        "name": "華德動能",
-        "symbol": "TWG:2237:STOCK"
       }
     ],
     "categoryName": "台股新聞"
