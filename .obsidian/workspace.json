@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-02-08.md",
+                "file": "Daily/2023-02-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bundle/Reference.md",
+                "file": "Daily/2023-02-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bundle/Reference.md",
+                "file": "Daily/2023-02-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bundle/Reference.md"
+                "file": "Daily/2023-02-20.md"
               }
             }
           }
@@ -161,9 +160,10 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "8f7af01595176215",
+  "active": "3929a87a74332f63",
   "lastOpenFiles": [
     "Daily/2023-02-08.md",
+    "Bundle/Reference.md",
     "Daily/2023-01-30.md",
     "Daily/2023-02-20.md",
     "Read Queue.md",
@@ -171,7 +171,6 @@
     "指令/GIt/Tag.md",
     "指令/GIt/清除untrack files.md",
     "指令/Shell/目錄大小.md",
-    "Daily/2022-12-30.md",
-    "Daily/2023-01-09.md"
+    "Daily/2022-12-30.md"
   ]
 }
