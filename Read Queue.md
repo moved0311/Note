@@ -11,4 +11,8 @@
 * [ ] [NestJS: The Good, The Bad, and The Ugly | by Robert-Jan Kuyper | Feb, 2023 | Better Programming](https://betterprogramming.pub/nestjs-the-good-the-bad-and-the-ugly-d51aea04f267)
 * [ ] [How to Learn JavaScript Effectively – Tips and Learning Strategies](https://www.freecodecamp.org/news/how-to-learn-javascript-effectively/)
 * [ ] [資料結構與演算法：LRU 快取機制 - Joseph's blog](https://josephjsf2.github.io/data/structure/and/algorithm/2020/05/09/LRU.html)
+* [ ] [Top 10 Git Commands Every Developer Should Know](https://blog.greenroots.info/top-10-git-commands-every-developer-should-know)
+* [ ] [Our journey with creating a UI library - part 1 - Fusonic](https://www.fusonic.net/en/blog/our-journey-with-creating-a-ui-library-part-1)
+* [ ] [[Git] 使用 Git SubTree 來共享函示庫原始碼 | 胖胖的點人生 - 點部落](https://dotblogs.com.tw/fatjohn/2016/12/23/gitsubtree)
+* [ ] [Best practices for creating a modern npm package | Snyk](https://snyk.io/blog/best-practices-create-modern-npm-package/)
 * [ ] 

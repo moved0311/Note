@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-02-20.md",
+                "file": "Read Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-02-20.md",
+                "file": "Read Queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-02-20.md"
+                "file": "Read Queue.md"
               }
             }
           }
@@ -172,10 +173,10 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "3929a87a74332f63",
+  "active": "e1c5846be7451012",
   "lastOpenFiles": [
-    "Bundle/Reference.md",
     "Daily/2023-02-20.md",
+    "Bundle/Reference.md",
     "Read Queue.md",
     "Daily/2023-02-08.md",
     "Daily/2023-01-30.md",
