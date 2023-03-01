@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPM/Publish.md",
+                "file": "Bundle/Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPM/Publish.md",
+                "file": "Bundle/Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPM/Publish.md"
+                "file": "Bundle/Reference.md"
               }
             }
           }
@@ -185,9 +185,10 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "ba671fb6fe963949",
+  "active": "8f7af01595176215",
   "lastOpenFiles": [
     "Daily/2023-02-20.md",
+    "NPM/Publish.md",
     "Read Queue.md",
     "Bundle/Reference.md",
     "Daily/2023-02-08.md",
@@ -195,7 +196,6 @@
     "GA/升級GA4.md",
     "指令/GIt/Tag.md",
     "指令/GIt/清除untrack files.md",
-    "指令/Shell/目錄大小.md",
-    "Daily/2022-12-30.md"
+    "指令/Shell/目錄大小.md"
   ]
 }

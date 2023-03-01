@@ -15,4 +15,4 @@
 * [ ] [Our journey with creating a UI library - part 1 - Fusonic](https://www.fusonic.net/en/blog/our-journey-with-creating-a-ui-library-part-1)
 * [ ] [[Git] 使用 Git SubTree 來共享函示庫原始碼 | 胖胖的點人生 - 點部落](https://dotblogs.com.tw/fatjohn/2016/12/23/gitsubtree)
 * [ ] [Best practices for creating a modern npm package | Snyk](https://snyk.io/blog/best-practices-create-modern-npm-package/)
-* [ ] 
+* [ ]  [(10) GitLab NPM Registry Demo - YouTube](https://www.youtube.com/watch?v=yvLxtkvsFDA)
