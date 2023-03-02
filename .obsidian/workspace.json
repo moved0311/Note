@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPM/Publish.md",
+                "file": "NPM/Publish to gitlab registry.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-02-20.md",
+                "file": "NPM/Publish to gitlab registry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-02-20.md",
+                "file": "NPM/Publish to gitlab registry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-02-20.md"
+                "file": "NPM/Publish to gitlab registry.md"
               }
             }
           }
@@ -184,12 +185,12 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "3929a87a74332f63",
+  "active": "ba671fb6fe963949",
   "lastOpenFiles": [
-    "NPM/Publish.md",
     "Bundle/Reference.md",
-    "Read Queue.md",
     "Daily/2023-02-20.md",
+    "NPM/Publish to gitlab registry.md",
+    "Read Queue.md",
     "Daily/2023-02-08.md",
     "Daily/2023-01-30.md",
     "GA/升級GA4.md",
