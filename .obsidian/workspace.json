@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bundle/Reference.md",
+                "file": "NPM/Publish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bundle/Reference.md",
+                "file": "NPM/Publish.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bundle/Reference.md"
+                "file": "NPM/Publish.md"
               }
             }
           }
@@ -185,12 +185,12 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "8f7af01595176215",
+  "active": "ba671fb6fe963949",
   "lastOpenFiles": [
-    "Daily/2023-02-20.md",
-    "NPM/Publish.md",
-    "Read Queue.md",
     "Bundle/Reference.md",
+    "Read Queue.md",
+    "NPM/Publish.md",
+    "Daily/2023-02-20.md",
     "Daily/2023-02-08.md",
     "Daily/2023-01-30.md",
     "GA/升級GA4.md",
