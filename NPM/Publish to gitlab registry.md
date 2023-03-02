@@ -8,6 +8,14 @@ Gitlab有提供Packages & Registries(圖1)。配合CICD每次打tag時能夠一�
 |---|---|
 |![Packages & Registries](./registry.png)| ![Packages & Registries](./registry1.png)|
 
+## 之前做法
+直接把原始碼與編譯檔推到Gitlab上，然後打tag來區分不同版本。
+透過`yarn add https://<gitlab-url>/fe-common-library.git#3.89.0`直接把整包放到`node_modules`中，會造成`node_modules`裡面包了其實用不到的原始碼。
+
+`node_modules`迷因
+
+![meme](nodeModules.jpeg)
+
 ## 流程
 1. 開發元件並透過[Storybook](https://storybook.js.org/)UI開發工具預覽
 2. 透過[Webpack](https://webpack.js.org/), [Rollup](https://rollupjs.org/) 等工具編譯打包
@@ -138,6 +146,33 @@ files定義需要打包哪些檔案
 
 如果有設定權限還需要設定`.npmrc`
 
+`.npmrc`
+```
+@cnyes:registry=https://<gitlab-url>/api/v4/projects/<project-id>/packages/npm/
+//<gitlab-url>/api/v4/projects/<project-id>/packages/npm/:_authToken=<access-token>
+
+```
+
+可能會稍微遇到一些問題，但應該都可以解掉...吧
+![CICD_Error](CICD_Error.png)
+
+## 安裝至使用專案
+
+```sh
+yarn add @cnyes/fe-share-components
+```
+預設會到公開的地方下載套件，但是如果是到gitlab需要再設定`.npmrc`來設定`@cnyes`這個群組名稱要去哪裡下載
+
+`.npmrc`
+```
+@cnyes:registry=https://<gitlab-url>/api/v4/projects/<project-id>/packages/npm/
+//<gitlab-url>/api/v4/projects/<project-id>/packages/npm/:_authToken=<access-token>
+```
+
+在元件內引入方式
+```
+import { Button } from '@cnyes/fe-share-components';
+```
 
 
 ## Reference
