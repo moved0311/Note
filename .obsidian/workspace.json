@@ -6,7 +6,26 @@
       {
         "id": "9bc28e0c1e3553a4",
         "type": "tabs",
-        "dimension": 53.92670157068062,
+        "dimension": 61.03151862464183,
+        "children": [
+          {
+            "id": "e1c5846be7451012",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Read Queue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1f69f57beb5b83b6",
+        "type": "tabs",
+        "dimension": 38.96848137535817,
         "children": [
           {
             "id": "2b708562d27fd7c7",
@@ -22,26 +41,6 @@
             "group": "09df8a77f4bcc472"
           },
           {
-            "id": "e1c5846be7451012",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Read Queue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "1f69f57beb5b83b6",
-        "type": "tabs",
-        "dimension": 46.07329842931937,
-        "children": [
-          {
             "id": "f7705b58cad96efd",
             "type": "leaf",
             "state": {
@@ -54,7 +53,8 @@
             },
             "group": "09df8a77f4bcc472"
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -183,7 +184,7 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "f7705b58cad96efd",
+  "active": "0956f11c313356e2",
   "lastOpenFiles": [
     "Read Queue.md",
     "Daily/2023-03-07.md",
