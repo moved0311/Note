@@ -162,6 +162,7 @@
   },
   "active": "3929a87a74332f63",
   "lastOpenFiles": [
+    "Daily/2023-03-07.md",
     "Read Queue.md",
     "Daily/2023-02-20.md",
     "NPM/Publish to gitlab registry.md",
@@ -170,7 +171,6 @@
     "Daily/2023-01-30.md",
     "GA/升級GA4.md",
     "指令/GIt/Tag.md",
-    "指令/GIt/清除untrack files.md",
-    "指令/Shell/目錄大小.md"
+    "指令/GIt/清除untrack files.md"
   ]
 }
