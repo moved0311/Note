@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Read Queue.md",
+                "file": "Daily/2023-03-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Read Queue.md",
+                "file": "Daily/2023-03-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Read Queue.md"
+                "file": "Daily/2023-03-07.md"
               }
             }
           }
@@ -183,11 +183,11 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "e1c5846be7451012",
+  "active": "f7705b58cad96efd",
   "lastOpenFiles": [
+    "Read Queue.md",
     "Daily/2023-03-07.md",
     "Daily/2023-02-20.md",
-    "Read Queue.md",
     "NPM/Publish to gitlab registry.md",
     "Bundle/Reference.md",
     "Daily/2023-02-08.md",
