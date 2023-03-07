@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-03-07.md",
+                "file": "GA/升級GA4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-03-07.md",
+                "file": "GA/升級GA4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-03-07.md"
+                "file": "GA/升級GA4.md"
               }
             }
           }
@@ -195,11 +195,11 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "2b708562d27fd7c7",
+  "active": "95d1bb871c84d53d",
   "lastOpenFiles": [
+    "Daily/2023-03-07.md",
     "GA/升級GA4.md",
     "Read Queue.md",
-    "Daily/2023-03-07.md",
     "Daily/2023-02-20.md",
     "NPM/Publish to gitlab registry.md",
     "Bundle/Reference.md",

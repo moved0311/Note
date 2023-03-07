@@ -28,8 +28,8 @@ const { getGaEvent } = useContext(AnalyticsContext);
   const gaEvent = getGaEvent
   ? getGaEvent('FundsTreeMap.Tab')
       .label(label.name)
-      .clickItem([label.name])
-      .toEvent()
+      .clickItem(label.name)
+      .toGaDataset()
   : {};
 ```
 ```
