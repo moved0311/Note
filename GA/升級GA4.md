@@ -32,3 +32,8 @@ const { getGaEvent } = useContext(AnalyticsContext);
       .toEvent()
   : {};
 ```
+```
+eventName: "",
+section: "",
+clickItem: ""
+```
