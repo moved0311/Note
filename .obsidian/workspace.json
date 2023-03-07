@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-03-07.md",
+                "file": "GA/升級GA4.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,15 +46,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-03-07.md",
+                "file": "GA/升級GA4.md",
                 "mode": "preview",
                 "source": false
               }
             },
             "group": "09df8a77f4bcc472"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -121,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-03-07.md",
+                "file": "GA/升級GA4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-03-07.md",
+                "file": "GA/升級GA4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-03-07.md"
+                "file": "GA/升級GA4.md"
               }
             }
           }
@@ -184,10 +182,10 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "f7705b58cad96efd",
+  "active": "2b708562d27fd7c7",
   "lastOpenFiles": [
-    "Read Queue.md",
     "Daily/2023-03-07.md",
+    "Read Queue.md",
     "Daily/2023-02-20.md",
     "NPM/Publish to gitlab registry.md",
     "Bundle/Reference.md",

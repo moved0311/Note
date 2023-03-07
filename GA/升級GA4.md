@@ -21,3 +21,14 @@ const Example = () => {
 
 export default Example
 ```
+```ts
+import React, { FC, useContext } from 'react';
+import AnalyticsContext from 'context/AnalyticsContext';
+const { getGaEvent } = useContext(AnalyticsContext);
+  const gaEvent = getGaEvent
+  ? getGaEvent('FundsTreeMap.Tab')
+      .label(label.name)
+      .clickItem([label.name])
+      .toEvent()
+  : {};
+```
