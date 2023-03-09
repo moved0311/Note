@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GA/升級GA4.md",
+                "file": "Daily/2023-03-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GA/升級GA4.md",
+                "file": "Daily/2023-03-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GA/升級GA4.md"
+                "file": "Daily/2023-03-07.md"
               }
             }
           }
@@ -173,11 +173,11 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "95d1bb871c84d53d",
+  "active": "d039afc6a6ea1492",
   "lastOpenFiles": [
+    "GA/升級GA4.md",
     "Daily/2023-03-07.md",
     "Read Queue.md",
-    "GA/升級GA4.md",
     "Daily/2023-02-20.md",
     "NPM/Publish to gitlab registry.md",
     "Bundle/Reference.md",
