@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Blog.md",
+                "file": "Read Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech Blog.md",
+                "file": "Read Queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Blog.md"
+                "file": "Read Queue.md"
               }
             }
           }
@@ -173,8 +172,9 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "d039afc6a6ea1492",
+  "active": "e1c5846be7451012",
   "lastOpenFiles": [
+    "Tech Blog.md",
     "Daily/2023-03-07.md",
     "GA/升級GA4.md",
     "Read Queue.md",
@@ -183,7 +183,6 @@
     "Bundle/Reference.md",
     "Daily/2023-02-08.md",
     "Daily/2023-01-30.md",
-    "指令/GIt/Tag.md",
-    "指令/GIt/清除untrack files.md"
+    "指令/GIt/Tag.md"
   ]
 }
