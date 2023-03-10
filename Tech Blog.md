@@ -18,7 +18,17 @@
 * [All posts | SoundCloud Backstage Blog](https://developers.soundcloud.com/blog/)
 * [Engineering](https://blog.twitter.com/engineering/en_us)
 * [Tech Blog - eBay Inc.](https://tech.ebayinc.com/)
-* 
+* [Taro Blog - Software Engineer Career Growth](https://www.jointaro.com/blog/)
+* [Instagram Engineering](https://instagram-engineering.com/)
+* [Engineering | Uber Blog](https://www.uber.com/en-TW/blog/engineering/)
+* [The Airbnb Tech Blog – Medium](https://medium.com/airbnb-engineering)
+* [Coursera Blog | Online learning news for learners, educators, & employers](https://blog.coursera.org/)
+* [Upvoted | The Official Reddit Blog](https://www.redditinc.com/blog)
+*  [DEV Community](https://dev.to/)
+*  [BuzzFeed Tech](https://tech.buzzfeed.com/)
+* [Newsroom & Press Center | Canva](https://www.canva.com/newsroom/news/)
+* [BBC Product & Technology – Medium](https://medium.com/bbc-product-technology)
+* [Lyft Engineering](https://eng.lyft.com/)
 
 
 ## 演算法
