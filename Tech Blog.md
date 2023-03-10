@@ -1,3 +1,26 @@
+## 公司
+* [Engineering at Meta](https://engineering.fb.com/)
+* [The GitHub Blog: Engineering News and Updates](https://github.blog/category/engineering/)
+* [Heroku Blog - Engineering | Heroku](https://blog.heroku.com/engineering)
+* [AWS 部落格](https://aws.amazon.com/blogs/?awsf.blog-master-category=*all&awsf.blog-master-learning-levels=*all&awsf.blog-master-industry=*all&awsf.blog-master-analytics-products=*all&awsf.blog-master-artificial-intelligence=*all&awsf.blog-master-aws-cloud-financial-management=*all&awsf.blog-master-blockchain=*all&awsf.blog-master-business-applications=*all&awsf.blog-master-compute=*all&awsf.blog-master-customer-enablement=*all&awsf.blog-master-customer-engagement=*all&awsf.blog-master-database=*all&awsf.blog-master-developer-tools=*all&awsf.blog-master-devops=*all&awsf.blog-master-end-user-computing=*all&awsf.blog-master-mobile=*all&awsf.blog-master-iot=*all&awsf.blog-master-management-governance=*all&awsf.blog-master-media-services=*all&awsf.blog-master-migration-transfer=*all&awsf.blog-master-migration-solutions=*all&awsf.blog-master-networking-content-delivery=*all&awsf.blog-master-programming-language=*all&awsf.blog-master-sector=*all&awsf.blog-master-security=*all&awsf.blog-master-storage=*all)
+* [Azure Blog and Updates | Microsoft Azure](https://azure.microsoft.com/en-us/blog/)
+* [Google Developers Blog](https://developers.googleblog.com/)
+* [Netflix TechBlog](https://netflixtechblog.com/)
+* [Blog | LinkedIn Engineering](https://engineering.linkedin.com/blog)
+* [Spotify Engineering - Spotify’s official technology blog : Spotify Engineering](https://engineering.atspotify.com/)
+* [Pinterest Engineering – Medium](https://medium.com/@Pinterest_Engineering)
+* [Etsy Engineering | Code as Craft](https://www.etsy.com/codeascraft)
+* [Yelp Engineering and Product Blog](https://engineeringblog.yelp.com/)
+* [Engineering at Quora](https://quoraengineering.quora.com/)
+* [Salesforce Developer Blog](https://developer.salesforce.com/blogs)
+* [Medium Engineering](https://medium.engineering/)
+* [Blog](https://machinelearningmastery.com/blog/)
+* [All posts | SoundCloud Backstage Blog](https://developers.soundcloud.com/blog/)
+* [Engineering](https://blog.twitter.com/engineering/en_us)
+* [Tech Blog - eBay Inc.](https://tech.ebayinc.com/)
+* 
+
+
 ## 演算法
 
 - [Rohit Verma – Medium](https://medium.com/@rohitverma_87831)
