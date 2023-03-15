@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Links.md",
+                "file": "Daily/2023-03-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Links.md",
+                "file": "Daily/2023-03-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Links.md"
+                "file": "Daily/2023-03-07.md"
               }
             }
           }
@@ -160,10 +161,10 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "be1a3a5704dd8912",
+  "active": "1a3e5bb9dc34a0b1",
   "lastOpenFiles": [
-    "Daily/2023-03-07.md",
     "Links.md",
+    "Daily/2023-03-07.md",
     "Daily/2023-02-20.md",
     "Read Queue.md",
     "GA/升級GA4.md",
