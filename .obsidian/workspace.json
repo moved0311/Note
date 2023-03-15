@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bundle/Reference.md",
-                "mode": "preview",
+                "file": "Rollup/Reference.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bundle/Reference.md",
+                "file": "Rollup/Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bundle/Reference.md",
+                "file": "Rollup/Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bundle/Reference.md"
+                "file": "Rollup/Reference.md"
               }
             }
           }
@@ -161,16 +161,16 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "1a3e5bb9dc34a0b1",
+  "active": "0956f11c313356e2",
   "lastOpenFiles": [
+    "Links.md",
+    "Rollup/Reference.md",
     "npm package.md",
     "Daily/2023-03-07.md",
-    "Links.md",
     "Daily/2023-02-20.md",
     "Read Queue.md",
     "GA/升級GA4.md",
     "NPM/Publish to gitlab registry.md",
-    "Bundle/Reference.md",
     "Daily/2023-02-08.md",
     "Daily/2023-01-30.md"
   ]

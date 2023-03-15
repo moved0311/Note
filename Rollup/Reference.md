@@ -6,3 +6,7 @@
 ```sh
 yarn add https://gitlab.cnyes.cool/share/fe-share-components.git#<tag>
 ```
+
+@rollup/plugin-url
+
+@rollup/plugin-image
