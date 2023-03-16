@@ -1,0 +1,2 @@
+* [How to handle errors in React: full guide](https://www.developerway.com/posts/how-to-handle-errors-in-react?ck_subscriber_id=1841440222&utm_source=convertkit&utm_medium=email&utm_campaign=How+to+handle+errors+in+React%3A+full+guide%20-%2010069681#part2)
+* 
