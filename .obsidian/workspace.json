@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rollup/Reference.md",
+                "file": "Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rollup/Reference.md",
+                "file": "Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rollup/Reference.md"
+                "file": "Links.md"
               }
             }
           }
@@ -173,11 +173,11 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "1a3e5bb9dc34a0b1",
+  "active": "be1a3a5704dd8912",
   "lastOpenFiles": [
+    "Rollup/Reference.md",
     "Links.md",
     "Daily/2023-03-07.md",
-    "Rollup/Reference.md",
     "npm package.md",
     "Daily/2023-02-20.md",
     "Read Queue.md",
