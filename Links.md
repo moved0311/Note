@@ -29,13 +29,16 @@
 * [Newsroom & Press Center | Canva](https://www.canva.com/newsroom/news/)
 * [BBC Product & Technology – Medium](https://medium.com/bbc-product-technology)
 * [Lyft Engineering](https://eng.lyft.com/)
-
+*  [Dcard Tech – Medium](https://dcardlab.medium.com/)                                       
+*  [Discord Blog](https://discord.com/blog)                                                 
+*  [trivago tech blog](https://tech.trivago.com/)                                          
 
 ## 演算法
 - [Rohit Verma – Medium](https://medium.com/@rohitverma_87831)
 
 ##  個人
-*  [Felix Chern – Medium](https://medium.com/@fchern)  (關於變強這檔事) 2023-03-13
+*  [Felix Chern – Medium](https://medium.com/@fchern)  (關於變強這檔事) 2023-03-12
+* [vgod's blog – Medium](https://vgod.medium.com/) 2023-02-26
 *  [Robert-Jan Kuyper – Medium](https://medium.com/@datails)  2023-02-17  
 *  [Advanced patterns for Frontend developers - Nadia](https://www.developerway.com/)  2023-02-14  
 *  [Netflix Technology Blog – Medium](https://netflixtechblog.medium.com/)  2023-01-31  
@@ -43,12 +46,10 @@
 *  [Addy Osmani](https://web.dev/authors/addyosmani/)  2022-10-20 
 *  [Rida F'kih – Medium](https://medium.com/@ridafkih)  2022-10-20 
 *  [Harshal Patil – Medium](https://medium.com/@mistyHarsh) 2022-09-18
+* [Morris' Blog](https://morris821028.github.io/) 2022-06-20
 *  [Kai Hao](https://kaihao.dev/) 2022-01-08
 *  [Rob Dodson – Medium](https://medium.com/@robdodson)  2019-01-14 
 *  [TechBridge 技術共筆部落格](https://blog.techbridge.cc/)  2021-08-08  
-*  [Dcard Tech – Medium](https://dcardlab.medium.com/)                                       
-*  [Discord Blog](https://discord.com/blog)                                                 
-*  [trivago tech blog](https://tech.trivago.com/)                                          
 *  [Jason's Web Memo](https://jason-memo.dev/)                                            
 *  [Complete Think](https://rickhw.github.io/)                                           
 *  [Hannah Lin – Medium](https://hannahlin.medium.com/)                                 
