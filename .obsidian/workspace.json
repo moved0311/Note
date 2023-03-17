@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "620c4ce0c2c5f2c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO/LeetCode.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "be1a3a5704dd8912",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fefdff30c3329daf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-03-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,21 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1a3e5bb9dc34a0b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rollup/Reference.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/LeetCode.md",
+                "file": "Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/LeetCode.md",
+                "file": "Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/LeetCode.md"
+                "file": "Links.md"
               }
             }
           }
@@ -185,17 +172,17 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "5c5db432f8a93099",
+  "active": "be1a3a5704dd8912",
   "lastOpenFiles": [
+    "Daily/2023-03-07.md",
+    "TypeScript.md",
+    "Links.md",
     "Rollup/Reference.md",
     "TODO/LeetCode.md",
-    "Links.md",
     "TODO/Course.md",
     "LeetCode/Reference.md",
     "LeetCode/Weekly Contest.md",
-    "Daily/2023-03-07.md",
     "React/Error Bound.md",
-    "npm package.md",
-    "Daily/2023-02-20.md"
+    "npm package.md"
   ]
 }
