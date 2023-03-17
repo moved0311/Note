@@ -35,7 +35,7 @@ console.log(singleNumber([1, 2, 1, 3, 2, 5])); // [3, 5]
 */
 
 /*
-  2. Time: O(1), Space: O(1)
+  2. Time: O(n), Space: O(1)
   https://leetcode.com/problems/single-number-iii/solutions/68921/c-solution-o-n-time-and-o-1-space-easy-understaning-with-simple-explanation/
 
   剛好有兩個不同的數值a和b,將全部數做xor運算會等於a xor b
@@ -45,6 +45,7 @@ console.log(singleNumber([1, 2, 1, 3, 2, 5])); // [3, 5]
   3: 011
   2: 010
   5: 101
+  
   1 ^ 2 ^ 1 ^ 3 ^ 2 ^ 5 ^ 1 = 3 ^ 5 = 6 (110)
   xor特性是不同數值做xor為1, 同數值做xor是0,所以可以用1來做分群
   以6(110)為例子,可以使用100或是010做為區分兩群的數字
@@ -58,4 +59,9 @@ console.log(singleNumber([1, 2, 1, 3, 2, 5])); // [3, 5]
   可以分為(101), (010,011,010,001,001)兩群
   101 = 5
   010 ^ 011 ^ 010 ^ 001 ^ 001 = 3
+
+  怎麼找到其中一個區分的值：
+  s = 6 (110) 
+  (s & (s-1)) ^ s = 2 (010) 
+  有人提出: s & -s 也可以拿到區分值
 */
