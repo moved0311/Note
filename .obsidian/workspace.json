@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/Course.md",
+                "file": "TODO/LeetCode.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/Course.md",
+                "file": "TODO/LeetCode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/Course.md",
+                "file": "TODO/LeetCode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/Course.md"
+                "file": "TODO/LeetCode.md"
               }
             }
           }
@@ -187,14 +187,14 @@
   },
   "active": "5c5db432f8a93099",
   "lastOpenFiles": [
-    "Links.md",
+    "Rollup/Reference.md",
     "TODO/LeetCode.md",
+    "Links.md",
+    "TODO/Course.md",
     "LeetCode/Reference.md",
     "LeetCode/Weekly Contest.md",
     "Daily/2023-03-07.md",
-    "TODO/Course.md",
     "React/Error Bound.md",
-    "Rollup/Reference.md",
     "npm package.md",
     "Daily/2023-02-20.md"
   ]
