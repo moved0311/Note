@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "754f14f818bd9dd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ServiceWorker/用途.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5c5db432f8a93099",
             "type": "leaf",
             "state": {
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ServiceWorker/用途.md",
+                "file": "Daily/2023/2023-03-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ServiceWorker/用途.md",
+                "file": "Daily/2023/2023-03-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ServiceWorker/用途.md"
+                "file": "Daily/2023/2023-03-20.md"
               }
             }
           }
@@ -185,8 +173,9 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "754f14f818bd9dd4",
+  "active": "b05468eaaf23ec34",
   "lastOpenFiles": [
+    "ServiceWorker/用途.md",
     "Daily/2023/2023-03-20.md",
     "TypeScript/5.0.md",
     "Links.md",
@@ -195,7 +184,6 @@
     "Shortcut/Mac.md",
     "Tools/職涯.md",
     "Daily/2023-03-07.md",
-    "TypeScript.md",
-    "Rollup/Reference.md"
+    "TypeScript.md"
   ]
 }
