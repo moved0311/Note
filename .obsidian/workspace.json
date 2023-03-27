@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023/2023-03-20.md",
+                "file": "Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023/2023-03-20.md",
+                "file": "Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023/2023-03-20.md"
+                "file": "Links.md"
               }
             }
           }
@@ -173,12 +172,12 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "de7935c5f857d1d2",
+  "active": "be1a3a5704dd8912",
   "lastOpenFiles": [
+    "Daily/2023/2023-03-20.md",
     "Links.md",
     "Daily/2023/2023-02-20.md",
     "Daily/2023/2023-03-07.md",
-    "Daily/2023/2023-03-20.md",
     "NextJS/名詞解釋.md",
     "Design Pattern/Reference 參考資料.md",
     "Design Pattern/未命名.md",
