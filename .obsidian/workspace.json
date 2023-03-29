@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "de7935c5f857d1d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2023/2023-03-20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5c5db432f8a93099",
             "type": "leaf",
             "state": {
@@ -49,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GA/升級GA4.md",
+                "file": "Daily/2023/2023-03-20.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,7 +173,7 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "de7935c5f857d1d2",
+  "active": "0956f11c313356e2",
   "lastOpenFiles": [
     "GA/升級GA4.md",
     "Daily/2023/2023-03-20.md",
