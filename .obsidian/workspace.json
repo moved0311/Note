@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "be1a3a5704dd8912",
+            "id": "eaf51ab0b06aa6c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stocks/5483.md",
+                "file": "Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stocks/5483.md",
+                "file": "Daily/2023/2023-03-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stocks/5483.md",
+                "file": "Daily/2023/2023-03-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stocks/5483.md"
+                "file": "Daily/2023/2023-03-20.md"
               }
             }
           }
@@ -172,13 +173,13 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "be1a3a5704dd8912",
+  "active": "d4a54ee0fd31b6b1",
   "lastOpenFiles": [
+    "Links.md",
     "Daily/2023/2023-03-20.md",
     "Stocks/5483.md",
     "TODO/LeetCode.md",
     "GA/升級GA4.md",
-    "Links.md",
     "Daily/2023/2023-02-20.md",
     "Daily/2023/2023-03-07.md",
     "NextJS/名詞解釋.md",
