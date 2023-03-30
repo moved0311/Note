@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023/2023-03-20.md",
+                "file": "Stocks/5483.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023/2023-03-20.md",
+                "file": "Stocks/5483.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023/2023-03-20.md"
+                "file": "Stocks/5483.md"
               }
             }
           }
@@ -173,11 +172,11 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "d4a54ee0fd31b6b1",
+  "active": "be1a3a5704dd8912",
   "lastOpenFiles": [
+    "Daily/2023/2023-03-20.md",
     "Stocks/5483.md",
     "TODO/LeetCode.md",
-    "Daily/2023/2023-03-20.md",
     "GA/升級GA4.md",
     "Links.md",
     "Daily/2023/2023-02-20.md",
