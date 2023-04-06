@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023/2023-03-20.md",
+                "file": "PPT/Slack Ｍessage/Slack Messages.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023/2023-03-20.md",
+                "file": "PPT/Slack Ｍessage/Slack Messages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023/2023-03-20.md",
+                "file": "PPT/Slack Ｍessage/Slack Messages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023/2023-03-20.md"
+                "file": "PPT/Slack Ｍessage/Slack Messages.md"
               }
             }
           }
@@ -174,9 +174,9 @@
   },
   "active": "d37e76a1edf7c698",
   "lastOpenFiles": [
+    "Daily/2023/2023-03-20.md",
     "Vim.md",
     "Links.md",
-    "Daily/2023/2023-03-20.md",
     "News/2023/2023-03-30.md",
     "News/2023-04-06.md",
     "TODO/LeetCode.md",
