@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "cdcded4784e175ac",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
             "id": "5c5db432f8a93099",
             "type": "leaf",
             "state": {
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,16 +174,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:建立新畫布": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
-      "canvas:Create new canvas": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "d4a54ee0fd31b6b1",
+  "active": "cdcded4784e175ac",
   "lastOpenFiles": [
     "Links.md",
     "Daily/2023/2023-03-20.md",
