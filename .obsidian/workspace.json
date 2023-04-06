@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vim.md",
+                "file": "Daily/2023/2023-03-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Links.md",
+                "file": "Daily/2023/2023-03-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Links.md",
+                "file": "Daily/2023/2023-03-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Links.md"
+                "file": "Daily/2023/2023-03-20.md"
               }
             }
           }
@@ -171,11 +172,11 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "eaf51ab0b06aa6c9",
+  "active": "d37e76a1edf7c698",
   "lastOpenFiles": [
     "Vim.md",
-    "Daily/2023/2023-03-20.md",
     "Links.md",
+    "Daily/2023/2023-03-20.md",
     "News/2023/2023-03-30.md",
     "News/2023-04-06.md",
     "TODO/LeetCode.md",
