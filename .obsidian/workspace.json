@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023/2023-03-20.md",
+                "file": "PPT/Slack Ｍessage/Slack Messages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023/2023-03-20.md",
+                "file": "PPT/Slack Ｍessage/Slack Messages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023/2023-03-20.md"
+                "file": "PPT/Slack Ｍessage/Slack Messages.md"
               }
             }
           }
@@ -184,13 +184,13 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "d37e76a1edf7c698",
+  "active": "21fa917342b04ed8",
   "lastOpenFiles": [
+    "Daily/2023/2023-03-20.md",
     "TODO/LeetCode.md",
     "PPT/Slack Ｍessage/Slack Messages.md",
     "News/2023/2023-04-06.md",
     "News/2023-04-07.md",
-    "Daily/2023/2023-03-20.md",
     "Vim.md",
     "Links.md",
     "News/2023/2023-03-30.md",
