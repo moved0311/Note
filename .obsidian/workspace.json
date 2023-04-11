@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7488032c2f7bcb34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2023/2023-03-20.md",
+                "file": "Daily/2023-04-10.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023/2023-03-20.md",
+                "file": "Daily/2023-04-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023/2023-03-20.md",
+                "file": "Daily/2023-04-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023/2023-03-20.md"
+                "file": "Daily/2023-04-10.md"
               }
             }
           }
@@ -160,10 +147,13 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "7488032c2f7bcb34",
+  "active": "eaf51ab0b06aa6c9",
   "lastOpenFiles": [
-    "Daily/2023-04-10.md",
+    "News/2023-04-11.md",
     "Daily/2023/2023-03-20.md",
+    "Daily/2023/news.md",
+    "Daily/2023/2023-03-20拷貝.md",
+    "Daily/2023-04-10.md",
     "Links.md",
     "TODO/LeetCode.md",
     "Daily/2023/2023-02-08.md",
