@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a949cf3c36afc682",
+        "id": "3f62e2a2e68b1c03",
         "type": "tabs",
         "children": [
           {
-            "id": "03168e833ea09322",
+            "id": "d1a5778dc5f7e310",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stocks/3037/3037.md",
+                "file": "TODO/LeetCode.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 245.50390243530273
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stocks/3037/3037.md",
+                "file": "TODO/LeetCode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stocks/3037/3037.md",
+                "file": "TODO/LeetCode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stocks/3037/3037.md"
+                "file": "TODO/LeetCode.md"
               }
             }
           }
@@ -147,14 +147,16 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "03168e833ea09322",
+  "active": "d1a5778dc5f7e310",
   "lastOpenFiles": [
+    "LeetCode/950.reveal-cards-in-increasing-order.ts",
+    "TODO/Course.md",
+    "Stocks/3037/3037.md",
     "Daily/2023-04-10.md",
     "Stocks/名詞.md",
     "Stocks/3037/process.png",
     "Stocks/3037/截圖 2023-04-13 下午4.15.11.png",
     "Stocks/3037/industy.png",
-    "Stocks/3037/3037.md",
     "Stocks/3037",
     "Stocks/3037.md",
     "Stocks/5483.md",
@@ -176,8 +178,6 @@
     "Daily/2023/2023-03-07.md",
     "Daily/2023/2023-02-20.md",
     "News/2023/2023-04-07.md",
-    "News/2023-04-10.md",
-    "PPT/Slack Ｍessage/Slack Messages.md",
-    "News/2023/2023-04-06.md"
+    "News/2023-04-10.md"
   ]
 }
