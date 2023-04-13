@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-04-10.md",
+                "file": "Stocks/3037/3037.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-04-10.md",
+                "file": "Stocks/3037/3037.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-04-10.md",
+                "file": "Stocks/3037/3037.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-04-10.md"
+                "file": "Stocks/3037/3037.md"
               }
             }
           }
@@ -149,11 +149,15 @@
   },
   "active": "03168e833ea09322",
   "lastOpenFiles": [
+    "Daily/2023-04-10.md",
+    "Stocks/名詞.md",
+    "Stocks/3037/process.png",
+    "Stocks/3037/截圖 2023-04-13 下午4.15.11.png",
+    "Stocks/3037/industy.png",
     "Stocks/3037/3037.md",
     "Stocks/3037",
     "Stocks/3037.md",
     "Stocks/5483.md",
-    "Daily/2023-04-10.md",
     "Shortcut/Mac.md",
     "CSR & SSR.md",
     "News/2023/2023-04-12.md",
@@ -174,7 +178,6 @@
     "News/2023/2023-04-07.md",
     "News/2023-04-10.md",
     "PPT/Slack Ｍessage/Slack Messages.md",
-    "News/2023/2023-04-06.md",
-    "News/2023-04-07.md"
+    "News/2023/2023-04-06.md"
   ]
 }
