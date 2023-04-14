@@ -1,72 +1,28 @@
-type NodeValue = number | string;
-
-class LinkedListNode {
-  val: NodeValue;
-  next: LinkedListNode | null;
-
-  constructor(element: NodeValue) {
-    this.val = element;
-    this.next = null;
-  }
-}
-
-class LinkedList {
-  head: LinkedListNode | null = null;
-  tail: LinkedListNode | null = null;
-  length: number = 0;
-
-  constructor() {
-    this.head = null;
-    this.tail = null;
-    this.length = 0;
-  }
-
-  append(element: NodeValue) {
-    const node = new LinkedListNode(element);
-
-    if (this.length === 0) {
-      this.head = node;
-    } else {
-      let current = this.head;
-
-      while (current && current.next !== null) {
-        current = current.next;
-      }
-      if (current) current.next = node;
-
-      this.tail = node;
-    }
-    this.length += 1;
-  }
-
-  removeAt(pos: number) {
-    const current = this.head;
-    let count = 0;
-  }
-}
-
-class Queue {
-  list: LinkedList;
+import LinkedList from "./linkedList";
+class Queue<T> {
+  list: LinkedList<T>;
 
   constructor() {
     this.list = new LinkedList();
   }
 
-  enqueue(element: NodeValue) {
+  enqueue(element: T) {
     this.list.append(element);
   }
 
   dequeue() {
-    return;
+    return this.list.removeAt(0);
   }
 
   size() {
-    return this.list.length;
+    return this.list.size();
   }
 }
 
-const a = new LinkedList();
-a.append(10);
-a.append(20);
+// const queue = new Queue();
+// queue.enqueue(10);
+// queue.enqueue(20);
+// queue.enqueue(30);
+// console.log(queue.dequeue(), queue, queue.size());
 
-console.log(a);
+export default Queue;
