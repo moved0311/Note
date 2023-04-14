@@ -26,7 +26,6 @@ class LinkedList {
 
     if (this.length === 0) {
       this.head = node;
-      this.tail = node;
     } else {
       let current = this.head;
 
@@ -34,6 +33,8 @@ class LinkedList {
         current = current.next;
       }
       if (current) current.next = node;
+
+      this.tail = node;
     }
     this.length += 1;
   }
