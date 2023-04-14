@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links.md",
+                "file": "Read.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023/2023-03-20.md",
+                "file": "Daily/2023-04-10.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023/2023-03-20.md",
+                "file": "TODO/LeetCode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023/2023-03-20.md",
+                "file": "TODO/LeetCode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023/2023-03-20.md"
+                "file": "TODO/LeetCode.md"
               }
             }
           }
@@ -172,15 +171,20 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "e75fa418ac4006eb",
+  "active": "d1a5778dc5f7e310",
   "lastOpenFiles": [
-    "Daily/2023/news.md",
-    "Daily/2023/2023-03-20.md",
+    "LeetCode/Math/950.reveal-cards-in-increasing-order.ts",
+    "LeetCode/Math",
+    "LeetCode/921.minimum-add-to-make-parentheses-valid.ts",
     "Daily/2023-04-10.md",
+    "CodeReview/reference.md",
+    "Read.md",
+    "Daily/2023/2023-03-20.md",
+    "CodeReview",
+    "Daily/2023/news.md",
     "LeetCode/DataStructure/linkedList.ts",
     "LeetCode/DataStructure/queue.ts",
     "LeetCode/DataStructure",
-    "Links.md",
     "TODO/LeetCode.md",
     "News/2023-04-14.md",
     "LeetCode/950.reveal-cards-in-increasing-order.ts",
@@ -205,7 +209,6 @@
     "Daily/2023/2023-03-20拷貝.md",
     "Daily/2023/2023-02-08.md",
     "Daily/2023/2023-03-07.md",
-    "Daily/2023/2023-02-20.md",
-    "News/2023/2023-04-07.md"
+    "Daily/2023/2023-02-20.md"
   ]
 }
