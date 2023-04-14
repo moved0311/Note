@@ -7,7 +7,6 @@
 1560	Most Visited Sector in a Circular Track	56.90%	Easy
 1758	Minimum Changes To Make Alternating Binary String	59.60%	Easy
 819	Most Common Word	45.50%	Easy
-950	Reveal Cards In Increasing Order	75.40%	Medium
 1496	Path Crossing	55.30%	Easy
 278	First Bad Version	37.40%	Easy
 921	Minimum Add to Make Parentheses Valid	74.80%	Medium

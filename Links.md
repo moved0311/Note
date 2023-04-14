@@ -24,6 +24,9 @@
 *  [Huli’s blog – Medium](https://medium.com/hulis-blog) 2019-05-29                               
 *  [Rob Dodson – Medium](https://medium.com/@robdodson)  2019-01-14 
 
+## News
+* [Newsletter | This Week In React](https://thisweekinreact.com/newsletter) 2023-04-11
+
 ## 公司
 * [The GitHub Blog: Engineering News and Updates](https://github.blog/category/engineering/) 2023-04-05
 * [Engineering at Meta](https://engineering.fb.com/) 2023-03-09

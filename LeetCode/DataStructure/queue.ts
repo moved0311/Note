@@ -1,0 +1,5 @@
+class Queue {
+  list: [];
+
+  enqueue() {}
+}
