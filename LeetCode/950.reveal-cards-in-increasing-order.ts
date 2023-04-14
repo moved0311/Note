@@ -6,19 +6,19 @@
 
 // @lc code=start
 function deckRevealedIncreasing(deck: number[]): number[] {
-  const result = [...deck.sort((a, b) => b - a)];
+  // runtime: 28.57%, memory: 57.14%
+  deck.sort((a, b) => a - b);
 
-  return result.reduce((arr: number[], num: number) => {
-    if (arr.length >= 2) {
-      let last = arr.pop();
+  const res: number[] = [deck.pop() as number];
 
-      if (last) arr.unshift(last);
-    }
+  while (deck.length > 0) {
+    const last: number = deck.pop() as number;
+    res.unshift(res.pop() as number);
 
-    arr.unshift(num);
+    res.unshift(last);
+  }
 
-    return arr;
-  }, []);
+  return res;
 }
 
 // @lc code=end
@@ -34,4 +34,23 @@ console.log(deckRevealedIncreasing([17, 13, 11, 2, 3, 5, 7]));
  * 11 [13,17]
  * 13 [17]
  * 17 []
+ */
+
+/**
+ * 1. runtime: 14.29%, memory: 14.29%
+ * function deckRevealedIncreasing(deck: number[]): number[] {
+  const result = [...deck.sort((a, b) => b - a)];
+
+  return result.reduce((arr: number[], num: number) => {
+    if (arr.length >= 2) {
+      let last = arr.pop();
+
+      if (last) arr.unshift(last);
+    }
+
+    arr.unshift(num);
+
+    return arr;
+  }, []);
+}
  */
