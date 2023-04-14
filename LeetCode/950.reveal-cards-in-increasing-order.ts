@@ -5,26 +5,8 @@
  */
 
 // @lc code=start
-import Queue from "./DataStructure/queue";
 function deckRevealedIncreasing(deck: number[]): number[] {
-  deck.sort((a, b) => a - b);
-
-  const q = new Queue<number>();
-  q.enqueue(deck.pop() as number);
-
-  while (deck.length > 0) {
-    const last: number = deck.pop() as number;
-
-    q.enqueue(q.dequeue() as number);
-    q.enqueue(last);
-  }
-
-  const res: number[] = [];
-  while (q.size()) {
-    res.push(q.dequeue() as number);
-  }
-
-  return res.reverse();
+  return [];
 }
 
 // @lc code=end
@@ -76,5 +58,29 @@ console.log(deckRevealedIncreasing([17, 13, 11, 2, 3, 5, 7]));
   }
 
   return res;
+}
+ */
+
+/**
+import Queue from "./DataStructure/queue";
+function deckRevealedIncreasing(deck: number[]): number[] {
+  deck.sort((a, b) => a - b);
+
+  const q = new Queue<number>();
+  q.enqueue(deck.pop() as number);
+
+  while (deck.length > 0) {
+    const last: number = deck.pop() as number;
+
+    q.enqueue(q.dequeue() as number);
+    q.enqueue(last);
+  }
+
+  const res: number[] = [];
+  while (q.size()) {
+    res.push(q.dequeue() as number);
+  }
+
+  return res.reverse();
 }
  */
