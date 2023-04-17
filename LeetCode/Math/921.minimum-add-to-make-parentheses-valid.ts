@@ -6,17 +6,19 @@
 
 // @lc code=start
 function minAddToMakeValid(s: string): number {
-  const [left, right] = s.split("").reduce(
-    (res, ch: string) => {
-      if (ch === "(") res[0] += 1;
-      if (ch === ")") res[1] += 1;
+  let res = 0;
+  let count = 0;
+  s.split("").forEach((ch) => {
+    if (ch === "(") count += 1;
+    if (ch === ")") count -= 1;
 
-      return res;
-    },
-    [0, 0]
-  );
+    if (count < 0) {
+      res += Math.abs(count);
+      count = 0;
+    }
+  });
 
-  return Math.abs(left - right);
+  return res + Math.abs(count);
 }
 // @lc code=end
 
