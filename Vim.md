@@ -26,3 +26,8 @@
 按下@a使用巨集
 
 
+|||
+|--|--|
+|c-d|move down half screen|
+|c-u|move up half screen|
+|c-f|jump to same word on cursor|
