@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6100e761ecfc9711",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AD/google ad.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AD/google ad.md",
+                "file": "Daily/2023-04-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AD/google ad.md",
+                "file": "Daily/2023-04-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AD/google ad.md"
+                "file": "Daily/2023-04-17.md"
               }
             }
           }
@@ -160,10 +147,10 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "6100e761ecfc9711",
+  "active": "27396d6d28695c8d",
   "lastOpenFiles": [
-    "Vim.md",
     "AD/google ad.md",
+    "Vim.md",
     "Daily/2023-04-17.md",
     "News/2023-04-18.md",
     "PPT/Slack Ｍessage/Slack Messages.md",
