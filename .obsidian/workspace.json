@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-04-17.md",
+                "file": "PPT/Vim/Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-04-17.md",
+                "file": "PPT/Vim/Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-04-17.md"
+                "file": "PPT/Vim/Vim.md"
               }
             }
           }
@@ -159,11 +160,11 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "27396d6d28695c8d",
+  "active": "90cd82aa8ae53098",
   "lastOpenFiles": [
+    "Daily/2023-04-17.md",
     "News/2023-04-26.md",
     "PPT/Vim/Vim.md",
-    "Daily/2023-04-17.md",
     "PPT/Slack Ｍessage/Slack Messages.md",
     "PPT/Vim",
     "Vim/Vim.md",
