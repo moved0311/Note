@@ -3,8 +3,8 @@
 
 ---
 
-1.  模式
-2. 移動、搜尋、其他常用
+1.  模式介紹
+2.  移動、搜尋、其他常用
 3.  個人化設定(vimrc)
 
 ---
@@ -16,6 +16,8 @@ Hello world
 :w
 :q
 ```
+
+google search: how to quit?
 
 ---
 
@@ -129,6 +131,10 @@ Plug 'vim-airline/vim-airline-themes'
 
 call plug#end()
 ```
+
+---
+
+## Chrome 擴充功能 [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)
 
 ---
 
