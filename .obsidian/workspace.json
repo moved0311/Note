@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2efd85bbdea132fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PPT/Vim/Vim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PPT/Vim/Vim.md",
+                "file": "Daily/2023-04-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PPT/Vim/Vim.md",
+                "file": "Daily/2023-04-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PPT/Vim/Vim.md"
+                "file": "Daily/2023-04-17.md"
               }
             }
           }
@@ -161,16 +147,16 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "2efd85bbdea132fb",
+  "active": "27396d6d28695c8d",
   "lastOpenFiles": [
+    "PPT/Vim/Vim.md",
+    "PPT/Vim/test.md",
     "PPT/Vim/test3",
     "Daily/2023-04-17.md",
-    "PPT/Vim/Vim.md",
     "().md",
     "Daily/2023/2023-03-20.md",
     "Daily/2023/2023-03-07.md",
     "Daily/2023/2023-04-10.md",
-    "PPT/Vim/test.md",
     "PPT/Vim/test2.tsx",
     "News/2023-04-26.md",
     "PPT/Slack Ｍessage/Slack Messages.md",
@@ -198,7 +184,6 @@
     "Daily/2023/2023-01-09.md",
     "LeetCode/Array/744.find-smallest-letter-greater-than-target.ts",
     "LeetCode/Array",
-    "LeetCode/744.find-smallest-letter-greater-than-target.ts",
     "Stocks/3037/process.png",
     "Stocks/3037/截圖 2023-04-13 下午4.15.11.png",
     "Stocks/3037/industy.png"
