@@ -6,7 +6,7 @@
       {
         "id": "56068d24330dd8c0",
         "type": "tabs",
-        "dimension": 56.59025787965616,
+        "dimension": 65.69037656903765,
         "children": [
           {
             "id": "27396d6d28695c8d",
@@ -32,13 +32,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7f36835c4302f276",
         "type": "tabs",
-        "dimension": 43.40974212034384,
+        "dimension": 34.30962343096235,
         "children": [
           {
             "id": "a90f3f817a56a903",
@@ -98,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5,
-    "collapsed": true
+    "width": 201.5
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -115,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PPT/Vim/Vim.md",
+                "file": "Daily/2023-04-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PPT/Vim/Vim.md",
+                "file": "Daily/2023-04-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PPT/Vim/Vim.md"
+                "file": "Daily/2023-04-17.md"
               }
             }
           }
@@ -177,10 +175,10 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "90cd82aa8ae53098",
+  "active": "27396d6d28695c8d",
   "lastOpenFiles": [
-    "Daily/2023-04-17.md",
     "PPT/Vim/Vim.md",
+    "Daily/2023-04-17.md",
     "PPT/Slack Ｍessage/Slack Messages.md",
     "PPT/Vim",
     "Vim/Vim.md",
