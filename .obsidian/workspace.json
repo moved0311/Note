@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "56068d24330dd8c0",
+        "id": "2a3284055689e443",
         "type": "tabs",
         "children": [
           {
-            "id": "27396d6d28695c8d",
+            "id": "64c18b85f88bf666",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,12 +147,13 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "27396d6d28695c8d",
+  "active": "64c18b85f88bf666",
   "lastOpenFiles": [
+    "Interview/問題.md",
+    "Daily/2023-04-17.md",
     "PPT/Vim/Vim.md",
     "PPT/Vim/test.md",
     "PPT/Vim/test3",
-    "Daily/2023-04-17.md",
     "().md",
     "Daily/2023/2023-03-20.md",
     "Daily/2023/2023-03-07.md",
