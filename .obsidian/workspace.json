@@ -20,30 +20,15 @@
             }
           },
           {
-            "id": "1df6974b716bbbce",
+            "id": "0230fb4d91f5f13a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PPT/Vim/Vim.md",
+                "file": "鉅亨網/新聞專案改版.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "cca32e1aef246710",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "81897f6087cb3c2c",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
             }
           }
         ]
@@ -112,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PPT/Vim/Vim.md",
+                "file": "Daily/2023-05-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PPT/Vim/Vim.md",
+                "file": "Daily/2023-05-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PPT/Vim/Vim.md"
+                "file": "Daily/2023-05-03.md"
               }
             }
           }
@@ -174,10 +159,11 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "1df6974b716bbbce",
+  "active": "2e5fbe8d87612e4a",
   "lastOpenFiles": [
     "鉅亨網/新聞專案改版.md",
     "Daily/2023-05-03.md",
+    "PPT/Vim/Vim.md",
     "Daily/2023/2023-04-17.md",
     "News/2023/2023-05-02.md",
     "News/2023/2023-04-28.md",
@@ -195,7 +181,6 @@
     "News/2023/2023-04-17.md",
     "News/2023-04-27.md",
     "Interview/問題.md",
-    "PPT/Vim/Vim.md",
     "PPT/Vim/test.md",
     "PPT/Vim/test3",
     "().md",
