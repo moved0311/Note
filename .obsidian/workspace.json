@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md",
+                "file": "PPT/Vim/Vim.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,6 +33,20 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "cca32e1aef246710",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81897f6087cb3c2c",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md",
+                "file": "PPT/Vim/Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md",
+                "file": "PPT/Vim/Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md"
+                "file": "PPT/Vim/Vim.md"
               }
             }
           }
@@ -162,8 +176,8 @@
   },
   "active": "1df6974b716bbbce",
   "lastOpenFiles": [
-    "Daily/2023-05-03.md",
     "鉅亨網/新聞專案改版.md",
+    "Daily/2023-05-03.md",
     "Daily/2023/2023-04-17.md",
     "News/2023/2023-05-02.md",
     "News/2023/2023-04-28.md",
