@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "2e5fbe8d87612e4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-05-03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1df6974b716bbbce",
             "type": "leaf",
             "state": {
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,8 +163,8 @@
   "active": "1df6974b716bbbce",
   "lastOpenFiles": [
     "Daily/2023-05-03.md",
-    "Daily/2023/2023-04-17.md",
     "鉅亨網/新聞專案改版.md",
+    "Daily/2023/2023-04-17.md",
     "News/2023/2023-05-02.md",
     "News/2023/2023-04-28.md",
     "News/2023/2023-04-27.md",
