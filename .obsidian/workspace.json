@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-05-03.md",
+                "file": "鉅亨網/新聞專案改版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-05-03.md",
+                "file": "鉅亨網/新聞專案改版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-05-03.md"
+                "file": "鉅亨網/新聞專案改版.md"
               }
             }
           }
@@ -159,10 +160,10 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "2e5fbe8d87612e4a",
+  "active": "0230fb4d91f5f13a",
   "lastOpenFiles": [
-    "鉅亨網/新聞專案改版.md",
     "Daily/2023-05-03.md",
+    "鉅亨網/新聞專案改版.md",
     "News/2023/2023-05-08.md",
     "News/2023/2023-05-05.md",
     "News/2023-05-09.md",
