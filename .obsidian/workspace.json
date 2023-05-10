@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e5fbe8d87612e4a",
+            "id": "0230fb4d91f5f13a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "0230fb4d91f5f13a",
+            "id": "be7bdc2adb9d887d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,10 +159,13 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "2e5fbe8d87612e4a",
+  "active": "0230fb4d91f5f13a",
   "lastOpenFiles": [
     "鉅亨網/新聞專案改版.md",
     "Daily/2023-05-03.md",
+    "Daily/2023-05-10.md",
+    "PPT/Vim/Vim.md",
+    "News/2023-05-10.md",
     "News/2023/2023-05-08.md",
     "News/2023/2023-05-05.md",
     "News/2023-05-09.md",
@@ -178,15 +181,12 @@
     "Daily/2023/2023-01-09.md",
     "News/2023/2023-05-03.md",
     "News/2023-05-04.md",
-    "PPT/Vim/Vim.md",
     "Daily/2023/2023-04-17.md",
     "News/2023/2023-05-02.md",
     "News/2023/2023-04-28.md",
     "News/2023/2023-04-27.md",
     "News/2023-05-03.md",
     "News/2023-05-02.md",
-    "Read.md",
-    "Read Queue.md",
     "Stocks/3037/industy.png",
     "PPT/Vim/test3",
     "PPT/Vim/test2.tsx",
