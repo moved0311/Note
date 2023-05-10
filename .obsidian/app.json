@@ -6,5 +6,28 @@
     "landscape": false,
     "margin": "1",
     "downscalePercent": 100
-  }
+  },
+  "mobileToolbarCommands": [
+    "editor:toggle-keyboard",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:indent-list",
+    "editor:undo",
+    "editor:insert-wikilink",
+    "editor:set-heading",
+    "editor:insert-embed",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:toggle-bold",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:insert-link",
+    "editor:toggle-checklist-status",
+    "editor:unindent-list",
+    "editor:toggle-italics",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:redo",
+    "editor:configure-toolbar"
+  ]
 }
