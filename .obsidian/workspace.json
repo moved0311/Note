@@ -81,6 +81,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Daily/2023-05-03.md",
+>>>>>>> fda9e0e (note backup: 2023-05-12 17:16:24)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +101,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Daily/2023-05-03.md",
+>>>>>>> fda9e0e (note backup: 2023-05-12 17:16:24)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {}
+=======
+              "state": {
+                "file": "Daily/2023-05-03.md"
+              }
+>>>>>>> fda9e0e (note backup: 2023-05-12 17:16:24)
             }
           }
         ]
@@ -139,8 +153,17 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
+<<<<<<< HEAD
   "active": "c7f7f1bb3454b172",
+=======
+<<<<<<< HEAD
+  "active": "1e79ac6a004038e3",
+=======
+  "active": "0230fb4d91f5f13a",
+>>>>>>> fda9e0e (note backup: 2023-05-12 17:16:24)
+>>>>>>> ab31158 (note backup: 2023-05-12 17:16:24)
   "lastOpenFiles": [
+    "鉅亨網/新聞專案改版.md",
     "News/2023-05-12.md",
     "Daily/2023-05-16.md",
     "Stocks/晶圓.md",
@@ -162,7 +185,11 @@
     "Books/華盛頓商學院最受歡迎的談判課.md",
     "Books/孫主任的經濟筆記.md",
     "Books",
+<<<<<<< HEAD
     "鉅亨網/新聞專案改版.md",
+=======
+    "Daily/2023-05-03.md",
+>>>>>>> ab31158 (note backup: 2023-05-12 17:16:24)
     "News/2023/2023-05-10.md",
     "News/2023/2023-05-09.md",
     "Daily/2023-05-10.md",
