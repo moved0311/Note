@@ -4,35 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "106508b88d989c3c",
+        "id": "28d657efd488a575",
         "type": "tabs",
         "children": [
           {
-            "id": "72132fca1e466251",
+            "id": "0881cac814c2ead4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/孫主任的經濟筆記.md",
+                "file": "Stocks/Stocks.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb61a69af2b364ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stocks/名詞.md",
-                "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stocks/名詞.md",
+                "file": "Stocks/Stocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stocks/名詞.md",
+                "file": "Stocks/Stocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stocks/名詞.md"
+                "file": "Stocks/Stocks.md"
               }
             }
           }
@@ -169,30 +156,41 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "cb61a69af2b364ca",
+  "active": "0881cac814c2ead4",
   "lastOpenFiles": [
-    "Books/孫主任的經濟筆記.md",
+    "Daily/2023/2023-03-20.md",
+    "Stocks/Stocks.md",
+    "Stocks/3037/3037.md",
+    "指令/Shell/目錄大小.md",
+    "Performance/Pipe.md",
+    "Stocks/5483/5483.md",
+    "未命名 1.canvas",
     "Stocks/名詞.md",
+    "News/2023/2023-04-13.md",
+    "未命名.canvas",
+    "PPT/Vim/test.md",
+    "PPT/Vim/Vim.md",
+    "npm package.md",
+    "Event Loop/Macro/setTimeout.md",
+    "Event Loop/Microtask v.s. Macrotask.md",
+    "News/2023/2023-03-08.md",
+    "TypeScript/5.0.md",
+    "News/2023/2023-04-10.md",
+    "ServiceWorker/用途.md",
+    "鉅亨網/新聞專案改版.md",
+    "Daily/2023/2023-01-09.md",
+    "Vim/Vim.md",
+    "TypeScript.md",
+    "Rollup/Reference.md",
+    "Books/孫主任的經濟筆記.md",
     "Books/華盛頓商學院最受歡迎的談判課.md",
     "TODO/LeetCode.md",
     "Daily/2023-05-03.md",
-    "鉅亨網/新聞專案改版.md",
-    "TODO/Course.md",
-    "LeetCode/JS/Curry.md",
     "LeetCode/JS",
     "LeetCode/Hash Table/890.find-and-replace-pattern.ts",
     "LeetCode/Hash Table",
     "LeetCode/新增資料夾",
     "LeetCode/890.find-and-replace-pattern.ts",
-    "LeetCode/921.minimum-add-to-make-parentheses-valid.ts",
-    "LeetCode/Reference.md",
-    "LeetCode/Weekly Contest.md",
-    "Stocks/5483/5483.md",
-    "Stocks/3037/3037.md",
-    "Stocks/2308/2308.md",
-    "News/2023/2023-05-10.md",
-    "News/2023/2023-05-09.md",
-    "News/2023-05-11.md",
-    "Daily/2023-05-10.md"
+    "LeetCode/921.minimum-add-to-make-parentheses-valid.ts"
   ]
 }
