@@ -15,8 +15,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,12 +83,15 @@
               "state": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
                 "file": "Daily/2023-05-03.md",
 >>>>>>> fda9e0e (note backup: 2023-05-12 17:16:24)
 =======
                 "file": "鉅亨網/新聞專案改版.md",
 >>>>>>> 618d2ff (note backup: 2023-05-13 15:21:49)
+=======
+>>>>>>> 719f1b1 (feat: backup)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,12 +110,15 @@
               "state": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
                 "file": "Daily/2023-05-03.md",
 >>>>>>> fda9e0e (note backup: 2023-05-12 17:16:24)
 =======
                 "file": "鉅亨網/新聞專案改版.md",
 >>>>>>> 618d2ff (note backup: 2023-05-13 15:21:49)
+=======
+>>>>>>> 719f1b1 (feat: backup)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,12 +141,16 @@
             "state": {
               "type": "outline",
 <<<<<<< HEAD
+<<<<<<< HEAD
               "state": {}
 =======
               "state": {
                 "file": "鉅亨網/新聞專案改版.md"
               }
 >>>>>>> fda9e0e (note backup: 2023-05-12 17:16:24)
+=======
+              "state": {}
+>>>>>>> 719f1b1 (feat: backup)
             }
           }
         ]
@@ -164,10 +173,13 @@
   },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "active": "c7f7f1bb3454b172",
 =======
 =======
 >>>>>>> c9237f9 (note backup: 2023-05-13 15:21:49)
+=======
+>>>>>>> 0184d8b (feat: backup)
 <<<<<<< HEAD
   "active": "1e79ac6a004038e3",
 =======
@@ -179,7 +191,13 @@
 =======
   "active": "be7bdc2adb9d887d",
 >>>>>>> 618d2ff (note backup: 2023-05-13 15:21:49)
+<<<<<<< HEAD
 >>>>>>> c9237f9 (note backup: 2023-05-13 15:21:49)
+=======
+=======
+  "active": "1e79ac6a004038e3",
+>>>>>>> 719f1b1 (feat: backup)
+>>>>>>> 0184d8b (feat: backup)
   "lastOpenFiles": [
     "Daily/2023-05-03.md",
     "鉅亨網/新聞專案改版.md",
