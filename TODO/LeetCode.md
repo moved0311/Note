@@ -9,10 +9,8 @@
 819	Most Common Word	45.50%	Easy
 1496	Path Crossing	55.30%	Easy
 278	First Bad Version	37.40%	Easy
-921	Minimum Add to Make Parentheses Valid	74.80%	Medium
 645	Set Mismatch	42.40%	Easy
 671	Second Minimum Node In a Binary Tree	42.80%	Easy
-890	Find and Replace Pattern	74.20%	Medium
 1018	Binary Prefix Divisible By 5	47.80%	Easy
 1544	Make The String Great	55.40%	Easy
 58	Length of Last Word	33.50%	Easy

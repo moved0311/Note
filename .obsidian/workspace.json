@@ -11,22 +11,15 @@
             "id": "535fe504f6620834",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f7df3eb230ce6d48",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.8"
+                "file": "TODO/LeetCode.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TODO/LeetCode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TODO/LeetCode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TODO/LeetCode.md"
+              }
             }
           }
         ]
@@ -158,8 +155,15 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "f7df3eb230ce6d48",
+  "active": "535fe504f6620834",
   "lastOpenFiles": [
+    "LeetCode/Hash Table/890.find-and-replace-pattern.ts",
+    "LeetCode/Hash Table",
+    "LeetCode/新增資料夾",
+    "LeetCode/890.find-and-replace-pattern.ts",
+    "LeetCode/921.minimum-add-to-make-parentheses-valid.ts",
+    "LeetCode/Reference.md",
+    "LeetCode/Weekly Contest.md",
     "Stocks/5483/5483.md",
     "Stocks/3037/3037.md",
     "Stocks/2308/2308.md",
