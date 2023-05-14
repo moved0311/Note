@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "f9648c5ea10b5418",
+        "id": "106508b88d989c3c",
         "type": "tabs",
         "children": [
           {
-            "id": "535fe504f6620834",
+            "id": "72132fca1e466251",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "TODO/LeetCode.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed2dd3537a0d5751",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/華盛頓商學院最受歡迎的談判課.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,8 +167,15 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "535fe504f6620834",
+  "active": "72132fca1e466251",
   "lastOpenFiles": [
+    "Daily/2023-05-03.md",
+    "Books/華盛頓商學院最受歡迎的談判課.md",
+    "TODO/LeetCode.md",
+    "鉅亨網/新聞專案改版.md",
+    "TODO/Course.md",
+    "LeetCode/JS/Curry.md",
+    "LeetCode/JS",
     "LeetCode/Hash Table/890.find-and-replace-pattern.ts",
     "LeetCode/Hash Table",
     "LeetCode/新增資料夾",
@@ -168,8 +187,6 @@
     "Stocks/3037/3037.md",
     "Stocks/2308/2308.md",
     "Stocks/名詞.md",
-    "Daily/2023-05-03.md",
-    "鉅亨網/新聞專案改版.md",
     "News/2023/2023-05-10.md",
     "News/2023/2023-05-09.md",
     "News/2023-05-11.md",
