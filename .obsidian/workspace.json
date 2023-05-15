@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stocks/3037/3037.md",
+                "file": "Stocks/PCB.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stocks/3037/3037.md",
+                "file": "Stocks/PCB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stocks/3037/3037.md",
+                "file": "Stocks/PCB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stocks/3037/3037.md"
+                "file": "Stocks/PCB.md"
               }
             }
           }
@@ -158,8 +157,9 @@
   },
   "active": "2725e8d1b997cba8",
   "lastOpenFiles": [
-    "Books/孫主任的經濟筆記.md",
     "Stocks/3037/3037.md",
+    "Stocks/PCB.md",
+    "Books/孫主任的經濟筆記.md",
     "Stocks/Stocks.md",
     "Stocks/手機.md",
     "Stocks/2454/2454.md",
@@ -187,7 +187,6 @@
     "News/2023/2023-04-10.md",
     "ServiceWorker/用途.md",
     "鉅亨網/新聞專案改版.md",
-    "Daily/2023/2023-01-09.md",
     "LeetCode/JS",
     "LeetCode/Hash Table/890.find-and-replace-pattern.ts",
     "LeetCode/Hash Table",
