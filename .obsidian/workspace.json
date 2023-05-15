@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f33f15e72afa068f",
+        "id": "2db71cca03e0ccdc",
         "type": "tabs",
         "children": [
           {
-            "id": "cc6f5bca7ba6c8e9",
+            "id": "2725e8d1b997cba8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Stocks/3037/3037.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Stocks/3037/3037.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Stocks/3037/3037.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Stocks/3037/3037.md"
+              }
             }
           }
         ]
@@ -147,21 +156,25 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "cc6f5bca7ba6c8e9",
+  "active": "2725e8d1b997cba8",
   "lastOpenFiles": [
+    "Stocks/Stocks.md",
+    "Stocks/手機.md",
+    "Stocks/2454/2454.md",
+    "Stocks/3037/3037.md",
+    "Stocks/晶圓.md",
+    "Stocks/名詞.md",
+    "Stocks/2454",
     "LeetCode/Reference.md",
     "News/2023/2023-03-14.md",
     "News/2023/2023-05-09.md",
-    "Stocks/3037/3037.md",
     "未命名 2.canvas",
-    "Stocks/Stocks.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "Daily/2023/2023-03-20.md",
     "指令/Shell/目錄大小.md",
     "Performance/Pipe.md",
     "Stocks/5483/5483.md",
-    "Stocks/名詞.md",
     "News/2023/2023-04-13.md",
     "PPT/Vim/test.md",
     "PPT/Vim/Vim.md",
@@ -175,9 +188,6 @@
     "鉅亨網/新聞專案改版.md",
     "Daily/2023/2023-01-09.md",
     "Vim/Vim.md",
-    "TypeScript.md",
-    "Rollup/Reference.md",
-    "Books/孫主任的經濟筆記.md",
     "LeetCode/JS",
     "LeetCode/Hash Table/890.find-and-replace-pattern.ts",
     "LeetCode/Hash Table",
