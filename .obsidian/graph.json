@@ -20,32 +20,18 @@
         "a": 1,
         "rgb": 13324882
       }
-    },
-    {
-      "query": "3037",
-      "color": {
-        "a": 1,
-        "rgb": 6233284
-      }
-    },
-    {
-      "query": "5483",
-      "color": {
-        "a": 1,
-        "rgb": 4163647
-      }
     }
   ],
   "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": -0.3,
-  "nodeSizeMultiplier": 1.46791666666667,
-  "lineSizeMultiplier": 1.325,
+  "showArrow": false,
+  "textFadeMultiplier": -0.9,
+  "nodeSizeMultiplier": 0.855416666666667,
+  "lineSizeMultiplier": 2.34583333333333,
   "collapse-forces": true,
-  "centerStrength": 0.5666015625,
-  "repelStrength": 7.25,
+  "centerStrength": 0.5,
+  "repelStrength": 4,
   "linkStrength": 1,
-  "linkDistance": 75,
-  "scale": 0.5607055125799959,
+  "linkDistance": 30,
+  "scale": 0.5607055125799967,
   "close": true
 }
