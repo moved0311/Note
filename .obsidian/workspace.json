@@ -81,17 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-                "file": "Daily/2023-05-03.md",
->>>>>>> fda9e0e (note backup: 2023-05-12 17:16:24)
-=======
-                "file": "鉅亨網/新聞專案改版.md",
->>>>>>> 618d2ff (note backup: 2023-05-13 15:21:49)
-=======
->>>>>>> 719f1b1 (feat: backup)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-                "file": "Daily/2023-05-03.md",
->>>>>>> fda9e0e (note backup: 2023-05-12 17:16:24)
-=======
-                "file": "鉅亨網/新聞專案改版.md",
->>>>>>> 618d2ff (note backup: 2023-05-13 15:21:49)
-=======
->>>>>>> 719f1b1 (feat: backup)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,17 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< HEAD
-<<<<<<< HEAD
               "state": {}
-=======
-              "state": {
-                "file": "鉅亨網/新聞專案改版.md"
-              }
->>>>>>> fda9e0e (note backup: 2023-05-12 17:16:24)
-=======
-              "state": {}
->>>>>>> 719f1b1 (feat: backup)
             }
           }
         ]
@@ -171,6 +139,7 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -198,10 +167,15 @@
   "active": "1e79ac6a004038e3",
 >>>>>>> 719f1b1 (feat: backup)
 >>>>>>> 0184d8b (feat: backup)
+=======
+  "active": "1e79ac6a004038e3",
+>>>>>>> 987eaba (note backup: 2023-05-16 09:44:12)
   "lastOpenFiles": [
-    "Daily/2023-05-03.md",
-    "鉅亨網/新聞專案改版.md",
+    "News/2023/2023-05-12.md",
+    "News/2023/2023-05-11.md",
+    "News/2023-05-16.md",
     "News/2023-05-12.md",
+<<<<<<< HEAD
 <<<<<<< HEAD
     "Daily/2023-05-16.md",
     "Stocks/晶圓.md",
@@ -217,6 +191,8 @@
 =======
 <<<<<<< HEAD
 >>>>>>> c9237f9 (note backup: 2023-05-13 15:21:49)
+=======
+>>>>>>> 987eaba (note backup: 2023-05-16 09:44:12)
     "Stocks/5483/5483.md",
     "Stocks/2308/2308.md",
     "LeetCode/JS/Curry.md",
@@ -231,11 +207,15 @@
 =======
     "Daily/2023-05-03.md",
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> ab31158 (note backup: 2023-05-12 17:16:24)
 =======
 =======
 >>>>>>> 618d2ff (note backup: 2023-05-13 15:21:49)
 >>>>>>> c9237f9 (note backup: 2023-05-13 15:21:49)
+=======
+    "鉅亨網/新聞專案改版.md",
+>>>>>>> 987eaba (note backup: 2023-05-16 09:44:12)
     "News/2023/2023-05-10.md",
     "News/2023/2023-05-09.md",
     "Daily/2023-05-10.md",
@@ -245,6 +225,14 @@
     "News/2023/2023-05-05.md",
     "News/2023-05-09.md",
     "News/2023-05-08.md",
+<<<<<<< HEAD
+=======
+    "News/2023/2023-05-04.md",
+    "News/2023-05-05.md",
+    "Daily/2023/2023-04-10.md",
+    "Daily/2023/2023-03-07.md",
+    "Daily/2023/2023-03-20.md",
+>>>>>>> 987eaba (note backup: 2023-05-16 09:44:12)
     "Stocks/3037/industy.png",
     "PPT/Vim/test3",
     "PPT/Vim/test2.tsx",
