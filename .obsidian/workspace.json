@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/常用.md",
+                "file": "Daily/2023-05-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/常用.md",
+                "file": "Daily/2023-05-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/常用.md"
+                "file": "Daily/2023-05-16.md"
               }
             }
           }
@@ -172,10 +171,10 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "fdbad4c6023082bd",
+  "active": "1739714fdb810cca",
   "lastOpenFiles": [
-    "Stocks/NB.md",
     "TypeScript/常用.md",
+    "Stocks/NB.md",
     "React/Memory Leak.md",
     "Daily/2023-05-16.md",
     "鉅亨網/新聞專案改版.md",
