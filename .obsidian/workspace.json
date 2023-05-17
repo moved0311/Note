@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stocks/總經.md",
+                "file": "鉅亨網/新聞專案改版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stocks/總經.md",
+                "file": "鉅亨網/新聞專案改版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stocks/總經.md"
+                "file": "鉅亨網/新聞專案改版.md"
               }
             }
           }
@@ -172,12 +172,12 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "6c1d0b72b72e1dbf",
+  "active": "c7f7f1bb3454b172",
   "lastOpenFiles": [
     "Daily/2023-05-16.md",
+    "鉅亨網/新聞專案改版.md",
     "Stocks/總經.md",
     "TypeScript/常用.md",
-    "鉅亨網/新聞專案改版.md",
     "News/2023/2023-05-16.md",
     "News/2023-05-17.md",
     "Stocks/NB.md",
