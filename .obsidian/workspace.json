@@ -4,15 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "e44bd0fb7200c9c5",
+        "id": "ee48d02ec1588e0b",
         "type": "tabs",
         "children": [
           {
-            "id": "c4606527eaaa040e",
+            "id": "1739714fdb810cca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-05-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7f7f1bb3454b172",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "鉅亨網/新聞專案改版.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,14 +76,6 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "f4a61a123ba2349c",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
@@ -89,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2023-05-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2023-05-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2023-05-16.md"
+              }
             }
           }
         ]
@@ -138,53 +150,55 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-advanced-slides:Show Slide Preview": false,
+      "canvas:建立新畫布": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
-      "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
-      "command-palette:開啟命令面板": false
+      "command-palette:開啟命令面板": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "c4606527eaaa040e",
+  "active": "1739714fdb810cca",
   "lastOpenFiles": [
     "歷史/時間軸.md",
-    "Books/孫主任的經濟筆記.md",
     "歷史",
-    "Interview/問題.md",
-    "AD/google ad.md",
-    "CodeReview/reference.md",
     "Stocks/PCB.md",
-    "conflict-files-obsidian-git.md",
-    "TypeScript/常用.md",
+    "News/2023-05-18.md",
+    "LeetCode/JS/timeLimitedCache.md",
+    "LeetCode/JS/throttle.md",
+    "LeetCode/JS/debounce.md",
+    "鉅亨網/新聞專案改版.md",
+    "Daily/2023-05-16.md",
+    "News/2023-05-22.md",
+    "News/2023/2023-05-18.md",
+    "LeetCode/JS/promisePool.ts",
+    "Daily/2023/2023-05-03.md",
+    "Daily/2023/2023-01-30.md",
+    "Daily/2023/2023-02-08.md",
+    "Daily/2023/2023-02-20.md",
+    "Daily/2023/2023-03-07.md",
+    "Daily/2023/2023-03-20.md",
+    "Daily/2023/2023-04-10.md",
+    "Daily/2023/2023-04-17.md",
+    "News/2023/2023-05-17.md",
     "Stocks/總經.md",
+    "TypeScript/常用.md",
+    "News/2023/2023-05-16.md",
+    "News/2023-05-17.md",
     "Stocks/NB.md",
     "React/Memory Leak.md",
-    "News/2023/2023-05-17.md",
-    "News/2023/2023-05-16.md",
-    "News/2023/2023-05-12.md",
     "News/2023/2023-05-11.md",
-    "News/2023-05-18.md",
-    "Daily/2023/2023-05-03.md",
-    "Daily/2023-05-16.md",
-    "Stocks/3037/3037.md",
-    "Stocks/Stocks.md",
-    "Stocks/手機.md",
-    "Stocks/2454/2454.md",
-    "Stocks/晶圓.md",
-    "Stocks/名詞.md",
     "Stocks/2454",
-    "LeetCode/Reference.md",
-    "News/2023/2023-03-14.md",
-    "未命名 2.canvas",
-    "未命名.canvas",
-    "未命名 1.canvas",
     "LeetCode/JS",
     "LeetCode/Hash Table/890.find-and-replace-pattern.ts",
     "LeetCode/Hash Table",
-    "LeetCode/新增資料夾",
-    "LeetCode/890.find-and-replace-pattern.ts",
-    "LeetCode/921.minimum-add-to-make-parentheses-valid.ts"
+    "Books",
+    "Stocks/3037/industy.png",
+    "PPT/Vim/test3",
+    "PPT/Vim/test2.tsx",
+    "PPT/Vim",
+    "Stocks/3037/process.png",
+    "Stocks/3037/截圖 2023-04-13 下午4.15.11.png"
   ]
 }
