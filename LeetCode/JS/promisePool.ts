@@ -18,14 +18,19 @@ function promisePool(functions: F[], n: number): Promise<any> {
     };
 
     const run = () => {
-      while (poolLen < n && taskId < functions.length - 1) {
-        const task = functions[taskId++];
+      while (poolLen < n && taskId < functions.length) {
         poolLen++;
+        const task = functions[taskId++];
         task().then(checkDone);
       }
     };
+
+    run();
   });
 }
 
-const sleep = (t: number) => new Promise((res) => setTimeout(res, t));
-promisePool([() => sleep(500), () => sleep(400)], 1).then(console.log); // After 900ms
+/**
+ * const sleep = (t) => new Promise(res => setTimeout(res, t));
+ * promisePool([() => sleep(500), () => sleep(400)], 1)
+ *   .then(console.log) // After 900ms
+ */
