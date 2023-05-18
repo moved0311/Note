@@ -30,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6c1d0b72b72e1dbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stocks/總經.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md",
+                "file": "Daily/2023-05-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md",
+                "file": "Daily/2023-05-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md"
+                "file": "Daily/2023-05-16.md"
               }
             }
           }
@@ -172,18 +159,26 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "c7f7f1bb3454b172",
+  "active": "1739714fdb810cca",
   "lastOpenFiles": [
-    "News/2023-05-18.md",
+    "Daily/2023/2023-05-03.md",
+    "Daily/2023/2023-01-30.md",
+    "Daily/2023/2023-02-08.md",
+    "Daily/2023/2023-02-20.md",
+    "Daily/2023/2023-03-07.md",
+    "Daily/2023/2023-03-20.md",
+    "Daily/2023/2023-04-10.md",
+    "Daily/2023/2023-04-17.md",
     "Daily/2023-05-16.md",
     "鉅亨網/新聞專案改版.md",
+    "News/2023/2023-05-17.md",
+    "News/2023-05-18.md",
     "Stocks/總經.md",
     "TypeScript/常用.md",
     "News/2023/2023-05-16.md",
     "News/2023-05-17.md",
     "Stocks/NB.md",
     "React/Memory Leak.md",
-    "Daily/2023/2023-05-03.md",
     "News/2023/2023-05-11.md",
     "News/2023/2023-05-12.md",
     "News/2023-05-16.md",
@@ -193,18 +188,10 @@
     "Stocks/2454/2454.md",
     "Stocks/2454",
     "News/2023-05-11.md",
-    "Daily/2023-05-03.md",
-    "Stocks/5483/5483.md",
-    "Stocks/2308/2308.md",
-    "LeetCode/JS/Curry.md",
     "LeetCode/JS",
     "LeetCode/Hash Table/890.find-and-replace-pattern.ts",
     "LeetCode/Hash Table",
-    "Books/華盛頓商學院最受歡迎的談判課.md",
-    "Books/孫主任的經濟筆記.md",
     "Books",
-    "News/2023/2023-05-10.md",
-    "News/2023/2023-05-09.md",
     "Stocks/3037/industy.png",
     "PPT/Vim/test3",
     "PPT/Vim/test2.tsx",
