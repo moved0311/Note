@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "歷史/時間軸.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8c49435edad11ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Books/孫主任的經濟筆記.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,10 +168,12 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "5f12a5f029ec8c16",
+  "active": "b8c49435edad11ab",
   "lastOpenFiles": [
-    "Interview/問題.md",
+    "歷史/時間軸.md",
     "Books/孫主任的經濟筆記.md",
+    "歷史",
+    "Interview/問題.md",
     "AD/google ad.md",
     "CodeReview/reference.md",
     "Stocks/PCB.md",
@@ -183,7 +198,6 @@
     "Stocks/2454",
     "LeetCode/Reference.md",
     "News/2023/2023-03-14.md",
-    "News/2023/2023-05-09.md",
     "未命名 2.canvas",
     "未命名.canvas",
     "未命名 1.canvas",
