@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/華盛頓商學院最受歡迎的談判課.md",
+                "file": "Books/孫主任的經濟筆記.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Books/華盛頓商學院最受歡迎的談判課.md",
+            "file": "Books/孫主任的經濟筆記.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Books/華盛頓商學院最受歡迎的談判課.md",
+            "file": "Books/孫主任的經濟筆記.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Books/華盛頓商學院最受歡迎的談判課.md"
+            "file": "Books/孫主任的經濟筆記.md"
           }
         }
       }
@@ -134,6 +134,15 @@
   "active": "cd4ba3b45e545c32",
   "lastOpenFiles": [
     "Books/華盛頓商學院最受歡迎的談判課.md",
+    "Books/孫主任的經濟筆記.md",
+    "Stocks/2454/2454.md",
+    "Stocks/晶圓.md",
+    "Stocks/手機.md",
+    "Stocks/2454",
+    "LeetCode/JS/Curry.md",
+    "LeetCode/JS",
+    "LeetCode/Hash Table/890.find-and-replace-pattern.ts",
+    "LeetCode/Hash Table",
     "Books",
     "Untitled.md"
   ]
