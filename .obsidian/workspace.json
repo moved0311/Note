@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2dcf6b3433cba279",
+        "id": "781a5e92416710f2",
         "type": "tabs",
         "children": [
           {
-            "id": "0f8d7e412cc71e6b",
+            "id": "5f12a5f029ec8c16",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,7 +147,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "0f8d7e412cc71e6b",
+  "active": "5f12a5f029ec8c16",
   "lastOpenFiles": [
     "Stocks/PCB.md",
     "conflict-files-obsidian-git.md",
