@@ -1,5 +1,7 @@
-* lukewarm: only moderately warm;
-* code churn: 在軟體開發中指的是程式碼的變動或修改的頻繁程度。
+* lukewarm
+  * only moderately warm;
+* code churn
+  * 在軟體開發中指的是程式碼的變動或修改的頻繁程度。
   * churn rate: the annual percentage rate at which customers stop subscribing to a service or employees leave a job.
   * churn 攪拌
 * regression
@@ -23,3 +25,6 @@
 * spiral of desperation
 * narrate: give a spoken or written account of connected events / a story
   * syn. tell 
+* profound
+  * very great
+  * a programmer with profound understanding of the fundamentals
