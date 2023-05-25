@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-05-16.md",
+                "file": "鉅亨網/新聞專案改版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-05-16.md",
+                "file": "鉅亨網/新聞專案改版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-05-16.md"
+                "file": "鉅亨網/新聞專案改版.md"
               }
             }
           }
@@ -167,46 +168,46 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "1739714fdb810cca",
+  "active": "c7f7f1bb3454b172",
   "lastOpenFiles": [
+    "Books/Coding Interview University/CodingInterviewUniversity.md",
+    "Books/Cracking The CodeInterview/Ch5/__test__/5.3.test.js",
+    "Books/Cracking The CodeInterview/Ch5/__test__/5.2.test.js",
+    "Books/Cracking The CodeInterview/Ch5/__test__/5.1.test.js",
+    "Books/Cracking The CodeInterview/Ch5/__test__",
+    "Books/Cracking The CodeInterview/Ch5/5.4.ts",
+    "Books/Cracking The CodeInterview/Ch5/5.3.js",
+    "Books/Cracking The CodeInterview/Ch5/5.3(bruteforce).js",
+    "Books/Cracking The CodeInterview/Ch5/5.2.js",
+    "Books/Cracking The CodeInterview/Ch5/5.1.js",
+    "Books/Cracking The CodeInterview/Ch1/1.9.test.js",
+    "Books/Cracking The CodeInterview/CrackingTheCodeInterview.md",
+    "Books/CrackingTheCodeInterview/CrackingTheCodeInterview.md",
+    "Books/CrackingTheCodeInterview/cracking-the-coding-interview/README.md",
+    "Daily/2023-05-16.md",
     "News/2023-05-25.md",
     "鉅亨網/新聞專案改版.md",
-    "Daily/2023-05-16.md",
     "News/2023-05-24.md",
     "LeetCode/JS/curry.md",
     "LeetCode/JS/jsonStringify.md",
     "News/2023/2023-05-23.md",
     "News/2023/2023-05-22.md",
     "News/2023-05-23.md",
-    "LeetCode/JS/xxx.ts",
     "學英文/newWords.md",
     "學英文/reference.md",
-    "學英文",
     "Stocks/2454/GS_revenue_mix_segment.png",
     "News/2023/2023-05-18.md",
     "News/2023-05-22.md",
     "歷史/時間軸.md",
-    "歷史",
     "Stocks/PCB.md",
     "News/2023-05-18.md",
     "LeetCode/JS/timeLimitedCache.md",
     "LeetCode/JS/throttle.md",
     "LeetCode/JS/debounce.md",
-    "LeetCode/JS/promisePool.ts",
     "Daily/2023/2023-05-03.md",
     "Daily/2023/2023-01-30.md",
     "Daily/2023/2023-02-08.md",
-    "Daily/2023/2023-02-20.md",
-    "Daily/2023/2023-03-07.md",
-    "Daily/2023/2023-03-20.md",
-    "Daily/2023/2023-04-10.md",
-    "Stocks/2454",
-    "LeetCode/JS",
-    "LeetCode/Hash Table/890.find-and-replace-pattern.ts",
-    "LeetCode/Hash Table",
-    "Books",
     "Stocks/3037/industy.png",
-    "PPT/Vim/test3",
     "Stocks/3037/process.png",
     "Stocks/3037/截圖 2023-04-13 下午4.15.11.png"
   ]

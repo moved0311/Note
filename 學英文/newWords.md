@@ -21,3 +21,5 @@
 * procrastinate: delay 
   * delay or postpone action/put off doing something
 * spiral of desperation
+* narrate: give a spoken or written account of connected events / a story
+  * syn. tell 
