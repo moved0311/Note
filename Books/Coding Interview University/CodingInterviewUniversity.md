@@ -1,6 +1,12 @@
 Repo: [Coding Interview University](https://github.com/jwasham/coding-interview-university/tree/main)
 
-## 位元運算(Bitwise operations)
+## Content
+* [位元運算(Bitwise operations)](#位元運算)
+
+
+
+
+## 位元運算
 - [ ] 實際了解如何用下列的位元運算子來操作每個位元: &, |, ^, ~, >>, <<
 - [ ] [words](https://en.wikipedia.org/wiki/Word_(computer_architecture))
 - [ ] Good intro:
