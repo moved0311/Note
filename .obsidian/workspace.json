@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4a9ee3c6e8804ca0",
+        "id": "ee48d02ec1588e0b",
         "type": "tabs",
         "children": [
           {
-            "id": "679887255699eb53",
+            "id": "1739714fdb810cca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/二維陣列.md",
+                "file": "Daily/2023-05-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7f7f1bb3454b172",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "鉅亨網/新聞專案改版.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +79,7 @@
             }
           },
           {
-            "id": "f4a61a123ba2349c",
+            "id": "b804350217103997",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 200
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/二維陣列.md",
+                "file": "鉅亨網/新聞專案改版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/二維陣列.md",
+                "file": "鉅亨網/新聞專案改版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/二維陣列.md"
+                "file": "鉅亨網/新聞專案改版.md"
               }
             }
           }
@@ -146,48 +159,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-advanced-slides:Show Slide Preview": false,
+      "canvas:建立新畫布": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
-      "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
-      "command-palette:開啟命令面板": false
+      "command-palette:開啟命令面板": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "679887255699eb53",
+  "active": "c7f7f1bb3454b172",
   "lastOpenFiles": [
-    "JavaScript/字串處理.md",
-    "JavaScript/二維陣列.md",
-    "LeetCode/Weekly Contest.md",
-    "LeetCode/Reference.md",
-    "Function Programming.md",
-    "HighChart.md",
-    "Read Queue.md",
     "TypeScript/TypeScript.md",
-    "Read.md",
-    "Pasted image 20230528010636.png",
-    "npm package.md",
-    "CSR & SSR.md",
-    "學英文/dictionary.md",
-    "歷史/時間軸.md",
-    "Daily/2023/2023-05-03.md",
-    "Daily/2023-05-16.md",
-    "CodeReview/reference.md",
-    "Books/已讀/投資最重要的事.md",
-    "Books/已讀/致富心態.md",
+    "JavaScript/二維陣列.md",
+    "Interview/回答.md",
+    "Books/從0到1.md",
+    "Books/待讀.md",
     "Books/已讀/隱市致富地圖.md",
+    "Books/已讀/致富心態.md",
     "Books/已讀/索羅斯的投資哲學.md",
     "Books/已讀/用心於不交易.md",
-    "Books/待讀.md",
+    "Books/已讀/投資最重要的事.md",
     "Books/已讀",
-    "Interview/回答.md",
-    "Interview/問題.md",
+    "News/2023-05-29.md",
+    "Daily/2023-05-16.md",
     "鉅亨網/新聞專案改版.md",
+    "LeetCode/JS/flaten.md",
+    "LeetCode/JS/flaten.ts",
+    "News/2023-05-26.md",
+    "PPT/Slack Ｍessage/Slack Messages.md",
+    "PPT/Vim/Vim.md",
     "鉅亨網/whenToUseServerAndClientComponents.png",
-    "學英文",
     "TODO/read.md",
-    "Stocks/2454/GS_revenue_mix_segment.png",
+    "TODO/readQueue.md",
+    "TODO/webpack.md",
+    "TODO/react.md",
+    "TODO/program.md",
+    "TODO/other.md",
+    "TODO/node.md",
+    "TODO/javascript.md",
+    "TODO/http.md",
     "Books/Cracking The CodeInterview/Ch5/__test__/5.3.test.js",
     "Books/Cracking The CodeInterview/Ch5/__test__/5.2.test.js",
     "Books/Cracking The CodeInterview/Ch5/__test__/5.1.test.js",
@@ -196,8 +207,9 @@
     "Books/Cracking The CodeInterview/Ch5/5.3.js",
     "Books/Cracking The CodeInterview/Ch5/5.3(bruteforce).js",
     "Books/Cracking The CodeInterview/Ch5/5.2.js",
-    "未命名 2.canvas",
-    "未命名.canvas",
-    "未命名 1.canvas"
+    "Stocks/2454/GS_revenue_mix_segment.png",
+    "Stocks/3037/industy.png",
+    "Stocks/3037/process.png",
+    "Stocks/3037/截圖 2023-04-13 下午4.15.11.png"
   ]
 }
