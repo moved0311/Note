@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md",
+                "file": "Daily/2023-05-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md",
+                "file": "Daily/2023-05-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md"
+                "file": "Daily/2023-05-16.md"
               }
             }
           }
@@ -168,8 +167,9 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "c7f7f1bb3454b172",
+  "active": "1739714fdb810cca",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "TypeScript/TypeScript.md",
     "JavaScript/二維陣列.md",
     "Interview/回答.md",
@@ -182,6 +182,9 @@
     "Books/已讀/投資最重要的事.md",
     "Books/已讀",
     "News/2023-05-29.md",
+=======
+    "鉅亨網/新聞專案改版.md",
+>>>>>>> 3c1dd9e (note backup: 2023-05-26 16:52:26)
     "Daily/2023-05-16.md",
     "鉅亨網/新聞專案改版.md",
     "LeetCode/JS/flaten.md",
