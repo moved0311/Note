@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5437e8489e660844",
+        "id": "10dfb2e633a9c1e8",
         "type": "tabs",
         "children": [
           {
-            "id": "30bebd376bc32a74",
+            "id": "17f178f9d9e27eb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/回答.md",
+                "file": "Books/已讀/投資最重要的事.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 237.5
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/回答.md",
+                "file": "Books/已讀/投資最重要的事.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/回答.md",
+                "file": "Books/已讀/投資最重要的事.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/回答.md"
+                "file": "Books/已讀/投資最重要的事.md"
               }
             }
           }
@@ -155,11 +155,18 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "30bebd376bc32a74",
+  "active": "0956f11c313356e2",
   "lastOpenFiles": [
-    "Pasted image 20230528010636.png",
-    "Interview/問題.md",
+    "Books/已讀/投資最重要的事.md",
+    "Books/已讀/致富心態.md",
+    "Books/已讀/隱市致富地圖.md",
+    "Books/已讀/索羅斯的投資哲學.md",
+    "Books/已讀/用心於不交易.md",
+    "Books/待讀.md",
+    "Books/已讀",
     "Interview/回答.md",
+    "Interview/問題.md",
+    "Pasted image 20230528010636.png",
     "鉅亨網/新聞專案改版.md",
     "鉅亨網/whenToUseServerAndClientComponents.png",
     "學英文/dictionary.md",
@@ -177,7 +184,6 @@
     "Books/Cracking The CodeInterview/Ch5/5.3.js",
     "Books/Cracking The CodeInterview/Ch5/5.3(bruteforce).js",
     "Books/Cracking The CodeInterview/Ch5/5.2.js",
-    "Books/Cracking The CodeInterview/Ch5/5.1.js",
     "Books/Cracking The CodeInterview/CrackingTheCodeInterview.md",
     "Books/Coding Interview University/CodingInterviewUniversity.md",
     "歷史/時間軸.md",
@@ -190,11 +196,6 @@
     "Stocks/總經.md",
     "Stocks/NB.md",
     "React/Memory Leak.md",
-    "News/2023/2023-05-17.md",
-    "News/2023/2023-05-16.md",
-    "News/2023/2023-05-12.md",
-    "News/2023/2023-05-11.md",
-    "News/2023-05-18.md",
     "未命名 2.canvas",
     "未命名.canvas",
     "未命名 1.canvas"
