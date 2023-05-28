@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Weekly Contest.md",
-                "mode": "preview",
+                "file": "JavaScript/二維陣列.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Weekly Contest.md",
+                "file": "JavaScript/二維陣列.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Weekly Contest.md",
+                "file": "JavaScript/二維陣列.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Weekly Contest.md"
+                "file": "JavaScript/二維陣列.md"
               }
             }
           }
@@ -157,8 +157,10 @@
   },
   "active": "679887255699eb53",
   "lastOpenFiles": [
-    "LeetCode/Reference.md",
     "JavaScript/字串處理.md",
+    "JavaScript/二維陣列.md",
+    "LeetCode/Weekly Contest.md",
+    "LeetCode/Reference.md",
     "Function Programming.md",
     "HighChart.md",
     "Read Queue.md",
@@ -186,8 +188,6 @@
     "學英文",
     "TODO/read.md",
     "Stocks/2454/GS_revenue_mix_segment.png",
-    "News/2023/2023-05-23.md",
-    "News/2023/2023-05-22.md",
     "Books/Cracking The CodeInterview/Ch5/__test__/5.3.test.js",
     "Books/Cracking The CodeInterview/Ch5/__test__/5.2.test.js",
     "Books/Cracking The CodeInterview/Ch5/__test__/5.1.test.js",
