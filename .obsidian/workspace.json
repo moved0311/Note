@@ -11,8 +11,12 @@
             "id": "ece72d1d740b95ce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "學英文/dictionary.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 209.5
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stocks/手機/IDC2023Q1手機出貨量.png",
+                "file": "學英文/dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stocks/手機/IDC2023Q1手機出貨量.png",
+                "file": "學英文/dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stocks/手機/IDC2023Q1手機出貨量.png"
+                "file": "學英文/dictionary.md"
               }
             }
           }
@@ -151,10 +155,12 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "0956f11c313356e2",
+  "active": "ece72d1d740b95ce",
   "lastOpenFiles": [
-    "Stocks/手機/手機.md",
+    "Read.md",
+    "學英文/dictionary.md",
     "Stocks/手機/IDC2023Q1手機出貨量.png",
+    "Stocks/手機/手機.md",
     "Stocks/手機",
     "Stocks/2454/2454.md",
     "Stocks/2454/GS_revenue_mix_segment.png",
@@ -166,11 +172,9 @@
     "HighChart.md",
     "Read Queue.md",
     "TypeScript/TypeScript.md",
-    "Read.md",
     "Pasted image 20230528010636.png",
     "npm package.md",
     "CSR & SSR.md",
-    "學英文/dictionary.md",
     "歷史/時間軸.md",
     "Daily/2023/2023-05-03.md",
     "Daily/2023-05-16.md",

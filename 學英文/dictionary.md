@@ -28,3 +28,12 @@
 * profound
   * very great
   * a programmer with profound understanding of the fundamentals
+* autonomy
+	* aligned autonomy
+* methodology
+* variety
+* comprehension
+* Contrast
+	* Compare and Contrast the job search process in the US and your home country
+* phrases
+* rewarding
