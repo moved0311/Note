@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Function Programming.md",
-                "mode": "source",
+                "file": "LeetCode/Weekly Contest.md",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "0f3f86ad6b51fa6a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.4"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Function Programming.md",
+                "file": "LeetCode/Weekly Contest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Function Programming.md",
+                "file": "LeetCode/Weekly Contest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Function Programming.md"
+                "file": "LeetCode/Weekly Contest.md"
               }
             }
           }
@@ -166,15 +155,17 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "0f3f86ad6b51fa6a",
+  "active": "679887255699eb53",
   "lastOpenFiles": [
+    "LeetCode/Reference.md",
+    "JavaScript/字串處理.md",
+    "Function Programming.md",
     "HighChart.md",
     "Read Queue.md",
     "TypeScript/TypeScript.md",
     "Read.md",
     "Pasted image 20230528010636.png",
     "npm package.md",
-    "Function Programming.md",
     "CSR & SSR.md",
     "學英文/dictionary.md",
     "歷史/時間軸.md",
@@ -197,7 +188,6 @@
     "Stocks/2454/GS_revenue_mix_segment.png",
     "News/2023/2023-05-23.md",
     "News/2023/2023-05-22.md",
-    "News/2023/2023-05-18.md",
     "Books/Cracking The CodeInterview/Ch5/__test__/5.3.test.js",
     "Books/Cracking The CodeInterview/Ch5/__test__/5.2.test.js",
     "Books/Cracking The CodeInterview/Ch5/__test__/5.1.test.js",
@@ -206,7 +196,6 @@
     "Books/Cracking The CodeInterview/Ch5/5.3.js",
     "Books/Cracking The CodeInterview/Ch5/5.3(bruteforce).js",
     "Books/Cracking The CodeInterview/Ch5/5.2.js",
-    "Books/Cracking The CodeInterview/CrackingTheCodeInterview.md",
     "未命名 2.canvas",
     "未命名.canvas",
     "未命名 1.canvas"
