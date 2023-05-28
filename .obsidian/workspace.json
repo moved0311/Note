@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "10dfb2e633a9c1e8",
+        "id": "4a9ee3c6e8804ca0",
         "type": "tabs",
         "children": [
           {
-            "id": "17f178f9d9e27eb8",
+            "id": "679887255699eb53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/已讀/投資最重要的事.md",
+                "file": "Function Programming.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f3f86ad6b51fa6a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/已讀/投資最重要的事.md",
+                "file": "Function Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/已讀/投資最重要的事.md",
+                "file": "Function Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/已讀/投資最重要的事.md"
+                "file": "Function Programming.md"
               }
             }
           }
@@ -155,8 +166,21 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "0956f11c313356e2",
+  "active": "0f3f86ad6b51fa6a",
   "lastOpenFiles": [
+    "HighChart.md",
+    "Read Queue.md",
+    "TypeScript/TypeScript.md",
+    "Read.md",
+    "Pasted image 20230528010636.png",
+    "npm package.md",
+    "Function Programming.md",
+    "CSR & SSR.md",
+    "學英文/dictionary.md",
+    "歷史/時間軸.md",
+    "Daily/2023/2023-05-03.md",
+    "Daily/2023-05-16.md",
+    "CodeReview/reference.md",
     "Books/已讀/投資最重要的事.md",
     "Books/已讀/致富心態.md",
     "Books/已讀/隱市致富地圖.md",
@@ -166,10 +190,8 @@
     "Books/已讀",
     "Interview/回答.md",
     "Interview/問題.md",
-    "Pasted image 20230528010636.png",
     "鉅亨網/新聞專案改版.md",
     "鉅亨網/whenToUseServerAndClientComponents.png",
-    "學英文/dictionary.md",
     "學英文",
     "TODO/read.md",
     "Stocks/2454/GS_revenue_mix_segment.png",
@@ -185,17 +207,6 @@
     "Books/Cracking The CodeInterview/Ch5/5.3(bruteforce).js",
     "Books/Cracking The CodeInterview/Ch5/5.2.js",
     "Books/Cracking The CodeInterview/CrackingTheCodeInterview.md",
-    "Books/Coding Interview University/CodingInterviewUniversity.md",
-    "歷史/時間軸.md",
-    "Books/孫主任的經濟筆記.md",
-    "AD/google ad.md",
-    "CodeReview/reference.md",
-    "Stocks/PCB.md",
-    "conflict-files-obsidian-git.md",
-    "TypeScript/常用.md",
-    "Stocks/總經.md",
-    "Stocks/NB.md",
-    "React/Memory Leak.md",
     "未命名 2.canvas",
     "未命名.canvas",
     "未命名 1.canvas"
