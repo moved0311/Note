@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bb75f4f4a814f227",
+        "id": "2f7179851de58045",
         "type": "tabs",
         "children": [
           {
-            "id": "ece72d1d740b95ce",
+            "id": "703edf33278acfc0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "學英文/dictionary.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "學英文/dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "學英文/dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "學英文/dictionary.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,10 +147,12 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "ece72d1d740b95ce",
+  "active": "703edf33278acfc0",
   "lastOpenFiles": [
-    "Read.md",
+    "學英文/Coursera - English for Career Development/English for Career Development.md",
     "學英文/dictionary.md",
+    "學英文/Coursera - English for Career Development",
+    "Read.md",
     "Stocks/手機/IDC2023Q1手機出貨量.png",
     "Stocks/手機/手機.md",
     "Stocks/手機",
@@ -195,7 +189,6 @@
     "Books/Cracking The CodeInterview/Ch5/__test__",
     "Books/Cracking The CodeInterview/Ch5/5.4.ts",
     "Books/Cracking The CodeInterview/Ch5/5.3.js",
-    "Books/Cracking The CodeInterview/Ch5/5.3(bruteforce).js",
     "未命名 2.canvas",
     "未命名.canvas",
     "未命名 1.canvas"
