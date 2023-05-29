@@ -9,3 +9,28 @@
 * Personal trait skills: way you act
 	* **Adjectives or adverbs are the third kind of skills**
 	* Some examples of these adjectives are words like dependable, responsible, thoughtful and kind.
+
+## Six types of interests
+1. Interest in doing thing
+	* chef, construction worker, farmer
+2. Interest in thinking
+	* work alone, solve problems
+	* lab research, accounting
+3. Interest in creating
+	* think of new ideas and things
+	* designers, actors, musicians
+4. Interest in helping
+	* work with people
+	* teachers, doctors
+5. Interest in persuading
+	* talk to people, sell product or ideas
+	* salespersion, marketing, managers
+6. Interest in organizing
+	* work with clear schedules and rules
+	* pm, researchers
+
+
+* Present simple
+	* He works at a doctor's office
+* Present Continuous: am/are/is + base verb + ing
+	* He's turning off the lights.
