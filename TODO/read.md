@@ -1,8 +1,9 @@
+https://graphics.stanford.edu/~seander/bithacks.html
+
 * About the operation counting methodology
 * Compute the sign of an integer
 * Compute the integer absolute value (abs) without branching
 * Compute the minimum (min) or maximum (max) of two integers without branching
-* Determining if an integer is a power of 2
 * Sign extending
   * Sign extending from a constant bit-width
   * Sign extending from a variable bit-width
@@ -25,7 +26,6 @@
   * Compute parity of word with a multiply
   * Compute parity in parallel
 * Swapping Values
-  * Swapping values with subtraction and addition
   * Swapping individual bits with XOR
 * Reversing bit sequences
   * Reverse bits the obvious way
