@@ -7,7 +7,8 @@ Repo: [Coding Interview University](https://github.com/jwasham/coding-interview-
 
 ## 位元運算
 - [x] 實際了解如何用下列的位元運算子來操作每個位元: &, |, ^, ~, >>, <<
-- [ ] [words](https://en.wikipedia.org/wiki/Word_(computer_architecture))
+- [x] [words](https://en.wikipedia.org/wiki/Word_(computer_architecture))
+  - 計算機指令集會定義word長度，常見有32bits, 64bits
 - [ ] Good intro:
     [Bit Manipulation (影片)](https://www.youtube.com/watch?v=7jkIUgLC29I)
 - [ ] [C Programming Tutorial 2-10: Bitwise Operators (影片)](https://www.youtube.com/watch?v=d0AwjSpNXR0)
