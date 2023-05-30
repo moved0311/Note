@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-05-16.md",
+                "file": "Daily/2023-05-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-05-16.md",
+                "file": "Daily/2023-05-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-05-16.md",
+                "file": "Daily/2023-05-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-05-16.md"
+                "file": "Daily/2023-05-30.md"
               }
             }
           }
@@ -169,10 +169,11 @@
   },
   "active": "1739714fdb810cca",
   "lastOpenFiles": [
+    "Daily/2023-05-16.md",
+    "Daily/2023-05-30.md",
     "健康/營養素.md",
     "健康",
     "Stocks/2330/2330.md",
-    "Daily/2023-05-16.md",
     "Stocks/2330",
     "鉅亨網/新聞專案改版.md",
     "Stocks/總經.md",
@@ -200,7 +201,6 @@
     "JavaScript/二維陣列.md",
     "Interview/回答.md",
     "Books/從0到1.md",
-    "Books/待讀.md",
     "Books/已讀",
     "LeetCode/JS/flaten.ts",
     "鉅亨網/whenToUseServerAndClientComponents.png",
