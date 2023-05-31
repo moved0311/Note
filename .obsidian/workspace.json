@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md",
+                "file": "Daily/2023-05-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md",
+                "file": "Daily/2023-05-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md"
+                "file": "Daily/2023-05-30.md"
               }
             }
           }
@@ -168,8 +167,9 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "44ffb9a28a3a73a4",
+  "active": "1739714fdb810cca",
   "lastOpenFiles": [
+    "鉅亨網/新聞專案改版.md",
     "News/2023-05-31.md",
     "Daily/2023-05-30.md",
     "Daily/2023-05-16.md",
@@ -177,7 +177,6 @@
     "健康",
     "Stocks/2330/2330.md",
     "Stocks/2330",
-    "鉅亨網/新聞專案改版.md",
     "Stocks/總經.md",
     "Books/孫主任的經濟筆記.md",
     "TODO/interviewQuestion.md",
