@@ -11,12 +11,8 @@
             "id": "1739714fdb810cca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Docker.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -117,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Docker/Docker.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -181,9 +173,11 @@
   },
   "active": "1739714fdb810cca",
   "lastOpenFiles": [
+    "Stocks.md",
+    "Stocks/5483/5483.md",
+    "Docker/Docker.md",
     "鉅亨網/新聞專案改版.md",
     "Daily/2023-05-30.md",
-    "Docker/Docker.md",
     "Docker",
     "News/2023-05-31.md",
     "Daily/2023-05-16.md",
@@ -212,8 +206,6 @@
     "News/2023/2023-05-25.md",
     "News/2023/2023-05-24.md",
     "News/2023-05-29.md",
-    "TypeScript/TypeScript.md",
-    "JavaScript/二維陣列.md",
     "Books/已讀",
     "LeetCode/JS/flaten.ts",
     "鉅亨網/whenToUseServerAndClientComponents.png",
