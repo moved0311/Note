@@ -1,41 +1,13 @@
 # Docker
 
 
-# Basic
+## Basic
 > Docker Image is a package or a template, it is used to create one or more containers.
 Container are running instances of images
 
-# Install
-## Windows
-* https://www.docker.com/get-started
-下載Docker Desktop
-* [Docker WSL 2 installation is incomplete [closed]](https://stackoverflow.com/questions/63845591/docker-wsl-2-installation-is-incomplete)
-    * [Step 4 - Download the Linux kernel update package](https://docs.microsoft.com/en-us/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package)
-## Linux
-### 文件
-* [Docker docs](https://docs.docker.com/)
-* [Docker & Go HelloWorld](https://fabianlee.org/2018/05/10/docker-packaging-a-golang-version-of-hello-world-in-a-container/)
-* https://wiki.archlinux.org/index.php/Docker_(%E6%AD%A3%E9%AB%94%E4%B8%AD%E6%96%87)
 
-```bash
-pacman -S docker
-
-# 啟動docker
-sudo systemctl start docker.service
-sudo systemctl enable docker.service  
-sudo docker info
-
-# 加入群組
-taiyi:~ []$ sudo gpasswd -a taiyi docker  
-Adding user taiyi to group docker
-taiyi:~ []$ newgrp docker
-
-taiyi:~/App/Docker []$ docker run -it --rm archlinux bash -c "echo hello world"
-hello world
-```
-
-# Get started
-## Part1 : Orientation and setup
+## Get started
+### Part1 : Orientation and setup
 * container啟動是透過跑image，Image是一個可執行的package包含所有需要的runtime, libraries, envirionment variables, configuration files
 * container是image的實例
 
@@ -215,11 +187,6 @@ docker container ls
 ```
 
 ## stop container
-```
-docker container stop <Container ID>
-```
-
-## stop using port
 ```bash
 docker container stop <Container NAME or ID>
 ```
@@ -233,8 +200,8 @@ docker images
 ## Delete containers/images
 ```docker
 docker rm <Container ID/Name>
-docker rmi <Image ID/Name>
-# docker rmi <image:version>
+docker rmi <Image ID/Name> 
+# -f
 ```
 
 ## Run container
@@ -258,4 +225,18 @@ fe-cnyes/fe-news   sha-108b280   f449320d77c2   14 minutes ago   1.38GB
 
 > docker run fe-cnyes/fe-new:main
 
+```
+
+## Delete none name images 
+```sh
+ docker images -a | grep none | awk '{ print $3; }' | xargs docker rmi -f
+```
+
+
+## Mac Images locations
+```
+~/Library/Containers/com.docker.docker/Data/vms/0/data
+
+> du -h
+8.9G	.
 ```
