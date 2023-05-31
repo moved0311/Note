@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "098330d3af2c097a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-05-30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "44ffb9a28a3a73a4",
             "type": "leaf",
             "state": {
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,10 +182,10 @@
   },
   "active": "44ffb9a28a3a73a4",
   "lastOpenFiles": [
-    "Docker/Docker.md",
     "Daily/2023-05-30.md",
-    "Docker",
+    "Docker/Docker.md",
     "鉅亨網/新聞專案改版.md",
+    "Docker",
     "News/2023-05-31.md",
     "Daily/2023-05-16.md",
     "健康/營養素.md",
