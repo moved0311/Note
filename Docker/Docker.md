@@ -219,27 +219,24 @@ docker container ls
 docker container stop <Container ID>
 ```
 
-
-# Command
 ## stop using port
 ```bash
 docker container stop <Container NAME or ID>
 ```
-## Version
-```
-docker --version
-```
+
 ## check containers/images
 ```
 docker ps
 docker images 
 ```
+
 ## Delete containers/images
 ```docker
 docker rm <Container ID/Name>
 docker rmi <Image ID/Name>
 # docker rmi <image:version>
 ```
+
 ## Run container
 ```docker
 docker run <image-name>
@@ -247,11 +244,9 @@ docker run <image-name>
 # docker attach <ID>    attach back to the running container
 # --name webapp         name container
 ```
-## Download an image
-```bash
-docker pull nginx
-```
 
+## Change default storage location
+* https://evodify.com/change-docker-storage-location/
 
 
 ## Docker Images
@@ -261,6 +256,6 @@ REPOSITORY         TAG           IMAGE ID       CREATED          SIZE
 fe-cnyes/fe-news   main          f449320d77c2   14 minutes ago   1.38GB
 fe-cnyes/fe-news   sha-108b280   f449320d77c2   14 minutes ago   1.38GB
 
-> docker run -p 3000:3000 fe-cnyes/fe-new:main
-ready - started server on 0.0.0.0:3000, url: http://localhost:3000
+> docker run fe-cnyes/fe-new:main
+
 ```
