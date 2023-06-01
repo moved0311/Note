@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1739714fdb810cca",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "098330d3af2c097a",
             "type": "leaf",
             "state": {
@@ -113,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2023-05-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2023-05-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2023-05-30.md"
+              }
             }
           }
         ]
@@ -171,8 +167,9 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "1739714fdb810cca",
+  "active": "098330d3af2c097a",
   "lastOpenFiles": [
+    "News/2023-06-01.md",
     "Stocks.md",
     "Stocks/5483/5483.md",
     "Docker/Docker.md",
@@ -205,7 +202,6 @@
     "News/2023/2023-05-26.md",
     "News/2023/2023-05-25.md",
     "News/2023/2023-05-24.md",
-    "News/2023-05-29.md",
     "Books/已讀",
     "LeetCode/JS/flaten.ts",
     "鉅亨網/whenToUseServerAndClientComponents.png",
