@@ -30,8 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bbe3e2cec4ea124b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +179,7 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "275acea55b99ae4f",
+  "active": "bbe3e2cec4ea124b",
   "lastOpenFiles": [
     "News/2023-06-01.md",
     "Stocks.md",
