@@ -20,3 +20,4 @@
 * [ ] [How we Build a Component Design System | Bits and Pieces](https://blog.bitsrc.io/how-we-build-our-design-system-15713a1f1833)
 * [ ] [How to Reuse React Components Across Your Projects](https://bit.dev/blog/how-to-reuse-react-components-across-your-projects-l4pz83f4/)
 * [ ] [Courses](https://neetcode.io/courses)
+* [Top GitHub repositories to learn modern React development | Livecycle](https://livecycle.io/blogs/top-react-github-projects/)

@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md",
+                "file": "Daily/2023-05-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md",
+                "file": "Daily/2023-05-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md"
+                "file": "Daily/2023-05-30.md"
               }
             }
           }
@@ -180,8 +179,28 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "0c19ad0c74e6ebc4",
+  "active": "098330d3af2c097a",
   "lastOpenFiles": [
+    "TODO/Cracking The CodeInterview/Ch5/__test__/5.3.test.js",
+    "TODO/Cracking The CodeInterview/Ch5/__test__/5.2.test.js",
+    "TODO/Cracking The CodeInterview/Ch5/__test__/5.1.test.js",
+    "TODO/Cracking The CodeInterview/Ch5/__test__",
+    "TODO/Cracking The CodeInterview/Ch5/5.4.ts",
+    "TODO/Cracking The CodeInterview/Ch5/5.3.js",
+    "TODO/Cracking The CodeInterview/Ch5/5.3(bruteforce).js",
+    "TODO/Cracking The CodeInterview/Ch5/5.2.js",
+    "TODO/Cracking The CodeInterview/Ch5/5.1.js",
+    "TODO/Cracking The CodeInterview/Ch1/1.9.test.js",
+    "TODO/Cracking The CodeInterview/Ch1/1.9.js",
+    "TODO/Cracking The CodeInterview/CrackingTheCodeInterview.md",
+    "TODO/Coding Interview University/CodingInterviewUniversity.md",
+    "鉅亨網/新聞專案改版.md",
+    "TODO/LeetCode.md",
+    "Daily/2023-05-30.md",
+    "TODO/Read Queue.md",
+    "TODO/interviewQuestion.md",
+    "TODO/Course.md",
+    "未命名.canvas",
     "學英文/單字.md",
     "News/2023/2023-06-05.md",
     "News/2023/2023-06-01.md",
@@ -191,37 +210,17 @@
     "Books/已讀/從0到1.md",
     "Books/從0到1.md",
     "News/2023-06-06.md",
-    "Daily/2023-05-30.md",
-    "TODO/LeetCode.md",
-    "TODO/Read Queue.md",
     "LeetCode/Weekly Contest.md",
-    "鉅亨網/新聞專案改版.md",
     "未命名 1.canvas",
-    "未命名.canvas",
     "News/2023-06-01.md",
     "Stocks.md",
     "Stocks/5483/5483.md",
     "Docker/Docker.md",
-    "Docker",
     "News/2023-05-31.md",
     "Daily/2023-05-16.md",
     "健康/營養素.md",
-    "健康",
-    "Stocks/2330/2330.md",
-    "Stocks/2330",
-    "Stocks/總經.md",
-    "Books/孫主任的經濟筆記.md",
-    "TODO/interviewQuestion.md",
-    "Books/Street Coder/Street Coder.md",
-    "Books/Street Coder",
-    "學英文/Coursera - English for Career Development",
     "Stocks/手機/IDC2023Q1手機出貨量.png",
-    "Stocks/手機",
-    "Books/已讀",
-    "LeetCode/JS/flaten.ts",
     "鉅亨網/whenToUseServerAndClientComponents.png",
-    "Books/Cracking The CodeInterview/Ch5/__test__/5.3.test.js",
-    "Books/Cracking The CodeInterview/Ch5/__test__/5.2.test.js",
     "Stocks/2454/GS_revenue_mix_segment.png",
     "Stocks/3037/industy.png",
     "Stocks/3037/process.png",
