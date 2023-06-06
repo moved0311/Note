@@ -15,7 +15,6 @@
 1544	Make The String Great	55.40%	Easy
 58	Length of Last Word	33.50%	Easy
 643	Maximum Average Subarray I	42.00%	Easy
-861	Score After Flipping Matrix	73.60%	Medium
 1539	Kth Missing Positive Number	55.00%	Easy
 1154	Day of the Year	49.20%	Easy
 1409	Queries on a Permutation With Key	81.50%	Medium
