@@ -1,6 +1,5 @@
 https://graphics.stanford.edu/~seander/bithacks.html
 
-
 ### 合并二维有序数组成一维有序数组，归并排序的思路
 
 公司：头条
@@ -8,17 +7,6 @@ https://graphics.stanford.edu/~seander/bithacks.html
 分类：算法
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview/issues/8)
-
-
-
-### 斐波那契数列
-
-公司：腾讯、CVTE、微软
-
-分类：算法
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/9)
-
 
 
 ### 字符串出现的不重复最长长度
@@ -30,17 +18,6 @@ https://graphics.stanford.edu/~seander/bithacks.html
 [答案&解析](https://github.com/lgwebdream/FE-Interview/issues/10)
 
 
-
-### 介绍chrome 浏览器的几个版本
-
-公司：滴滴
-
-分类：网络&安全
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/11)
-
-
-
 ### React 项目中有哪些细节可以优化？实际开发中都做过哪些性能优化
 
 公司：滴滴、掌门一对一、网易、有赞、沪江、喜马拉雅、酷家乐、快手
@@ -48,16 +25,6 @@ https://graphics.stanford.edu/~seander/bithacks.html
 分类：React
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview/issues/12)
-
-
-
-### react 最新版本解决了什么问题 加了哪些东西
-
-公司：滴滴
-
-分类：React
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/13)
 
 
 
@@ -81,16 +48,6 @@ https://graphics.stanford.edu/~seander/bithacks.html
 
 
 
-### 前端安全、中间人攻击
-
-公司：滴滴
-
-分类：网络&安全
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/16)
-
-
-
 ### 对闭包的看法，为什么要用闭包？说一下闭包原理以及应用场景
 
 公司：滴滴、携程、喜马拉雅、微医、蘑菇街、酷家乐、腾讯应用宝、安居客
@@ -98,37 +55,6 @@ https://graphics.stanford.edu/~seander/bithacks.html
 分类：JavaScript
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview/issues/17)
-
-
-
-### 有一堆整数，请把他们分成三份，确保每一份和尽量相等（11，42，23，4，5，6 4 5 6 11 23 42 56 78 90）
-
-公司：滴滴
-
-分类：算法
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/19)
-
-
-
-### 实现 lodash 的_.get
-
-公司：滴滴
-
-分类：JavaScript
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/20)
-
-
-
-### 实现 add(1)(2)(3)
-
-公司：滴滴
-
-分类：JavaScript
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/21)
-
 
 
 ### 实现链式调用
@@ -181,16 +107,6 @@ https://graphics.stanford.edu/~seander/bithacks.html
 
 
 
-### 如何封装 node 中间件
-
-公司：滴滴、酷狗
-
-分类：Node
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/27)
-
-
-
 ### node 中间层怎样做的请求合并转发
 
 公司：易车
@@ -236,27 +152,6 @@ Promise.all = function (arr) {
 [答案&解析](https://github.com/lgwebdream/FE-Interview/issues/31)
 
 
-
-### redux-saga 和 mobx 的比较
-
-公司：掌门一对一
-
-分类：React
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/32)
-
-
-
-### 说一下 react-fiber
-
-公司：头条、滴滴、菜鸟网络、挖财、喜马拉雅
-
-分类：React
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/33)
-
-
-
 ### 手写发布订阅
 
 公司：滴滴、头条
@@ -284,16 +179,6 @@ Promise.all = function (arr) {
 分类：JavaScript
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview/issues/36)
-
-
-
-### 手写实现 Array.flat()
-
-公司：滴滴、快手、携程
-
-分类：JavaScript
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/242)
 
 
 
@@ -327,16 +212,6 @@ Promise.all = function (arr) {
 
 
 
-### Umi 和 dva 分别是干嘛用的？为什么会有 umi dva 的出现？使用起来有什么不方便的地方吗？
-
-公司：洋葱学院
-
-分类：其它
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/239)
-
-
-
 ### React 数据持久化有什么实践吗？
 
 公司：洋葱学院
@@ -344,16 +219,6 @@ Promise.all = function (arr) {
 分类：React
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview/issues/238)
-
-
-
-### 使用过 mobx mobx 和 redux 有什么区别？
-
-公司：洋葱学院
-
-分类：React
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/237)
 
 
 
@@ -411,14 +276,6 @@ function getResult(data,n,sum){
 
 
 
-### mysql 和 mongodb 区别
-
-分类：其它
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/233)
-
-
-
 ### V8 机制讲解
 
 分类：网络&安全
@@ -454,16 +311,6 @@ function getResult(data,n,sum){
 分类：工程化
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview/issues/229)
-
-
-
-### Css 如何画出一个扇形，动手实现下
-
-公司：头条
-
-分类：Css、编程题
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/228)
 
 
 
@@ -532,27 +379,6 @@ function getResult(data,n,sum){
 [答案&解析](https://github.com/lgwebdream/FE-Interview/issues/221)
 
 
-
-### React key 是干嘛用的 为什么要加？key 主要是解决哪一类问题的
-
-公司：滴滴、挖财
-
-分类：React
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/220)
-
-
-
-### Redux 中异步的请求怎么处理
-
-公司：滴滴
-
-分类：React
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/219)
-
-
-
 ### CDN 是什么？描述下 CDN 原理？为什么要用 CDN?
 
 公司：头条、滴滴、网易
@@ -580,26 +406,6 @@ function getResult(data,n,sum){
 分类：工程化
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview/issues/216)
-
-
-
-### es5 实现 isInteger
-
-公司：头条
-
-分类：JavaScript
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/215)
-
-
-
-### 单向链表实现队列
-
-公司：头条
-
-分类：算法
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/214)
 
 
 
@@ -709,27 +515,6 @@ new new Foo().getName(); // ？
 [答案&解析](https://github.com/lgwebdream/FE-Interview/issues/208)
 
 
-
-### 说一下 Vue 的 keep-alive 是如何实现的，具体缓存的是什么？
-
-公司：快手
-
-分类：Vue
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/207)
-
-
-
-### Redux 和 Vuex 有什么区别，说下一它们的共同思想
-
-公司：快手
-
-分类：React、Vue
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/206)
-
-
-
 ### 谈一下微信小程序的架构以及为什么要用到双线程
 
 公司：快手
@@ -805,16 +590,6 @@ new new Foo().getName(); // ？
 分类：JavaScript
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview/issues/198)
-
-
-
-### var、let、const 的区别
-
-公司：伴鱼、百分点、心娱
-
-分类：JavaScript
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/197)
 
 
 
