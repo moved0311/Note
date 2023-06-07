@@ -18,3 +18,4 @@
 * [ ] [Courses](https://neetcode.io/courses)
 * [Top GitHub repositories to learn modern React development | Livecycle](https://livecycle.io/blogs/top-react-github-projects/)
 * [kettanaito/naming-cheatsheet: Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.](https://github.com/kettanaito/naming-cheatsheet)
+* [SunWeb3Sec/DeFiHackLabs: Reproduce DeFi hacked incidents using Foundry.](https://github.com/SunWeb3Sec/DeFiHackLabs)
