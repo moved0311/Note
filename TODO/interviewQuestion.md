@@ -668,16 +668,6 @@ new new Foo().getName(); // ？
 
 
 
-### 从输入 URL 到页面加载全过程
-
-公司：头条、边锋、菜鸟网络、爱范儿、心娱
-
-分类：网络&安全
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/186)
-
-
-
 ### 请实现如下的函数
 
 ```js
@@ -689,16 +679,6 @@ new new Foo().getName(); // ？
 分类：JavaScript、编程题
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview/issues/185)
-
-
-
-### DNS 解析的具体过程
-
-公司：边锋、寺库
-
-分类：网络&安全
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/184)
 
 
 
@@ -789,16 +769,6 @@ new new Foo().getName(); // ？
 分类：JavaScript
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview/issues/175)
-
-
-
-### 说一下 get、post、put 的区别
-
-公司：边锋、虎扑、酷家乐、酷狗、安居客
-
-分类：JavaScript
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/174)
 
 
 
