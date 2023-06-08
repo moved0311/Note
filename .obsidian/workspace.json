@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-05-30.md",
+                "file": "鉅亨網/新聞專案改版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-05-30.md",
+                "file": "鉅亨網/新聞專案改版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-05-30.md"
+                "file": "鉅亨網/新聞專案改版.md"
               }
             }
           }
@@ -179,8 +180,12 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "098330d3af2c097a",
+  "active": "0c19ad0c74e6ebc4",
   "lastOpenFiles": [
+    "Shell/Shell.md",
+    "Shell",
+    "Daily/2023-05-30.md",
+    "鉅亨網/新聞專案改版.md",
     "News/2023-06-08.md",
     "Stocks/6670/6670.md",
     "Stocks/6670",
@@ -188,7 +193,6 @@
     "News/2023-06-07.md",
     "LeetCode/Array/861.score-after-flipping-matrix.ts",
     "TODO/LeetCode.md",
-    "Daily/2023-05-30.md",
     "LeetCode/861.score-after-flipping-matrix.ts",
     "TODO/Cracking The CodeInterview/Ch5/__test__/5.3.test.js",
     "TODO/Cracking The CodeInterview/Ch5/__test__/5.2.test.js",
@@ -196,10 +200,8 @@
     "TODO/Cracking The CodeInterview/Ch5/__test__",
     "TODO/Cracking The CodeInterview/Ch5/5.4.ts",
     "TODO/Cracking The CodeInterview/Ch5/5.3.js",
-    "TODO/Cracking The CodeInterview/Ch5/5.3(bruteforce).js",
     "TODO/Cracking The CodeInterview/CrackingTheCodeInterview.md",
     "TODO/Coding Interview University/CodingInterviewUniversity.md",
-    "鉅亨網/新聞專案改版.md",
     "TODO/Read Queue.md",
     "TODO/interviewQuestion.md",
     "TODO/Course.md",
@@ -218,7 +220,6 @@
     "News/2023-06-01.md",
     "Stocks.md",
     "Stocks/5483/5483.md",
-    "Docker/Docker.md",
     "Stocks/手機/IDC2023Q1手機出貨量.png",
     "鉅亨網/whenToUseServerAndClientComponents.png",
     "Stocks/2454/GS_revenue_mix_segment.png",
