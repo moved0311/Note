@@ -3,27 +3,27 @@
 ## 演算法
 - [Rohit Verma – Medium](https://medium.com/@rohitverma_87831)
 
-##  個人
-*  [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)  2023-03-31                                    
-*  [Hannah Lin – Medium](https://hannahlin.medium.com/) 2023-03-21
-*  [Felix Chern – Medium](https://medium.com/@fchern)  (關於變強這檔事) 2023-03-12
+## 個人
+* [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)  2023-03-31                                    
+* [Hannah Lin – Medium](https://hannahlin.medium.com/) 2023-03-21
+* [Felix Chern – Medium](https://medium.com/@fchern)  (關於變強這檔事) 2023-03-12
 * [vgod's blog – Medium](https://vgod.medium.com/) 2023-02-26
 * [Developer way - Nadia](https://www.developerway.com/) (React) 2023-02-14
-*  [Robert-Jan Kuyper – Medium](https://medium.com/@datails)  2023-02-17  
-*  [Netflix Technology Blog – Medium](https://netflixtechblog.medium.com/)  2023-01-31  
-*  [Complete Think](https://rickhw.github.io/) 2023-01-17
-*  [Blog PJCHENder 未整理筆記](https://pjchender.dev/blog/)  2022-12-10 
-*  [Addy Osmani – Medium](https://medium.com/@addyosmani)  2022-11-20 
-*  [Addy Osmani](https://web.dev/authors/addyosmani/)  2022-10-20 
-*  [Rida F'kih – Medium](https://medium.com/@ridafkih)  2022-10-20 
-*  [Jason's Web Memo](https://jason-memo.dev/) 2022-10-12                                          
-*  [Harshal Patil – Medium](https://medium.com/@mistyHarsh) 2022-09-18
+* [Robert-Jan Kuyper – Medium](https://medium.com/@datails)  2023-02-17  
+* [Netflix Technology Blog – Medium](https://netflixtechblog.medium.com/)  2023-01-31  
+* [Complete Think](https://rickhw.github.io/) 2023-01-17
+* [Blog PJCHENder 未整理筆記](https://pjchender.dev/blog/)  2022-12-10 
+* [Addy Osmani – Medium](https://medium.com/@addyosmani)  2022-11-20 
+* [Addy Osmani](https://web.dev/authors/addyosmani/)  2022-10-20 
+* [Rida F'kih – Medium](https://medium.com/@ridafkih)  2022-10-20 
+* [Jason's Web Memo](https://jason-memo.dev/) 2022-10-12
+* [Harshal Patil – Medium](https://medium.com/@mistyHarsh) 2022-09-18
 * [Morris' Blog](https://morris821028.github.io/) 2022-06-20
-*  [TechBridge 技術共筆部落格](https://blog.techbridge.cc/)  2021-08-08  
-*  [Blog —— Bugtender](https://bugtender.com/blog/) 2022-01-31                                  
-*  [Kai Hao](https://kaihao.dev/) (Dcard Clone) 2022-01-08
-*  [Huli’s blog – Medium](https://medium.com/hulis-blog) 2019-05-29                               
-*  [Rob Dodson – Medium](https://medium.com/@robdodson)  2019-01-14 
+* [TechBridge 技術共筆部落格](https://blog.techbridge.cc/)  2021-08-08  
+* [Blog —— Bugtender](https://bugtender.com/blog/) 2022-01-31
+* [Kai Hao](https://kaihao.dev/) (Dcard Clone) 2022-01-08
+* [Huli’s blog – Medium](https://medium.com/hulis-blog) 2019-05-29
+* [Rob Dodson – Medium](https://medium.com/@robdodson)  2019-01-14 
 
 ## News
 * [Newsletter | This Week In React](https://thisweekinreact.com/newsletter) 2023-04-11
@@ -55,10 +55,10 @@
 * [The Airbnb Tech Blog – Medium](https://medium.com/airbnb-engineering)
 * [Coursera Blog | Online learning news for learners, educators, & employers](https://blog.coursera.org/)
 * [Upvoted | The Official Reddit Blog](https://www.redditinc.com/blog)
-*  [DEV Community](https://dev.to/)
-*  [BuzzFeed Tech](https://tech.buzzfeed.com/)
+* [DEV Community](https://dev.to/)
+* [BuzzFeed Tech](https://tech.buzzfeed.com/)
 * [Newsroom & Press Center | Canva](https://www.canva.com/newsroom/news/)
 * [BBC Product & Technology – Medium](https://medium.com/bbc-product-technology)
 * [Lyft Engineering](https://eng.lyft.com/)
-*  [Discord Blog](https://discord.com/blog)                                                 
-*  [trivago tech blog](https://tech.trivago.com/)                                          
+* [Discord Blog](https://discord.com/blog)                                                 
+* [trivago tech blog](https://tech.trivago.com/)                                          
