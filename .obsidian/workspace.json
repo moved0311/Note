@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "77da09aa85f518de",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
+          },
+          {
             "id": "3c4823ac8393b02c",
             "type": "leaf",
             "state": {
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,7 +190,7 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "0c19ad0c74e6ebc4",
+  "active": "77da09aa85f518de",
   "lastOpenFiles": [
     "News/2023-06-09.md",
     "Daily/2023-05-30.md",
