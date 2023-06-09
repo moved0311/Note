@@ -7,6 +7,7 @@
     * 變數作用域可以在JOB中,所有JOB或是綁在Gitlab環境變數上
   * [為你自己學 GitLab CI/CD Day 11 - 在本機的 GitLab Runner - YouTube](https://www.youtube.com/watch?v=wRXBztn6OkE)
     * 用自己本地的shell註冊為gitlab runner
+    * gitlab.yml中的tag可以指定要使用哪一個runner，預設是使用gitlab提供的
 
 ## Nx
 * [Setting up GitLab | Nx](https://nx.dev/recipes/ci/monorepo-ci-gitlab)
