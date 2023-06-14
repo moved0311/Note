@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-05-30.md",
+                "file": "Daily/2023-06-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md",
+                "file": "Daily/2023-06-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md",
+                "file": "Daily/2023-06-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md"
+                "file": "Daily/2023-06-13.md"
               }
             }
           }
@@ -180,10 +179,11 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "0c19ad0c74e6ebc4",
+  "active": "0956f11c313356e2",
   "lastOpenFiles": [
-    "Daily/2023-05-30.md",
     "鉅亨網/新聞專案改版.md",
+    "Daily/2023-06-13.md",
+    "Daily/2023-05-30.md",
     "TODO/LeetCode.md",
     "News/2023-06-13.md",
     "News/2023-06-12.md",
@@ -218,7 +218,6 @@
     "News/2023/2023-05-29.md",
     "Books/已讀/從0到1.md",
     "Books/從0到1.md",
-    "News/2023-06-06.md",
     "未命名 1.canvas",
     "Stocks/手機/IDC2023Q1手機出貨量.png",
     "鉅亨網/whenToUseServerAndClientComponents.png",
