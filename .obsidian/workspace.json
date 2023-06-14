@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-06-13.md",
+                "file": "鉅亨網/新聞專案改版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-06-13.md",
+                "file": "鉅亨網/新聞專案改版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-06-13.md"
+                "file": "鉅亨網/新聞專案改版.md"
               }
             }
           }
@@ -179,10 +180,10 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "0956f11c313356e2",
+  "active": "0c19ad0c74e6ebc4",
   "lastOpenFiles": [
-    "鉅亨網/新聞專案改版.md",
     "Daily/2023-06-13.md",
+    "鉅亨網/新聞專案改版.md",
     "Daily/2023-05-30.md",
     "TODO/LeetCode.md",
     "News/2023-06-13.md",
