@@ -10,7 +10,6 @@
 * [ ] [How to Learn JavaScript Effectively – Tips and Learning Strategies](https://www.freecodecamp.org/news/how-to-learn-javascript-effectively/)
 * [ ] [資料結構與演算法：LRU 快取機制 - Joseph's blog](https://josephjsf2.github.io/data/structure/and/algorithm/2020/05/09/LRU.html)
 * [ ] [Top 10 Git Commands Every Developer Should Know](https://blog.greenroots.info/top-10-git-commands-every-developer-should-know)
-* [ ] [Best practices for creating a modern npm package | Snyk](https://snyk.io/blog/best-practices-create-modern-npm-package/)
 * [ ]  [(10) GitLab NPM Registry Demo - YouTube](https://www.youtube.com/watch?v=yvLxtkvsFDA)
 * [ ] [How We Build Micro Frontends. Building micro-frontends to speed up… | by Jonathan Saring | Bits and Pieces](https://blog.bitsrc.io/how-we-build-micro-front-ends-d3eeeac0acfc)
 * [ ] [How we Build a Component Design System | Bits and Pieces](https://blog.bitsrc.io/how-we-build-our-design-system-15713a1f1833)
