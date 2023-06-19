@@ -18,5 +18,7 @@
 * [Top GitHub repositories to learn modern React development | Livecycle](https://livecycle.io/blogs/top-react-github-projects/)
 * [kettanaito/naming-cheatsheet: Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.](https://github.com/kettanaito/naming-cheatsheet)
 * [SunWeb3Sec/DeFiHackLabs: Reproduce DeFi hacked incidents using Foundry.](https://github.com/SunWeb3Sec/DeFiHackLabs)
+* [React 開發者一定要知道的底層機制 — React Fiber Reconciler | by 莫力全 Kyle Mo | Starbugs Weekly 星巴哥技術專欄 | Medium](https://medium.com/starbugs/react-%E9%96%8B%E7%99%BC%E8%80%85%E4%B8%80%E5%AE%9A%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E5%BA%95%E5%B1%A4%E6%9E%B6%E6%A7%8B-react-fiber-c3ccd3b047a1)
+
 ## 看到一半
 * [Next.js 13 Full Course 2023 ](https://youtu.be/wm5gMKuwSYk?t=3142)
