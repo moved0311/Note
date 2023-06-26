@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/Read.md",
+                "file": "Daily/2023-06-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/Read.md",
+                "file": "Daily/2023-06-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/Read.md"
+                "file": "Daily/2023-06-26.md"
               }
             }
           }
@@ -168,11 +167,11 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "aa218bc75f770888",
+  "active": "3dc2422bf944ccf5",
   "lastOpenFiles": [
+    "TODO/Read.md",
     "Daily/2023-06-26.md",
     "Daily/2023-06-13.md",
-    "TODO/Read.md",
     "LearnEnglish/Coursera - English for Career Development/English for Career Development.md",
     "LearnEnglish/方式.md",
     "LearnEnglish/單字.md",
