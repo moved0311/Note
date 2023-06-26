@@ -1,14 +1,16 @@
-[The Airbnb Tech Blog – Medium](https://medium.com/airbnb-engineering)
+## React
+* [Developer way - Nadia](https://www.developerway.com/) (React)
+	* [Teleportation in React: Positioning, Stacking Context, and Portals](https://www.developerway.com/posts/positioning-and-portals-in-react) 2023-06-21
+		* Sticky屬性沒辦法被position,z-index蓋過去
 
 ## 演算法
 - [Rohit Verma – Medium](https://medium.com/@rohitverma_87831)
 
 ## 個人
-* [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)  2023-03-31                                    
+* [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)  2023-03-31
 * [Hannah Lin – Medium](https://hannahlin.medium.com/) 2023-03-21
 * [Felix Chern – Medium](https://medium.com/@fchern)  (關於變強這檔事) 2023-03-12
 * [vgod's blog – Medium](https://vgod.medium.com/) 2023-02-26
-* [Developer way - Nadia](https://www.developerway.com/) (React) 2023-02-14
 * [Robert-Jan Kuyper – Medium](https://medium.com/@datails)  2023-02-17  
 * [Netflix Technology Blog – Medium](https://netflixtechblog.medium.com/)  2023-01-31  
 * [Complete Think](https://rickhw.github.io/) 2023-01-17
@@ -19,7 +21,6 @@
 * [Jason's Web Memo](https://jason-memo.dev/) 2022-10-12
 * [Harshal Patil – Medium](https://medium.com/@mistyHarsh) 2022-09-18
 * [Morris' Blog](https://morris821028.github.io/) 2022-06-20
-* [TechBridge 技術共筆部落格](https://blog.techbridge.cc/)  2021-08-08  
 * [Blog —— Bugtender](https://bugtender.com/blog/) 2022-01-31
 * [Kai Hao](https://kaihao.dev/) (Dcard Clone) 2022-01-08
 * [Huli’s blog – Medium](https://medium.com/hulis-blog) 2019-05-29
@@ -29,11 +30,12 @@
 * [Newsletter | This Week In React](https://thisweekinreact.com/newsletter) 2023-04-11
 
 ## 公司
+* [The Airbnb Tech Blog – Medium](https://medium.com/airbnb-engineering)
 * [The GitHub Blog: Engineering News and Updates](https://github.blog/category/engineering/) 2023-04-05
 * [Engineering at Meta](https://engineering.fb.com/) 2023-03-09
 * [Dcard Tech – Medium](https://dcardlab.medium.com/) 2022-10-26
 * [Heroku Blog - Engineering | Heroku](https://blog.heroku.com/engineering) 2022-01-19
-* [AWS 部落格](https://aws.amazon.com/blogs/?awsf.blog-master-category=*all&awsf.blog-master-learning-levels=*all&awsf.blog-master-industry=*all&awsf.blog-master-analytics-products=*all&awsf.blog-master-artificial-intelligence=*all&awsf.blog-master-aws-cloud-financial-management=*all&awsf.blog-master-blockchain=*all&awsf.blog-master-business-applications=*all&awsf.blog-master-compute=*all&awsf.blog-master-customer-enablement=*all&awsf.blog-master-customer-engagement=*all&awsf.blog-master-database=*all&awsf.blog-master-developer-tools=*all&awsf.blog-master-devops=*all&awsf.blog-master-end-user-computing=*all&awsf.blog-master-mobile=*all&awsf.blog-master-iot=*all&awsf.blog-master-management-governance=*all&awsf.blog-master-media-services=*all&awsf.blog-master-migration-transfer=*all&awsf.blog-master-migration-solutions=*all&awsf.blog-master-networking-content-delivery=*all&awsf.blog-master-programming-language=*all&awsf.blog-master-sector=*all&awsf.blog-master-security=*all&awsf.blog-master-storage=*all)
+* [AWS 部落格](https://aws.amazon.com/tw/blogs/)
 * [Azure Blog and Updates | Microsoft Azure](https://azure.microsoft.com/en-us/blog/)
 * [Google Developers Blog](https://developers.googleblog.com/)
 * [Netflix TechBlog](https://netflixtechblog.com/)
