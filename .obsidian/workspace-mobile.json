@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "99acfc6e1d995547",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/從0到1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Books/從0到1.md",
+            "file": "Books/孫主任的經濟筆記.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Books/從0到1.md",
+            "file": "Books/孫主任的經濟筆記.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Books/從0到1.md"
+            "file": "Books/孫主任的經濟筆記.md"
           }
         }
       }
@@ -144,17 +131,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99acfc6e1d995547",
+  "active": "cd4ba3b45e545c32",
   "lastOpenFiles": [
+    "Books/待讀.md",
+    "Books/從0到1.md",
+    "學英文/單字.md",
+    "TODO/Cracking The CodeInterview/Ch5/__test__/5.3.test.js",
+    "TODO/Cracking The CodeInterview/Ch5/__test__/5.2.test.js",
+    "TODO/Cracking The CodeInterview/Ch5/__test__/5.1.test.js",
+    "TODO/Cracking The CodeInterview/Ch5/__test__",
+    "TODO/Cracking The CodeInterview/Ch5/5.4.ts",
+    "TODO/Cracking The CodeInterview/Ch5/5.3.js",
+    "TODO/Cracking The CodeInterview/Ch5/5.3(bruteforce).js",
+    "TODO/Cracking The CodeInterview/Ch5/5.2.js",
+    "TODO/Cracking The CodeInterview/Ch5/5.1.js",
+    "TODO/Cracking The CodeInterview/Ch1/1.9.test.js",
+    "TODO/Cracking The CodeInterview/CrackingTheCodeInterview.md",
+    "TODO/Coding Interview University/CodingInterviewUniversity.md",
+    "News/2023/2023-06-05.md",
+    "News/2023/2023-06-01.md",
+    "News/2023/2023-05-31.md",
+    "News/2023/2023-05-30.md",
+    "News/2023/2023-05-29.md",
+    "News/2023-06-06.md",
+    "Books/已讀/從0到1.md",
     "健康/營養素.md",
-    "健康",
     "TODO/interviewQuestion.md",
     "TODO/Read Queue.md",
     "Stocks/手機/手機.md",
     "Stocks/手機/IDC2023Q1手機出貨量.png",
-    "Stocks/手機",
     "Stocks/2330/2330.md",
-    "Stocks/2330",
     "Stocks.md",
     "News/2023/2023-05-26.md",
     "News/2023/2023-05-25.md",
@@ -163,23 +169,6 @@
     "News/2023-05-31.md",
     "News/2023-05-30.md",
     "News/2023-05-29.md",
-    "Docker/Docker.md",
-    "Docker",
-    "Daily/2023-05-30.md",
-    "Books/Street Coder/Street Coder.md",
-    "Books/Street Coder",
-    "歷史/時間軸.md",
-    "Books/從0到1.md",
-    "Books/孫主任的經濟筆記.md",
-    "Books/華盛頓商學院最受歡迎的談判課.md",
-    "Stocks/2454/2454.md",
-    "Stocks/晶圓.md",
-    "Stocks/手機.md",
-    "Stocks/2454",
-    "LeetCode/JS/Curry.md",
-    "LeetCode/JS",
-    "LeetCode/Hash Table/890.find-and-replace-pattern.ts",
-    "LeetCode/Hash Table",
-    "Books"
+    "Docker/Docker.md"
   ]
 }
