@@ -1,7 +1,13 @@
+## Web
+* [Dev - Sebastien Lorber](https://dev.to/sebastienlorber)
+
 ## React
 * [Developer way - Nadia](https://www.developerway.com/) (React)
-	* [Teleportation in React: Positioning, Stacking Context, and Portals](https://www.developerway.com/posts/positioning-and-portals-in-react) 2023-06-21
+	* [Teleportation in React: Positioning, Stacking Context, and Portals](https://www.developerway.com/posts/positioning-and-portals-in-react) 20230621
 		* Sticky屬性沒辦法被position,z-index蓋過去
+
+## [Airbnb](https://medium.com/airbnb-engineering)
+* [Airbnb's Trip to Linaria | The Airbnb Tech Blog](https://medium.com/airbnb-engineering/airbnbs-trip-to-linaria-dc169230bd12) 20220617
 
 ## 演算法
 - [Rohit Verma – Medium](https://medium.com/@rohitverma_87831)
@@ -30,7 +36,6 @@
 * [Newsletter | This Week In React](https://thisweekinreact.com/newsletter) 2023-04-11
 
 ## 公司
-* [The Airbnb Tech Blog – Medium](https://medium.com/airbnb-engineering)
 * [The GitHub Blog: Engineering News and Updates](https://github.blog/category/engineering/) 2023-04-05
 * [Engineering at Meta](https://engineering.fb.com/) 2023-03-09
 * [Dcard Tech – Medium](https://dcardlab.medium.com/) 2022-10-26
