@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AD/google ad.md",
+                "file": "Daily/2023-06-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AD/google ad.md",
+                "file": "Daily/2023-06-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AD/google ad.md"
+                "file": "Daily/2023-06-26.md"
               }
             }
           }
@@ -180,8 +179,10 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "020612c10a1563ad",
+  "active": "3dc2422bf944ccf5",
   "lastOpenFiles": [
+    "AD/google ad.md",
+    "News/2023-06-30.md",
     "Daily/2023-06-26.md",
     "TODO/Read.md",
     "News/2023-06-29.md",
@@ -211,8 +212,6 @@
     "News/2023-06-21.md",
     "JavaScript/二維陣列.md",
     "News/2023-06-20.md",
-    "TODO/LeetCode.md",
-    "News/2023-06-19.md",
     "LeetCode/String",
     "Git",
     "CICD",
