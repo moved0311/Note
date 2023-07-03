@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/Read.md",
+                "file": "GoogleSheet/GoogleSheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/Read.md",
+                "file": "GoogleSheet/GoogleSheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/Read.md",
+                "file": "GoogleSheet/GoogleSheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/Read.md"
+                "file": "GoogleSheet/GoogleSheet.md"
               }
             }
           }
@@ -157,13 +157,13 @@
   },
   "active": "d59ca656fd73456e",
   "lastOpenFiles": [
+    "TODO/Read.md",
     "AD/google ad.md",
     "GoogleSheet/GoogleSheet.md",
     "Daily/2023-06-26.md",
     "GoogleSheet",
     "News/2023-07-03.md",
     "News/2023-06-30.md",
-    "TODO/Read.md",
     "News/2023-06-29.md",
     "LearnEnglish/words.md",
     "News/2023-06-28.md",
