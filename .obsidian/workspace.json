@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md",
+                "file": "Interview/回答.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md",
+                "file": "Interview/回答.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md",
+                "file": "Interview/回答.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md"
+                "file": "Interview/回答.md"
               }
             }
           }
@@ -169,11 +169,13 @@
   },
   "active": "d59ca656fd73456e",
   "lastOpenFiles": [
+    "Interview/問題.md",
+    "Interview/回答.md",
+    "鉅亨網/新聞專案改版.md",
     "Docker/Docker.md",
     "CICD/CICD.md",
     "Daily/2023-06-26.md",
     "News/2023-07-04.md",
-    "鉅亨網/新聞專案改版.md",
     "GoogleSheet/GoogleSheet.md",
     "TODO/Read.md",
     "AD/google ad.md",
@@ -198,9 +200,7 @@
     "學英文/writeSentence.sh",
     "學英文/句子.md",
     "News/2023/2023-06-21.md",
-    "News/2023-06-26.md",
     "Storybook",
-    "News/2023/2023-06-20.md",
     "LeetCode/String",
     "Git",
     "CICD",
