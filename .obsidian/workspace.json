@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bad8064de50454dc",
+        "id": "0b9a364b54ba7421",
         "type": "tabs",
         "children": [
           {
-            "id": "ae7e166960089ac0",
+            "id": "c237e13d0d077769",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,8 +147,12 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "0956f11c313356e2",
+  "active": "c237e13d0d077769",
   "lastOpenFiles": [
+    "Cache/LRU(Least Recently Used Cache).md",
+    "Cache",
+    "TODO/Read Queue.md",
+    "Docker/Reference.md",
     "Interview/3. 後續想了解問題/同事相關.md",
     "Interview/問題.md",
     "Interview/3. 後續想了解問題/一天上班流程.md",
@@ -177,14 +181,10 @@
     "CICD/CICD.md",
     "News/2023-07-04.md",
     "GoogleSheet/GoogleSheet.md",
-    "TODO/Read.md",
-    "AD/google ad.md",
     "GoogleSheet",
-    "News/2023-07-03.md",
     "LearnEnglish/writeSentence.sh",
     "LearnEnglish/Coursera - English for Career Development",
     "LearnEnglish",
-    "學英文/writeSentence.sh",
     "未命名.canvas",
     "未命名 1.canvas",
     "Stocks/手機/IDC2023Q1手機出貨量.png",
