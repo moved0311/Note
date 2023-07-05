@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ee48d02ec1588e0b",
+        "id": "bad8064de50454dc",
         "type": "tabs",
         "children": [
           {
-            "id": "d59ca656fd73456e",
+            "id": "ae7e166960089ac0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview/回答.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ad60d522c6c4dde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2023-06-26.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 224.50390243530273
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -106,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-06-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-06-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/2023-06-26.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -168,44 +147,44 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "8ad60d522c6c4dde",
+  "active": "0956f11c313356e2",
   "lastOpenFiles": [
+    "Interview/3. 後續想了解問題/同事相關.md",
+    "Interview/問題.md",
+    "Interview/3. 後續想了解問題/一天上班流程.md",
+    "Interview/2. 專業問題/開發流程.md",
+    "Interview/3. 後續想了解問題/公司賺錢嗎.md",
+    "Interview/3. 後續想了解問題",
+    "Interview/1. 基本問題/未來規劃.md",
+    "Interview/2. 專業問題",
+    "Interview/1. 基本問題.md",
+    "Interview/1. 基本問題/優點與缺點.md",
+    "Interview/1. 基本問題/最大成就與挫折經驗.md",
+    "Interview/1. 基本問題/離職原因.md",
+    "Interview/1. 基本問題/能有什麼貢獻.md",
+    "Interview/1. 基本問題/為什麼想應徵職位公司.md",
+    "Interview/1. 基本問題/自我介紹.md",
+    "Interview/1. 基本問題",
+    "歷史/時間軸.md",
+    "Daily/2023-06-26.md",
     "Stocks/高爾夫球/產業.md",
     "Stocks/高爾夫球/6670/6670.md",
     "Stocks/高爾夫球/6670",
     "Stocks/高爾夫球",
     "Docker/Docker.md",
-    "Interview/回答.md",
     "News/2023-07-05.md",
-    "Interview/問題.md",
     "鉅亨網/新聞專案改版.md",
     "CICD/CICD.md",
-    "Daily/2023-06-26.md",
     "News/2023-07-04.md",
     "GoogleSheet/GoogleSheet.md",
     "TODO/Read.md",
     "AD/google ad.md",
     "GoogleSheet",
     "News/2023-07-03.md",
-    "News/2023-06-30.md",
-    "News/2023-06-29.md",
-    "LearnEnglish/words.md",
-    "News/2023-06-28.md",
-    "News/2023-06-27.md",
-    "Daily/2023/2023-06-13.md",
-    "LearnEnglish/Coursera - English for Career Development/English for Career Development.md",
-    "LearnEnglish/方式.md",
-    "LearnEnglish/單字.md",
-    "LearnEnglish/句子.md",
     "LearnEnglish/writeSentence.sh",
     "LearnEnglish/Coursera - English for Career Development",
     "LearnEnglish",
-    "Storybook/Storybook.md",
-    "Daily/2023/2023-05-30.md",
     "學英文/writeSentence.sh",
-    "Storybook",
-    "LeetCode/String",
-    "Git",
     "未命名.canvas",
     "未命名 1.canvas",
     "Stocks/手機/IDC2023Q1手機出貨量.png",
