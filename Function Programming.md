@@ -1,2 +1,0 @@
-* [7 Functional Programming Techniques for JavaScript Developers](https://www.syncfusion.com/blogs/post/7-functional-programming-techniques-for-javascript-developers.aspx?utm_campaign=frontend+weekly&utm_medium=web&utm_source=frontend_weekly_342)
-* 
