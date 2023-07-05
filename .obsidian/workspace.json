@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Docker.md",
+                "file": "Daily/2023-06-26.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/回答.md",
+                "file": "Daily/2023-06-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/回答.md",
+                "file": "Daily/2023-06-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/回答.md"
+                "file": "Daily/2023-06-26.md"
               }
             }
           }
@@ -167,13 +168,17 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "d59ca656fd73456e",
+  "active": "8ad60d522c6c4dde",
   "lastOpenFiles": [
+    "Stocks/高爾夫球/產業.md",
+    "Stocks/高爾夫球/6670/6670.md",
+    "Stocks/高爾夫球/6670",
+    "Stocks/高爾夫球",
+    "Docker/Docker.md",
+    "Interview/回答.md",
     "News/2023-07-05.md",
     "Interview/問題.md",
-    "Interview/回答.md",
     "鉅亨網/新聞專案改版.md",
-    "Docker/Docker.md",
     "CICD/CICD.md",
     "Daily/2023-06-26.md",
     "News/2023-07-04.md",
@@ -197,14 +202,10 @@
     "LearnEnglish",
     "Storybook/Storybook.md",
     "Daily/2023/2023-05-30.md",
-    "TODO/CodingInterviewUniversity.md",
     "學英文/writeSentence.sh",
-    "學英文/句子.md",
     "Storybook",
     "LeetCode/String",
     "Git",
-    "CICD",
-    "Shell",
     "未命名.canvas",
     "未命名 1.canvas",
     "Stocks/手機/IDC2023Q1手機出貨量.png",
