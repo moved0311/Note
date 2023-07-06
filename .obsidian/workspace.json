@@ -11,8 +11,12 @@
             "id": "cd8208973cf33e30",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AD/google ad.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AD/google ad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AD/google ad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AD/google ad.md"
+              }
             }
           }
         ]
@@ -149,6 +157,7 @@
   },
   "active": "cd8208973cf33e30",
   "lastOpenFiles": [
+    "News/2023/2023-07-05.md",
     "Interview/3. 後續想了解問題/有什麼公司不習慣不能接受的事.md",
     "Daily/2023-06-26.md",
     "News/2023-07-06.md",
@@ -178,7 +187,6 @@
     "Interview/1. 基本問題/優點與缺點.md",
     "Interview/1. 基本問題/最大成就與挫折經驗.md",
     "Interview/1. 基本問題/離職原因.md",
-    "Interview/1. 基本問題/能有什麼貢獻.md",
     "Interview/1. 基本問題",
     "Stocks/高爾夫球/6670",
     "Stocks/高爾夫球",
