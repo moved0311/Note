@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9aa72644280264eb",
+        "id": "fa6e3326750cacd9",
         "type": "tabs",
         "children": [
           {
-            "id": "ed079efe1ab9be02",
+            "id": "cd8208973cf33e30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2023-06-26.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-06-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-06-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/2023-06-26.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,8 +147,10 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "ed079efe1ab9be02",
+  "active": "cd8208973cf33e30",
   "lastOpenFiles": [
+    "Interview/3. 後續想了解問題/有什麼公司不習慣不能接受的事.md",
+    "Daily/2023-06-26.md",
     "News/2023-07-06.md",
     "CodeReview/reference.md",
     "React/Deploy.md",
@@ -185,8 +179,6 @@
     "Interview/1. 基本問題/最大成就與挫折經驗.md",
     "Interview/1. 基本問題/離職原因.md",
     "Interview/1. 基本問題/能有什麼貢獻.md",
-    "Interview/1. 基本問題/為什麼想應徵職位公司.md",
-    "Interview/1. 基本問題/自我介紹.md",
     "Interview/1. 基本問題",
     "Stocks/高爾夫球/6670",
     "Stocks/高爾夫球",
