@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AD/google ad.md",
+                "file": "Daily/2023-06-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AD/google ad.md",
+                "file": "Daily/2023-06-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AD/google ad.md",
+                "file": "Daily/2023-06-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AD/google ad.md"
+                "file": "Daily/2023-06-26.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "cd8208973cf33e30",
   "lastOpenFiles": [
+    "AD/google ad.md",
     "News/2023/2023-07-06.md",
     "News/2023-07-07.md",
     "News/2023/2023-07-05.md",
@@ -186,7 +187,6 @@
     "Interview/1. 基本問題/未來規劃.md",
     "Interview/2. 專業問題",
     "Interview/1. 基本問題.md",
-    "Interview/1. 基本問題/優點與缺點.md",
     "Interview/1. 基本問題",
     "Stocks/高爾夫球/6670",
     "Stocks/高爾夫球",
