@@ -1,3 +1,0 @@
-## Server Actions
-
-在 Frontend 端可以觸發 Backend 端的 API, 例如以前的 Web form,可以將表單寫入後端 DB,但現在不侷限於 form 表單,按鈕也可以做到。

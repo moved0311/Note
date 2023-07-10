@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023/2023-03-20.md",
+                "file": "Daily/2023-06-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023/2023-03-20.md",
+                "file": "Daily/2023-06-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023/2023-03-20.md"
+                "file": "Daily/2023-06-26.md"
               }
             }
           }
@@ -180,13 +179,15 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "f3e8cc713ef049a6",
+  "active": "820c66b9729ecd9f",
   "lastOpenFiles": [
-    "NextJS/Next13/ServerActions",
-    "NextJS/Next13",
-    "鉅亨網/新聞專案改版.md",
     "Daily/2023/2023-03-20.md",
     "Daily/2023-06-26.md",
+    "鉅亨網/新聞專案改版.md",
+    "NextJS/Next13/ServerActions.md",
+    "NextJS/Next13/ISR.md",
+    "NextJS/Next13/ServerActions",
+    "NextJS/Next13",
     "News/2023-07-10.md",
     "Daily/2023/2023-04-10.md",
     "Daily/2023/2023-04-17.md",
@@ -208,7 +209,6 @@
     "CodeReview/reference.md",
     "React/Deploy.md",
     "Thrid Party Library/UI Library.md",
-    "Thrid Party Library/Search.md",
     "Rendering",
     "Cache",
     "Interview/3. 後續想了解問題",
@@ -217,7 +217,6 @@
     "Stocks/高爾夫球/6670",
     "Stocks/高爾夫球",
     "GoogleSheet",
-    "LearnEnglish/writeSentence.sh",
     "未命名.canvas",
     "未命名 1.canvas",
     "Stocks/手機/IDC2023Q1手機出貨量.png",
