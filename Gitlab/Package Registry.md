@@ -18,4 +18,15 @@ npmScopes:
     npmAuthToken: "${NPM_AUTH_TOKEN}"
 ```
 
+## package.json
+```json
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.cnyes.cool/share/fe-common-library.git"
+  },
+  "publishConfig": {
+    "@cnyes:registry": "https://gitlab.cnyes.cool/api/v4/projects/186/packages/npm/"
+  },
+```
+
 需要在Settings > Access Token建立NPM_AUTH_TOKEN
