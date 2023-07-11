@@ -1,29 +1,32 @@
+Doc: https://docs.gitlab.com/ee/user/packages/npm_registry/
+
 ## 開啟權限
 1. Open up your project’s **_Settings > General > Visibility, project features, permissions._**
 2. Enable the **packages feature** and click on Save Changes for the changes to take effect.
 
 ## gitlab.yml
 ```
-image: node:12.20.0
-stages:
-  - deploy
+# node8沒辦法推,這裡改用node12
+# doc: https://docs.gitlab.com/ee/user/packages/npm_registry/
 deploy:
-  stage: deploy
+  image: node:12.20.0
+  stage: deploy_to_gitlab_registry
   script:
-    - yarn publish
+    - GITLAB_AUTH_TOKEN=$NPM_AUTH_TOKEN npm publish
 ```
 
-## .yarnrc.yml
+## .npmrc
+
+需要在Settings > Access Token建立NPM_TOKEN
 ```
-npmScopes:
-  cnyes:
-    npmPublishRegistry: "${CI_API_V4_URL}/projects/${CI_PROJECT_ID}/packages/npm/"
-    npmAlwaysAuth: true
-    npmAuthToken: "${NPM_AUTH_TOKEN}"
+@cnyes:registry=https://gitlab.cnyes.cool/api/v4/projects/186/packages/npm/
+//gitlab.cnyes.cool/api/v4/projects/186/packages/npm/:_authToken=$NPM_TOKEN
 ```
 
 ## package.json
 ```json
+  "name": "@cnyes/fe-common-library",
+  "version": "1.1.221",
   "repository": {
     "type": "git",
     "url": "https://gitlab.cnyes.cool/share/fe-common-library.git"
@@ -31,11 +34,10 @@ npmScopes:
   "publishConfig": {
     "@cnyes:registry": "https://gitlab.cnyes.cool/api/v4/projects/186/packages/npm/"
   },
+    "files": [
+    "dest/",
+    "static/",
+    ".npmrc"
+  ]
 ```
 
-## .npmrc
-
-
-
-
-需要在Settings > Access Token建立NPM_AUTH_TOKEN
