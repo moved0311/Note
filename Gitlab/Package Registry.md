@@ -1,3 +1,7 @@
+## 開啟權限
+1. Open up your project’s **_Settings > General > Visibility, project features, permissions._**
+2. Enable the **packages feature** and click on Save Changes for the changes to take effect.
+
 ## gitlab.yml
 ```
 image: node:12.20.0
@@ -28,5 +32,10 @@ npmScopes:
     "@cnyes:registry": "https://gitlab.cnyes.cool/api/v4/projects/186/packages/npm/"
   },
 ```
+
+## .npmrc
+
+
+
 
 需要在Settings > Access Token建立NPM_AUTH_TOKEN
