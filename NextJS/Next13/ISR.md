@@ -16,6 +16,11 @@ ISR可以設定一個固定時間去重新產生頁面(revalidation)
 SSR：每一個request請求,SSR會針對每個請求在Server生成HTML頁面,回傳給使用者。
 ISR: 每隔一段時間會做revalidate,應該可以針對不同page設定？在這段期間內使用者看到的都是預先生成好的頁面,相同於SSG,但是可以針對單一頁面進行更新(重新編譯)
 
+[Next.js App Router: Routing, Data Fetching, Caching](https://www.youtube.com/watch?v=gSSsZReIFRk)
+API: http://worldtimeapi.org/api/timezone/Asia/Taipei
+可以用來測試ISR
+
+
 ## Reference
 * [Incremental Static Regeneration (ISR) in Next.js](https://blog.openreplay.com/incremental-static-regeneration-in-nextjs/)
 
