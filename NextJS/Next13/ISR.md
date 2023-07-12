@@ -1,8 +1,11 @@
 ## ISR (Icreamental Static Regeneration)
 
 ISR在SSR與SSG間取得平衡。SSR需要整頁重新產生, SSG則是產生固定內容就無法變動。
+傳統靜態頁面(SSG)在編譯時產生網站的所有頁面,有任何更動會將網站的所有頁面重新編譯
+
 ISR可以設定一個固定時間去重新產生頁面(revalidation)
-  * ISR能夠更新局部頁面,不用整個網頁重新build
+  * ISR能夠更新一個page,不用整個site都重新build
+  * 假設一個部落格站有10篇文章(page),在傳統SSG更新其中一篇文章,需要10篇都重新編譯。在ISR能夠做到只針對改動的文章做編譯,可以節省編譯時間又不會失去SSG的效能。
 
 之前在寫nextjs有getStaticProps就是一種ISR實作？
 * 之前在寫nextjs SSR部分有一些元件是要先被載入,例如新聞標題。就會在getStaticProps內先call api後直接傳到page內顯示，做到SSR效果。這就是一種ISR? 只是沒有固定一段時間就去call api。
