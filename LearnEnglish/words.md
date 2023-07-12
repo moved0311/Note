@@ -5,4 +5,4 @@
   * adv. at the same time/ concurrently
 * expeditious
 * adequate
-initiactive
+* initiactive
