@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "820c66b9729ecd9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gitlab/Package Registry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1b11fac43814f028",
             "type": "leaf",
             "state": {
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,19 +170,19 @@
   },
   "active": "be531e6292569cc4",
   "lastOpenFiles": [
+    "Daily/2023-07-10.md",
+    "鉅亨網/新聞專案改版.md",
+    "Gitlab/Package Registry.md",
     "React/VirtualDOM.md",
     "Interview/2. 專業問題/問題.md",
     "NextJS/Vercel.md",
     "Shell/crontab.md",
-    "Daily/2023-07-10.md",
-    "Daily/2023-06-26.md",
-    "鉅亨網/新聞專案改版.md",
+    "Daily/2023/2023-06-26.md",
     "News/2023/2023-07-11.md",
     "News/2023/2023-07-10.md",
     "News/2023/2023-07-07.md",
     "News/2023-07-12.md",
     "Git/Git.md",
-    "Gitlab/Package Registry.md",
     "News/2023-07-11.md",
     "Gitlab",
     "npm package.md",
