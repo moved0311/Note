@@ -12,5 +12,11 @@ ISR可以設定一個固定時間去重新產生頁面(revalidation)
 
 適合用在頻繁更新資料的頁面,如股市報價,成交資訊，聊天室。
 
+
+SSR：每一個request請求,SSR會針對每個請求在Server生成HTML頁面,回傳給使用者。
+ISR: 每隔一段時間會做revalidate,應該可以針對不同page設定？在這段期間內使用者看到的都是預先生成好的頁面,相同於SSG,但是可以針對單一頁面進行更新(重新編譯)
+
 ## Reference
 * [Incremental Static Regeneration (ISR) in Next.js](https://blog.openreplay.com/incremental-static-regeneration-in-nextjs/)
+
+
