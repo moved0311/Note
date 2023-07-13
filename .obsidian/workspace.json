@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md",
+                "file": "Daily/2023-07-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md",
+                "file": "Daily/2023-07-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md"
+                "file": "Daily/2023-07-10.md"
               }
             }
           }
@@ -168,12 +167,12 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "34f8a7fd40ca7e2b",
+  "active": "1b11fac43814f028",
   "lastOpenFiles": [
+    "鉅亨網/新聞專案改版.md",
     "Daily/2023-07-10.md",
     "News/2023-07-13-13:07.md",
     "Git/Git.md",
-    "鉅亨網/新聞專案改版.md",
     "News/2023-07-13-11:07.md",
     "News/123.md",
     "News/download1.sh",
