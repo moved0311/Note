@@ -16,3 +16,5 @@ do
     echo "* [$(date -r ${publishAt} +"%Y-%m-%d %T") $title]($baseUrl/$newsId)";
   done > "${now}.md"
 done
+
+code "${now}.md"

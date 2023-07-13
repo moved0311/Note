@@ -1,6 +1,623 @@
 [
   {
     "isOutsource": 0,
+    "content": "&lt;p&gt;美國 6 月消費者物價指數低於預期，通膨進入尾聲訊號現，激勵美股周三大漲，台股今 (13) 日多頭簇擁，權王台積電再度衝鋒領軍，AI 伺服器概念股一路狂飆，網通族群也一片火熱，不過尾盤隨著 AI 概念股翻黑，指數漲幅收斂，終場上漲 99.37 點，收 17061.4 點，重返萬七關卡、奪回月線，成交值暴增至 4648.11 億元。&lt;/p&gt;\n\n&lt;p&gt;觀察電子權值股表現，台積電 (2330-TW) 跳空大漲 1.21%，收 585 元，收復月線；鴻海 (2317-TW)、聯發科(2454-TW) 一路力守盤上，尾盤翻黑，鴻海小跌 0.47%，聯發科跌幅達 0.73%。台達電 (2308-TW) 漲逾 2%，研華 (2395-TW)、大立光(3008-TW) 漲幅都超過 1%。&lt;/p&gt;\n\n&lt;p&gt;AI 概念股盤中火力全開，尾盤部分個股翻黑或漲幅收斂，神達 (3706-TW)、威盛亮燈漲停，緯穎(6669-TW)、欣興(3037-TW)、創意(3443-TW)、穎崴(6515-TW) 飆漲超過 7%，英業達 (2356-TW)、緯創(3231-TW)、光寶科(2301-TW)、金像電(2368-TW) 同步大漲超過半根停板。&lt;/p&gt;\n\n&lt;p&gt;網通族群表現同樣火熱，仲琦強攻漲停，智邦大漲超過 4%，萬泰科漲幅超過 2%。散熱族群也活蹦亂跳，健策 (3653-TW)、奇鋐(3017-TW)、雙鴻(3324-TW) 同步站穩盤上。&lt;br&gt;\n&nbsp;&lt;/p&gt;\n",
+    "hasCoverPhoto": 1,
+    "isCategoryHeadline": 1,
+    "isIndex": 1,
+    "newsId": 5250475,
+    "otherProduct": [
+      "TWS:2330:STOCK:COMMON",
+      "TWS:3443:STOCK:COMMON",
+      "TWS:2308:STOCK:COMMON",
+      "TWS:2395:STOCK:COMMON",
+      "TWS:3008:STOCK:COMMON",
+      "TWS:3706:STOCK:COMMON",
+      "TWS:6669:STOCK:COMMON",
+      "TWS:3037:STOCK:COMMON",
+      "TWS:6515:STOCK:COMMON",
+      "TWS:2317:STOCK:COMMON",
+      "TWS:2356:STOCK:COMMON",
+      "TWS:3231:STOCK:COMMON",
+      "TWS:2301:STOCK:COMMON",
+      "TWS:2368:STOCK:COMMON",
+      "TWS:3653:STOCK:COMMON",
+      "TWS:3017:STOCK:COMMON",
+      "TWS:2454:STOCK:COMMON",
+      "TWS:3324:STOCK:COMMON"
+    ],
+    "payment": 0,
+    "source": "",
+    "stock": [
+      "2330",
+      "2317",
+      "2454",
+      "2308",
+      "2395",
+      "3008",
+      "3706",
+      "6669",
+      "3037",
+      "3443",
+      "6515",
+      "2356",
+      "3231",
+      "2301",
+      "2368",
+      "3653",
+      "3017",
+      "3324"
+    ],
+    "summary": "美國 6 月消費者物價指數低於預期，通膨進入尾聲訊號現，激勵美股周三大漲，台股今 (13) 日多頭簇擁，權王台積電再度衝鋒領軍，AI 伺服器概念股一路狂飆，網通族群也一片火熱，不過尾盤隨著 AI 概念股翻黑，指數漲幅收斂，終場上漲 99",
+    "title": "〈台股盤後〉AI概念股帶頭衝 漲近百點收17061點 放量重返月線",
+    "video": "",
+    "publishAt": 1689227336,
+    "coverSrc": {
+      "xs": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250475/xs/b85279520b6a069e316afdfe9e666e22.jpg",
+        "width": 100,
+        "height": 56
+      },
+      "s": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250475/s/b85279520b6a069e316afdfe9e666e22.jpg",
+        "width": 180,
+        "height": 101
+      },
+      "m": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250475/m/b85279520b6a069e316afdfe9e666e22.jpg",
+        "width": 380,
+        "height": 214
+      },
+      "l": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250475/l/b85279520b6a069e316afdfe9e666e22.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250475/xl/b85279520b6a069e316afdfe9e666e22.jpg",
+        "width": 960,
+        "height": 540
+      },
+      "xxl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250475/xxl/b85279520b6a069e316afdfe9e666e22.jpg",
+        "width": 1080,
+        "height": 608
+      }
+    },
+    "abTesting": null,
+    "categoryId": 829,
+    "columnists": null,
+    "magazine": null,
+    "fundCategoryAbbr": [],
+    "fbShare": 0,
+    "fbComment": 0,
+    "fbCommentPluginCount": 0,
+    "market": [
+      {
+        "code": "2330",
+        "name": "台積電",
+        "symbol": "TWS:2330:STOCK"
+      },
+      {
+        "code": "3443",
+        "name": "創意",
+        "symbol": "TWS:3443:STOCK"
+      },
+      {
+        "code": "2308",
+        "name": "台達電",
+        "symbol": "TWS:2308:STOCK"
+      },
+      {
+        "code": "2395",
+        "name": "研華",
+        "symbol": "TWS:2395:STOCK"
+      },
+      {
+        "code": "3008",
+        "name": "大立光",
+        "symbol": "TWS:3008:STOCK"
+      },
+      {
+        "code": "3706",
+        "name": "神達",
+        "symbol": "TWS:3706:STOCK"
+      },
+      {
+        "code": "6669",
+        "name": "緯穎",
+        "symbol": "TWS:6669:STOCK"
+      },
+      {
+        "code": "3037",
+        "name": "欣興",
+        "symbol": "TWS:3037:STOCK"
+      },
+      {
+        "code": "6515",
+        "name": "穎崴",
+        "symbol": "TWS:6515:STOCK"
+      },
+      {
+        "code": "2317",
+        "name": "鴻海",
+        "symbol": "TWS:2317:STOCK"
+      },
+      {
+        "code": "2356",
+        "name": "英業達",
+        "symbol": "TWS:2356:STOCK"
+      },
+      {
+        "code": "3231",
+        "name": "緯創",
+        "symbol": "TWS:3231:STOCK"
+      },
+      {
+        "code": "2301",
+        "name": "光寶科",
+        "symbol": "TWS:2301:STOCK"
+      },
+      {
+        "code": "2368",
+        "name": "金像電",
+        "symbol": "TWS:2368:STOCK"
+      },
+      {
+        "code": "3653",
+        "name": "健策",
+        "symbol": "TWS:3653:STOCK"
+      },
+      {
+        "code": "3017",
+        "name": "奇鋐",
+        "symbol": "TWS:3017:STOCK"
+      },
+      {
+        "code": "2454",
+        "name": "聯發科",
+        "symbol": "TWS:2454:STOCK"
+      },
+      {
+        "code": "3324",
+        "name": "雙鴻",
+        "symbol": "TWS:3324:STOCK"
+      }
+    ],
+    "categoryName": "台股盤勢"
+  },
+  {
+    "isOutsource": 0,
+    "content": "&lt;p&gt;輝達 (Nvidia)(NVDA-US) 將投資 5000 萬美元加速訓練生技公司 Recursion 用於藥物探索的人工智慧 (AI) 模型，也讓 AI 題材延燒到生技產業，激勵相關概念股飆漲，同樣是輝達醫療策略夥伴的醫揚 (6569-TW) 跳空漲停鎖住、醫療人工智能公司長佳智能 (6841-TW) 午盤也亮燈。&lt;/p&gt;\n\n&lt;p&gt;全球掀起 AI 風潮，而醫療市場中，雖然只有 10% 比重會使用到 AI 醫療設備，不過就潛在許多商機，主要多為影像分析等輔助型產品。&lt;/p&gt;\n\n&lt;p&gt;醫揚納入 NVIDIA 醫療設備供應商後，提供符合醫療安全規格的 AI 運算，同時開發出多項 AI 醫療產品，包含影像分析、醫療電腦、行動護理等，並獲得歐美等國際醫療業者採用，AI 醫療設備營收比重，也一舉攀升至近 1 成。&lt;/p&gt;\n\n&lt;p&gt;醫揚也因應海外客戶訂單增加，代工專案量倍數成長，今年建置全新自動化廠區，整體產能提升 1-1.5 倍，產能利用率也來到 9 成，目前也正在規劃將美國科技中心升級成系統組裝廠。&lt;/p&gt;\n\n&lt;p&gt;長佳智能是國內第一家定位於醫療人工智能的上櫃公司，主要業務包含醫療大數據、醫療人工智能、雲端生醫平台等三部分。近期與馬來西亞伊莉莎白二世醫院簽署合作備忘錄 (MOU)，提供該醫院心血管與胸腔相關等 7 項人工智能軟體服務。&lt;/p&gt;\n\n&lt;p&gt;雙方合作主要著眼於長佳智能具備美國食藥局 (FDA)、台灣衛福部食藥署 (TFDA)7 項心臟和胸腔手相關產品；伊莉莎白二世醫院預估，導入 7 項人工智能醫療軟體後，將可大幅加速醫院診斷過程，減少病患等待時間，並可增加醫院診斷容量。&lt;/p&gt;\n",
+    "hasCoverPhoto": 1,
+    "isCategoryHeadline": 1,
+    "isIndex": 1,
+    "newsId": 5250345,
+    "otherProduct": [
+      "TWS:6569:STOCK:COMMON",
+      "TWS:6841:STOCK:COMMON",
+      "TWG:6841:STOCK:COMMON",
+      "USS:NVDA:STOCK:COMMON"
+    ],
+    "payment": 0,
+    "source": "",
+    "stock": [
+      "6569",
+      "6841",
+      "US-NVDA"
+    ],
+    "summary": "輝達 (Nvidia)(NVDA-US) 將投資 5000 萬美元加速訓練生技公司 Recursion 用於藥物探索的人工智慧 (AI) 模型，也讓 AI 題材延燒到生技產業，激勵相關概念股飆漲。",
+    "title": "〈焦點股〉輝達加速AI藥物模型 醫揚、長佳智能沾光攻漲停",
+    "video": "",
+    "publishAt": 1689225273,
+    "coverSrc": {
+      "xs": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250345/xs/83e91a41279fb2c5dfa9a2a59af5d951.jpg",
+        "width": 100,
+        "height": 56
+      },
+      "s": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250345/s/83e91a41279fb2c5dfa9a2a59af5d951.jpg",
+        "width": 180,
+        "height": 101
+      },
+      "m": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250345/m/83e91a41279fb2c5dfa9a2a59af5d951.jpg",
+        "width": 380,
+        "height": 214
+      },
+      "l": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250345/l/83e91a41279fb2c5dfa9a2a59af5d951.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250345/xl/83e91a41279fb2c5dfa9a2a59af5d951.jpg",
+        "width": 960,
+        "height": 540
+      },
+      "xxl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250345/xl/83e91a41279fb2c5dfa9a2a59af5d951.jpg",
+        "width": 960,
+        "height": 540
+      }
+    },
+    "abTesting": null,
+    "categoryId": 829,
+    "columnists": null,
+    "magazine": null,
+    "fundCategoryAbbr": [],
+    "fbShare": 0,
+    "fbComment": 0,
+    "fbCommentPluginCount": 0,
+    "market": [
+      {
+        "code": "6569",
+        "name": "醫揚",
+        "symbol": "TWS:6569:STOCK"
+      },
+      {
+        "code": "6841",
+        "name": "長佳智能",
+        "symbol": "TWG:6841:STOCK"
+      },
+      {
+        "code": "6841",
+        "name": "長佳智能",
+        "symbol": "TWG:6841:STOCK"
+      },
+      {
+        "code": "NVDA",
+        "name": "輝達",
+        "symbol": "USS:NVDA:STOCK"
+      }
+    ],
+    "categoryName": "台股盤勢"
+  },
+  {
+    "isOutsource": 0,
+    "content": "&lt;p&gt;&lt;em&gt;一、財報潛力股 &ndash; 營收季增年增潛力股&lt;/em&gt;&lt;/p&gt;\n\n&lt;p&gt;財報公布季來啦！趁這個時候和大家分享一下財報公布前可以怎麼去找值得關注的潛力股，或許獲利數字出來會有意想不到的收穫喔！&lt;/p&gt;\n\n&lt;p&gt;首先，從已公布的營收之中 (舉例來說：若是 Q2 財報公布前，則用 4-6 月營收加總)，去找 Q2 營收大幅季增(Q2 比 Q1 多) 和年增 (比去年 Q2 多) 的公司。&lt;/p&gt;\n\n&lt;p&gt;接著，當行情轉佳或有好消息的時候，籌碼集中的股票較有機會出現行情，因此可以從股權分散表去篩選籌碼集中 (持有 100 張以上佔股權的比例夠高) 的股票。&lt;/p&gt;\n\n&lt;p&gt;最後，因為如果公司本業不賺錢，或獲利表現僅在損益兩平邊緣，則市場對這種股票的期待就不高，因此可以挑營業利益和 EPS 都表現不錯的公司。&lt;/p&gt;\n\n&lt;p&gt;舉例來說：2022/11/02 的時候，此方式篩出的清單如下：&lt;/p&gt;\n\n&lt;figure&gt;&lt;a href=&quot;https://sinourl.tw/e5aJ1V?utm_source=CS&quot;&gt;&lt;img data-height=&quot;290&quot; data-mime=&quot;image/jpeg&quot; data-ratio=&quot;1.910344827586207&quot; data-src-m=&quot;https://cimg.cnyes.cool/prod/news/5250356/m/106d133bf96b96eb0ef3f46082a68fae.jpg&quot; data-width=&quot;554&quot; src=&quot;https://cimg.cnyes.cool/prod/news/5250356/l/106d133bf96b96eb0ef3f46082a68fae.jpg&quot;&gt;&lt;/a&gt;&lt;/figure&gt;\n\n&lt;p&gt;究竟是用哪些條件篩出這些優質股呢？快往下看吧！&lt;/p&gt;\n\n&lt;p&gt;如果想看&lt;a href=&quot;https://lihi2.cc/ipSVq/fromId=1019?utm_source=CS&quot; target=&quot;_blank&quot;&gt;每日最新的投信轉買名單&lt;/a&gt;，加入 &lt;a href=&quot;https://lihi2.cc/ipSVq/fromId=1019?utm_source=CS&quot; target=&quot;_blank&quot;&gt;Line@&lt;/a&gt;好友並&lt;a href=&quot;https://ai.sinotrade.com.tw/SIA_Sinotrade/OpenCount/Apply_SIA01.aspx?dirtype=CLS&amp;contno=C000004&amp;strProd=2890&amp;strWeb=2890&amp;openExternalBrowser=1?utm_source=CS&quot; target=&quot;_blank&quot;&gt;成為會員&lt;/a&gt;就可以觀看囉！(Line@內的 AI 幫你顧按鈕點下去後，點選 AI 幫你顧 2.0 就可看到囉！)&lt;/p&gt;\n\n&lt;figure&gt;&lt;a href=&quot;https://ai.sinotrade.com.tw/SIA_Sinotrade/OpenCount/Apply_SIA01.aspx?dirtype=CLS&amp;contno=C000004&amp;strProd=2890&amp;strWeb=2890&amp;openExternalBrowser=1&quot;&gt;&lt;img data-height=&quot;373&quot; data-mime=&quot;image/jpeg&quot; data-ratio=&quot;1.4852546916890081&quot; data-src-m=&quot;https://cimg.cnyes.cool/prod/news/5250356/m/ce13eaf2974fbef9c77aeac8bd2c5609.jpg&quot; data-width=&quot;554&quot; src=&quot;https://cimg.cnyes.cool/prod/news/5250356/l/ce13eaf2974fbef9c77aeac8bd2c5609.jpg&quot;&gt;&lt;/a&gt;&lt;/figure&gt;\n\n&lt;p&gt;(2022 年和大家分享了：&lt;a href=&quot;https://www.sinotrade.com.tw/richclub/features/63b52fd8e91ae66620b74e7d?utm_source=CS&quot; target=&quot;_blank&quot;&gt;關於財報的 9 種選股策略&lt;/a&gt;，更深入估值及評價細節請看：&lt;a href=&quot;https://www.sinotrade.com.tw/richclub/XQ-Gold/video/-620c6cc28e2da00efc66f49c?utm_source=CS&quot; target=&quot;_blank&quot;&gt;豐 XQ 殿堂 9 堂估值大補帖&lt;/a&gt;)&lt;/p&gt;\n\n&lt;p&gt;&lt;em&gt;二、營收季增年增潛力股&lt;/em&gt;&lt;/p&gt;\n\n&lt;figure&gt;&lt;img data-height=&quot;290&quot; data-mime=&quot;image/jpeg&quot; data-ratio=&quot;1.910344827586207&quot; data-src-m=&quot;https://cimg.cnyes.cool/prod/news/5250356/m/585d64693084b565ccf7527cdb53c5d2.jpg&quot; data-width=&quot;554&quot; src=&quot;https://cimg.cnyes.cool/prod/news/5250356/l/585d64693084b565ccf7527cdb53c5d2.jpg&quot;&gt;&lt;/figure&gt;\n\n&lt;p&gt;但由於這次篩到的股票，若希望成交金額超過 1 億，僅有 1519、5876 符合，故下表是將成交金額門檻下調至 1000 萬的結果！&lt;/p&gt;\n\n&lt;p&gt;篩出來的個股如下：(5508-TW) 永信建、(1519-TW) 華城、(1808-TW) 潤隆、(2809-TW) 京城銀、(6291-TW) 沛亨、(4506-TW) 崇友、(5876-TW) 上海商銀，一共 7 檔。&lt;/p&gt;\n\n&lt;figure&gt;&lt;a href=&quot;https://sinourl.tw/e5aJ1V?utm_source=CS&quot;&gt;&lt;img data-height=&quot;290&quot; data-mime=&quot;image/jpeg&quot; data-ratio=&quot;1.910344827586207&quot; data-src-m=&quot;https://cimg.cnyes.cool/prod/news/5250356/m/eb387cd19f5e8a3377774d362586c149.jpg&quot; data-width=&quot;554&quot; src=&quot;https://cimg.cnyes.cool/prod/news/5250356/l/eb387cd19f5e8a3377774d362586c149.jpg&quot;&gt;&lt;/a&gt;&lt;/figure&gt;\n\n&lt;p&gt;除權息推薦延伸閱讀：&lt;/p&gt;\n\n&lt;p&gt;1. &lt;a href=&quot;https://www.sinotrade.com.tw/richclub/aiinvest/-62bbe71461e0f7202caa5570?utm_source=CS&quot; target=&quot;_blank&quot; title=&quot;https://www.sinotrade.com.tw/richclub/aiinvest/-62bbe71461e0f7202caa5570?utm_source=cs&quot;&gt;除權息是什麼？附上近月除息且填息的優質公司！&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;2. &lt;a href=&quot;https://www.sinotrade.com.tw/richclub/primary/%E8%82%A1%E7%A5%A8%E6%AE%96%E5%88%A9%E7%8E%87%E6%98%AF%E4%BD%A0%E8%B3%BA%E9%8C%A2%E7%9A%84%E9%97%9C%E9%8D%B5-%E9%99%84-%E6%AD%B7%E5%8F%B2%E6%AE%96%E5%88%A9%E7%8E%87%E6%8E%92%E8%A1%8C%E6%A6%9C%E5%89%8D-15%E5%90%8D-5ea7edfd0d95d31484fdead0?utm_source=CS&quot; target=&quot;_blank&quot; title=&quot;https://www.sinotrade.com.tw/richclub/primary/%e8%82%a1%e7%a5%a8%e6%ae%96%e5%88%a9%e7%8e%87%e6%98%af%e4%bd%a0%e8%b3%ba%e9%8c%a2%e7%9a%84%e9%97%9c%e9%8d%b5-%e9%99%84-%e6%ad%b7%e5%8f%b2%e6%ae%96%e5%88%a9%e7%8e%87%e6%8e%92%e8%a1%8c%e6%a6%9c%e5%89%8d-15%e5%90&quot;&gt;股票殖利率是你賺錢的關鍵！附：歷史殖利率排行榜前 15 名&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;3. &lt;a href=&quot;https://www.sinotrade.com.tw/richclub/hotopic/%E7%8F%BE%E9%87%91%E8%82%A1%E5%88%A9%E6%98%AF%E4%BB%80%E9%BA%BC-%E6%80%8E%E9%BA%BC%E7%AE%97-%E5%A6%82%E4%BD%95%E6%89%BE%E5%88%B0%E9%AB%98%E6%AE%96%E5%88%A9%E7%8E%87%E7%B8%BE%E5%84%AA%E7%94%9F--62b2b8a249d63c1c9c8a71c0?utm_source=CS&quot; target=&quot;_blank&quot; title=&quot;https://www.sinotrade.com.tw/richclub/hotopic/%e7%8f%be%e9%87%91%e8%82%a1%e5%88%a9%e6%98%af%e4%bb%80%e9%ba%bc-%e6%80%8e%e9%ba%bc%e7%ae%97-%e5%a6%82%e4%bd%95%e6%89%be%e5%88%b0%e9%ab%98%e6%ae%96%e5%88%a9%e7%8e%87%e7%b8%be%e5%84%aa%e7%94%9f--62b2b8a249d63c1c&quot;&gt;現金股利是什麼？如何找到高殖利率績優生？&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;4. &lt;a href=&quot;https://www.sinotrade.com.tw/richclub/primary/-626b958c7f83b22f9c0d398a?utm_source=CS&quot; target=&quot;_blank&quot; title=&quot;https://www.sinotrade.com.tw/richclub/primary/-626b958c7f83b22f9c0d398a?utm_source=cs&quot;&gt;股票當沖是什麼？10 個當沖 9 個輸：當沖獲利者不想讓你知道 3 件事&lt;/a&gt;&lt;/p&gt;\n",
+    "hasCoverPhoto": 1,
+    "isCategoryHeadline": 1,
+    "isIndex": 1,
+    "newsId": 5250356,
+    "otherProduct": [],
+    "payment": 0,
+    "source": "",
+    "stock": [],
+    "summary": "",
+    "title": "【選股策略】財報公布前怎麼挑股票？教你怎麼找「財報潛力股」！",
+    "video": "",
+    "publishAt": 1689222702,
+    "coverSrc": {
+      "xs": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250356/xs/578f0f5e4c0cfa320c3c105609cabf1b.jpg",
+        "width": 100,
+        "height": 56
+      },
+      "s": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250356/s/578f0f5e4c0cfa320c3c105609cabf1b.jpg",
+        "width": 180,
+        "height": 101
+      },
+      "m": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250356/m/578f0f5e4c0cfa320c3c105609cabf1b.jpg",
+        "width": 380,
+        "height": 214
+      },
+      "l": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250356/l/578f0f5e4c0cfa320c3c105609cabf1b.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250356/xl/578f0f5e4c0cfa320c3c105609cabf1b.jpg",
+        "width": 960,
+        "height": 540
+      },
+      "xxl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250356/xl/578f0f5e4c0cfa320c3c105609cabf1b.jpg",
+        "width": 960,
+        "height": 540
+      }
+    },
+    "abTesting": null,
+    "categoryId": 827,
+    "columnists": null,
+    "magazine": null,
+    "fundCategoryAbbr": [],
+    "fbShare": 0,
+    "fbComment": 0,
+    "fbCommentPluginCount": 0,
+    "categoryName": "台股新聞"
+  },
+  {
+    "isOutsource": 0,
+    "content": "&lt;p&gt;三顧 (3224-TW) 與超基因生技的官司持續延燒，三顧副董事長陳宗基與樂迦董事長何弘能被樂迦前員工指控涉嫌證券交易法特別背信罪，對此，兩人今 (13) 日發出聲明強調，已正式委任律師對樂迦前員工、現任超基因員工董國恩、鄭坤炎提出誣告之訴。&lt;/p&gt;\n\n&lt;p&gt;陳宗基與何弘能的聲明指出，樂迦是一家由日本國際大型集團，與國內政府基金、三顧公司專業團隊共同努力打造，以亞洲再生醫療為市場的指標型公司，董事成員皆是兩國知名專業人士，並且都有豐富大型公司管理經驗，國發基金並且在特定媒體黑函的攻擊下公開澄清，支持營運團隊的付出。&lt;/p&gt;\n\n&lt;p&gt;該聲明表示，超基因現任總經理楊智惠及此次提出告發的董姓、鄭姓告發人在內等 6 位本集團前員工，於去年間同時離職，並均轉任職於超基因公司，日前因共同涉及違反營業秘密法，為臺灣臺北地方檢察署偵查中，經檢察官傳訊到案後，其中數人業經檢察官諭知高額之交保金而交保在案。&lt;/p&gt;\n\n&lt;p&gt;此外，自從超基因公司遭到搜索後，有特定媒體發布對本人以及公司不實新聞，即便包括國發基金在內的政府法人機構正式出面澄清，竟然還有出現近 60 多篇，內容重複率高達 80% 的新聞到處流傳，本人已依照違反證券交易法，針對特定媒體及背後操縱者進行提告。&lt;/p&gt;\n",
+    "hasCoverPhoto": 1,
+    "isCategoryHeadline": 1,
+    "isIndex": 1,
+    "newsId": 5250259,
+    "otherProduct": [
+      "TWS:3224:STOCK:COMMON"
+    ],
+    "payment": 0,
+    "source": "",
+    "stock": [
+      "3224"
+    ],
+    "summary": "三顧 (3224-TW) 與超基因生技的官司持續延燒，三顧副董事長陳宗基與樂迦董事長何弘能被樂迦前員工指控涉嫌證券交易法特別背信罪，對此，兩人今 (13) 日發出聲明強調，已正式委任律師對樂迦前員工提出誣告之訴。",
+    "title": "三顧副董、樂迦董座對超基因兩員工提誣告",
+    "video": "",
+    "publishAt": 1689221007,
+    "coverSrc": {
+      "xs": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250259/xs/d1749f0c9e11c4e5edb2ea7f3d10c536.jpg",
+        "width": 100,
+        "height": 56
+      },
+      "s": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250259/s/d1749f0c9e11c4e5edb2ea7f3d10c536.jpg",
+        "width": 180,
+        "height": 101
+      },
+      "m": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250259/m/d1749f0c9e11c4e5edb2ea7f3d10c536.jpg",
+        "width": 380,
+        "height": 213
+      },
+      "l": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250259/l/d1749f0c9e11c4e5edb2ea7f3d10c536.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250259/xl/d1749f0c9e11c4e5edb2ea7f3d10c536.jpg",
+        "width": 960,
+        "height": 539
+      },
+      "xxl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250259/xl/d1749f0c9e11c4e5edb2ea7f3d10c536.jpg",
+        "width": 960,
+        "height": 539
+      }
+    },
+    "abTesting": null,
+    "categoryId": 827,
+    "columnists": null,
+    "magazine": null,
+    "fundCategoryAbbr": [],
+    "fbShare": 0,
+    "fbComment": 0,
+    "fbCommentPluginCount": 0,
+    "market": [
+      {
+        "code": "3224",
+        "name": "三顧",
+        "symbol": "TWS:3224:STOCK"
+      }
+    ],
+    "categoryName": "台股新聞"
+  },
+  {
+    "isOutsource": 0,
+    "content": "&lt;p&gt;根據財政部最新公布的 2021 年綜所稅申報資料統計，高雄 10 大最富里排名出爐。觀察前十大最富里，平均所得均超過百萬元，而全市最富里，由前鎮區「建隆里」平均所得從 159.5 萬元攀升至 177.1 萬元，擠下前一年冠軍新興區的「榮治里」，榮登 2021 年高雄最富里。&lt;/p&gt;\n\n&lt;p&gt;而亞軍由苓雅區的「苓洲里」，以平均所得 175.6 萬元拿下，冠亞軍均由亞灣區稱霸，而前任冠軍「榮治里」則以 164.4 萬元退居第三，另外包括市政中心、愛河特區、美術館特區均有最富里上榜。&lt;/p&gt;\n\n&lt;p&gt;台灣房屋亞洲新灣區加盟店店東劉宜昀表示，高雄最富里「建隆里」及亞軍「苓洲里」皆屬於亞灣區範疇，里內均有指標豪宅撐場，像是高雄知名豪宅王「國硯」就位在「苓洲里」內，而冠軍「建隆里」，里內包括國城「定潮」、「賦格」、「百立海洋帝寶」、「高永大船入港」等豪宅建案林立，最高指標新案「定潮」成交單價更已站上 5 字頭，逐步發展為新興豪宅特區，磁吸不少外來高端客層入主，里內貴客雲集，相對拉高該里平均所得水平。&lt;/p&gt;\n\n&lt;p&gt;另外根據台灣房屋集團統計，高雄平均所得超過百萬元以上共有 28 個里，分布在 8 個行政區，其中擁有最多百萬里的行政區，苓雅區擁有 12 個里居全市之冠，其次為新興區 5 個里，鼓山區及前金區則各有 3 個里，平均所得均超過百萬元。&lt;/p&gt;\n\n&lt;p&gt;台灣房屋集團趨勢中心經理李家妮表示，觀察高雄 10 大最富有里行政區及擁有最多百萬里的行政區，多分布在南高雄，尤以苓雅、新興、前金最多，雖然目前高雄發展重心移往北高雄，不過南高雄可是有不少隱藏版有錢人，主要因前金、新興等區為早期商業發展核心重鎮，聚集不少高端客群落腳，大地主也不少。&lt;/p&gt;\n\n&lt;p&gt;而高雄苓雅區則為市政文教中心，像是文化中心、市府生活圈等，住戶薪資水平與房價水準都較高，而該區生活機能成熟，建商推案不斷，高總價住宅林立，磁吸外來高端人口持續移入，也讓平均所得維持一定實力。&lt;/p&gt;\n\n&lt;figure&gt;&lt;img data-height=&quot;519&quot; data-mime=&quot;image/jpeg&quot; data-ratio=&quot;1.464354527938343&quot; data-src-m=&quot;https://cimg.cnyes.cool/prod/news/5250307/m/ed2a95cdbf1226ff6b5a8af268b4ac07.jpg&quot; data-width=&quot;760&quot; src=&quot;https://cimg.cnyes.cool/prod/news/5250307/l/ed2a95cdbf1226ff6b5a8af268b4ac07.jpg&quot;&gt;&lt;/figure&gt;\n\n&lt;p&gt;&nbsp;&lt;/p&gt;\n",
+    "hasCoverPhoto": 1,
+    "isCategoryHeadline": 1,
+    "isIndex": 1,
+    "newsId": 5250307,
+    "otherProduct": [],
+    "payment": 0,
+    "source": "",
+    "stock": [],
+    "summary": "根據財政部最新公布的 2021 年綜所稅申報資料統計，高雄 10 大最富里排名出爐。觀察前十大最富里，平均所得均超過百萬元，而全市最富里，由前鎮區「建隆里」平均所得從 159.5 萬元攀升至 177.1 萬元奪冠。",
+    "title": "高雄2021年前十大最富里出爐 前鎮區建隆里平均年賺177萬居冠",
+    "video": "",
+    "publishAt": 1689220614,
+    "coverSrc": {
+      "xs": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250307/xs/10a9a9d39d39b3914a9c3eb77c9cffc9.jpg",
+        "width": 100,
+        "height": 56
+      },
+      "s": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250307/s/10a9a9d39d39b3914a9c3eb77c9cffc9.jpg",
+        "width": 180,
+        "height": 101
+      },
+      "m": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250307/m/10a9a9d39d39b3914a9c3eb77c9cffc9.jpg",
+        "width": 380,
+        "height": 214
+      },
+      "l": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250307/l/10a9a9d39d39b3914a9c3eb77c9cffc9.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250307/xl/10a9a9d39d39b3914a9c3eb77c9cffc9.jpg",
+        "width": 960,
+        "height": 539
+      },
+      "xxl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250307/xxl/10a9a9d39d39b3914a9c3eb77c9cffc9.jpg",
+        "width": 1080,
+        "height": 607
+      }
+    },
+    "abTesting": null,
+    "categoryId": 828,
+    "columnists": null,
+    "magazine": null,
+    "fundCategoryAbbr": [],
+    "fbShare": 0,
+    "fbComment": 0,
+    "fbCommentPluginCount": 0,
+    "categoryName": "台灣政經"
+  },
+  {
+    "isOutsource": 0,
+    "content": "&lt;p&gt;疫後出國旅遊熱度持續激增，再加上暑假旺季加持，網路旅遊業者易遊網今 (13) 日指出，機票銷售至今已突破 70 萬航段，上半年機票營收更較 2019 年同期成長 60%，不過，無論在訂票或是機票使用上，發現旅客有 9 大常見問題和易忽略的隱藏細節，提醒旅客留意。&lt;/p&gt;\n\n&lt;p&gt;易遊網指出，由於疫情長達近 3 年，有不少民眾的護照早已過期或剩不到半年效期，儘管並非所有航司機票都需要護照號碼和效期才能預訂，但若護照號碼為必填項目，則需要辦理好護照後才能訂票。&lt;/p&gt;\n\n&lt;p&gt;若還沒有護照的民眾，須特別注意的是，首次申辦時選用的英文姓名，必須透過外交部「外文姓名中譯英系統」，從 4 種拼音方式選擇其中一種，不能使用沒有在選項內的拚法，訂機票時也務必與護照選擇的拼音相符。&lt;/p&gt;\n\n&lt;p&gt;第二，若是雙重國籍者，務必留意出入境同一國家需使用同一本護照為準則，並確認各國出入境的護照使用與目的地簽證，以利訂位，例如，部分國家不承認雙重國籍，例如泰國、馬來西亞等，往返這些國家則需要使用同一本護照出入境。&lt;/p&gt;\n\n&lt;p&gt;第三，持有台灣護照的旅客，在多數國家轉機不入境的情況下，是不需要持該國簽證，但仍有部分國家是必備文件，如中國大陸轉機需持台胞證、美國轉機需有 ESTA、加拿大和紐西蘭需要 ETA、澳洲則是轉機停留超過 8 小時就需要準備 ETA。&lt;/p&gt;\n\n&lt;p&gt;第四，個人資料有誤最常發生的狀況就是旅客英文姓名寫錯，而更改姓名的政策，每間航空公司有所不同，有完全不能修改、不接受姓氏調整、修改字母不得超過指定數量、須與原發音相符才可更改等各種規定；若不符合更改規定，該機票就無法使用等於直接作廢，若可退票，則須負擔退票手續費並重新購票。&lt;/p&gt;\n\n&lt;p&gt;第五，機票改票規定依各航空公司有所不同，須先確認所訂機票是否可改票，如可改票，除了會收取改票手續費用外，若非同艙等或是有價差時，則須補差額；若要更改航點，則須視航空公司規定，並非所有航點都可調整。&lt;/p&gt;\n\n&lt;p&gt;第六，提出退票申請前，須先確認票規是否為可退機票，如果為不可退票的機票，僅能取消訂位，但無法退返機票費用，且退票須於出發前提出申請。&lt;/p&gt;\n\n&lt;p&gt;第七，依航空公司規定，同一旅客不可有重複預訂的情況，所訂機位將會被航空公司全數或部分取消，且不會退返費用，旅客得自行吸收與承擔。&lt;/p&gt;\n\n&lt;p&gt;第八，解封後全球航班時有各種狀況發生，較難以掌握，為彌補可能損失，建議可投保旅遊不便險，然各家保險公司理賠項目不盡相同，保障內容是否符合自身需求務必得再三確認。&lt;/p&gt;\n\n&lt;p&gt;第九，機票須依開立時的行程順序使用，若前段行程未使用，後段行程將無法使用，等於整張機票都會失效，甚至會被收取罰金。&lt;/p&gt;\n",
+    "hasCoverPhoto": 1,
+    "isCategoryHeadline": 1,
+    "isIndex": 1,
+    "newsId": 5250176,
+    "otherProduct": [],
+    "payment": 0,
+    "source": "",
+    "stock": [],
+    "summary": "易遊網上半年機票營收較疫情暴增 6 成 注意 9 個購票細節！",
+    "title": "易遊網上半年機票營收較疫情暴增6成 注意9個購票細節！",
+    "video": "",
+    "publishAt": 1689217757,
+    "coverSrc": {
+      "xs": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250176/xs/f664d753c6cb0d0d57c75ef66bf1f0df.jpg",
+        "width": 100,
+        "height": 56
+      },
+      "s": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250176/s/f664d753c6cb0d0d57c75ef66bf1f0df.jpg",
+        "width": 180,
+        "height": 101
+      },
+      "m": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250176/m/f664d753c6cb0d0d57c75ef66bf1f0df.jpg",
+        "width": 380,
+        "height": 214
+      },
+      "l": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250176/l/f664d753c6cb0d0d57c75ef66bf1f0df.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250176/xl/f664d753c6cb0d0d57c75ef66bf1f0df.jpg",
+        "width": 960,
+        "height": 539
+      },
+      "xxl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250176/xxl/f664d753c6cb0d0d57c75ef66bf1f0df.jpg",
+        "width": 1080,
+        "height": 607
+      }
+    },
+    "abTesting": null,
+    "categoryId": 827,
+    "columnists": null,
+    "magazine": null,
+    "fundCategoryAbbr": [],
+    "fbShare": 0,
+    "fbComment": 0,
+    "fbCommentPluginCount": 0,
+    "categoryName": "台股新聞"
+  },
+  {
+    "isOutsource": 0,
+    "content": "&lt;p&gt;美國 6 月 CPI 年增 3% 低於預期，美股四大指數勁揚，台股今 (13) 日在電子權值股領軍下，AI 概念股再度飆漲，大盤強漲超過 200 點，重回萬七關卡之上，收復月線，成交量估放大至 4600 億元。&lt;/p&gt;\n\n&lt;p&gt;AI 概念股發燙，廣達 (2382-TW) 攻上漲停價 206 元，緯創 (3231-TW) 刷新天價 136 元，光寶科、英業達、緯穎、研揚同步亮燈，穎崴、技嘉、旺矽等都有超過逾半根停板。&lt;/p&gt;\n\n&lt;p&gt;電子三雄同步走高，台積電 (2330-TW) 開高震盪，上漲逾 10 元，突破短均；鴻海 (2317-TW)、聯發科 (2454-TW) 都站穩盤上，台達電 (2308-TW) 漲幅也超過 4%。&lt;/p&gt;\n\n&lt;p&gt;高價股也攻高，除了緯穎亮燈外，世芯 - KY、創意、M31 都有拉出逾半根停板，大立光、信驊、力旺、旭隼等表現不俗。&lt;/p&gt;\n\n&lt;p&gt;散熱族群活蹦亂跳，力致鎖在漲停，健準、奇鋐、雙鴻漲幅逾 5%，健策、泰碩、協禧、動力 - KY、元山等都站穩盤上。&lt;/p&gt;\n",
+    "hasCoverPhoto": 1,
+    "isCategoryHeadline": 1,
+    "isIndex": 1,
+    "newsId": 5250178,
+    "otherProduct": [
+      "TWS:2382:STOCK:COMMON",
+      "TWS:3231:STOCK:COMMON",
+      "TWS:2330:STOCK:COMMON",
+      "TWS:2317:STOCK:COMMON",
+      "TWS:2454:STOCK:COMMON",
+      "TWS:2308:STOCK:COMMON"
+    ],
+    "payment": 0,
+    "source": "",
+    "stock": [
+      "2382",
+      "3231",
+      "2330",
+      "2317",
+      "2454",
+      "2308"
+    ],
+    "summary": "美國 6 月 CPI 年增 3% 低於預期，美股四大指數勁揚，台股今 (13) 日在電子權值股領軍下，AI 概念股再度飆漲，大盤強漲超過 200 點，重回萬七關卡之上，收復月線，成交量估放大至 4600 億元。",
+    "title": "〈台股盤中〉AI概念股持續發燙 強漲逾200點重回萬七",
+    "video": "",
+    "publishAt": 1689217417,
+    "coverSrc": {
+      "xs": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250178/xs/ab2030dc0411fdd12a4e11b32c212efb.jpg",
+        "width": 100,
+        "height": 56
+      },
+      "s": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250178/s/ab2030dc0411fdd12a4e11b32c212efb.jpg",
+        "width": 180,
+        "height": 101
+      },
+      "m": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250178/m/ab2030dc0411fdd12a4e11b32c212efb.jpg",
+        "width": 380,
+        "height": 214
+      },
+      "l": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250178/l/ab2030dc0411fdd12a4e11b32c212efb.jpg",
+        "width": 640,
+        "height": 360
+      },
+      "xl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250178/xl/ab2030dc0411fdd12a4e11b32c212efb.jpg",
+        "width": 960,
+        "height": 540
+      },
+      "xxl": {
+        "src": "https://cimg.cnyes.cool/prod/news/5250178/xl/ab2030dc0411fdd12a4e11b32c212efb.jpg",
+        "width": 960,
+        "height": 540
+      }
+    },
+    "abTesting": null,
+    "categoryId": 829,
+    "columnists": null,
+    "magazine": null,
+    "fundCategoryAbbr": [],
+    "fbShare": 0,
+    "fbComment": 0,
+    "fbCommentPluginCount": 0,
+    "market": [
+      {
+        "code": "2382",
+        "name": "廣達",
+        "symbol": "TWS:2382:STOCK"
+      },
+      {
+        "code": "3231",
+        "name": "緯創",
+        "symbol": "TWS:3231:STOCK"
+      },
+      {
+        "code": "2330",
+        "name": "台積電",
+        "symbol": "TWS:2330:STOCK"
+      },
+      {
+        "code": "2317",
+        "name": "鴻海",
+        "symbol": "TWS:2317:STOCK"
+      },
+      {
+        "code": "2454",
+        "name": "聯發科",
+        "symbol": "TWS:2454:STOCK"
+      },
+      {
+        "code": "2308",
+        "name": "台達電",
+        "symbol": "TWS:2308:STOCK"
+      }
+    ],
+    "categoryName": "台股盤勢"
+  },
+  {
+    "isOutsource": 0,
     "content": "&lt;p&gt;美國通膨數據降溫，美元指數回落降至 100 整數關卡，新台幣兌美元今 (13) 日開盤升值 4.8 分，以 31.190 元開出，盤中隨台股大漲，激勵新台幣匯價強彈逾 1.5 角，盤中匯價升破 31.1 元價位，高點觸及 31.085 元。&lt;/p&gt;\n\n&lt;p&gt;美國 6 月 CPI(消費者物價指數) 年增 3%，不僅是連續 12 個月下滑，也是 2021 年 3 月以來新低，美國通膨壓力舒緩，市場預期聯準會的升息循環可望接近尾聲。&lt;/p&gt;\n\n&lt;p&gt;美股四大指數同步收紅，台股今天也跟著大漲，在半導體族群領軍下，指數大漲逾 250 點，重新收復萬七關卡，大盤高點站上 17221.79 點。&lt;/p&gt;\n\n&lt;p&gt;在聯準會官員「鴿聲嘹亮」，加上通膨數據降溫，讓美元指數回落至 100 整數關卡，新台幣兌美元今天在美元貶、台股大漲激勵下，帶動匯價彈升，早盤以 31.190 元開出後，匯價持續向上攀升，盤中升至 31.085 元。&lt;/p&gt;\n\n&lt;p&gt;主要亞幣中，人民幣兌美元盤中暫收在 7.17 元、日元兌美元盤中暫收在 138.5 元、韓元兌美元暫收在 1275.8 元。&lt;/p&gt;\n",
     "hasCoverPhoto": 1,
     "isCategoryHeadline": 1,
@@ -1768,601 +2385,5 @@
     "fbComment": 0,
     "fbCommentPluginCount": 0,
     "categoryName": "外匯"
-  },
-  {
-    "isOutsource": 0,
-    "content": "&lt;p&gt;信任科技服務商 Gogolook 明 (13) 日將以「走著瞧 - 創」名稱、股票代碼 6902 於證交所創新板掛牌上市，為創新板第一家新經濟軟體公司，承銷價格 215 元，Gogolook 共同創辦人暨董事長鄭勝丰表示，防詐產業仍正處在初期成長階段，且屬剛性需求，較不受景氣影響，看好長期成長趨勢。&lt;/p&gt;\n\n&lt;p&gt;Gogolook 表示，受惠全球防詐需求增加，帶動 Gogolook 海外市場和多元產品線成長快速，今年上半年合併營收達 3.72 億元，年增 100%，因此，投資人參與詢價圈購踴躍，承銷價格為 215 元，共募集資金 2.29 億元。&lt;/p&gt;\n\n&lt;p&gt;Gogolook 已布局台灣、日本、泰國、韓國、馬來西亞、香港與巴西等市場，運用 AI 與數據技術，成功建立起東亞和東南亞最大防詐資料庫。&lt;/p&gt;\n\n&lt;p&gt;鄭勝丰表示，防詐產業仍正處在初期成長的階段，剛性需求不易受景氣影響，經過 10 餘年的積累，在產品線和跨國戰線上皆取得初步實績，將持續透過 AI，研發防詐技術並招募海外人才。&lt;/p&gt;\n\n&lt;p&gt;Gogolook 旗下三大產品線包括消費者端與企業端的信任雲服務，以及金融科技為首的商業服務，應用對象除了廣泛的消費者，更涵蓋電信、金融、電商和支付等多元產業場景。&lt;/p&gt;\n\n&lt;p&gt;其中，在消費者端信任雲服務方面，旗下陌生來電辨識軟體 Whoscall 在全球已擁有逾 1 億次下載量，近年更透過研發創新功能，提升訂閱制用戶占比。&lt;/p&gt;\n\n&lt;p&gt;Gogolook 也推出可疑訊息查證機器人「美玉姨」，以及在巴西市場落地的訊息管理與防詐應用程式「Message Checker」等針對個人的創新產品服務，。&lt;/p&gt;\n\n&lt;p&gt;針對企業，Gogolook 提供「企業端信任雲服務 (Enterprise Trust Cloud Services)」，是專為企業打造的數位身分驗證解決方案，目前已廣泛應用於銀行、支付和電商等交易場景。&lt;/p&gt;\n\n&lt;p&gt;此外，Gogolook 以普惠金融科技開端發展商業服務，以個人金融商品比較平台「袋鼠金融&nbsp;Roo.Cash」為首，目前已與國內超過 20 家的銀行與金融機構合作，現階段平台每月流量超過 1200 萬瀏覽量、月活躍用戶逾 200 萬人，其中近期推出的「Roo AI」智能問答服務，創達 80% 的用戶回訪率。&lt;/p&gt;\n",
-    "hasCoverPhoto": 1,
-    "isCategoryHeadline": 1,
-    "isIndex": 1,
-    "newsId": 5249208,
-    "otherProduct": [],
-    "payment": 0,
-    "source": "",
-    "stock": [],
-    "summary": "Gogolook 明日創新板掛牌上市 看防詐產業處成長階段",
-    "title": "走著瞧明日創新板掛牌上市 看防詐產業處成長階段",
-    "video": "",
-    "publishAt": 1689154916,
-    "coverSrc": {
-      "xs": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249208/xs/9eb40cc8ccd1353c125e0de57264d3e6.jpg",
-        "width": 100,
-        "height": 56
-      },
-      "s": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249208/s/9eb40cc8ccd1353c125e0de57264d3e6.jpg",
-        "width": 180,
-        "height": 101
-      },
-      "m": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249208/m/9eb40cc8ccd1353c125e0de57264d3e6.jpg",
-        "width": 380,
-        "height": 214
-      },
-      "l": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249208/l/9eb40cc8ccd1353c125e0de57264d3e6.jpg",
-        "width": 640,
-        "height": 360
-      },
-      "xl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249208/xl/9eb40cc8ccd1353c125e0de57264d3e6.jpg",
-        "width": 960,
-        "height": 540
-      },
-      "xxl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249208/xxl/9eb40cc8ccd1353c125e0de57264d3e6.jpg",
-        "width": 1080,
-        "height": 607
-      }
-    },
-    "abTesting": null,
-    "categoryId": 827,
-    "columnists": null,
-    "magazine": null,
-    "fundCategoryAbbr": [],
-    "fbShare": 0,
-    "fbComment": 0,
-    "fbCommentPluginCount": 0,
-    "categoryName": "台股新聞"
-  },
-  {
-    "isOutsource": 0,
-    "content": "&lt;p&gt;面對氣候變遷、國際減碳與淨零趨勢，永豐金控 (2890-TW) 展現高度行動力，擘劃及開展各項氣候減緩及調適具體方案、增加自身氣候韌性，於 2021&nbsp;年正式簽署成為 TCFD 支持者 (TCFD supporter)，並於今 (2023) 年首度發行獨立編製之 2022 年 TCFD 報告書，榮獲英國標準協會 (BSI) 最高等級「Level 5+: Excellence」優秀等級認證，顯示積極因應氣候變遷之決心。&lt;/p&gt;\n\n&lt;p&gt;永豐金控持續於氣候領域耕耘，建構由上而下監督氣候治理架構，更於 2022 年 3 月獲得董事會的全力支持、通過淨零目標，用國內外業內最高標準，承諾在 2030 年達成自身營運淨零排放、2050 年達成全資產組合淨零排放。透過不斷精進氣候風險管理方法與作為，同時掌握氣候機會，期以金融力量，攜手企業低碳轉型。&lt;/p&gt;\n\n&lt;p&gt;永豐金控自 2019 年起即於永續報告書中納入 TCFD 架構，並持續擴大揭露項目與範疇，依循「氣候治理」、「氣候策略」、「氣候風險管理」及「氣候指標與目標」四大面向，揭露並管理氣候變遷風險與機會；於 2020 年將「氣候變遷風險」納入「風險管理政策」，透過內部控制三道防線，劃分各防線之氣候風險管理職責與管理機制，以堅實氣候風險管理基礎，並制定「氣候相關風險與機會管理要點」、建立氣候風險與機會鑑別及管理流程，同時透過氣候風險量化模型及情境分析，評估並分析實體風險和轉型風險之潛在財務影響，以擬定相應之氣候策略、健全氣候風險與機會的管理機制。&lt;/p&gt;\n\n&lt;p&gt;在碳盤查上，永豐金控已完成範疇一、範疇二及 8 項範疇三溫室氣體排放之盤查並獲第三方查驗證，也自 2021 年起依循 PCAF 方法學進行範疇三投融資部位碳盤查，盤查覆蓋率達 79.72%。永豐金控並已承諾不再新承作燃料煤及非常規油氣相關之專案融資，既有部位到期亦不再續做，同時已經加入 SBTi 並於 2022 年底完成提交科學基礎減量目標 (SBT)，並透過內部營運管理，朝 2030 年自身營運淨零排放目標前進；也將持續精進去碳化承諾，積極與投融資標的議合、強化盡職調查，攜手利害關係人低碳轉型，致力達成 2050 年淨零目標。&lt;/p&gt;\n\n&lt;p&gt;未來，金融業不僅要因應氣候變遷的挑戰，同時也須把握氣候變遷的機會。永豐金控遵循 TCFD 架構，建立完整的氣候管理架構；同時與利害關係人攜手合作、協助客戶因應氣候風險與機會，共同推動低碳轉型和綠色金融的發展，創造更多的企業價值和社會價值。&lt;/p&gt;\n",
-    "hasCoverPhoto": 1,
-    "isCategoryHeadline": 1,
-    "isIndex": 0,
-    "newsId": 5249273,
-    "otherProduct": [
-      "TWS:2890:STOCK:COMMON"
-    ],
-    "payment": 0,
-    "source": null,
-    "stock": [
-      "2890"
-    ],
-    "summary": "永豐金 TCFD 報告書首發 獲 BSI 最高等級 Level 5+",
-    "title": "永豐金TCFD報告書首發 獲BSI最高等級Level 5+",
-    "video": "",
-    "publishAt": 1689154858,
-    "coverSrc": {
-      "xs": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249273/xs/da8fc5353b4ba9f2bff2f95fe4e021f8.jpg",
-        "width": 100,
-        "height": 56
-      },
-      "s": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249273/s/da8fc5353b4ba9f2bff2f95fe4e021f8.jpg",
-        "width": 180,
-        "height": 101
-      },
-      "m": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249273/m/da8fc5353b4ba9f2bff2f95fe4e021f8.jpg",
-        "width": 380,
-        "height": 214
-      },
-      "l": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249273/l/da8fc5353b4ba9f2bff2f95fe4e021f8.jpg",
-        "width": 640,
-        "height": 360
-      },
-      "xl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249273/xl/da8fc5353b4ba9f2bff2f95fe4e021f8.jpg",
-        "width": 960,
-        "height": 539
-      },
-      "xxl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249273/xxl/da8fc5353b4ba9f2bff2f95fe4e021f8.jpg",
-        "width": 1080,
-        "height": 607
-      }
-    },
-    "abTesting": null,
-    "categoryId": 827,
-    "columnists": null,
-    "magazine": null,
-    "fundCategoryAbbr": [],
-    "fbShare": 0,
-    "fbComment": 0,
-    "fbCommentPluginCount": 0,
-    "market": [
-      {
-        "code": "2890",
-        "name": "永豐金",
-        "symbol": "TWS:2890:STOCK"
-      }
-    ],
-    "categoryName": "台股新聞"
-  },
-  {
-    "isOutsource": 0,
-    "content": "&lt;p&gt;長科 *(6548-TW) 今 (12) 日召開董事會，推舉公司董事兼總經理洪全成暫代董事長職務，長科 * 表示，公司及所屬集團相關營運仍由專業經理人團隊維持正常運作，不受影響。&lt;/p&gt;\n\n&lt;p&gt;另外，長科 * 董事長黃嘉能昨 (11) 日經高雄地方法院裁定羈押禁見，並委託律師就該裁定進行抗告，強調此案不涉及公司營運。&lt;/p&gt;\n",
-    "hasCoverPhoto": 1,
-    "isCategoryHeadline": 1,
-    "isIndex": 1,
-    "newsId": 5249295,
-    "otherProduct": [
-      "TWS:6548:STOCK:COMMON"
-    ],
-    "payment": 0,
-    "source": "",
-    "stock": [
-      "6548"
-    ],
-    "summary": "長科 *(6548-TW) 今 (12) 日召開董事會，推舉本公司董事兼總經理洪全成先生暫代董事長職務，公司及所屬集團相關營運仍由專業經理人團隊維持正常運作，不受影響。",
-    "title": "長科*今召開董事會 總經理洪全成暫代董座",
-    "video": "",
-    "publishAt": 1689154709,
-    "coverSrc": {
-      "xs": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249295/xs/ffb31e2c9ac04aee02c5e8346b9148ef.jpg",
-        "width": 100,
-        "height": 56
-      },
-      "s": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249295/s/ffb31e2c9ac04aee02c5e8346b9148ef.jpg",
-        "width": 180,
-        "height": 101
-      },
-      "m": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249295/m/ffb31e2c9ac04aee02c5e8346b9148ef.jpg",
-        "width": 380,
-        "height": 214
-      },
-      "l": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249295/l/ffb31e2c9ac04aee02c5e8346b9148ef.jpg",
-        "width": 640,
-        "height": 360
-      },
-      "xl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249295/xl/ffb31e2c9ac04aee02c5e8346b9148ef.jpg",
-        "width": 960,
-        "height": 539
-      },
-      "xxl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249295/xxl/ffb31e2c9ac04aee02c5e8346b9148ef.jpg",
-        "width": 1080,
-        "height": 607
-      }
-    },
-    "abTesting": null,
-    "categoryId": 827,
-    "columnists": null,
-    "magazine": null,
-    "fundCategoryAbbr": [],
-    "fbShare": 0,
-    "fbComment": 0,
-    "fbCommentPluginCount": 0,
-    "market": [
-      {
-        "code": "6548",
-        "name": "長科*",
-        "symbol": "TWS:6548:STOCK"
-      }
-    ],
-    "categoryName": "台股新聞"
-  },
-  {
-    "isOutsource": 0,
-    "content": "&lt;p&gt;市場靜待關鍵通膨數據，周二美股集體收紅，台股今日早盤在 16900 平盤上下游走震盪，隨後 AI 領軍帶動，電子、金融翻紅，大盤重啟戰火，由黑翻紅，終場上漲上漲 63.12 點，收在最高 16962.03 點，量能來到 3494 億元。&lt;/p&gt;\n\n&lt;p&gt;看一下三大法人: 外資翻空賣超 56.31 億元；投信買超 16.51 億元；自營商買超 22.2 億元，三大法人合計賣超 17.59 億元。&lt;/p&gt;\n\n&lt;p&gt;台股技術面觀察，連續兩天價量齊揚收了，日線連二紅，在修正整理後重新站回十日線大關，目前短中長期均線向上，五日線即將扣抵值，有機會翻揚向上，未來只要量能可以持續維持三千億元以上，都有機會持續挑戰月線、萬七大關，今天晚上重頭戲將關注，即將發布的美國消費者物價指數 (CPI)，將會牽動未來的走勢，目前選股將重於選市。&lt;/p&gt;\n\n&lt;p&gt;個股方面，今日資金流向 AI 題材，(3231-TW) 緯創、(6669-TW) 緯穎、(2382-TW) 廣達，紛紛創新高，(2356-TW) 英業達亦首日秒填息，這些 AI 股全面性的表態向上都驗證我們先前的看法!&lt;/p&gt;\n\n&lt;figure&gt;&lt;img data-height=&quot;493&quot; data-mime=&quot;image/jpeg&quot; data-ratio=&quot;1.54158215010142&quot; data-src-m=&quot;https://cimg.cnyes.cool/prod/news/5249277/m/a110c77d6c2f7942b38a9ddf62f8a84a.jpg&quot; data-width=&quot;760&quot; src=&quot;https://cimg.cnyes.cool/prod/news/5249277/l/a110c77d6c2f7942b38a9ddf62f8a84a.jpg&quot;&gt;&lt;/figure&gt;\n\n&lt;p&gt;這些股票我們在 2023/6/9 就搶先預告給大家! 如今也驗證在後!&lt;/p&gt;\n\n&lt;figure&gt;&lt;img data-height=&quot;366&quot; data-mime=&quot;image/svg+xml&quot; data-ratio=&quot;1.5437158469945356&quot; data-src-m=&quot;https://cimg.cnyes.cool/prod/news/5249277/m/27fd740252950312fcc71407405fa63a.jpg&quot; data-width=&quot;565&quot; src=&quot;https://cimg.cnyes.cool/prod/news/5249277/l/27fd740252950312fcc71407405fa63a.jpg&quot;&gt;&lt;/figure&gt;\n\n&lt;figure&gt;&lt;img data-height=&quot;357&quot; data-mime=&quot;image/svg+xml&quot; data-ratio=&quot;1.5434173669467788&quot; data-src-m=&quot;https://cimg.cnyes.cool/prod/news/5249277/m/9cc683382e9a30fa2880c7988c6df8d4.jpg&quot; data-width=&quot;551&quot; src=&quot;https://cimg.cnyes.cool/prod/news/5249277/l/9cc683382e9a30fa2880c7988c6df8d4.jpg&quot;&gt;&lt;/figure&gt;\n\n&lt;p&gt;除了 AI 股全面性的噴出以外，受到夏天炎熱氣候的影響下，電力股再度發動攻勢，(1519-TW) 華城，在分盤之下，逆勢漲停! 再創新高! 而有機會接棒&lt;/p&gt;\n\n&lt;p&gt;電力股之中，最有潛力接棒演出的是 (1XXX) 的誰? 影片中公開分享給你知道!&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;https://youtu.be/mL_q9KmUu34&quot;&gt;https://youtu.be/mL_q9KmUu34&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;想持股診斷或詢問盤勢分析&lt;/p&gt;\n\n&lt;p&gt;歡迎免費訂閱&lt;br&gt;\n股市期皇后 莊佳螢&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;https://lin.ee/HLNSKCy&quot;&gt;https://lin.ee/HLNSKCy&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;7/12 強勢股分享&lt;br&gt;\n【上市量大上漲股】&lt;/p&gt;\n\n&lt;p&gt;(2376-TW) 技嘉&lt;/p&gt;\n\n&lt;p&gt;(2388-TW) 威盛&lt;/p&gt;\n\n&lt;p&gt;(8210-TW) 勤誠&lt;/p&gt;\n\n&lt;p&gt;(6139-TW) 亞翔&lt;/p&gt;\n\n&lt;p&gt;(3231-TW) 緯創&lt;/p&gt;\n\n&lt;p&gt;(2382-TW) 廣達&lt;/p&gt;\n\n&lt;p&gt;(2399-TW) 映泰&lt;/p&gt;\n\n&lt;p&gt;(3032-TW) 偉訓&lt;/p&gt;\n\n&lt;p&gt;(1503-TW) 士電&lt;/p&gt;\n\n&lt;p&gt;(1519-TW) 華城&lt;/p&gt;\n\n&lt;p&gt;(1513-TW) 中興電&lt;/p&gt;\n\n&lt;p&gt;(3706-TW) 神達&lt;/p&gt;\n\n&lt;p&gt;(2301-TW) 光寶科&lt;/p&gt;\n\n&lt;p&gt;(4763-TW) 材料 - KY&lt;/p&gt;\n\n&lt;p&gt;7/12&lt;/p&gt;\n\n&lt;p&gt;【上櫃量大上漲股】&lt;/p&gt;\n\n&lt;p&gt;(3234-TW) 光環&lt;/p&gt;\n\n&lt;p&gt;(8155-TW) 博智&lt;/p&gt;\n\n&lt;p&gt;(0643-TW)M31&lt;/p&gt;\n\n&lt;p&gt;(3693-TW) 營邦&lt;/p&gt;\n\n&lt;p&gt;(5457-TW) 宣德&lt;/p&gt;\n\n&lt;p&gt;(5483-TW) 中美晶&lt;/p&gt;\n\n&lt;p&gt;(4979-TW) 華星光&lt;/p&gt;\n\n&lt;p&gt;(3508-TW) 位速&lt;/p&gt;\n\n&lt;p&gt;(3088-TW) 艾訊&lt;/p&gt;\n\n&lt;p&gt;(5439-TW) 高技&lt;/p&gt;\n\n&lt;p&gt;想持股診斷或詢問盤勢分析&lt;/p&gt;\n\n&lt;p&gt;請免費訂閱&lt;br&gt;\n股市期皇后 莊佳螢&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;https://lin.ee/HLNSKCy&quot;&gt;https://lin.ee/HLNSKCy&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;莊佳螢分析師:&lt;br&gt;\n每日分享盤勢解析跟精選產業個股，讓投資朋友輕鬆追蹤 2023 年年台股操作方向，相關詳細內容請加入 Line@索取，免費提供給您!&lt;/p&gt;\n\n&lt;p&gt;股市期皇后 證期雙分析師 莊佳螢&lt;/p&gt;\n\n&lt;p&gt;LINE 官方帳號&lt;/p&gt;\n\n&lt;p&gt;LINE ID 搜尋: @winner168 (@不可省略)&lt;/p&gt;\n\n&lt;p&gt;或是點擊下方網址加入&lt;br&gt;\n&nbsp;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;https://lin.ee/HLNSKCy&quot;&gt;https://lin.ee/HLNSKCy&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Youtube 影音頻道 精彩解盤影片不容錯過!&lt;/p&gt;\n\n&lt;p&gt;(記得按讚，訂閱並打開小鈴鐺)&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;http://yt1.piee.pw/QAHKZ&quot;&gt;http://yt1.piee.pw/QAHKZ&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;FB 粉絲團:【股市期皇后】&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;https://goo.gl/kN2VKT&quot;&gt;https://goo.gl/kN2VKT&lt;/a&gt;&lt;/p&gt;\n\n&lt;figure&gt;&lt;img data-height=&quot;392&quot; data-mime=&quot;image/png&quot; data-ratio=&quot;1.413265306122449&quot; data-src-m=&quot;https://cimg.cnyes.cool/prod/news/5249277/m/8b32ba546ddda3f01872e0428fa446c2.jpg&quot; data-width=&quot;554&quot; src=&quot;https://cimg.cnyes.cool/prod/news/5249277/l/8b32ba546ddda3f01872e0428fa446c2.jpg&quot;&gt;&lt;/figure&gt;\n\n&lt;p class=&quot;warning&quot;&gt;本公司所推薦分析之個別有價證券&lt;br&gt;\n無不當之財務利益關係 以往之績效不保證未來獲利&lt;br&gt;\n投資人應獨立判斷 審慎評估並自負投資風險&lt;/p&gt;\n",
-    "hasCoverPhoto": 1,
-    "isCategoryHeadline": 1,
-    "isIndex": 0,
-    "newsId": 5249277,
-    "otherProduct": [
-      "TWS:3231:STOCK:COMMON",
-      "TWS:3706:STOCK:COMMON",
-      "TWS:3088:STOCK:COMMON",
-      "TWS:3508:STOCK:COMMON",
-      "TWS:4979:STOCK:COMMON",
-      "TWS:5483:STOCK:COMMON",
-      "TWS:5457:STOCK:COMMON",
-      "TWS:3693:STOCK:COMMON",
-      "TWS:8155:STOCK:COMMON",
-      "TWS:3234:STOCK:COMMON",
-      "TWS:4763:STOCK:COMMON",
-      "TWS:2301:STOCK:COMMON",
-      "TWS:1513:STOCK:COMMON",
-      "TWS:6669:STOCK:COMMON",
-      "TWS:1503:STOCK:COMMON",
-      "TWS:3032:STOCK:COMMON",
-      "TWS:2399:STOCK:COMMON",
-      "TWS:6139:STOCK:COMMON",
-      "TWS:8210:STOCK:COMMON",
-      "TWS:2388:STOCK:COMMON",
-      "TWS:2376:STOCK:COMMON",
-      "TWS:1519:STOCK:COMMON",
-      "TWS:2356:STOCK:COMMON",
-      "TWS:2382:STOCK:COMMON",
-      "TWS:5439:STOCK:COMMON"
-    ],
-    "payment": 0,
-    "source": "",
-    "stock": [],
-    "summary": "",
-    "title": "【量大強漲股整理】AI股全面噴出，夏季到來電力股攻勢再起下，電力股中誰最有潛力?",
-    "video": "",
-    "publishAt": 1689154283,
-    "coverSrc": {
-      "xs": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249277/xs/315698cf255a2c99a3c10f61a010a3a0.jpg",
-        "width": 100,
-        "height": 56
-      },
-      "s": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249277/s/315698cf255a2c99a3c10f61a010a3a0.jpg",
-        "width": 180,
-        "height": 101
-      },
-      "m": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249277/m/315698cf255a2c99a3c10f61a010a3a0.jpg",
-        "width": 380,
-        "height": 214
-      },
-      "l": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249277/l/315698cf255a2c99a3c10f61a010a3a0.jpg",
-        "width": 640,
-        "height": 360
-      },
-      "xl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249277/xl/315698cf255a2c99a3c10f61a010a3a0.jpg",
-        "width": 960,
-        "height": 540
-      },
-      "xxl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249277/xl/315698cf255a2c99a3c10f61a010a3a0.jpg",
-        "width": 960,
-        "height": 540
-      }
-    },
-    "abTesting": null,
-    "categoryId": 827,
-    "columnists": null,
-    "magazine": null,
-    "fundCategoryAbbr": [],
-    "fbShare": 0,
-    "fbComment": 0,
-    "fbCommentPluginCount": 0,
-    "market": [
-      {
-        "code": "3231",
-        "name": "緯創",
-        "symbol": "TWS:3231:STOCK"
-      },
-      {
-        "code": "3706",
-        "name": "神達",
-        "symbol": "TWS:3706:STOCK"
-      },
-      {
-        "code": "3088",
-        "name": "艾訊",
-        "symbol": "TWS:3088:STOCK"
-      },
-      {
-        "code": "3508",
-        "name": "位速",
-        "symbol": "TWS:3508:STOCK"
-      },
-      {
-        "code": "4979",
-        "name": "華星光",
-        "symbol": "TWS:4979:STOCK"
-      },
-      {
-        "code": "5483",
-        "name": "中美晶",
-        "symbol": "TWS:5483:STOCK"
-      },
-      {
-        "code": "5457",
-        "name": "宣德",
-        "symbol": "TWS:5457:STOCK"
-      },
-      {
-        "code": "3693",
-        "name": "營邦",
-        "symbol": "TWS:3693:STOCK"
-      },
-      {
-        "code": "8155",
-        "name": "博智",
-        "symbol": "TWS:8155:STOCK"
-      },
-      {
-        "code": "3234",
-        "name": "光環",
-        "symbol": "TWS:3234:STOCK"
-      },
-      {
-        "code": "4763",
-        "name": "材料-KY",
-        "symbol": "TWS:4763:STOCK"
-      },
-      {
-        "code": "2301",
-        "name": "光寶科",
-        "symbol": "TWS:2301:STOCK"
-      },
-      {
-        "code": "1513",
-        "name": "中興電",
-        "symbol": "TWS:1513:STOCK"
-      },
-      {
-        "code": "6669",
-        "name": "緯穎",
-        "symbol": "TWS:6669:STOCK"
-      },
-      {
-        "code": "1503",
-        "name": "士電",
-        "symbol": "TWS:1503:STOCK"
-      },
-      {
-        "code": "3032",
-        "name": "偉訓",
-        "symbol": "TWS:3032:STOCK"
-      },
-      {
-        "code": "2399",
-        "name": "映泰",
-        "symbol": "TWS:2399:STOCK"
-      },
-      {
-        "code": "6139",
-        "name": "亞翔",
-        "symbol": "TWS:6139:STOCK"
-      },
-      {
-        "code": "8210",
-        "name": "勤誠",
-        "symbol": "TWS:8210:STOCK"
-      },
-      {
-        "code": "2388",
-        "name": "威盛",
-        "symbol": "TWS:2388:STOCK"
-      },
-      {
-        "code": "2376",
-        "name": "技嘉",
-        "symbol": "TWS:2376:STOCK"
-      },
-      {
-        "code": "1519",
-        "name": "華城",
-        "symbol": "TWS:1519:STOCK"
-      },
-      {
-        "code": "2356",
-        "name": "英業達",
-        "symbol": "TWS:2356:STOCK"
-      },
-      {
-        "code": "2382",
-        "name": "廣達",
-        "symbol": "TWS:2382:STOCK"
-      },
-      {
-        "code": "5439",
-        "name": "高技",
-        "symbol": "TWS:5439:STOCK"
-      }
-    ],
-    "categoryName": "台股新聞"
-  },
-  {
-    "isOutsource": 0,
-    "content": "&lt;p&gt;一、美股期指盤前表現 (台北時間下午 4 點 27 分)&lt;/p&gt;\n\n&lt;p&gt;■ 道瓊指數：上漲 32，漲幅 0.09% 至 34496。&lt;/p&gt;\n\n&lt;p&gt;■ 那斯達克 100 指數：上漲 29，漲幅 0.19% 至 15289.00。&lt;/p&gt;\n\n&lt;p&gt;■ 標普 500 指數：上漲 6.25，漲幅 0.14% 至 4479.75。&lt;/p&gt;\n\n&lt;p&gt;【今日總經數據】美國 6 月核心 CPI、美國聯準會褐皮書。&lt;/p&gt;\n\n&lt;p&gt;昨日紐約分行總裁 Williams 表示，已看到勞動力市場有放緩跡象，預期年底失業率將升至 4% 左右，明年底將繼續升至 4.5%，下調 2024 年經濟成長預期。美國 6 月 CPI 數據今晚登場，目前市場預期通膨將降的比預期要低，目前市場預期通膨年增率為 3.1%，核心通膨年增率為 5%。&lt;/p&gt;\n\n&lt;p&gt;■ 延伸閱讀推薦 1：&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;https://www.sinotrade.com.tw/richclub/primary/video/-62342a8eab27c307b48719ed?utm_source=CS&quot;&gt;&lt;strong&gt;大盤跌破月線股市震盪之際，輕鬆 1&lt;/strong&gt;&lt;strong&gt; 招幫自己建立自動交易、掌握買賣好時機&lt;/strong&gt;&lt;strong&gt;！&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;■ 延伸閱讀推薦 2：&lt;a href=&quot;https://www.sinotrade.com.tw/richclub/aiinvest/-62bbe71461e0f7202caa5570?utm_source=CS&quot;&gt;&lt;strong&gt;除權息是什麼？附上近月除息且填息的優質公司！&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;二、美股盤前關注重點&lt;/p&gt;\n\n&lt;p&gt;1. Salesforce 上調所有產品售價：Salesforces (CRM.US) 昨日上調公司所有產品的售價，平均上調 9%。公司表示，上一次調漲價格已是七年前，從那時起已提供了 22 個新版本和數千個新功能，並研發投資了超過 200 億美元，新產品的定價將於今年 8 月正式生效。專業版的新標價為 80 美元 (上漲 5 美元)，企業版為 165 美元 (上漲 15 美元)，無限版為 330 美元 (上漲 30 美元)。昨日 CRM 大漲 3.963% 至 221.17 美元。&lt;/p&gt;\n\n&lt;p&gt;2. Meta 將付費認證拓展至亞洲市場：Meta (META.US)在一份聲明中表示，自本週開始，「Meta 認證」將在新加坡、菲律賓、印度尼西亞、日本、香港、台灣和亞太地區等其他市場推出。Meta 旗下 Instagram 和 Facebook 平台用戶，每月僅需支付 11.99 美元 (網頁版) 或 14.99 美元 (iOS 版) 便可遞交他們的身分認證，並獲得藍色徽章。&lt;/p&gt;\n\n&lt;p&gt;3. 特斯拉充電標準遭反對，美國德州推遲撥款投票：據消息人士表示，部分充電公司反對將特斯拉的計數納入充電站的計畫，因而美國德克薩斯州再次將聯邦資金撥款建設電動汽車充電器的投票推遲至 8 月 16 日，目前業內人士正密切關注此消息，因此可能推動其他州採取類似行動。&lt;/p&gt;\n\n&lt;p&gt;原先德州希望利用聯邦資金參與高速公路電氣化項目的電動汽車充電公司採用特斯拉的北美充電標準 NACS，然目前部分製造商和運營商表示需要時間來測試特斯拉的連接器與美國標準聯合充電系統 (CCS) 的互操作性。&lt;a href=&quot;https://www.sinotrade.com.tw/richclub/hotstock?utm_source=CS&quot;&gt;(推薦閱讀：每日更新美股盤前快訊)&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;除權息推薦延伸閱讀：&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;1. &lt;/strong&gt;&lt;a href=&quot;https://www.sinotrade.com.tw/richclub/aiinvest/-62bbe71461e0f7202caa5570?utm_source=CS&quot;&gt;&lt;strong&gt;除權息是什麼？附上近月除息且填息的優質公司！&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;2. &lt;/strong&gt;&lt;a href=&quot;https://www.sinotrade.com.tw/richclub/primary/%E8%82%A1%E7%A5%A8%E6%AE%96%E5%88%A9%E7%8E%87%E6%98%AF%E4%BD%A0%E8%B3%BA%E9%8C%A2%E7%9A%84%E9%97%9C%E9%8D%B5-%E9%99%84-%E6%AD%B7%E5%8F%B2%E6%AE%96%E5%88%A9%E7%8E%87%E6%8E%92%E8%A1%8C%E6%A6%9C%E5%89%8D-15%E5%90%8D-5ea7edfd0d95d31484fdead0?utm_source=CS&quot;&gt;&lt;strong&gt;股票殖利率是你賺錢的關鍵！附：歷史殖利率排行榜前 15&lt;/strong&gt;&lt;strong&gt; 名&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;3. &lt;/strong&gt;&lt;a href=&quot;https://www.sinotrade.com.tw/richclub/hotopic/%E7%8F%BE%E9%87%91%E8%82%A1%E5%88%A9%E6%98%AF%E4%BB%80%E9%BA%BC-%E6%80%8E%E9%BA%BC%E7%AE%97-%E5%A6%82%E4%BD%95%E6%89%BE%E5%88%B0%E9%AB%98%E6%AE%96%E5%88%A9%E7%8E%87%E7%B8%BE%E5%84%AA%E7%94%9F--62b2b8a249d63c1c9c8a71c0?utm_source=CS&quot;&gt;&lt;strong&gt;現金股利是什麼？如&lt;/strong&gt;&lt;strong&gt;何找到高殖利率績優生？&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;4. &lt;/strong&gt;&lt;a href=&quot;https://www.sinotrade.com.tw/richclub/primary/-626b958c7f83b22f9c0d398a?utm_source=CS&quot;&gt;&lt;strong&gt;股票當沖是什麼？10&lt;/strong&gt;&lt;strong&gt; 個當沖 9&lt;/strong&gt;&lt;strong&gt; 個輸：當沖獲利者不想讓你知道 3&lt;/strong&gt;&lt;strong&gt; 件事&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;\n",
-    "hasCoverPhoto": 1,
-    "isCategoryHeadline": 1,
-    "isIndex": 1,
-    "newsId": 5249276,
-    "otherProduct": [],
-    "payment": 0,
-    "source": "",
-    "stock": [],
-    "summary": "",
-    "title": "6月通膨今晚揭曉，市場預期將低於預期，三大美指期齊揚!",
-    "video": "",
-    "publishAt": 1689153929,
-    "coverSrc": {
-      "xs": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249276/xs/ade7da151ede3a0ec2011c4a87bc05c7.jpg",
-        "width": 100,
-        "height": 56
-      },
-      "s": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249276/s/ade7da151ede3a0ec2011c4a87bc05c7.jpg",
-        "width": 180,
-        "height": 101
-      },
-      "m": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249276/m/ade7da151ede3a0ec2011c4a87bc05c7.jpg",
-        "width": 380,
-        "height": 214
-      },
-      "l": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249276/l/ade7da151ede3a0ec2011c4a87bc05c7.jpg",
-        "width": 640,
-        "height": 360
-      },
-      "xl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249276/xl/ade7da151ede3a0ec2011c4a87bc05c7.jpg",
-        "width": 960,
-        "height": 539
-      },
-      "xxl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249276/xxl/ade7da151ede3a0ec2011c4a87bc05c7.jpg",
-        "width": 1080,
-        "height": 607
-      }
-    },
-    "abTesting": null,
-    "categoryId": 826,
-    "columnists": null,
-    "magazine": null,
-    "fundCategoryAbbr": [],
-    "fbShare": 0,
-    "fbComment": 0,
-    "fbCommentPluginCount": 0,
-    "categoryName": "美股"
-  },
-  {
-    "isOutsource": 0,
-    "content": "&lt;p&gt;歐買尬 (3687-TW) 自研 AI 手遊《LUNA：AI 月神の遠征》導入 AI 聊天機器人，打造出台灣首創的 Chat 遊戲大師系統，能回應玩家遊戲攻略、提問，遊戲預熱活動將開跑，預計第三季上市。&lt;/p&gt;\n\n&lt;p&gt;Luna 為歐買尬知名 IP，此次營運團隊更運用大量 AI 技術進行開發，《LUNA：AI 月神の遠征》細膩精緻的風格，不但提升遊戲體驗，Chat 遊戲大師除了擔任主線 NPC 給予引導外，針對玩家角色、裝備、攻防戰力的不同，還能提供精準的成長配置分析與方案建議。&lt;/p&gt;\n\n&lt;p&gt;歐買尬表示，Chat 遊戲大師經過團隊大量對 AI 進行資訊、語言、市場、全球遊戲歷史、攻略資訊等訓練，建立出獨特的遊戲 AI 互動模組，讓玩家在遊戲中能以不設限的對話與開放性溝通方式，獲得對市場各遊戲問題的全面解答。&lt;/p&gt;\n\n&lt;p&gt;《LUNA：AI 月神の遠征》遊戲玩法以「啟夢系統」為核心，身為藍色大地的冒險者將利用「夢想之盒」的多重開啟，進入多元的任務關卡及系統挑戰外，更將玩家票選出最具 LUNA 經典回憶的「時裝」、「騎寵」、「釣魚」等三大系統精緻復刻、進化重現，希望能重新喚回過去 350 萬名老玩家進入充滿回憶，以及未知的 Luna AI 世界進行探索與冒險旅途。&lt;/p&gt;\n",
-    "hasCoverPhoto": 1,
-    "isCategoryHeadline": 1,
-    "isIndex": 1,
-    "newsId": 5249267,
-    "otherProduct": [
-      "TWS:3687:STOCK:COMMON"
-    ],
-    "payment": 0,
-    "source": "",
-    "stock": [
-      "3687"
-    ],
-    "summary": "",
-    "title": "歐買尬自研AI手遊《LUNA：AI月神の遠征》預熱活動開跑 本季上市添動能",
-    "video": "",
-    "publishAt": 1689153351,
-    "coverSrc": {
-      "xs": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249267/xs/a4ee4a668a846426cc074c0ac6fa9b35.jpg",
-        "width": 100,
-        "height": 56
-      },
-      "s": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249267/s/a4ee4a668a846426cc074c0ac6fa9b35.jpg",
-        "width": 180,
-        "height": 101
-      },
-      "m": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249267/m/a4ee4a668a846426cc074c0ac6fa9b35.jpg",
-        "width": 380,
-        "height": 214
-      },
-      "l": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249267/l/a4ee4a668a846426cc074c0ac6fa9b35.jpg",
-        "width": 640,
-        "height": 360
-      },
-      "xl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249267/xl/a4ee4a668a846426cc074c0ac6fa9b35.jpg",
-        "width": 960,
-        "height": 540
-      },
-      "xxl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249267/xxl/a4ee4a668a846426cc074c0ac6fa9b35.jpg",
-        "width": 1080,
-        "height": 608
-      }
-    },
-    "abTesting": null,
-    "categoryId": 827,
-    "columnists": null,
-    "magazine": null,
-    "fundCategoryAbbr": [],
-    "fbShare": 0,
-    "fbComment": 0,
-    "fbCommentPluginCount": 0,
-    "market": [
-      {
-        "code": "3687",
-        "name": "歐買尬",
-        "symbol": "TWS:3687:STOCK"
-      }
-    ],
-    "categoryName": "台股新聞"
-  },
-  {
-    "isOutsource": 0,
-    "content": "&lt;p&gt;宏碁 (2353-TW) 今 (12) 日宣布，裸視 3D 電競筆電 Predator Helios 3D 15 SpatialLabs 正式發售，最新搭載第 13 代英特爾 i9 處理器、GeForce 4080 顯卡，不須配戴 3D 眼鏡即可享受 3D 沉浸式遊戲體驗。&lt;/p&gt;\n\n&lt;p&gt;宏碁表示，新機支援 SpatialLabs 眼球追蹤解決方案、3D 立體顯示和即時渲染技術，支援五十款以上新作、經典的 3D 遊戲， 另外搭載 32G DDR5 記憶體、 PCIe Gen 4 SSD。&lt;/p&gt;\n\n&lt;p&gt;另外，新機具備雙風扇設計，含第五代 AeroBlade 3D 風扇，搭配液態金屬散熱膏、華碩 CoolBoost 技術，全面提升散熱效能，含 Killer DoubleShot Pro 以及 WiFi 6E。&lt;/p&gt;\n\n&lt;p&gt;新機採用 IPS 15.6 吋窄邊框螢幕，且能在 2K 60Hz 3D 模式、4K 2D 模式中無縫切換，透過 Pulsar Lighting 與全新 PredatorSense 調整色彩、設定 mini-LED 顯示畫面及個別按鍵 RGB 背光鍵盤。&lt;/p&gt;\n",
-    "hasCoverPhoto": 1,
-    "isCategoryHeadline": 1,
-    "isIndex": 1,
-    "newsId": 5249206,
-    "otherProduct": [
-      "TWS:2353:STOCK:COMMON"
-    ],
-    "payment": 0,
-    "source": "",
-    "stock": [
-      "2353"
-    ],
-    "summary": "",
-    "title": "宏碁新款裸視3D電競筆電 正式上市發售",
-    "video": "",
-    "publishAt": 1689153231,
-    "coverSrc": {
-      "xs": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249206/xs/ac9e8214fee3a4fda9a42a0dcc29be84.jpg",
-        "width": 100,
-        "height": 56
-      },
-      "s": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249206/s/ac9e8214fee3a4fda9a42a0dcc29be84.jpg",
-        "width": 180,
-        "height": 101
-      },
-      "m": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249206/m/ac9e8214fee3a4fda9a42a0dcc29be84.jpg",
-        "width": 380,
-        "height": 214
-      },
-      "l": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249206/l/ac9e8214fee3a4fda9a42a0dcc29be84.jpg",
-        "width": 640,
-        "height": 360
-      },
-      "xl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249206/xl/ac9e8214fee3a4fda9a42a0dcc29be84.jpg",
-        "width": 960,
-        "height": 540
-      },
-      "xxl": {
-        "src": "https://cimg.cnyes.cool/prod/news/5249206/xxl/ac9e8214fee3a4fda9a42a0dcc29be84.jpg",
-        "width": 1080,
-        "height": 607
-      }
-    },
-    "abTesting": null,
-    "categoryId": 827,
-    "columnists": null,
-    "magazine": null,
-    "fundCategoryAbbr": [],
-    "fbShare": 0,
-    "fbComment": 0,
-    "fbCommentPluginCount": 0,
-    "market": [
-      {
-        "code": "2353",
-        "name": "﻿宏碁",
-        "symbol": "TWS:2353:STOCK"
-      }
-    ],
-    "categoryName": "台股新聞"
   }
 ]
