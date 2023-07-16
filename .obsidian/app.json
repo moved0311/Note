@@ -29,5 +29,6 @@
     "editor:toggle-blockquote",
     "editor:redo",
     "editor:configure-toolbar"
-  ]
+  ],
+  "spellcheck": false
 }

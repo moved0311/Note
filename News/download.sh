@@ -1,3 +1,5 @@
+cd /Users/taiyijiang/Desktop/Note/News
+
 now=$(date +"%Y-%m-%d")
 baseUrl='https://news.cnyes.com/news/id'
 from=$(date -jf "%Y-%m-%d %T" "$now 00:00:00" "+%s")
