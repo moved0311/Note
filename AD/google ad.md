@@ -8,3 +8,6 @@ googletag.openConsole()
 ```
 ？google_console=1
 ```
+
+* [開始使用 Google 發布商廣告代碼  |  Google Publisher Tag  |  Google for Developers](https://developers.google.com/publisher-tag/guides/get-started?hl=zh-tw)
+
