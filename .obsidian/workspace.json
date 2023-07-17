@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AD/google ad.md",
+                "file": "Daily/2023-07-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AD/google ad.md",
+                "file": "Daily/2023-07-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AD/google ad.md"
+                "file": "Daily/2023-07-10.md"
               }
             }
           }
@@ -180,8 +179,9 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "7b42f5b4103366dc",
+  "active": "1b11fac43814f028",
   "lastOpenFiles": [
+    "AD/google ad.md",
     "鉅亨網/新聞專案改版.md",
     "News/2023-07-17.md",
     "News/2023/2023-07-14.md",
@@ -211,7 +211,6 @@
     "News/2023-07-12.md",
     "News/2023-07-11.md",
     "Gitlab",
-    "npm package.md",
     "NextJS/Next13/ServerActions",
     "NextJS/Next13",
     "Rendering",
