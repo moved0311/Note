@@ -4,18 +4,32 @@
 ---
 
 ## 目錄
-* 基本介紹
+* Docker介紹
+* 儲存庫
+* CICD流程
 
 
 ---
 
-```md
-> [!error] 
-> Callouts support manipulation through annotations
-<!-- element style="width:20%;font-size:24px" rotate="15"-->
+## Docker介紹
 
-<grid drag="30 30" drop="11 68" style="font-size:36px">
-> [!example]
-> Here is an Example for an Callout in a Slide. Callouts support dark and white backgrounds and could be sized by annotations
-</grid>
-```
+---
+
+## 環境安裝
+* [Docker Desktop](https://www.docker.com/)
+
+---
+
+## 範例
+* [getting-started](https://hub.docker.com/r/docker/getting-started)
+
+
+---
+
+## 儲存庫
+* [Docker hub](https://hub.docker.com/)
+* [Gitlab Container Registry](https://gitlab.cnyes.cool/anue/frontend/fe-cnyes/container_registry)
+
+---
+
+## CICD流程
