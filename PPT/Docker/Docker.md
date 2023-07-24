@@ -37,3 +37,9 @@
 CI: 開發 → 編譯 → 打包成image → 將image推至儲存庫
 CD: 部署到機器上
 <!-- element style="text-align: left" -->
+
+
+---
+
+## 推版到Gitlab Container Registry範例
+* https://gitlab.cnyes.cool/taiyijiang/docker
