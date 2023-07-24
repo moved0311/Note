@@ -8,7 +8,6 @@
 * 儲存庫
 * CICD流程
 
-
 ---
 
 ## Docker介紹
@@ -23,6 +22,8 @@
 ## 範例
 * [getting-started](https://hub.docker.com/r/docker/getting-started)
 
+`docker pull docker/getting-started`
+
 
 ---
 
@@ -33,3 +34,6 @@
 ---
 
 ## CICD流程
+CI: 開發 → 編譯 → 打包成image → 將image推至儲存庫
+CD: 部署到機器上
+<!-- element style="text-align: left" -->
