@@ -168,8 +168,10 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "34f8a7fd40ca7e2b",
+  "active": "0956f11c313356e2",
   "lastOpenFiles": [
+    "PPT/Docker",
+    "News/2023-07-24.md",
     "Daily/2023-07-10.md",
     "News/2023-07-21.md",
     "鉅亨網/新聞專案改版.md",
@@ -200,8 +202,6 @@
     "Gitlab/Package Registry.md",
     "React/VirtualDOM.md",
     "Interview/2. 專業問題/問題.md",
-    "NextJS/Vercel.md",
-    "Shell/crontab.md",
     "Gitlab",
     "NextJS/Next13/ServerActions",
     "NextJS/Next13",
