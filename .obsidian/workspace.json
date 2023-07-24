@@ -6,6 +6,7 @@
       {
         "id": "93076ecb0d9add20",
         "type": "tabs",
+        "dimension": 75.27559055118111,
         "children": [
           {
             "id": "1b11fac43814f028",
@@ -13,19 +14,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-07-10.md",
+                "file": "Daily/2023-07-24.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "34f8a7fd40ca7e2b",
+            "id": "417900ca94002458",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md",
+                "file": "PPT/Docker/Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,6 +34,21 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "b8c0790e333328c0",
+        "type": "tabs",
+        "dimension": 24.7244094488189,
+        "children": [
+          {
+            "id": "05b47935664c5ac6",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.50390243530273
+    "width": 224.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -106,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md",
+                "file": "PPT/Docker/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md",
+                "file": "PPT/Docker/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md"
+                "file": "PPT/Docker/Docker.md"
               }
             }
           }
@@ -168,13 +185,16 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "0956f11c313356e2",
+  "active": "417900ca94002458",
   "lastOpenFiles": [
+    "Daily/2023-07-24.md",
+    "PPT/Docker/Docker.md",
+    "PPT/Vim/Vim.md",
+    "Daily/2023-07-10.md",
+    "鉅亨網/新聞專案改版.md",
     "PPT/Docker",
     "News/2023-07-24.md",
-    "Daily/2023-07-10.md",
     "News/2023-07-21.md",
-    "鉅亨網/新聞專案改版.md",
     "News/2023-07-20.md",
     "Stocks/綠能/綠能.md",
     "News/test.sh",
@@ -200,13 +220,10 @@
     "Web/CDN.md",
     "Web",
     "Gitlab/Package Registry.md",
-    "React/VirtualDOM.md",
-    "Interview/2. 專業問題/問題.md",
     "Gitlab",
     "NextJS/Next13/ServerActions",
     "NextJS/Next13",
     "Rendering",
-    "Cache",
     "未命名.canvas",
     "未命名 1.canvas",
     "Stocks/手機/IDC2023Q1手機出貨量.png",
