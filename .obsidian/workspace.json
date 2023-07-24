@@ -6,6 +6,7 @@
       {
         "id": "93076ecb0d9add20",
         "type": "tabs",
+        "dimension": 69.13385826771653,
         "children": [
           {
             "id": "1b11fac43814f028",
@@ -29,6 +30,22 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6d2073e9c66e0052",
+        "type": "tabs",
+        "dimension": 30.866141732283463,
+        "children": [
+          {
+            "id": "aad82cc2d919797f",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
             }
           }
         ]
@@ -106,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-07-24.md",
+                "file": "PPT/Docker/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-07-24.md",
+                "file": "PPT/Docker/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-07-24.md"
+                "file": "PPT/Docker/Docker.md"
               }
             }
           }
@@ -168,10 +185,10 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "1b11fac43814f028",
+  "active": "417900ca94002458",
   "lastOpenFiles": [
-    "PPT/Docker/Docker.md",
     "Daily/2023-07-24.md",
+    "PPT/Docker/Docker.md",
     "PPT/Vim/Vim.md",
     "Daily/2023-07-10.md",
     "鉅亨網/新聞專案改版.md",
