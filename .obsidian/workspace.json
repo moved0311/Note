@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md",
+                "file": "PPT/Docker/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md",
+                "file": "PPT/Docker/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md"
+                "file": "PPT/Docker/Docker.md"
               }
             }
           }
@@ -181,11 +181,11 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "e8e338e23b55b294",
+  "active": "417900ca94002458",
   "lastOpenFiles": [
+    "鉅亨網/新聞專案改版.md",
     "Daily/2023-07-24.md",
     "PPT/Docker/Docker.md",
-    "鉅亨網/新聞專案改版.md",
     "未命名.canvas",
     "News/2023-07-25.md",
     "PPT/Vim/Vim.md",
