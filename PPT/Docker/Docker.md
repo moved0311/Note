@@ -35,7 +35,7 @@
 
 ## CICD流程
 開發 → commit → push\
-CI: 測試 編譯 → 打包成image → 將image推至儲存庫\
+CI: 測試 → 編譯 → 打包成image → 推至儲存庫\
 CD: 部署到機器上
 <!-- element style="text-align: left" -->
 
