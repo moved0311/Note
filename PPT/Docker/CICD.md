@@ -4,7 +4,7 @@ width: 1200
 height: 700
 ---
 
-## CICD
+## CI~~CD~~
 2023/07/26
 
 ---
@@ -12,34 +12,8 @@ height: 700
 ## CICD流程
 ::: block <!-- element style="text-align: left"-->
 開發 → commit → push\
-<span class="hightlight">CI: 編譯 → 打包成image → 推至儲存庫</span>\
+<span class="hightlight">CI: 編譯 → 打包成 docker image → 推至gitlab儲存庫</span>\
 CD: 部署到機器上 
-:::
-
----
-
-## .gitlab-ci.yml
-* [fe-lobby/.gitlab-ci.yml](https://gitlab.cnyes.cool/anue/frontend/fe-lobby/-/blob/develop/.gitlab-ci.yml)
-* [share/util](https://gitlab.cnyes.cool/share/util)
-
----
-
-## Docker介紹
-
----
-
-## 環境安裝
-* [Docker Desktop](https://www.docker.com/)
-
----
-
-:::
-## 範例
-[getting-started](https://hub.docker.com/r/docker/getting-started)
-<!-- element style="text-align: left" -->
-
-docker pull docker/getting-started
-<!-- element style="text-align: left" -->
 :::
 
 ---
@@ -50,12 +24,25 @@ docker pull docker/getting-started
 
 ---
 
-## CICD流程
-開發 → commit → push\
-CI: 測試 → 編譯 → 打包成image → 推至儲存庫\
-CD: 部署到機器上
-<!-- element style="text-align: left" -->
+## [Docker介紹](https://zh.wikipedia.org/zh-tw/Docker)
 
+::: block <!-- element style="text-align: left" -->
+####  環境安裝
+* [Docker Desktop](https://www.docker.com/)<!-- element style="font-size: 32px" -->
+
+#### Docker好處
+* 環境問題<!-- element style="font-size: 32px" -->
+
+#### 範例
+* [getting-started](https://hub.docker.com/r/docker/getting-started)<!-- element style="font-size: 32px" -->
+:::
+
+
+---
+
+## .gitlab-ci.yml
+* [fe-lobby/.gitlab-ci.yml](https://gitlab.cnyes.cool/anue/frontend/fe-lobby/-/blob/develop/.gitlab-ci.yml)
+* [share/util](https://gitlab.cnyes.cool/share/util)
 
 ---
 
