@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-07-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8e338e23b55b294",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "鉅亨網/新聞專案改版.md",
+                "file": "Obsidian/Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,10 +25,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PPT/Docker/Docker.md",
+                "file": "PPT/Docker/CICD.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a082c24e1f528b0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c419246ec2a87b7b",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
             }
           }
         ]
@@ -118,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-07-24.md",
+                "file": "PPT/Docker/CICD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-07-24.md",
+                "file": "PPT/Docker/CICD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-07-24.md"
+                "file": "PPT/Docker/CICD.md"
               }
             }
           }
@@ -180,11 +183,13 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "1b11fac43814f028",
+  "active": "417900ca94002458",
   "lastOpenFiles": [
-    "鉅亨網/新聞專案改版.md",
-    "PPT/Docker/Docker.md",
+    "Obsidian/Syntax.md",
+    "PPT/Docker/CICD.md",
     "Daily/2023-07-24.md",
+    "Obsidian",
+    "鉅亨網/新聞專案改版.md",
     "未命名.canvas",
     "News/2023-07-25.md",
     "PPT/Vim/Vim.md",
@@ -218,7 +223,6 @@
     "Gitlab",
     "NextJS/Next13/ServerActions",
     "NextJS/Next13",
-    "Rendering",
     "未命名 1.canvas",
     "Stocks/手機/IDC2023Q1手機出貨量.png",
     "鉅亨網/whenToUseServerAndClientComponents.png",

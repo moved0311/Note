@@ -1,12 +1,26 @@
-## Docker
+---
+transition: slide
+margin: 0.1
+width: 1200
+height: 700
+---
+
+## CICD
 2023/07/26
 
 ---
 
-## 目錄
-* Docker介紹
-* 儲存庫
-* CICD流程
+
+
+---
+
+:::  
+## CICD流程
+開發 → commit → push\
+測試 → 編譯 → 打包成image → 推至儲存庫 (CI)\
+部署到機器上 (CD)
+<!-- element style="text-align: left" -->
+:::
 
 ---
 
@@ -19,11 +33,14 @@
 
 ---
 
+:::
 ## 範例
-* [getting-started](https://hub.docker.com/r/docker/getting-started)
+[getting-started](https://hub.docker.com/r/docker/getting-started)
+<!-- element style="text-align: left" -->
 
-`docker pull docker/getting-started`
-
+docker pull docker/getting-started
+<!-- element style="text-align: left" -->
+:::
 
 ---
 
