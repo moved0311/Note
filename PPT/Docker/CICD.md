@@ -1,8 +1,3 @@
----
-margin: 0.1
-width: 1200
-height: 700
----
 
 ## CI~~CD~~
 2023/07/26
@@ -48,8 +43,6 @@ CD: 部署到機器上
 
 ## 推版到Gitlab Container Registry範例
 * https://gitlab.cnyes.cool/taiyijiang/docker
-
-
 
 <style>
 .hightlight {

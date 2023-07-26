@@ -13,22 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-07-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "417900ca94002458",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "PPT/Docker/CICD.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1a33e5d51958a3ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6198e9ab09de2bd1",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
             }
           }
         ]
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-07-24.md",
+                "file": "PPT/Docker/CICD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-07-24.md",
+                "file": "PPT/Docker/CICD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-07-24.md"
+                "file": "PPT/Docker/CICD.md"
               }
             }
           }
@@ -169,10 +171,11 @@
   },
   "active": "10fe87dadb10e502",
   "lastOpenFiles": [
+    "Daily/2023-07-24.md",
+    "Daily/2023-07-26.md",
+    "PPT/Docker/CICD.md",
     "React/Memo.md",
     "鉅亨網/新聞專案改版.md",
-    "PPT/Docker/CICD.md",
-    "Daily/2023-07-24.md",
     "未命名 1.canvas",
     "Stocks/6902/6902.md",
     "Stocks/6902",
@@ -202,7 +205,6 @@
     "Stocks/綠能/氣候變遷法.md",
     "Stocks/綠能",
     "Stocks/5483/5483.png",
-    "News/2023-07-18.md",
     "News/download1.sh",
     "News/date.out",
     "Web",
