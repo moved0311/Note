@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b11fac43814f028",
+            "id": "10fe87dadb10e502",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Syntax.md",
+                "file": "Daily/2023-07-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,21 +29,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "533abcdb4fee464c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "19eb83ea1bec9158",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
             }
           }
         ]
@@ -104,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.50390243530273,
-    "collapsed": true
+    "width": 224.50390243530273
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -121,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PPT/Docker/CICD.md",
+                "file": "Daily/2023-07-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PPT/Docker/CICD.md",
+                "file": "Daily/2023-07-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PPT/Docker/CICD.md"
+                "file": "Daily/2023-07-24.md"
               }
             }
           }
@@ -183,17 +167,25 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "417900ca94002458",
+  "active": "10fe87dadb10e502",
   "lastOpenFiles": [
-    "Obsidian/Syntax.md",
+    "News/2023/2023-07-25.md",
+    "News/2023/2023-07-24.md",
+    "News/2023/2023-07-21.md",
+    "News/2023/2023-07-20.md",
+    "News/2023/2023-07-19.md",
+    "News/2023/2023-07-18.md",
+    "News/2023/2023-07-17.md",
+    "News/2023-07-26.md",
     "PPT/Docker/CICD.md",
+    "Obsidian/Syntax.md",
     "Daily/2023-07-24.md",
     "Obsidian",
     "鉅亨網/新聞專案改版.md",
     "未命名.canvas",
     "News/2023-07-25.md",
     "PPT/Vim/Vim.md",
-    "Daily/2023-07-10.md",
+    "Daily/2023/2023-07-10.md",
     "PPT/Docker",
     "News/2023-07-24.md",
     "News/2023-07-21.md",
@@ -209,14 +201,6 @@
     "News/2023-07-18.md",
     "News/2023-07-17.md",
     "News/2023/2023-07-14.md",
-    "News/2023/2023-07-13.md",
-    "News/2023/2023-07-12.md",
-    "News/2023-07-13.md",
-    "News/2023-07-14.md",
-    "News/2023-07-14-09:07.md",
-    "News/2023-07-13-13:07.md",
-    "News/2023-07-13-11:07.md",
-    "News/123.md",
     "News/download1.sh",
     "News/date.out",
     "Web",
