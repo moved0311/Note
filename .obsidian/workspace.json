@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.50390243530273,
-    "collapsed": true
+    "width": 224.50390243530273
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -107,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PPT/Docker/CICD.md",
+                "file": "Daily/2023-07-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PPT/Docker/CICD.md",
+                "file": "Daily/2023-07-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PPT/Docker/CICD.md"
+                "file": "Daily/2023-07-24.md"
               }
             }
           }
@@ -169,11 +167,13 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "417900ca94002458",
+  "active": "10fe87dadb10e502",
   "lastOpenFiles": [
+    "React/Memo.md",
+    "鉅亨網/新聞專案改版.md",
+    "PPT/Docker/CICD.md",
     "Daily/2023-07-24.md",
     "未命名 1.canvas",
-    "鉅亨網/新聞專案改版.md",
     "Stocks/6902/6902.md",
     "Stocks/6902",
     "News/2023/2023-07-25.md",
@@ -184,7 +184,6 @@
     "News/2023/2023-07-18.md",
     "News/2023/2023-07-17.md",
     "News/2023-07-26.md",
-    "PPT/Docker/CICD.md",
     "Obsidian/Syntax.md",
     "Obsidian",
     "未命名.canvas",
