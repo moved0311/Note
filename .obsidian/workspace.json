@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b485ecacd361dc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2023-07-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9d3dc14752e12bb1",
             "type": "leaf",
             "state": {
@@ -30,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bfefb7baa9e42ac4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-07-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,11 +168,12 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "4b485ecacd361dc3",
+  "active": "bfefb7baa9e42ac4",
   "lastOpenFiles": [
+    "React/hydration.md",
     "鉅亨網/新聞專案改版.md",
-    "News/2023-07-28.md",
     "Daily/2023-07-24.md",
+    "News/2023-07-28.md",
     "資安/DDOS.md",
     "資安",
     "News/2023-07-27.md",
@@ -200,7 +202,6 @@
     "News/2023-07-24.md",
     "News/2023-07-21.md",
     "News/2023-07-20.md",
-    "Stocks/綠能/綠能.md",
     "News/test.sh",
     "Stocks/綠能",
     "Stocks/5483/5483.png",
