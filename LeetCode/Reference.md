@@ -1,2 +1,2 @@
 * *[Become a Coding Interview Pro in 2023 with These 20 Must-Know Algorithmic Patterns! | by Arslan Ahmad | Jan, 2023 | Level Up Coding](https://levelup.gitconnected.com/become-a-coding-interview-pro-in-2023-with-these-20-must-know-algorithmic-patterns-715643e493f5)
-* 
+* [想提升演算法面試的實力嗎？來參加程式競賽吧！. 想提升演算法實力，我覺得參與競賽是滿好的方法之一，但雖然面試與競賽的考題內容看似… | by Arthur Lin | Medium](https://arthur-lin.medium.com/%E6%83%B3%E6%8F%90%E5%8D%87%E6%BC%94%E7%AE%97%E6%B3%95%E9%9D%A2%E8%A9%A6%E7%9A%84%E5%AF%A6%E5%8A%9B%E5%97%8E-%E4%BE%86%E5%8F%83%E5%8A%A0%E7%A8%8B%E5%BC%8F%E7%AB%B6%E8%B3%BD%E5%90%A7-1028852e65c9)

@@ -2,9 +2,10 @@
   "vimMode": true,
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
+    "includeName": false,
     "pageSize": "Tabloid",
     "landscape": false,
-    "margin": "1",
+    "margin": "0",
     "downscalePercent": 100
   },
   "mobileToolbarCommands": [
