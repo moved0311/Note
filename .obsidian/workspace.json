@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-07-24.md",
+                "file": "React/useRef.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-07-24.md",
+                "file": "React/useRef.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-07-24.md",
+                "file": "React/useRef.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-07-24.md"
+                "file": "React/useRef.md"
               }
             }
           }
@@ -168,8 +168,9 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "0956f11c313356e2",
+  "active": "bfefb7baa9e42ac4",
   "lastOpenFiles": [
+    "Daily/2023-07-24.md",
     "CSS/多餘字元.md",
     "CSS",
     "News/2023-08-04.md",
@@ -191,7 +192,6 @@
     "News/2023-07-31.md",
     "React/hydration.md",
     "鉅亨網/新聞專案改版.md",
-    "Daily/2023-07-24.md",
     "News/2023-07-28.md",
     "資安/DDOS.md",
     "資安",
