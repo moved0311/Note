@@ -1,3 +1,24 @@
+## String
+
+```py
+word = "abcdefg"
+
+word[0:3] # abc
+```
+
+## For Loop
+
+range不會包含右側
+
+```py
+for i in range(5, 1, -1):
+    print(i)
+# 5
+# 4
+# 3
+# 2
+```
+
 ## enumerate
 
 ```py
@@ -5,6 +26,15 @@ nums = [1, 6, 4, 2]
 
 for index, num in enumerate(nums):
     print(index, num)
+```
+
+## Set
+```py
+strs = ["aaa","cb", "a", "ab", "abc", "a", "ab"]
+
+wordDict = set(strs) # {'a', 'aaa', 'ab', 'abc', 'cb'}
+
+'a' in wordDict # True
 ```
 
 
