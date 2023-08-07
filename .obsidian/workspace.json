@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1c280feaa18a1451",
+        "id": "0d1a1c5d6e596470",
         "type": "tabs",
         "children": [
           {
-            "id": "a8fed757f8dfba91",
+            "id": "0a285fbadd1c39cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/useRef.md",
+                "file": "1. Daily/2023-07-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/useRef.md",
+                "file": "1. Daily/2023-07-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/useRef.md",
+                "file": "1. Daily/2023-07-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/useRef.md"
+                "file": "1. Daily/2023-07-24.md"
               }
             }
           }
@@ -155,8 +155,10 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "a8fed757f8dfba91",
+  "active": "0956f11c313356e2",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "React/useRef.md",
     "News/2023/2023-08-04.md",
     "News/2023/2023-08-02.md",
     "News/2023-08-07.md",
@@ -173,8 +175,7 @@
     "Memory",
     "LearnEnglish/chatGPT詠唱指令.md",
     "鉅亨網/新聞專案改版.md",
-    "React/useRef.md",
-    "Daily/2023-07-24.md",
+    "1. Daily/2023-07-24.md",
     "CSS/多餘字元.md",
     "CSS",
     "News/2023-08-04.md",
@@ -191,10 +192,8 @@
     "News/2023/2023-07-28.md",
     "News/2023/2023-07-27.md",
     "News/2023/2023-07-26.md",
-    "News/2023-08-01.md",
     "資安",
     "未命名 1.canvas",
-    "未命名.canvas",
     "Stocks/5483/5483.png",
     "Stocks/手機/IDC2023Q1手機出貨量.png",
     "鉅亨網/whenToUseServerAndClientComponents.png",
