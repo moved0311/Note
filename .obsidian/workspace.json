@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0d1a1c5d6e596470",
+        "id": "e04697b321835c13",
         "type": "tabs",
         "children": [
           {
-            "id": "0a285fbadd1c39cf",
+            "id": "7f7c15c1616bcd9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,10 +155,12 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "0a285fbadd1c39cf",
+  "active": "7f7c15c1616bcd9f",
   "lastOpenFiles": [
-    "1. Daily/2023-07-24.md",
     "1. Daily/2023-08-08.md",
+    "Structure/Web.md",
+    "Structure",
+    "1. Daily/2023-07-24.md",
     "News/2023-08-08.md",
     "未命名.canvas",
     "React/useRef.md",
@@ -192,8 +194,6 @@
     "News/2023/2023-08-01.md",
     "News/2023/2023-07-31.md",
     "News/2023/2023-07-28.md",
-    "News/2023/2023-07-27.md",
-    "資安",
     "未命名 1.canvas",
     "Stocks/5483/5483.png",
     "Stocks/手機/IDC2023Q1手機出貨量.png",
