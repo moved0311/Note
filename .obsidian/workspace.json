@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-07-24.md",
+                "file": "1. Daily/2023-08-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-07-24.md",
+                "file": "1. Daily/2023-08-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-07-24.md",
+                "file": "1. Daily/2023-08-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-07-24.md"
+                "file": "1. Daily/2023-08-08.md"
               }
             }
           }
@@ -157,6 +157,8 @@
   },
   "active": "0a285fbadd1c39cf",
   "lastOpenFiles": [
+    "1. Daily/2023-07-24.md",
+    "1. Daily/2023-08-08.md",
     "News/2023-08-08.md",
     "未命名.canvas",
     "React/useRef.md",
@@ -176,7 +178,6 @@
     "Memory",
     "LearnEnglish/chatGPT詠唱指令.md",
     "鉅亨網/新聞專案改版.md",
-    "1. Daily/2023-07-24.md",
     "CSS/多餘字元.md",
     "CSS",
     "News/2023-08-04.md",
@@ -192,7 +193,6 @@
     "News/2023/2023-07-31.md",
     "News/2023/2023-07-28.md",
     "News/2023/2023-07-27.md",
-    "News/2023/2023-07-26.md",
     "資安",
     "未命名 1.canvas",
     "Stocks/5483/5483.png",
