@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vim/Vim.md",
+                "file": "1. Daily/2023-08-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vim/Vim.md",
+                "file": "1. Daily/2023-08-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vim/Vim.md",
+                "file": "1. Daily/2023-08-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vim/Vim.md"
+                "file": "1. Daily/2023-08-08.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "7f7c15c1616bcd9f",
   "lastOpenFiles": [
+    "Vim/Vim.md",
     "1. Daily/2023-08-08.md",
     "2. TODO/Cracking The CodeInterview/Ch5/__test__/5.3.test.js",
     "2. TODO/Cracking The CodeInterview/Ch5/__test__/5.2.test.js",
