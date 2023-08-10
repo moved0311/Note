@@ -15,17 +15,17 @@ const ref = useRef<HTMLDivElement>(null)
 
 ## 點擊元素外關閉視窗
 ```ts
-  const handleDocClick = (e: MouseEvent) => {
+  const handleDOMClick = (e: MouseEvent) => {
     if (accountPanelRef?.current && !accountPanelRef?.current?.contains(e.target as Node) && isOpen) {
       onClose();
     }
   };
 
   useEffect(() => {
-    window.addEventListener('click', handleDocClick);
+    window.addEventListener('click', handleDOMClick);
 
     return () => {
-      window.removeEventListener('click', handleDocClick);
+      window.removeEventListener('click', handleDOMClick);
     }
   }, [])
 ```
