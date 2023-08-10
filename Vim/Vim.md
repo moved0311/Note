@@ -26,8 +26,9 @@
 按下@a使用巨集
 
 
-|||
-|--|--|
 |c-d|move down half screen|
 |c-u|move up half screen|
-|c-f|jump to same word on cursor|
+
+
+跳到下個搜尋目前滑鼠的字 `*`
+跳到上個搜尋目前滑鼠的字 `#`

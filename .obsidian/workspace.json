@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-08-08.md",
+                "file": "Vim/Vim.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-08-08.md",
+                "file": "Vim/Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-08-08.md",
+                "file": "Vim/Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-08-08.md"
+                "file": "Vim/Vim.md"
               }
             }
           }
@@ -157,20 +157,32 @@
   },
   "active": "7f7c15c1616bcd9f",
   "lastOpenFiles": [
+    "1. Daily/2023-08-08.md",
+    "2. TODO/Cracking The CodeInterview/Ch5/__test__/5.3.test.js",
+    "2. TODO/Cracking The CodeInterview/Ch5/__test__/5.2.test.js",
+    "2. TODO/Cracking The CodeInterview/Ch5/__test__/5.1.test.js",
+    "2. TODO/Cracking The CodeInterview/Ch5/__test__",
+    "2. TODO/Cracking The CodeInterview/Ch5/5.4.ts",
+    "2. TODO/Cracking The CodeInterview/Ch5/5.3.js",
+    "2. TODO/Cracking The CodeInterview/Ch5/5.3(bruteforce).js",
+    "2. TODO/Cracking The CodeInterview/Ch5/5.2.js",
+    "2. TODO/Cracking The CodeInterview/Ch5/5.1.js",
+    "2. TODO/Cracking The CodeInterview/Ch1/1.9.test.js",
+    "2. TODO/Cracking The CodeInterview/CrackingTheCodeInterview.md",
+    "2. TODO/interviewQuestion.md",
+    "2. TODO/Read.md",
+    "2. TODO/LeetCode.md",
+    "2. TODO/Course.md",
+    "2. TODO/CodingInterviewUniversity.md",
     "News/2023-08-10.md",
     "Stocks/4977/4977-眾達KY.md",
-    "Stocks/4977",
     "React/useRef.md",
     "React/react-query/window focus refetching.md",
     "React/hooks/useTransition.md",
-    "React/react-query",
-    "1. Daily/2023-08-08.md",
-    "React/hooks",
     "News/2023-08-09.md",
     "NextJS/Next13.md",
     "React/LazyLoading.md",
     "Structure/Web.md",
-    "Structure",
     "1. Daily/2023-07-24.md",
     "News/2023-08-08.md",
     "未命名.canvas",
@@ -179,21 +191,8 @@
     "News/2023/2023-08-02.md",
     "News/2023-08-07.md",
     "i18n/reference.md",
-    "i18n",
     "TradingView/策略1.md",
-    "TradingView",
     "Stocks/3533/3533嘉澤.md",
-    "Stocks/3533",
-    "NextJS/ServerActions.md",
-    "NextJS/ISR.md",
-    "Memory/Reference.md",
-    "Memory",
-    "LearnEnglish/chatGPT詠唱指令.md",
-    "鉅亨網/新聞專案改版.md",
-    "CSS/多餘字元.md",
-    "CSS",
-    "News/2023-08-04.md",
-    "Python/Basic.ipynb",
     "未命名 1.canvas",
     "Stocks/5483/5483.png",
     "Stocks/手機/IDC2023Q1手機出貨量.png",

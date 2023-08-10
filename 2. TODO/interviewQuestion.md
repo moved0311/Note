@@ -812,26 +812,6 @@ new new Foo().getName(); // ？
 
 
 
-### justify-content:space-between around 有什么区别
-
-公司：快手
-
-分类：Css
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/169)
-
-
-
-### 手写代码实现`kuai-shou-front-end=>KuaiShouFrontEnd`
-
-公司：快手
-
-分类：JavaScript
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/168)
-
-
-
 ### 浏览器都有哪些进程，渲染进程中都有什么线程
 
 公司：老虎

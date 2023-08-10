@@ -5,14 +5,10 @@ Repo: [Coding Interview University](https://github.com/jwasham/coding-interview-
 * [Caches](#caches)
 
 ## 位元運算
-- [x] 實際了解如何用下列的位元運算子來操作每個位元: &, |, ^, ~, >>, <<
-- [x] [words](https://en.wikipedia.org/wiki/Word_(computer_architecture))
   - 計算機指令集會定義word長度，常見有32bits, 64bits
 - [ ] Good intro:
     [Bit Manipulation (影片)](https://www.youtube.com/watch?v=7jkIUgLC29I)
 - [ ] [C Programming Tutorial 2-10: Bitwise Operators (影片)](https://www.youtube.com/watch?v=d0AwjSpNXR0)
-- [x] [Bit Manipulation](https://en.wikipedia.org/wiki/Bit_manipulation)
-- [x] [Bitwise Operation](https://en.wikipedia.org/wiki/Bitwise_operation)
 - [ ] [Bithacks](https://graphics.stanford.edu/~seander/bithacks.html)
 - [ ] [The Bit Twiddler](https://bits.stephan-brumme.com/)
 - [ ] [The Bit Twiddler Interactive](https://bits.stephan-brumme.com/interactive.html)
@@ -34,49 +30,6 @@ Repo: [Coding Interview University](https://github.com/jwasham/coding-interview-
 
 ---
 
-### 2. Use Flashcards
-
-To solve the problem, I made a little flashcards site where I could add flashcards of 2 types: general and code.
-Each card has different formatting. I made a mobile-first website, so I could review on my phone or tablet, wherever I am.
-
-Make your own for free:
-
-**I DON'T RECOMMEND using my flashcards.** There are too many and most of them are trivia that you don't need.
-
-But if you don't want to listen to me, here you go:
-- [My flash cards database (1200 cards)](https://github.com/jwasham/computer-science-flash-cards/blob/main/cards-jwasham.db):
-- [My flash cards database (extreme - 1800 cards)](https://github.com/jwasham/computer-science-flash-cards/blob/main/cards-jwasham-extreme.db):
-
-Keep in mind I went overboard and have cards covering everything from assembly language and Python trivia to machine learning and statistics. 
-It's way too much for what's required.
-
-**Note on flashcards:** The first time you recognize you know the answer, don't mark it as known. You have to see the
-same card and answer it several times correctly before you really know it. Repetition will put that knowledge deeper in
-your brain.
-
-An alternative to using my flashcard site is [Anki](http://ankisrs.net/), which has been recommended to me numerous times. 
-It uses a repetition system to help you remember. It's user-friendly, available on all platforms and has a cloud sync system. 
-It costs $25 on iOS but is free on other platforms.
-
-My flashcard database in Anki format: https://ankiweb.net/shared/info/25173560 (thanks [@xiewenya](https://github.com/xiewenya)).
-
-Some students have mentioned formatting issues with white space that can be fixed by doing the following: open deck, edit card, click cards, select the "styling" radio button, add the member "white-space: pre;" to the card class.
-
-### 3. Do Coding Interview Questions While You're Learning
-
-THIS IS VERY IMPORTANT.
-
-Start doing coding interview questions while you're learning data structures and algorithms.
-
-You need to apply what you're learning to solving problems, or you'll forget. I made this mistake. 
-
-Once you've learned a topic, and feel somewhat comfortable with it, for example, **linked lists**:
-1. Open one of the [coding interview books](#interview-prep-books) (or coding problem websites, listed below) 
-1. Do 2 or 3 questions regarding linked lists. 
-1. Move on to the next learning topic.
-1. Later, go back and do another 2 or 3 linked list problems.
-1. Do this with each new topic you learn. 
-
 **Keep doing problems while you're learning all this stuff, not after.**
 
 You're not being hired for knowledge, but how you apply the knowledge.
@@ -88,33 +41,8 @@ There are many resources for this, listed below. Keep going.
 There are a lot of distractions that can take up valuable time. Focus and concentration are hard. Turn on some music
 without lyrics and you'll be able to focus pretty well.
 
-## What you won't see covered
-
-These are prevalent technologies but not part of this study plan:
-
-- Javascript
-- HTML, CSS, and other front-end technologies
-- SQL
-
-## The Daily Plan
-
-This course goes over a lot of subjects. Each will probably take you a few days, or maybe even a week or more. It depends on your schedule.
-
-Each day, take the next subject in the list, watch some videos about that subject, and then write an implementation 
-of that data structure or algorithm in the language you chose for this course.
-
-You can see my code here:
- - [C](https://github.com/jwasham/practice-c)
- - [C++](https://github.com/jwasham/practice-cpp)
- - [Python](https://github.com/jwasham/practice-python)
-
-You don't need to memorize every algorithm. You just need to be able to understand it enough to be able to write your own implementation.
 
 ## Coding Question Practice
-
-    Why is this here? I'm not ready to interview.
-
-[Then go back and read this.](#3-do-coding-interview-questions-while-youre-learning)
 
 Why you need to practice doing programming problems:
 - Problem recognition, and where the right data structures and algorithms fit in
@@ -134,13 +62,10 @@ If you don't have a whiteboard at home, pick up a large drawing pad from an art 
 This is my "sofa whiteboard". I added the pen in the photo just for scale. If you use a pen, you'll wish you could erase. 
 Gets messy quick. **I use a pencil and eraser.**
 
-![my sofa whiteboard](https://d3j2pkmjtin6ou.cloudfront.net/art_board_sm_2.jpg)
 
 **Coding question practice is not about memorizing answers to programming problems.**
 
 ## Coding Problems
-
-Don't forget your key coding interview books [here](#interview-prep-books).
 
 Solving Problems:
 - [How to Find a Solution](https://www.topcoder.com/thrive/articles/How%20To%20Find%20a%20Solution)
