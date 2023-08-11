@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/react-query/window focus refetching.md",
+                "file": "TypeScript/Event.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-08-08.md",
+                "file": "TypeScript/Event.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-08-08.md",
+                "file": "TypeScript/Event.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-08-08.md"
+                "file": "TypeScript/Event.md"
               }
             }
           }
@@ -167,10 +168,16 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "7f7c15c1616bcd9f",
+  "active": "77f630929b58ce47",
   "lastOpenFiles": [
     "React/react-query/window focus refetching.md",
+    "TypeScript/Event.md",
     "1. Daily/2023-08-08.md",
+    "News/2023/2023-08-10.md",
+    "News/2023/2023-08-09.md",
+    "News/2023/2023-08-08.md",
+    "News/2023/2023-08-07.md",
+    "News/2023-08-11.md",
     "React/hooks/useRef.md",
     "Vim/Vim.md",
     "2. TODO/Cracking The CodeInterview/Ch5/__test__/5.3.test.js",
@@ -200,12 +207,6 @@
     "1. Daily/2023-07-24.md",
     "News/2023-08-08.md",
     "未命名.canvas",
-    "News/2023/2023-08-04.md",
-    "News/2023/2023-08-02.md",
-    "News/2023-08-07.md",
-    "i18n/reference.md",
-    "TradingView/策略1.md",
-    "Stocks/3533/3533嘉澤.md",
     "未命名 1.canvas",
     "Stocks/5483/5483.png",
     "Stocks/手機/IDC2023Q1手機出貨量.png",
