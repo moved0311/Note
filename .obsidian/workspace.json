@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "77f630929b58ce47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript/Event.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/Event.md",
+                "file": "1. Daily/2023-08-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/Event.md",
+                "file": "1. Daily/2023-08-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/Event.md"
+                "file": "1. Daily/2023-08-08.md"
               }
             }
           }
@@ -168,17 +155,18 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "77f630929b58ce47",
+  "active": "0956f11c313356e2",
   "lastOpenFiles": [
-    "React/react-query/window focus refetching.md",
+    "React/hooks/useRef.md",
+    "JavaScript/二維陣列.md",
     "TypeScript/Event.md",
+    "React/react-query/window focus refetching.md",
     "1. Daily/2023-08-08.md",
     "News/2023/2023-08-10.md",
     "News/2023/2023-08-09.md",
     "News/2023/2023-08-08.md",
     "News/2023/2023-08-07.md",
     "News/2023-08-11.md",
-    "React/hooks/useRef.md",
     "Vim/Vim.md",
     "2. TODO/Cracking The CodeInterview/Ch5/__test__/5.3.test.js",
     "2. TODO/Cracking The CodeInterview/Ch5/__test__/5.2.test.js",
@@ -205,7 +193,6 @@
     "React/LazyLoading.md",
     "Structure/Web.md",
     "1. Daily/2023-07-24.md",
-    "News/2023-08-08.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "Stocks/5483/5483.png",

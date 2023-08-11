@@ -1,7 +1,7 @@
 
 
 type:
-* HTMLDivElement 
+* HTMLDivElement,  HTMLInputElement
 
 ```ts
 import { useRef } from 'react';
@@ -28,4 +28,21 @@ const ref = useRef<HTMLDivElement>(null)
       window.removeEventListener('click', handleDOMClick);
     }
   }, [])
+```
+
+## 清除input文字
+```tsx
+  const handleClearInput = () => {
+    if (inputRef.current) {
+      inputRef.current.value = '';
+    }
+  };
+
+```
+```html
+  <input
+	placeholder={placeholder}
+	onChange={debounce(handleChangeInput, 500)}
+	ref={inputRef}
+  />
 ```
