@@ -20,17 +20,18 @@
             }
           },
           {
-            "id": "710442131f294105",
+            "id": "77f630929b58ce47",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.7"
+                "file": "React/react-query/window focus refetching.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,10 +167,11 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "710442131f294105",
+  "active": "7f7c15c1616bcd9f",
   "lastOpenFiles": [
-    "React/hooks/useRef.md",
+    "React/react-query/window focus refetching.md",
     "1. Daily/2023-08-08.md",
+    "React/hooks/useRef.md",
     "Vim/Vim.md",
     "2. TODO/Cracking The CodeInterview/Ch5/__test__/5.3.test.js",
     "2. TODO/Cracking The CodeInterview/Ch5/__test__/5.2.test.js",
@@ -190,7 +192,6 @@
     "News/2023-08-10.md",
     "Stocks/4977/4977-眾達KY.md",
     "React/useRef.md",
-    "React/react-query/window focus refetching.md",
     "React/hooks/useTransition.md",
     "News/2023-08-09.md",
     "NextJS/Next13.md",
