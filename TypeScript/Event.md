@@ -16,3 +16,8 @@ const onChnageHandler = (e: React.ChangeEvent<HTMLInputElement>) => {
   };
 
 ```
+
+## onClick
+```tsx
+(e: React.MouseEvent<HTMLElement>)
+```
