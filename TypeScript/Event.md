@@ -14,7 +14,21 @@ const onChnageHandler = (e: React.ChangeEvent<HTMLInputElement>) => {
       handleSearch();
     }
   };
+```
 
+```ts
+  const handleKeyDown = (e: KeyboardEvent) => {
+    console.log(e.key);
+  };
+
+  // 監聽點擊搜尋元件以外的地方需要關閉搜尋結果彈出視窗
+  useEffect(() => {
+    window.addEventListener('keydown', handleKeyDown);
+
+    return () => {
+      window.removeEventListener('keydown', handleKeyDown);
+    };
+  }, []);
 ```
 
 ## onClick
