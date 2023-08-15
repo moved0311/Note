@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-08-08.md",
+                "file": "JavaScript/Input中文問題.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-08-08.md",
+                "file": "JavaScript/Input中文問題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-08-08.md",
+                "file": "JavaScript/Input中文問題.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-08-08.md"
+                "file": "JavaScript/Input中文問題.md"
               }
             }
           }
@@ -157,8 +157,9 @@
   },
   "active": "7f7c15c1616bcd9f",
   "lastOpenFiles": [
-    "TypeScript/Event.md",
     "1. Daily/2023-08-08.md",
+    "JavaScript/Input中文問題.md",
+    "TypeScript/Event.md",
     "Stocks/IP/6533.md",
     "Stocks/IC/2454/GS_revenue_mix_segment.png",
     "Stocks/IC/2454/2454.md",
@@ -195,7 +196,6 @@
     "2. TODO/CodingInterviewUniversity.md",
     "News/2023-08-10.md",
     "Stocks/4977/4977-眾達KY.md",
-    "React/useRef.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "Stocks/5483/5483.png",
