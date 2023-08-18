@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/多餘字元.md",
+                "file": "1. Daily/2023-08-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/多餘字元.md",
+                "file": "1. Daily/2023-08-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/多餘字元.md",
+                "file": "1. Daily/2023-08-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/多餘字元.md"
+                "file": "1. Daily/2023-08-08.md"
               }
             }
           }
@@ -157,15 +157,16 @@
   },
   "active": "7f7c15c1616bcd9f",
   "lastOpenFiles": [
-    "1. Daily/2023-08-08.md",
     "CSS/多餘字元.md",
+    "Git/Git.md",
+    "Git/rebase.md",
+    "Git/cache.md",
+    "1. Daily/2023-08-08.md",
     "Stocks/IC/phone.md",
     "News/2023-08-17.md",
     "React/hooks/useClickOutside.md",
     "News/2023-08-16.md",
     "JavaScript/Input中文問題.md",
-    "Git/Git.md",
-    "Git/rebase.md",
     "News/2023-08-14.md",
     "TradingView/策略語法.md",
     "Stocks/手機/手機.md",
@@ -193,7 +194,6 @@
     "Stocks/IP",
     "News/2023/2023-08-11.md",
     "React/hooks/useRef.md",
-    "JavaScript/二維陣列.md",
     "2. TODO/Cracking The CodeInterview/Ch5/__test__/5.3.test.js",
     "2. TODO/Cracking The CodeInterview/Ch5/__test__/5.2.test.js",
     "2. TODO/Cracking The CodeInterview/Ch5/__test__/5.1.test.js",
