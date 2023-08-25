@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AD/google ad.md",
+                "file": "TypeScript/Event.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AD/google ad.md",
+                "file": "TypeScript/Event.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AD/google ad.md",
+                "file": "TypeScript/Event.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AD/google ad.md"
+                "file": "TypeScript/Event.md"
               }
             }
           }
@@ -157,7 +157,11 @@
   },
   "active": "7f7c15c1616bcd9f",
   "lastOpenFiles": [
+    "TypeScript/TypeScript.md",
+    "TypeScript/Event.md",
+    "TypeScript/Error.md",
     "1. Daily/2023-08-21.md",
+    "AD/google ad.md",
     "未命名.canvas",
     "Tools/圖片相關.md",
     "未命名 3.canvas",
@@ -192,9 +196,6 @@
     "News/2023-08-22.md",
     "1. Daily/2023-08-08.md",
     "CSS/多餘字元.md",
-    "Git/Git.md",
-    "Git/rebase.md",
-    "Git/cache.md",
     "Stocks/手機/IDC2023Q1手機出貨量.png",
     "Stocks/手機",
     "Stocks/2454/GS_revenue_mix_segment.png",
