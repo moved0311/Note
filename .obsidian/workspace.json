@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/Event.md",
+                "file": "1. Daily/2023-08-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/Event.md",
+                "file": "1. Daily/2023-08-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/Event.md",
+                "file": "1. Daily/2023-08-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/Event.md"
+                "file": "1. Daily/2023-08-21.md"
               }
             }
           }
@@ -157,11 +157,16 @@
   },
   "active": "7f7c15c1616bcd9f",
   "lastOpenFiles": [
-    "News/2023/2023-08-25.md",
-    "News/2023-08-28.md",
-    "TypeScript/TypeScript.md",
     "TypeScript/Event.md",
     "TypeScript/Error.md",
+    "TypeScript/TypeScript.md",
+    "Stocks/網路/WiFi比較圖.png",
+    "Stocks/網路/截圖 2023-08-28 上午11.21.10.png",
+    "Stocks/網路/WiFi.md",
+    "Stocks/網路/5G.md",
+    "Stocks/網路",
+    "News/2023/2023-08-25.md",
+    "News/2023-08-28.md",
     "1. Daily/2023-08-21.md",
     "AD/google ad.md",
     "未命名.canvas",
@@ -193,19 +198,13 @@
     "News/2023-08-23.md",
     "JavaScript/二維陣列.md",
     "News/2023/2023-08-21.md",
-    "News/2023/2023-08-17.md",
-    "News/2023/2023-08-16.md",
-    "News/2023-08-22.md",
     "Stocks/手機/IDC2023Q1手機出貨量.png",
     "Stocks/手機",
     "Stocks/2454/GS_revenue_mix_segment.png",
     "Stocks/2454",
-    "Stocks/IC/2454/GS_revenue_mix_segment.png",
-    "Stocks/IC/IDC2023Q1手機出貨量.png",
     "Stocks/IC/2454",
     "Stocks/IC",
     "Stocks/手機/2454",
-    "Stocks/IP",
-    "2. TODO/Cracking The CodeInterview/Ch5/__test__/5.3.test.js"
+    "Stocks/IP"
   ]
 }
