@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "43fcdd8a8d06152f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +155,7 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "43fcdd8a8d06152f",
+  "active": "7f7c15c1616bcd9f",
   "lastOpenFiles": [
     "News/2023-09-01.md",
     "Stocks/記憶體/memory.md",
