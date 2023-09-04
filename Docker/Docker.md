@@ -1,13 +1,9 @@
-# Docker
 * [Docker風潮席捲IT世界 | iThome](https://www.ithome.com.tw/news/91839)
 * [Docker社群達人教你快速踏出Docker的第一步 | iThome](https://www.ithome.com.tw/news/91848)
-
-
 
 ## Basic
 > Docker Image is a package or a template, it is used to create one or more containers.
 Container are running instances of images
-
 
 ## Get started
 ### Part1 : Orientation and setup
@@ -144,8 +140,6 @@ docker run -p 4000:80 friendlyhello
 $ docker-machine ip 
 192.168.99.100
 ```
-
-
 
 # Example
 

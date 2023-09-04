@@ -1,6 +1,5 @@
 ## Web
 * [Dev - Sebastien Lorber](https://dev.to/sebastienlorber)
-
 ## React
 * [Developer way - Nadia](https://www.developerway.com/) (React)
 	* [Teleportation in React: Positioning, Stacking Context, and Portals](https://www.developerway.com/posts/positioning-and-portals-in-react) 20230621
@@ -34,6 +33,7 @@
 * [Kai Hao](https://kaihao.dev/) (Dcard Clone) 2022-01-08
 * [Huli’s blog – Medium](https://medium.com/hulis-blog) 2019-05-29
 * [Rob Dodson – Medium](https://medium.com/@robdodson)  2019-01-14 
+* [Eason Chang](https://easonchang.com/)
 
 ## News
 * [Newsletter | This Week In React](https://thisweekinreact.com/newsletter) 2023-04-11
