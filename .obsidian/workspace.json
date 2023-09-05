@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f7c15c1616bcd9f",
+            "id": "9ba3badf26b4b1c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-08-21.md",
+                "file": "1. Daily/2023-09-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-08-21.md",
+                "file": "1. Daily/2023-09-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-08-21.md",
+                "file": "1. Daily/2023-09-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-08-21.md"
+                "file": "1. Daily/2023-09-05.md"
               }
             }
           }
@@ -155,8 +155,10 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "7f7c15c1616bcd9f",
+  "active": "9ba3badf26b4b1c4",
   "lastOpenFiles": [
+    "1. Daily/2023-08-21.md",
+    "1. Daily/2023-09-05.md",
     "News/2023-09-05.md",
     "鉅亨網/新聞專案改版.md",
     "鉅亨網/fe-crypto.md",
@@ -164,7 +166,6 @@
     "鉅亨網/whenToUseServerAndClientComponents.png",
     "2. TODO/Read.md",
     "Docker/Docker.md",
-    "1. Daily/2023-08-21.md",
     "News/2023-09-01.md",
     "Stocks/記憶體/memory.md",
     "Stocks/記憶體",
@@ -191,7 +192,6 @@
     "Thrid Party Library/UI Library.md",
     "News/2023-08-25.md",
     "News/2023/2023-08-24.md",
-    "News/2023/2023-08-23.md",
     "Stocks/5G",
     "Stocks/PCB/process.png",
     "Stocks/PCB/industy.png",
