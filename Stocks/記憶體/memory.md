@@ -14,3 +14,6 @@
 Reference: [【關鍵報告】原來這就是記憶體的景氣循環！從「宇瞻」看 2020 發展 - 富果直送｜白話投資好文](https://blog.fugle.tw/how-memory-business-cycle-works-and-apacer-earnings-call-q1-2020/)
 
 * 全球記憶體市場（約美金 120 億元的市場）來說，DRAM+NAND Flash 就佔了全市場約 96%（約各一半一半），而NOR Flash（以及ROM）合計僅佔約3%
+* 有調研機構預期，2024年記憶體原廠對於DRAM與NAND Flash的減產策略仍將延續，尤其以虧損嚴重的NAND Flash是更為明確。
+* 伺服器方面，Server DRAM平均搭載容量年成長率預估可達17.3%，主要受惠於伺服器平台進入世代轉換。Enterprise SSD平搭載容量年成長率預估約14.7%，以CSP來看，隨著支援PCIe 5.0的處理器平台出貨放量
+* 20230831: TrendForce預估，2024年DRAM及NAND Flash需求位元年成長率分別有13.0%及16.0%，利多消息一出，今日記憶體族群紅通通，晶豪科、鈺創、華邦電、創見午盤漲1到2%，威剛與群聯漲4%以上，品安漲7%多。
