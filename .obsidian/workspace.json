@@ -157,6 +157,10 @@
   },
   "active": "9ba3badf26b4b1c4",
   "lastOpenFiles": [
+    "Stocks/能源/電池.md",
+    "Stocks/能源/氣候變遷法.md",
+    "Stocks/能源/綠能.md",
+    "Stocks/能源",
     "News/2023-09-12.md",
     "TypeScript/TypeScript.md",
     "TypeScript/Event.md",
@@ -181,10 +185,7 @@
     "鉅亨網/whenToUseServerAndClientComponents.png",
     "2. TODO/Read.md",
     "Docker/Docker.md",
-    "News/2023-09-01.md",
-    "Stocks/記憶體/memory.md",
     "Stocks/記憶體",
-    "News/2023-08-31.md",
     "Stocks/網路/WiFi比較圖.png",
     "Stocks/網路/截圖 2023-08-28 上午11.21.10.png",
     "Stocks/網路",
@@ -205,7 +206,6 @@
     "Stocks/手機",
     "Stocks/2454",
     "Stocks/IC/2454",
-    "Stocks/IC",
-    "Stocks/手機/2454"
+    "Stocks/IC"
   ]
 }
