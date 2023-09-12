@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-09-05.md",
+                "file": "1. Daily/2023/2023-06-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-09-05.md",
+                "file": "1. Daily/2023/2023-06-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-09-05.md",
+                "file": "1. Daily/2023/2023-06-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-09-05.md"
+                "file": "1. Daily/2023/2023-06-26.md"
               }
             }
           }
@@ -157,6 +157,11 @@
   },
   "active": "9ba3badf26b4b1c4",
   "lastOpenFiles": [
+    "1. Daily/2023/2023-07-10.md",
+    "1. Daily/2023/2023-07-24.md",
+    "1. Daily/2023/2023-08-08.md",
+    "1. Daily/2023/2023-08-21.md",
+    "1. Daily/2023-09-05.md",
     "Stocks/能源/電池.md",
     "Stocks/能源/氣候變遷法.md",
     "Stocks/能源/綠能.md",
@@ -164,7 +169,6 @@
     "News/2023-09-12.md",
     "TypeScript/TypeScript.md",
     "TypeScript/Event.md",
-    "1. Daily/2023-09-05.md",
     "News/2023-09-11.md",
     "CSS/Scrollbar.md",
     "CSS/多餘字元.md",
@@ -177,14 +181,10 @@
     "News/2023/2023-08-31.md",
     "News/2023/2023-08-29.md",
     "News/2023-09-06.md",
-    "1. Daily/2023/2023-08-21.md",
     "News/2023-09-05.md",
     "鉅亨網/新聞專案改版.md",
     "鉅亨網/fe-crypto.md",
-    "鉅亨網/fe-esg.md",
     "鉅亨網/whenToUseServerAndClientComponents.png",
-    "2. TODO/Read.md",
-    "Docker/Docker.md",
     "Stocks/記憶體",
     "Stocks/網路/WiFi比較圖.png",
     "Stocks/網路/截圖 2023-08-28 上午11.21.10.png",
