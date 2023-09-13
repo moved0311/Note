@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c3558e47ebbc59b3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.11"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,8 +165,9 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "c3558e47ebbc59b3",
+  "active": "9ba3badf26b4b1c4",
   "lastOpenFiles": [
+    "News/2023-09-13.md",
     "1. Daily/2023/2023-08-21.md",
     "1. Daily/2023/2023-08-08.md",
     "1. Daily/2023/2023-07-24.md",
@@ -204,7 +194,6 @@
     "News/2023/2023-08-29.md",
     "News/2023-09-06.md",
     "News/2023-09-05.md",
-    "鉅亨網/新聞專案改版.md",
     "鉅亨網/whenToUseServerAndClientComponents.png",
     "Stocks/記憶體",
     "Stocks/網路/WiFi比較圖.png",
