@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-09-05.md",
+                "file": "2. TODO/Read.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-09-05.md",
+                "file": "2. TODO/Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-09-05.md",
+                "file": "2. TODO/Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-09-05.md"
+                "file": "2. TODO/Read.md"
               }
             }
           },
@@ -167,13 +167,13 @@
   },
   "active": "9ba3badf26b4b1c4",
   "lastOpenFiles": [
+    "1. Daily/2023-09-05.md",
     "News/2023-09-13.md",
     "1. Daily/2023/2023-08-21.md",
     "1. Daily/2023/2023-08-08.md",
     "1. Daily/2023/2023-07-24.md",
     "1. Daily/2023/2023-07-10.md",
     "1. Daily/2023/2023-06-26.md",
-    "1. Daily/2023-09-05.md",
     "Stocks/能源/電池.md",
     "Stocks/能源/氣候變遷法.md",
     "Stocks/能源/綠能.md",

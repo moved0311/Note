@@ -31,8 +31,6 @@
 * [Morris' Blog](https://morris821028.github.io/) 2022-06-20
 * [Blog —— Bugtender](https://bugtender.com/blog/) 2022-01-31
 * [Kai Hao](https://kaihao.dev/) (Dcard Clone) 2022-01-08
-* [Huli’s blog – Medium](https://medium.com/hulis-blog) 2019-05-29
-* [Rob Dodson – Medium](https://medium.com/@robdodson)  2019-01-14 
 * [Eason Chang](https://easonchang.com/)
 
 ## News
