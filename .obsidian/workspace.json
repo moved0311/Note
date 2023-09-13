@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023/2023-06-26.md",
+                "file": "1. Daily/2023-09-05.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "c3558e47ebbc59b3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023/2023-06-26.md",
+                "file": "1. Daily/2023-09-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023/2023-06-26.md",
+                "file": "1. Daily/2023-09-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023/2023-06-26.md"
+                "file": "1. Daily/2023-09-05.md"
+              }
+            }
+          },
+          {
+            "id": "cdfe3884fbf0a39a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -155,12 +176,13 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "9ba3badf26b4b1c4",
+  "active": "c3558e47ebbc59b3",
   "lastOpenFiles": [
-    "1. Daily/2023/2023-07-10.md",
-    "1. Daily/2023/2023-07-24.md",
-    "1. Daily/2023/2023-08-08.md",
     "1. Daily/2023/2023-08-21.md",
+    "1. Daily/2023/2023-08-08.md",
+    "1. Daily/2023/2023-07-24.md",
+    "1. Daily/2023/2023-07-10.md",
+    "1. Daily/2023/2023-06-26.md",
     "1. Daily/2023-09-05.md",
     "Stocks/能源/電池.md",
     "Stocks/能源/氣候變遷法.md",
@@ -183,7 +205,6 @@
     "News/2023-09-06.md",
     "News/2023-09-05.md",
     "鉅亨網/新聞專案改版.md",
-    "鉅亨網/fe-crypto.md",
     "鉅亨網/whenToUseServerAndClientComponents.png",
     "Stocks/記憶體",
     "Stocks/網路/WiFi比較圖.png",
