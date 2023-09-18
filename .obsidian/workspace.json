@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e3445966fca23d97",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +176,7 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "9ba3badf26b4b1c4",
+  "active": "e3445966fca23d97",
   "lastOpenFiles": [
     "TypeScript/TypeScript.md",
     "TypeScript/Error.md",
