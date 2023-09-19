@@ -31,9 +31,6 @@
 2. [Avoid CSS Expressions](https://developer.yahoo.com/performance/rules.html#css_expressions)
 3. [Choose `<link>` Over @import](https://developer.yahoo.com/performance/rules.html#csslink)
 4. [Avoid Filters](https://developer.yahoo.com/performance/rules.html#no_filters)
-### JavaScript
-
-
 
 ### Images
 

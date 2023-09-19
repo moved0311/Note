@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "91d4a3561ea4044f",
+        "id": "4f060f7a65bfeff5",
         "type": "tabs",
         "children": [
           {
-            "id": "dd575f4604ae315a",
+            "id": "6da7e21cdd5e9602",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Reference/Performance/Performance.md",
+                "file": "1. Daily/2023-09-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Reference/Performance/Performance.md",
+                "file": "1. Daily/2023-09-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Reference/Performance/Performance.md",
+                "file": "1. Daily/2023-09-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Reference/Performance/Performance.md"
+                "file": "1. Daily/2023-09-19.md"
               }
             }
           },
@@ -165,10 +165,12 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "dd575f4604ae315a",
+  "active": "6da7e21cdd5e9602",
   "lastOpenFiles": [
-    "3. Reference/Performance/JavaScript.md",
+    "3. Reference/React.md",
+    "3. Reference/架構設計.md",
     "3. Reference/Performance/Performance.md",
+    "3. Reference/Performance/JavaScript.md",
     "3. Reference/Performance",
     "1. Daily/2023-09-19.md",
     "JavaScript/IIFE(Immediately Invoked Function Expression).md",
@@ -183,9 +185,7 @@
     "2. TODO/Course.md",
     "1. Daily/2020/2020.md",
     "1. Daily/2021/2021.md",
-    "3. Reference/React.md",
     "3. Reference/Rendering.md",
-    "3. Reference/架構設計.md",
     "Git/Git.md",
     "Git/Cache.md",
     "Git/Rebase.md",
