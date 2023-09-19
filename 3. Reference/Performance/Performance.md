@@ -33,12 +33,7 @@
 4. [Avoid Filters](https://developer.yahoo.com/performance/rules.html#no_filters)
 ### JavaScript
 
-1. [Put Scripts at Bottom](https://developer.yahoo.com/performance/rules.html#js_bottom)
-2. [Make JavaScript and CSS External](https://developer.yahoo.com/performance/rules.html#external)
-3. [Minify JavaScript and CSS](https://developer.yahoo.com/performance/rules.html#minify)
-4. [Remove Duplicate Scripts](https://developer.yahoo.com/performance/rules.html#js_dupes)
-5. [Minimize DOM Access](https://developer.yahoo.com/performance/rules.html#dom_access)
-6. [Develop Smart Event Handlers](https://developer.yahoo.com/performance/rules.html#events)
+
 
 ### Images
 
@@ -51,3 +46,4 @@
 
 1. [Keep Components Under 25 KB](https://developer.yahoo.com/performance/rules.html#under25)
 2. [Pack Components Into a Multipart Document](https://developer.yahoo.com/performance/rules.html#multipart)
+

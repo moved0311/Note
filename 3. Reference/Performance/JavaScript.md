@@ -1,0 +1,7 @@
+* [Put Scripts at Bottom](https://developer.yahoo.com/performance/rules.html#js_bottom)
+* [Make JavaScript and CSS External](https://developer.yahoo.com/performance/rules.html#external)
+* [Minify JavaScript and CSS](https://developer.yahoo.com/performance/rules.html#minify)
+* [Remove Duplicate Scripts](https://developer.yahoo.com/performance/rules.html#js_dupes)
+* [Minimize DOM Access](https://developer.yahoo.com/performance/rules.html#dom_access)
+* [Develop Smart Event Handlers](https://developer.yahoo.com/performance/rules.html#events)
+* [Is Your Code Slow?: Avoid These 19 Common JavaScript and Node.js Mistakes | HackerNoon](https://hackernoon.com/is-your-code-slow-avoid-these-19-common-javascript-and-nodejs-mistakes?source=rss)

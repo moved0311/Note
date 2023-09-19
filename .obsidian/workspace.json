@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-09-19.md",
+                "file": "3. Reference/Performance/Performance.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-09-19.md",
+                "file": "3. Reference/Performance/Performance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-09-19.md",
+                "file": "3. Reference/Performance/Performance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-09-19.md"
+                "file": "3. Reference/Performance/Performance.md"
               }
             }
           },
@@ -167,8 +167,11 @@
   },
   "active": "dd575f4604ae315a",
   "lastOpenFiles": [
-    "JavaScript/IIFE(Immediately Invoked Function Expression).md",
+    "3. Reference/Performance/JavaScript.md",
+    "3. Reference/Performance/Performance.md",
+    "3. Reference/Performance",
     "1. Daily/2023-09-19.md",
+    "JavaScript/IIFE(Immediately Invoked Function Expression).md",
     "TradingView/TradingViewLibrary/Doc.md",
     "TradingView/TradingViewLibrary",
     "1. Daily/2023-09-05.md",
@@ -182,9 +185,7 @@
     "1. Daily/2021/2021.md",
     "3. Reference/React.md",
     "3. Reference/Rendering.md",
-    "3. Reference/效能優化.md",
     "3. Reference/架構設計.md",
-    "3. Reference/未命名",
     "Git/Git.md",
     "Git/Cache.md",
     "Git/Rebase.md",
@@ -198,7 +199,6 @@
     "News/2023/2023-09-12.md",
     "News/2023/2023-09-11.md",
     "News/2023/2023-09-07.md",
-    "News/2023-09-19.md",
     "Stocks/能源",
     "鉅亨網/whenToUseServerAndClientComponents.png",
     "Stocks/記憶體",
