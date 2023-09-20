@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/Read.md",
+                "file": "1. Daily/2023-09-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/Read.md",
+                "file": "1. Daily/2023-09-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/Read.md"
+                "file": "1. Daily/2023-09-19.md"
               }
             }
           },
@@ -178,8 +177,9 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "c668970fafdd68ae",
+  "active": "54d7488aed17ee4d",
   "lastOpenFiles": [
+    "2. TODO/Read.md",
     "1. Daily/2023-09-19.md",
     "TradingView/TradingViewLibrary/Reference.md",
     "TradingView/TradingViewLibrary/Doc.md",
@@ -211,7 +211,6 @@
     "News/2023/2023-09-15.md",
     "News/2023/2023-09-13.md",
     "News/2023/2023-09-12.md",
-    "News/2023/2023-09-11.md",
     "Stocks/能源",
     "鉅亨網/whenToUseServerAndClientComponents.png",
     "Stocks/記憶體",

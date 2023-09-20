@@ -16,6 +16,7 @@
 - [Rohit Verma – Medium](https://medium.com/@rohitverma_87831)
 
 ## 個人
+* [Morris' Blog](https://morris821028.github.io/) 2022-04-02
 * [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)  2023-03-31
 * [Hannah Lin – Medium](https://hannahlin.medium.com/) 2023-03-21
 * [Felix Chern – Medium](https://medium.com/@fchern)  (關於變強這檔事) 2023-03-12
@@ -29,10 +30,9 @@
 * [Rida F'kih – Medium](https://medium.com/@ridafkih)  2022-10-20 
 * [Jason's Web Memo](https://jason-memo.dev/) 2022-10-12
 * [Harshal Patil – Medium](https://medium.com/@mistyHarsh) 2022-09-18
-* [Morris' Blog](https://morris821028.github.io/) 2022-06-20
 * [Blog —— Bugtender](https://bugtender.com/blog/) 2022-01-31
 * [Kai Hao](https://kaihao.dev/) (Dcard Clone) 2022-01-08
-* [Eason Chang](https://easonchang.com/)
+* [Eason Chang](https://easonchang.com/posts)
 
 ## News
 * [Newsletter | This Week In React](https://thisweekinreact.com/newsletter) 2023-04-11
