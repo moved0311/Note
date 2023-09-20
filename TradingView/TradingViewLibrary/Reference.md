@@ -1,0 +1,1 @@
+* [PineScript for Beginners: Writing Your First TradingView Indicator | HackerNoon](https://hackernoon.com/pinescript-for-beginners-writing-your-first-tradingview-indicator)
