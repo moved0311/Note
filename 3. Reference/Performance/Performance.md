@@ -44,3 +44,10 @@
 1. [Keep Components Under 25 KB](https://developer.yahoo.com/performance/rules.html#under25)
 2. [Pack Components Into a Multipart Document](https://developer.yahoo.com/performance/rules.html#multipart)
 
+## Lighthouse
+- [First Contentful Paint](https://web.dev/first-contentful-paint/)
+- [Speed Index](https://web.dev/speed-index/)
+- [Largest Contentful Paint](https://web.dev/lcp/)
+- [Time to Interactive](https://web.dev/interactive/)
+- [Total Blocking Time](https://web.dev/lighthouse-total-blocking-time/)
+- [Cumulative Layout Shift](https://web.dev/cls/)

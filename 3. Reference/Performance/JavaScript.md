@@ -5,3 +5,4 @@
 * [Minimize DOM Access](https://developer.yahoo.com/performance/rules.html#dom_access)
 * [Develop Smart Event Handlers](https://developer.yahoo.com/performance/rules.html#events)
 * [Is Your Code Slow?: Avoid These 19 Common JavaScript and Node.js Mistakes | HackerNoon](https://hackernoon.com/is-your-code-slow-avoid-these-19-common-javascript-and-nodejs-mistakes?source=rss)
+* [Is JavaScript Spread a Performance Killer? Quick Fix](https://www.youtube.com/watch?v=tcZbY-Q0TIE)
