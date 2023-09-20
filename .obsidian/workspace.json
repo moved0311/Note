@@ -20,18 +20,19 @@
             }
           },
           {
-            "id": "c668970fafdd68ae",
+            "id": "266327579d44b40e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/Read.md",
+                "file": "React/hydration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-09-19.md",
+                "file": "React/hydration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-09-19.md",
+                "file": "React/hydration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-09-19.md"
+                "file": "React/hydration.md"
               }
             }
           },
@@ -177,18 +178,19 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "54d7488aed17ee4d",
+  "active": "266327579d44b40e",
   "lastOpenFiles": [
-    "3. Reference/Performance/Performance.md",
     "1. Daily/2023-09-19.md",
+    "React/hydration.md",
+    "3. Reference/React.md",
+    "2. TODO/Read.md",
+    "3. Reference/Performance/Performance.md",
     "3. Reference/Performance/JavaScript.md",
     "3. Reference/JavaScript.md",
     "Books/JavaScript/JavaScript.md",
     "Books/JavaScript",
-    "2. TODO/Read.md",
     "TradingView/TradingViewLibrary/Reference.md",
     "TradingView/TradingViewLibrary/Doc.md",
-    "3. Reference/React.md",
     "3. Reference/架構設計.md",
     "3. Reference/Performance",
     "JavaScript/IIFE(Immediately Invoked Function Expression).md",
@@ -211,7 +213,6 @@
     "Git/產生ssh key.md",
     "News/2023/2023-09-19.md",
     "News/2023/2023-09-18.md",
-    "News/2023/2023-09-15.md",
     "Stocks/能源",
     "鉅亨網/whenToUseServerAndClientComponents.png",
     "Stocks/記憶體",
