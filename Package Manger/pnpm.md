@@ -1,0 +1,1 @@
+`pnpm update -i -L`

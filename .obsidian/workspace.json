@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "54d7488aed17ee4d",
+            "id": "bd7f990b076867bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -177,11 +177,12 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "54d7488aed17ee4d",
+  "active": "bd7f990b076867bc",
   "lastOpenFiles": [
+    "Package Manger/pnpm.md",
     "3. Reference/Performance/Performance.md",
-    "React/hydration.md",
     "1. Daily/2023-09-19.md",
+    "React/hydration.md",
     "News/2023-09-21.md",
     "3. Reference/React.md",
     "2. TODO/Read.md",
@@ -211,7 +212,6 @@
     "3. Reference",
     "Git/Deploy.md",
     "Git/產生ssh key.md",
-    "News/2023/2023-09-19.md",
     "Stocks/能源",
     "鉅亨網/whenToUseServerAndClientComponents.png",
     "Stocks/記憶體",
