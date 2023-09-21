@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "atom",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,9 +180,10 @@
   },
   "active": "bd7f990b076867bc",
   "lastOpenFiles": [
+    "3. Reference/架構設計.md",
+    "1. Daily/2023-09-19.md",
     "Package Manger/pnpm.md",
     "3. Reference/Performance/Performance.md",
-    "1. Daily/2023-09-19.md",
     "React/hydration.md",
     "News/2023-09-21.md",
     "3. Reference/React.md",
@@ -192,7 +194,6 @@
     "Books/JavaScript",
     "TradingView/TradingViewLibrary/Reference.md",
     "TradingView/TradingViewLibrary/Doc.md",
-    "3. Reference/架構設計.md",
     "3. Reference/Performance",
     "JavaScript/IIFE(Immediately Invoked Function Expression).md",
     "TradingView/TradingViewLibrary",
