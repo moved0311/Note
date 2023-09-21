@@ -51,3 +51,7 @@
 - [Time to Interactive](https://web.dev/interactive/)
 - [Total Blocking Time](https://web.dev/lighthouse-total-blocking-time/)
 - [Cumulative Layout Shift](https://web.dev/cls/)
+
+## Task
+* [Optimize long tasks](https://web.dev/optimize-long-tasks/)
+	* When tasks stretch beyond 50ms they're classified as long tasks.
