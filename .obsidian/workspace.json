@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/Read.md",
+                "file": "4. Web/Performance/Web Vital/LCP (Largest Contentful Paint).md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/Read.md",
+                "file": "4. Web/Performance/Web Vital/LCP (Largest Contentful Paint).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/Read.md",
+                "file": "4. Web/Performance/Web Vital/LCP (Largest Contentful Paint).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/Read.md"
+                "file": "4. Web/Performance/Web Vital/LCP (Largest Contentful Paint).md"
               }
             }
           },
@@ -180,11 +180,22 @@
   },
   "active": "266327579d44b40e",
   "lastOpenFiles": [
+    "4. Web/Rendering/CSR & SSR.md",
+    "4. Web/Performance/Web Vital/LCP (Largest Contentful Paint).md",
+    "2. TODO/Read.md",
+    "4. Web/Performance/Web Vital/FCP (First Contentful Paint).md",
+    "4. Web/Performance/Web Vital/TTI (Time To Interactive).md",
+    "4. Web/Performance/Web Vital",
+    "4. Web/JavaScript/Curry.md",
+    "4. Web/Performance/Debounce and Throttle.md",
+    "4. Web/Performance/Memoize.md",
+    "4. Web/Performance/Once.md",
+    "4. Web/Performance/Pipe.md",
+    "4. Web/Performance/Reference.md",
+    "4. Web/CDN.md",
     "1. Daily/2023/2023-03-20.md",
     "鉅亨網/新聞專案改版.md",
-    "Rendering/CSR & SSR.md",
     "未命名.canvas",
-    "2. TODO/Read.md",
     "3. Reference/Performance/Performance.md",
     "1. Daily/2023-09-19.md",
     "News/2023-09-22.md",
@@ -198,27 +209,17 @@
     "Books/JavaScript/JavaScript.md",
     "Books/JavaScript",
     "TradingView/TradingViewLibrary/Reference.md",
-    "TradingView/TradingViewLibrary/Doc.md",
     "3. Reference/Performance",
-    "JavaScript/IIFE(Immediately Invoked Function Expression).md",
     "TradingView/TradingViewLibrary",
-    "1. Daily/2023-09-05.md",
-    "未命名.md",
-    "1. Daily/2022/2022.md",
     "1. Daily/未命名",
     "1. Daily/2021",
     "1. Daily/2020",
-    "2. TODO/Course.md",
-    "1. Daily/2020/2020.md",
-    "1. Daily/2021/2021.md",
-    "3. Reference/Rendering.md",
     "3. Reference",
     "Stocks/能源",
     "鉅亨網/whenToUseServerAndClientComponents.png",
     "Stocks/記憶體",
     "Stocks/網路/WiFi比較圖.png",
     "Stocks/網路/截圖 2023-08-28 上午11.21.10.png",
-    "Stocks/網路",
     "未命名 3.canvas",
     "未命名 1.canvas",
     "未命名 2.canvas",
