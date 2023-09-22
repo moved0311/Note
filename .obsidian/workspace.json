@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Reference/Performance/Performance.md",
+                "file": "2. TODO/Read.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "atom",
+                "query": "SSR",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-09-19.md",
+                "file": "2. TODO/Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-09-19.md",
+                "file": "2. TODO/Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-09-19.md"
+                "file": "2. TODO/Read.md"
               }
             }
           },
@@ -178,17 +178,21 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "bd7f990b076867bc",
+  "active": "266327579d44b40e",
   "lastOpenFiles": [
+    "1. Daily/2023/2023-03-20.md",
+    "鉅亨網/新聞專案改版.md",
+    "Rendering/CSR & SSR.md",
     "未命名.canvas",
+    "2. TODO/Read.md",
+    "3. Reference/Performance/Performance.md",
     "1. Daily/2023-09-19.md",
+    "News/2023-09-22.md",
     "3. Reference/架構設計.md",
     "Package Manger/pnpm.md",
-    "3. Reference/Performance/Performance.md",
     "React/hydration.md",
     "News/2023-09-21.md",
     "3. Reference/React.md",
-    "2. TODO/Read.md",
     "3. Reference/Performance/JavaScript.md",
     "3. Reference/JavaScript.md",
     "Books/JavaScript/JavaScript.md",
@@ -208,11 +212,7 @@
     "1. Daily/2020/2020.md",
     "1. Daily/2021/2021.md",
     "3. Reference/Rendering.md",
-    "Git/Git.md",
-    "Git/Cache.md",
-    "Git/Rebase.md",
     "3. Reference",
-    "Git/Deploy.md",
     "Stocks/能源",
     "鉅亨網/whenToUseServerAndClientComponents.png",
     "Stocks/記憶體",
