@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "cde2db1456935407",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
+          },
+          {
             "id": "266327579d44b40e",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +188,7 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "bd7f990b076867bc",
+  "active": "cde2db1456935407",
   "lastOpenFiles": [
     "News/2023-09-23.md",
     "4. Web/Performance/Web Vital/LCP (Largest Contentful Paint).md",
