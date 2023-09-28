@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/多餘字元.md",
+                "file": "1. Daily/2023-09-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/多餘字元.md",
+                "file": "1. Daily/2023-09-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/多餘字元.md"
+                "file": "1. Daily/2023-09-19.md"
               }
             }
           },
@@ -178,8 +177,9 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "266327579d44b40e",
+  "active": "bd7f990b076867bc",
   "lastOpenFiles": [
+    "CSS/多餘字元.md",
     "News/2023-09-28.md",
     "4. Web/Performance/Web Vital/LCP (Largest Contentful Paint).md",
     "1. Daily/2023-09-19.md",
@@ -207,7 +207,6 @@
     "Package Manger/pnpm.md",
     "React/hydration.md",
     "News/2023-09-21.md",
-    "3. Reference/React.md",
     "Books/JavaScript",
     "3. Reference/Performance",
     "TradingView/TradingViewLibrary",
