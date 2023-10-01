@@ -6,9 +6,10 @@
       {
         "id": "ab62dddbb6a44c58",
         "type": "tabs",
+        "dimension": 62.44094488188976,
         "children": [
           {
-            "id": "bd7f990b076867bc",
+            "id": "b2a2663fdf7dce0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,15 +21,43 @@
             }
           },
           {
-            "id": "266327579d44b40e",
+            "id": "bd7f990b076867bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/多餘字元.md",
+                "file": "PPT/Docker/CICD.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "c57229290dd95882",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PPT/Command/Command.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "e967f76206e445e2",
+        "type": "tabs",
+        "dimension": 37.55905511811024,
+        "children": [
+          {
+            "id": "52bc000fb1e7522e",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
             }
           }
         ]
@@ -89,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -105,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-09-19.md",
+                "file": "PPT/Command/Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-09-19.md",
+                "file": "PPT/Command/Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-09-19.md"
+                "file": "PPT/Command/Command.md"
               }
             }
           },
@@ -177,12 +207,15 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "bd7f990b076867bc",
+  "active": "c57229290dd95882",
   "lastOpenFiles": [
+    "PPT/Docker/CICD.md",
+    "1. Daily/2023-09-19.md",
+    "PPT/Command/Command.md",
+    "PPT/Command",
     "CSS/多餘字元.md",
     "News/2023-09-28.md",
     "4. Web/Performance/Web Vital/LCP (Largest Contentful Paint).md",
-    "1. Daily/2023-09-19.md",
     "News/2023-09-26.md",
     "News/2023-09-25.md",
     "News/2023-09-23.md",
@@ -205,8 +238,6 @@
     "News/2023-09-22.md",
     "3. Reference/架構設計.md",
     "Package Manger/pnpm.md",
-    "React/hydration.md",
-    "News/2023-09-21.md",
     "Books/JavaScript",
     "3. Reference/Performance",
     "TradingView/TradingViewLibrary",
@@ -216,7 +247,6 @@
     "3. Reference",
     "Stocks/能源",
     "鉅亨網/whenToUseServerAndClientComponents.png",
-    "Stocks/記憶體",
     "Stocks/網路/WiFi比較圖.png",
     "Stocks/網路/截圖 2023-08-28 上午11.21.10.png",
     "未命名 3.canvas",
