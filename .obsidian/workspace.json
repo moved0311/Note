@@ -30,19 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b286595ef6aa0bbb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PPT/Command/Command.md",
+                "file": "1. Daily/2023-09-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PPT/Command/Command.md",
+                "file": "1. Daily/2023-09-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PPT/Command/Command.md"
+                "file": "1. Daily/2023-09-19.md"
               }
             }
           },
@@ -190,11 +179,11 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "b286595ef6aa0bbb",
+  "active": "b2a2663fdf7dce0a",
   "lastOpenFiles": [
+    "PPT/Command/Command.md",
     "PPT/Docker/CICD.md",
     "1. Daily/2023-09-19.md",
-    "PPT/Command/Command.md",
     "鉅亨網/fe-crypto.md",
     "鉅亨網/新聞專案改版.md",
     "Package Manger/pnpm.md",
