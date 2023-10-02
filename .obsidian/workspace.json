@@ -6,7 +6,6 @@
       {
         "id": "ab62dddbb6a44c58",
         "type": "tabs",
-        "dimension": 65.8267716535433,
         "children": [
           {
             "id": "b2a2663fdf7dce0a",
@@ -15,18 +14,6 @@
               "type": "markdown",
               "state": {
                 "file": "1. Daily/2023-09-19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd7f990b076867bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PPT/Docker/CICD.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,24 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b286595ef6aa0bbb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "e967f76206e445e2",
-        "type": "tabs",
-        "dimension": 34.17322834645669,
-        "children": [
-          {
-            "id": "52bc000fb1e7522e",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -208,7 +190,7 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "c57229290dd95882",
+  "active": "b286595ef6aa0bbb",
   "lastOpenFiles": [
     "PPT/Docker/CICD.md",
     "1. Daily/2023-09-19.md",

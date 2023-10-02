@@ -50,9 +50,11 @@
 ---
 
 ## `man`
+::: block <!-- element style="text-align: left"-->
 指令手冊文件
 * `man ls`
 * `man pwd`
+:::
 
 ---
 
@@ -64,12 +66,15 @@
 ---
 
 ## `chmod`
+
+::: block <!-- element style="text-align: left"-->
 "chnage mode"
 - r (read)
 - w (write)
 - x (execute)
 
 `chmod +x script`
+:::
 
 ---
 
@@ -79,9 +84,69 @@
 
 ---
 
+## `cat`
+"concatenate"\
+印出檔案內容
+
+
+---
+
+## `grep`
+`grep -r "Hello" .`
+
+---
+## `which`
+查看指令完整路徑
+
+---
+
+## `wc`
+::: block
+"word count"\
+`wc file.txt`
+* line
+* words
+* byte-size
+:::
+
+---
+
+## `clear`
+::: block 
+Clear the terminal display
+* ctrl + L
+::: block
+---
+
+## `cal`
+::: block
+印出日曆
+* `date` 印出日期
+:::
+---
+
+## `sort`
+`sort filename`
+
+---
+
+## `bc`
+計算機
+
+
+---
+
+## Reference
+* [The 40 Most-Used Linux Commands You Should Know](https://kinsta.com/blog/linux-commands/)
+
 <style>
 code {
 	color: yellow;
 }
 
+div {
+    text-align: left;
+}
+
 </style>
+
