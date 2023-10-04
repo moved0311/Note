@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b2a2663fdf7dce0a",
+            "id": "2edefd8f09363a2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "1. Daily/2023-09-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2a2663fdf7dce0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2023-10-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-09-19.md",
+                "file": "1. Daily/2023-10-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-09-19.md",
+                "file": "1. Daily/2023-10-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-09-19.md"
+                "file": "1. Daily/2023-10-03.md"
               }
             }
           },
@@ -180,6 +192,11 @@
   },
   "active": "b2a2663fdf7dce0a",
   "lastOpenFiles": [
+    "PPT/Command/Command.md",
+    "1. Daily/2023-10-03.md",
+    "1. Daily/2023-09-19.md",
+    "Stocks/Panel/Panel.md",
+    "Stocks/Panel",
     "News/2023-10-04.md",
     "News/2023/2023-10-03.md",
     "News/2023/2023-09-28.md",
@@ -188,7 +205,6 @@
     "News/2023/2023-09-23.md",
     "News/2023/2023-09-22.md",
     "News/2023/2023-09-21.md",
-    "PPT/Command/Command.md",
     "PPT/Command/test/a",
     "PPT/Command/test/script.sh",
     "PPT/Command/test/sortedNums",
@@ -198,8 +214,6 @@
     "PPT/Command/test/test5",
     "PPT/Command/test/b/test4",
     "PPT/Command/test/test4",
-    "PPT/Command/test/test3",
-    "1. Daily/2023-09-19.md",
     "CSS/多餘字元.md",
     "News/2023-10-03.md",
     "PPT/Docker/CICD.md",
@@ -214,8 +228,6 @@
     "News/2023-09-23.md",
     "4. Web/Rendering/CSR & SSR.md",
     "2. TODO/Read.md",
-    "4. Web/Performance/Web Vital/FCP (First Contentful Paint).md",
-    "4. Web/Performance/Web Vital/TTI (Time To Interactive).md",
     "未命名.canvas",
     "鉅亨網/whenToUseServerAndClientComponents.png",
     "Stocks/網路/WiFi比較圖.png",
