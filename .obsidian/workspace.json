@@ -31,21 +31,6 @@
               }
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "fabec875a24ef4a7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bef6267d3c85c434",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
-          }
         ]
       }
     ],
@@ -120,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PPT/Command/Command.md",
+                "file": "1. Daily/2023-10-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PPT/Command/Command.md",
+                "file": "1. Daily/2023-10-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PPT/Command/Command.md"
+                "file": "1. Daily/2023-10-03.md"
               }
             }
           },
@@ -192,14 +177,23 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "c57229290dd95882",
+  "active": "b2a2663fdf7dce0a",
   "lastOpenFiles": [
-    "1. Daily/2023-10-03.md",
     "PPT/Command/Command.md",
+    "PPT/Command/test/script.sh",
+    "PPT/Command/test/sorted",
+    "PPT/Command/test/hello",
+    "PPT/Command/test/test3",
+    "PPT/Command/test/test2",
+    "PPT/Command/test/test1",
+    "PPT/Command/test/bb",
+    "PPT/Command/test/e/a",
+    "PPT/Command/test/aaa",
+    "PPT/Command/test/f/g/h",
+    "1. Daily/2023-10-03.md",
     "Stocks/IP/IP.md",
     "1. Daily/2023-09-19.md",
     "Stocks/Panel/Panel.md",
-    "Stocks/Panel",
     "News/2023-10-04.md",
     "News/2023/2023-10-03.md",
     "News/2023/2023-09-28.md",
@@ -208,15 +202,6 @@
     "News/2023/2023-09-23.md",
     "News/2023/2023-09-22.md",
     "News/2023/2023-09-21.md",
-    "PPT/Command/test/a",
-    "PPT/Command/test/script.sh",
-    "PPT/Command/test/sortedNums",
-    "PPT/Command/test/nums",
-    "PPT/Command/test/pwd123",
-    "PPT/Command/test/pwd",
-    "PPT/Command/test/test5",
-    "PPT/Command/test/b/test4",
-    "PPT/Command/test/test4",
     "CSS/多餘字元.md",
     "News/2023-10-03.md",
     "PPT/Docker/CICD.md",
@@ -229,7 +214,6 @@
     "News/2023-09-26.md",
     "News/2023-09-25.md",
     "News/2023-09-23.md",
-    "4. Web/Rendering/CSR & SSR.md",
     "未命名.canvas",
     "鉅亨網/whenToUseServerAndClientComponents.png",
     "Stocks/網路/WiFi比較圖.png",
