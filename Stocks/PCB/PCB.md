@@ -18,3 +18,8 @@
 	* ABF
 	* BT
 	* MIS
+
+
+* 20231002 蘋果明年PCB材料恐改成RCC，聯茂、南電將受益
+	* RCC背膠銅箔材料(Resin Coated Copper，簡稱 RCC)
+	* 過去RCC主要是由日商AJINOMOTO供貨，目前台灣銅箔基板廠中，聯茂是最早能量產的廠商，更已經進入蘋果PCB廠的認證階段

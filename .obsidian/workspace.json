@@ -31,21 +31,6 @@
               }
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f879c2989cca3c1c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cf1c39878811e654",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
-          }
         ]
       }
     ],
@@ -121,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PPT/Command/Command.md",
+                "file": "1. Daily/2023-09-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PPT/Command/Command.md",
+                "file": "1. Daily/2023-09-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PPT/Command/Command.md"
+                "file": "1. Daily/2023-09-19.md"
               }
             }
           },
@@ -193,8 +178,17 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "cf1c39878811e654",
+  "active": "b2a2663fdf7dce0a",
   "lastOpenFiles": [
+    "News/2023-10-04.md",
+    "News/2023/2023-10-03.md",
+    "News/2023/2023-09-28.md",
+    "News/2023/2023-09-26.md",
+    "News/2023/2023-09-25.md",
+    "News/2023/2023-09-23.md",
+    "News/2023/2023-09-22.md",
+    "News/2023/2023-09-21.md",
+    "PPT/Command/Command.md",
     "PPT/Command/test/a",
     "PPT/Command/test/script.sh",
     "PPT/Command/test/sortedNums",
@@ -205,11 +199,9 @@
     "PPT/Command/test/b/test4",
     "PPT/Command/test/test4",
     "PPT/Command/test/test3",
-    "PPT/Command/test/test2",
     "1. Daily/2023-09-19.md",
     "CSS/多餘字元.md",
     "News/2023-10-03.md",
-    "PPT/Command/Command.md",
     "PPT/Docker/CICD.md",
     "鉅亨網/fe-crypto.md",
     "鉅亨網/新聞專案改版.md",
@@ -224,13 +216,6 @@
     "2. TODO/Read.md",
     "4. Web/Performance/Web Vital/FCP (First Contentful Paint).md",
     "4. Web/Performance/Web Vital/TTI (Time To Interactive).md",
-    "4. Web/JavaScript/Curry.md",
-    "4. Web/Performance/Debounce and Throttle.md",
-    "4. Web/Performance/Memoize.md",
-    "4. Web/Performance/Once.md",
-    "4. Web/Performance/Pipe.md",
-    "4. Web/Performance/Reference.md",
-    "4. Web/CDN.md",
     "未命名.canvas",
     "鉅亨網/whenToUseServerAndClientComponents.png",
     "Stocks/網路/WiFi比較圖.png",
