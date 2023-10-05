@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c40e87a4e039f662",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/多餘字元.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/多餘字元.md",
+                "file": "1. Daily/2023-10-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/多餘字元.md",
+                "file": "1. Daily/2023-10-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/多餘字元.md"
+                "file": "1. Daily/2023-10-03.md"
               }
             }
           },
@@ -178,8 +165,9 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "c40e87a4e039f662",
+  "active": "b2a2663fdf7dce0a",
   "lastOpenFiles": [
+    "CSS/多餘字元.md",
     "1. Daily/2023-10-03.md",
     "PPT/Command/Command.md",
     "News/2023-10-05.md",
@@ -204,7 +192,6 @@
     "News/2023/2023-09-23.md",
     "News/2023/2023-09-22.md",
     "News/2023/2023-09-21.md",
-    "CSS/多餘字元.md",
     "News/2023-10-03.md",
     "PPT/Docker/CICD.md",
     "鉅亨網/fe-crypto.md",
