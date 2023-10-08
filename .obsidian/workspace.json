@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Pattern/Creational/Builder.md",
+                "file": "Design Pattern/Creational/Factory.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Pattern/Creational/Builder.md",
+                "file": "Design Pattern/Creational/Factory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Pattern/Creational/Builder.md",
+                "file": "Design Pattern/Creational/Factory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Pattern/Creational/Builder.md"
+                "file": "Design Pattern/Creational/Factory.md"
               }
             }
           },
@@ -168,6 +168,8 @@
   },
   "active": "cda59ec8ceabd88b",
   "lastOpenFiles": [
+    "Design Pattern/Creational/Builder.md",
+    "Design Pattern/Creational/Factory.md",
     "Design Pattern/Creational/Prototype.md",
     "Design Pattern/Design Pattern.md",
     "Design Pattern/Creational/Signleton.md",
@@ -204,8 +206,6 @@
     "News/2023/2023-09-26.md",
     "News/2023/2023-09-25.md",
     "News/2023/2023-09-23.md",
-    "News/2023/2023-09-22.md",
-    "News/2023/2023-09-21.md",
     "鉅亨網/whenToUseServerAndClientComponents.png",
     "Stocks/網路/WiFi比較圖.png",
     "Stocks/網路/截圖 2023-08-28 上午11.21.10.png",

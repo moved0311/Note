@@ -11,4 +11,35 @@ class HotDog {
 new HotDog('wheat', false, true, true)
 ```
 
-有一個熱狗物件中有不同的步驟，但這樣產生物件會不好讀
+有一個熱狗物件中有不同的製作步驟，但這樣產生物件會不好讀。
+
+Builder Pattern是透過暴露方法來實現一步一步實現的過程，而不是透過constructor一次建立
+
+```ts
+class HotDog {
+  constructor() {}
+
+  addKetchup() {
+   this.ketchup = true;
+   return this;
+  }
+
+  addMustard() {
+   this.mustard = true;
+   return this;
+  }
+  
+  addKraut() {
+   this.kraut = true;
+   return this;
+  }
+}
+
+const lunch = new HotDog('bun')
+
+lunch
+  .addKetchup()
+  .addMustard()
+  .addKraut()
+```
+
