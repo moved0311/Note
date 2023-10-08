@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "14506a5749242188",
+        "id": "0017cdeb95785723",
         "type": "tabs",
         "children": [
           {
-            "id": "1542c5731404cd2a",
+            "id": "cda59ec8ceabd88b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-10-03.md",
+                "file": "Design Pattern/Creational/Builder.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-10-03.md",
+                "file": "Design Pattern/Creational/Builder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-10-03.md",
+                "file": "Design Pattern/Creational/Builder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-10-03.md"
+                "file": "Design Pattern/Creational/Builder.md"
               }
             }
           },
@@ -147,7 +147,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -165,14 +166,26 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "1542c5731404cd2a",
+  "active": "cda59ec8ceabd88b",
   "lastOpenFiles": [
+    "Design Pattern/Creational/Prototype.md",
+    "Design Pattern/Design Pattern.md",
+    "Design Pattern/Creational/Signleton.md",
+    "Design Pattern/Reference 參考資料.md",
+    "Design Pattern/Behavioral",
+    "Design Pattern/Structural",
+    "Design Pattern/Creational",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "Cache/Cache.md",
+    "1. Daily/2020/2020.md",
+    "News/2023/2023-09-19.md",
+    "1. Daily/2023-10-03.md",
     "News/2023/2023-10-06.md",
     "News/2023/2023-10-05.md",
     "News/2023/2023-10-04.md",
     "News/2023-10-06.md",
     "CSS/多餘字元.md",
-    "1. Daily/2023-10-03.md",
     "PPT/Command/Command.md",
     "News/2023-10-05.md",
     "PPT/Command/test/script.sh",
@@ -182,9 +195,6 @@
     "PPT/Command/test/test2",
     "PPT/Command/test/test1",
     "PPT/Command/test/bb",
-    "PPT/Command/test/e/a",
-    "PPT/Command/test/aaa",
-    "PPT/Command/test/f/g/h",
     "Stocks/IP/IP.md",
     "1. Daily/2023/2023-09-19.md",
     "Stocks/Panel/Panel.md",
@@ -196,19 +206,10 @@
     "News/2023/2023-09-23.md",
     "News/2023/2023-09-22.md",
     "News/2023/2023-09-21.md",
-    "News/2023-10-03.md",
-    "PPT/Docker/CICD.md",
-    "鉅亨網/fe-crypto.md",
-    "鉅亨網/新聞專案改版.md",
-    "Package Manger/pnpm.md",
-    "2. TODO/CodingInterviewUniversity.md",
-    "News/2023-09-28.md",
-    "未命名.canvas",
     "鉅亨網/whenToUseServerAndClientComponents.png",
     "Stocks/網路/WiFi比較圖.png",
     "Stocks/網路/截圖 2023-08-28 上午11.21.10.png",
     "未命名 3.canvas",
-    "未命名 1.canvas",
     "未命名 2.canvas",
     "Stocks/PCB/process.png",
     "Stocks/PCB/industy.png",
