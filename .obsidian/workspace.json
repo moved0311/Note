@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ab62dddbb6a44c58",
+        "id": "14506a5749242188",
         "type": "tabs",
         "children": [
           {
-            "id": "b2a2663fdf7dce0a",
+            "id": "1542c5731404cd2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,8 +165,11 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "b2a2663fdf7dce0a",
+  "active": "1542c5731404cd2a",
   "lastOpenFiles": [
+    "News/2023/2023-10-06.md",
+    "News/2023/2023-10-05.md",
+    "News/2023/2023-10-04.md",
     "News/2023-10-06.md",
     "CSS/多餘字元.md",
     "1. Daily/2023-10-03.md",
@@ -183,7 +186,7 @@
     "PPT/Command/test/aaa",
     "PPT/Command/test/f/g/h",
     "Stocks/IP/IP.md",
-    "1. Daily/2023-09-19.md",
+    "1. Daily/2023/2023-09-19.md",
     "Stocks/Panel/Panel.md",
     "News/2023-10-04.md",
     "News/2023/2023-10-03.md",
@@ -200,9 +203,6 @@
     "Package Manger/pnpm.md",
     "2. TODO/CodingInterviewUniversity.md",
     "News/2023-09-28.md",
-    "4. Web/Performance/Web Vital/LCP (Largest Contentful Paint).md",
-    "News/2023-09-26.md",
-    "News/2023-09-25.md",
     "未命名.canvas",
     "鉅亨網/whenToUseServerAndClientComponents.png",
     "Stocks/網路/WiFi比較圖.png",
