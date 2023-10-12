@@ -1,0 +1,1 @@
+Installing react, react-dom, and react-scripts with cra-template

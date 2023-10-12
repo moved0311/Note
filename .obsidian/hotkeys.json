@@ -5,22 +5,20 @@
       "key": "F5"
     }
   ],
-  "editor:fold-more": [
+  "editor:open-search": [
     {
       "modifiers": [
-        "Ctrl"
+        "Mod"
       ],
       "key": "F"
     }
   ],
-  "editor:fold-less": [
+  "editor:delete-paragraph": [
     {
       "modifiers": [
-        "Ctrl",
-        "Shift"
+        "Mod"
       ],
-      "key": "F"
+      "key": "X"
     }
-  ],
-  "editor:toggle-bold": []
+  ]
 }

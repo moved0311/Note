@@ -11,8 +11,15 @@
             "id": "03992f104b3c0ab7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "2. TODO/React/React.canvas",
+                "viewState": {
+                  "x": -195,
+                  "y": 92.75,
+                  "zoom": -0.5
+                }
+              }
             }
           }
         ]
@@ -89,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. TODO/React/React.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. TODO/React/React.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. TODO/React/React.canvas"
+              }
             }
           }
         ]
@@ -147,8 +158,24 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "0956f11c313356e2",
+  "active": "03992f104b3c0ab7",
   "lastOpenFiles": [
+    "2. TODO/React/hooks/Hooks.md",
+    "2. TODO/React/React.canvas",
+    "2. TODO/React/react-router-dom.md",
+    "2. TODO/React/Deploy.md",
+    "2. TODO/React/Error Bound.md",
+    "Vim/Vim.md",
+    "2. TODO/React/hydration.md",
+    "2. TODO/React/LazyLoading.md",
+    "2. TODO/React/VirtualDOM.md",
+    "2. TODO/React/React.md",
+    "2. TODO/interviewQuestion.md",
+    "2. TODO/Course.md",
+    "2. TODO/CodingInterviewUniversity.md",
+    "2. TODO/LeetCode.md",
+    "2. TODO/Read.md",
+    "1. Daily/2023-10-03.md",
     "Stocks/Panel/Panel.md",
     "Stocks/Panel",
     "PPT/Command/Command.md",
@@ -161,29 +188,13 @@
     "4. Web/JavaScript/二維陣列.md",
     "4. Web/JavaScript/Input中文問題.md",
     "4. Web/JavaScript/IIFE(Immediately Invoked Function Expression).md",
-    "4. Web/JavaScript/Curry.md",
     "4. Web/Performance/Web Vital",
-    "4. Web/Performance/Reference.md",
-    "4. Web/Performance/Pipe.md",
-    "4. Web/Performance/Once.md",
-    "4. Web/Performance/Memoize.md",
-    "4. Web/Performance/Load file.md",
-    "4. Web/Performance/Debounce and Throttle.md",
     "4. Web/Rendering",
     "4. Web/JavaScript",
     "4. Web/Performance",
-    "4. Web/CDN.md",
     "4. Web",
-    "鉅亨網/fe-esg.md",
-    "鉅亨網/fe-crypto.md",
-    "TypeScript/Error.md",
-    "TradingView/TradingViewLibrary/Reference.md",
-    "TradingView/TradingViewLibrary/Doc.md",
     "TradingView/TradingViewLibrary",
-    "Stocks/記憶體/memory.md",
     "Stocks/記憶體",
-    "Stocks/能源/電池.md",
-    "Stocks/能源/綠能.md",
     "Stocks/能源",
     "Stocks/網路/WiFi比較圖.png",
     "Stocks/3037/process.png",
@@ -195,7 +206,6 @@
     "Stocks/手機/IDC2023Q1手機出貨量.png",
     "Stocks/2454/GS_revenue_mix_segment.png",
     "Stocks/IC/2454/GS_revenue_mix_segment.png",
-    "未命名.canvas",
     "未命名 1.canvas"
   ]
 }

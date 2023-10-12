@@ -1,13 +1,3 @@
-https://graphics.stanford.edu/~seander/bithacks.html
-
-### 合并二维有序数组成一维有序数组，归并排序的思路
-
-公司：头条
-
-分类：算法
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/8)
-
 
 ### 字符串出现的不重复最长长度
 

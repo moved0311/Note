@@ -2,7 +2,7 @@
 ```ts
 import { Outlet }
 
-<Outlet context={{ id: id}} />
+<Outlet context={{ id: id }} />
 ```
 
 ```tsx
@@ -11,5 +11,3 @@ const Page: React.FC = () => {
 	const { tab } = useOutletContext()
 }
 ```
-
-##  
