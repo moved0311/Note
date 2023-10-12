@@ -8,21 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "03992f104b3c0ab7",
+            "id": "1abb0a0f9fdbe9c3",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "2. TODO/React/React.canvas",
                 "viewState": {
-                  "x": -195,
-                  "y": 92.75,
-                  "zoom": -0.5
+                  "x": -143.10848357787114,
+                  "y": 14.362353454767415,
+                  "zoom": -0.4166666666666667
                 }
               }
             }
+          },
+          {
+            "id": "03992f104b3c0ab7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. TODO/React/hooks/Hooks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/React/React.canvas",
+                "file": "2. TODO/React/hooks/Hooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/React/React.canvas",
+                "file": "2. TODO/React/hooks/Hooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/React/React.canvas"
+                "file": "2. TODO/React/hooks/Hooks.md"
               }
             }
           }
@@ -160,49 +173,49 @@
   },
   "active": "03992f104b3c0ab7",
   "lastOpenFiles": [
-    "2. TODO/React/hooks/Hooks.md",
     "2. TODO/React/React.canvas",
+    "2. TODO/React/hooks/Hooks.md",
+    "Stocks/晶圓/晶圓.md",
+    "Stocks/晶圓",
+    "Stocks/PCB/PCB.md",
+    "Stocks/PCB/process.png",
+    "Stocks/PCB/ABF三雄營收占比客戶比較.png",
+    "Stocks/PCB/industy.png",
+    "Stocks/PCB/8046.md",
+    "Stocks/PCB/3037.md",
+    "Stocks/PCB",
+    "Design Pattern/Creational/Factory.md",
+    "Design Pattern/Creational/Signleton.md",
+    "Design Pattern/Creational/Prototype.md",
+    "Design Pattern/Creational/Builder.md",
+    "Design Pattern/Creational",
+    "Design Pattern/Behavioral/State.md",
+    "Design Pattern/Behavioral/Observer.md",
+    "Design Pattern/Behavioral/Mediator.md",
+    "Design Pattern/Behavioral/Iterator.md",
+    "Design Pattern/Behavioral",
+    "Books/JavaScript/JavaScript.md",
+    "Books/JavaScript",
+    "3. Reference/Performance/Performance.md",
+    "3. Reference/Performance/JavaScript.md",
+    "3. Reference/架構設計.md",
+    "3. Reference/Rendering.md",
+    "3. Reference/React.md",
+    "3. Reference/Performance",
+    "3. Reference/JavaScript.md",
+    "3. Reference",
+    "2. TODO/React/React.md",
+    "2. TODO/React/hooks/useRef.md",
+    "2. TODO/React/hooks/useTransition.md",
     "2. TODO/React/react-router-dom.md",
     "2. TODO/React/Deploy.md",
-    "2. TODO/React/Error Bound.md",
-    "Vim/Vim.md",
-    "2. TODO/React/hydration.md",
-    "2. TODO/React/LazyLoading.md",
-    "2. TODO/React/VirtualDOM.md",
-    "2. TODO/React/React.md",
-    "2. TODO/interviewQuestion.md",
-    "2. TODO/Course.md",
-    "2. TODO/CodingInterviewUniversity.md",
-    "2. TODO/LeetCode.md",
-    "2. TODO/Read.md",
-    "1. Daily/2023-10-03.md",
-    "Stocks/Panel/Panel.md",
     "Stocks/Panel",
-    "PPT/Command/Command.md",
     "PPT/Command",
-    "4. Web/Performance/Web Vital/TTI (Time To Interactive).md",
-    "4. Web/Performance/Web Vital/LCP (Largest Contentful Paint).md",
-    "4. Web/Performance/Web Vital/FCP (First Contentful Paint).md",
-    "4. Web/Rendering/CSR & SSR.md",
-    "4. Web/JavaScript/字串處理.md",
-    "4. Web/JavaScript/二維陣列.md",
-    "4. Web/JavaScript/Input中文問題.md",
-    "4. Web/JavaScript/IIFE(Immediately Invoked Function Expression).md",
     "4. Web/Performance/Web Vital",
-    "4. Web/Rendering",
-    "4. Web/JavaScript",
-    "4. Web/Performance",
-    "4. Web",
-    "TradingView/TradingViewLibrary",
-    "Stocks/記憶體",
-    "Stocks/能源",
     "Stocks/網路/WiFi比較圖.png",
     "Stocks/3037/process.png",
     "Stocks/3037/industy.png",
     "Stocks/3037/ABF三雄營收占比客戶比較.png",
-    "Stocks/PCB/process.png",
-    "Stocks/PCB/ABF三雄營收占比客戶比較.png",
-    "Stocks/PCB/industy.png",
     "Stocks/手機/IDC2023Q1手機出貨量.png",
     "Stocks/2454/GS_revenue_mix_segment.png",
     "Stocks/IC/2454/GS_revenue_mix_segment.png",
