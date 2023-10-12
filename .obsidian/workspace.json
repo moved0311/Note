@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7d592cc836375f8a",
+        "id": "ac6aac06523601fc",
         "type": "tabs",
         "children": [
           {
-            "id": "ccab74df3b62012d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "eb6d0494771db6ab",
+            "id": "13098543dd8fce97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.Stocks/ETF/ETF.md",
+                "file": "1. Daily/2023-10-03.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,12 +48,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hydrate",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.Stocks/ETF/ETF.md",
+                "file": "1. Daily/2023-10-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.Stocks/ETF/ETF.md",
+                "file": "1. Daily/2023-10-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,12 +133,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.Stocks/ETF/ETF.md"
+                "file": "1. Daily/2023-10-03.md"
               }
             }
           },
           {
-            "id": "b5eb5027da73512c",
+            "id": "cdfe3884fbf0a39a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,7 +147,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -174,55 +166,58 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "eb6d0494771db6ab",
+  "active": "13098543dd8fce97",
   "lastOpenFiles": [
-    "5.Stocks/ETF/ETF.md",
-    "5.Stocks/ETF",
-    "2. TODO/React/hooks/Hooks.md",
-    "2. TODO/React/React.canvas",
-    "2. TODO/React/VirtualDOM.md",
-    "2. TODO/React/react-router-dom.md",
-    "2. TODO/React/Memo.md",
+    "Books/Cracking The CodeInterview/Ch5/__test__/5.3.test.js",
+    "Books/Cracking The CodeInterview/Ch5/__test__/5.2.test.js",
+    "Books/Cracking The CodeInterview/Ch5/__test__/5.1.test.js",
+    "Books/Cracking The CodeInterview/Ch5/__test__",
+    "Books/Cracking The CodeInterview/Ch5/5.4.ts",
+    "Books/Cracking The CodeInterview/Ch5/5.3.js",
+    "Books/Cracking The CodeInterview/Ch5/5.3(bruteforce).js",
+    "Books/Cracking The CodeInterview/Ch5/5.2.js",
+    "Books/Cracking The CodeInterview/Ch5/5.1.js",
+    "Books/Cracking The CodeInterview/Ch1/1.9.test.js",
+    "Books/Cracking The CodeInterview/Ch1/1.9.js",
+    "Books/Cracking The CodeInterview/CrackingTheCodeInterview.md",
+    "5.Stocks/高爾夫球/6670/6670.md",
+    "5.Stocks/IC/2454/GS_revenue_mix_segment.png",
+    "5.Stocks/IC/2454/2454.md",
+    "5.Stocks/高爾夫球/產業.md",
+    "5.Stocks/記憶體/memory.md",
+    "5.Stocks/能源/電池.md",
+    "5.Stocks/能源/綠能.md",
+    "5.Stocks/能源/氣候變遷法.md",
+    "5.Stocks/網路/WiFi比較圖.png",
+    "5.Stocks/網路/WiFi.md",
+    "5.Stocks/網路/5G.md",
     "5.Stocks/晶圓/晶圓.md",
-    "5.Stocks/晶圓",
-    "5.Stocks/PCB/PCB.md",
+    "5.Stocks/Panel/Panel.md",
     "5.Stocks/PCB/process.png",
-    "5.Stocks/PCB/ABF三雄營收占比客戶比較.png",
     "5.Stocks/PCB/industy.png",
+    "5.Stocks/PCB/PCB.md",
+    "5.Stocks/PCB/ABF三雄營收占比客戶比較.png",
     "5.Stocks/PCB/8046.md",
     "5.Stocks/PCB/3037.md",
-    "5.Stocks/PCB",
-    "Design Pattern/Creational/Factory.md",
-    "Design Pattern/Creational/Signleton.md",
-    "Design Pattern/Creational/Prototype.md",
-    "Design Pattern/Creational/Builder.md",
-    "Design Pattern/Creational",
-    "Design Pattern/Behavioral/State.md",
-    "Design Pattern/Behavioral/Observer.md",
-    "Design Pattern/Behavioral/Mediator.md",
-    "Design Pattern/Behavioral/Iterator.md",
-    "Design Pattern/Behavioral",
-    "Books/JavaScript/JavaScript.md",
-    "Books/JavaScript",
-    "3. Reference/Performance/Performance.md",
-    "3. Reference/Performance/JavaScript.md",
-    "3. Reference/架構設計.md",
-    "3. Reference/Rendering.md",
-    "3. Reference/React.md",
-    "3. Reference/Performance",
-    "3. Reference/JavaScript.md",
-    "3. Reference",
-    "2. TODO/React/React.md",
-    "2. TODO/React/hooks/useRef.md",
-    "5.Stocks/Panel",
-    "PPT/Command",
-    "5.Stocks/網路/WiFi比較圖.png",
-    "Stocks/3037/process.png",
-    "Stocks/3037/industy.png",
-    "Stocks/3037/ABF三雄營收占比客戶比較.png",
-    "Stocks/手機/IDC2023Q1手機出貨量.png",
-    "Stocks/2454/GS_revenue_mix_segment.png",
-    "5.Stocks/IC/2454/GS_revenue_mix_segment.png",
-    "未命名 1.canvas"
+    "5.Stocks/IP/IP.md",
+    "5.Stocks/IP/6533.md",
+    "5.Stocks/IC/phone.md",
+    "5.Stocks/IC/IDC2023Q1手機出貨量.png",
+    "5.Stocks/ETF/ETF.md",
+    "5.Stocks/AI/AI.md",
+    "5.Stocks/6902/6902.md",
+    "5.Stocks/5483/5483.png",
+    "5.Stocks/5483/5483.md",
+    "5.Stocks/4977/4977-眾達KY.md",
+    "5.Stocks/3533/3533嘉澤.md",
+    "5.Stocks/2330/2330.md",
+    "2. TODO/React/React.canvas",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "鉅亨網/whenToUseServerAndClientComponents.png",
+    "Stocks/網路/WiFi比較圖.png",
+    "Stocks/網路/截圖 2023-08-28 上午11.21.10.png",
+    "未命名 3.canvas",
+    "未命名 2.canvas"
   ]
 }
