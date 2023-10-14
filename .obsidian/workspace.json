@@ -16,7 +16,7 @@
                 "file": "2. TODO/React/React.canvas",
                 "viewState": {
                   "x": -143.10848357787114,
-                  "y": 14.362353454767415,
+                  "y": -295.9879126397657,
                   "zoom": -0.4166666666666667
                 }
               }
@@ -34,8 +34,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/React/hooks/Hooks.md",
+                "file": "2. TODO/React/React.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/React/hooks/Hooks.md",
+                "file": "2. TODO/React/React.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/React/hooks/Hooks.md"
+                "file": "2. TODO/React/React.canvas"
               }
             }
           },
@@ -181,9 +180,12 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "03992f104b3c0ab7",
+  "active": "0956f11c313356e2",
   "lastOpenFiles": [
+    "2. TODO/React/VirtualDOM.md",
     "2. TODO/React/React.canvas",
+    "2. TODO/React/react-router-dom.md",
+    "2. TODO/React/Memo.md",
     "2. TODO/React/hooks/Hooks.md",
     "Stocks/晶圓/晶圓.md",
     "Stocks/晶圓",
@@ -217,8 +219,6 @@
     "2. TODO/React/React.md",
     "2. TODO/React/hooks/useRef.md",
     "2. TODO/React/hooks/useTransition.md",
-    "2. TODO/React/react-router-dom.md",
-    "2. TODO/React/Deploy.md",
     "Stocks/Panel",
     "PPT/Command",
     "4. Web/Performance/Web Vital",
