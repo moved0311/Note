@@ -33,19 +33,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "59301253980210bb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +181,7 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "59301253980210bb",
+  "active": "03992f104b3c0ab7",
   "lastOpenFiles": [
     "2. TODO/React/React.canvas",
     "2. TODO/React/hooks/Hooks.md",
