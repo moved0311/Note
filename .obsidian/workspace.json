@@ -33,9 +33,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "59301253980210bb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,6 +162,16 @@
                 "file": "2. TODO/React/hooks/Hooks.md"
               }
             }
+          },
+          {
+            "id": "b5eb5027da73512c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -171,7 +191,7 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "03992f104b3c0ab7",
+  "active": "59301253980210bb",
   "lastOpenFiles": [
     "2. TODO/React/React.canvas",
     "2. TODO/React/hooks/Hooks.md",
