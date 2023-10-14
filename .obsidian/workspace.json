@@ -4,37 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "903e11f04376e546",
+        "id": "7d592cc836375f8a",
         "type": "tabs",
         "children": [
           {
-            "id": "1abb0a0f9fdbe9c3",
+            "id": "ccab74df3b62012d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. TODO/React/React.canvas",
-                "viewState": {
-                  "x": -143.10848357787114,
-                  "y": -295.9879126397657,
-                  "zoom": -0.4166666666666667
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "03992f104b3c0ab7",
+            "id": "eb6d0494771db6ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/React/hooks/Hooks.md",
+                "file": "5.Stocks/ETF/ETF.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/React/React.canvas",
+                "file": "5.Stocks/ETF/ETF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/React/React.canvas",
+                "file": "5.Stocks/ETF/ETF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/React/React.canvas"
+                "file": "5.Stocks/ETF/ETF.md"
               }
             }
           },
@@ -180,22 +174,24 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "0956f11c313356e2",
+  "active": "eb6d0494771db6ab",
   "lastOpenFiles": [
-    "2. TODO/React/VirtualDOM.md",
+    "5.Stocks/ETF/ETF.md",
+    "5.Stocks/ETF",
+    "2. TODO/React/hooks/Hooks.md",
     "2. TODO/React/React.canvas",
+    "2. TODO/React/VirtualDOM.md",
     "2. TODO/React/react-router-dom.md",
     "2. TODO/React/Memo.md",
-    "2. TODO/React/hooks/Hooks.md",
-    "Stocks/晶圓/晶圓.md",
-    "Stocks/晶圓",
-    "Stocks/PCB/PCB.md",
-    "Stocks/PCB/process.png",
-    "Stocks/PCB/ABF三雄營收占比客戶比較.png",
-    "Stocks/PCB/industy.png",
-    "Stocks/PCB/8046.md",
-    "Stocks/PCB/3037.md",
-    "Stocks/PCB",
+    "5.Stocks/晶圓/晶圓.md",
+    "5.Stocks/晶圓",
+    "5.Stocks/PCB/PCB.md",
+    "5.Stocks/PCB/process.png",
+    "5.Stocks/PCB/ABF三雄營收占比客戶比較.png",
+    "5.Stocks/PCB/industy.png",
+    "5.Stocks/PCB/8046.md",
+    "5.Stocks/PCB/3037.md",
+    "5.Stocks/PCB",
     "Design Pattern/Creational/Factory.md",
     "Design Pattern/Creational/Signleton.md",
     "Design Pattern/Creational/Prototype.md",
@@ -218,17 +214,15 @@
     "3. Reference",
     "2. TODO/React/React.md",
     "2. TODO/React/hooks/useRef.md",
-    "2. TODO/React/hooks/useTransition.md",
-    "Stocks/Panel",
+    "5.Stocks/Panel",
     "PPT/Command",
-    "4. Web/Performance/Web Vital",
-    "Stocks/網路/WiFi比較圖.png",
+    "5.Stocks/網路/WiFi比較圖.png",
     "Stocks/3037/process.png",
     "Stocks/3037/industy.png",
     "Stocks/3037/ABF三雄營收占比客戶比較.png",
     "Stocks/手機/IDC2023Q1手機出貨量.png",
     "Stocks/2454/GS_revenue_mix_segment.png",
-    "Stocks/IC/2454/GS_revenue_mix_segment.png",
+    "5.Stocks/IC/2454/GS_revenue_mix_segment.png",
     "未命名 1.canvas"
   ]
 }
