@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-10-03.md",
+                "file": "Python/Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-10-03.md",
+                "file": "Python/Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-10-03.md",
+                "file": "Python/Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-10-03.md"
+                "file": "Python/Basic.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "13098543dd8fce97",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "指令/Shell/Find.md",
     "News/2023-10-13.md",
     "Books/Cracking The CodeInterview/Ch5/__test__/5.3.test.js",
@@ -212,6 +213,11 @@
     "5.Stocks/4977/4977-眾達KY.md",
     "5.Stocks/3533/3533嘉澤.md",
     "2. TODO/React/React.canvas",
+=======
+    "1. Daily/2023-10-03.md",
+    "指令/Shell/Find.md",
+    "React/hydration.md",
+>>>>>>> 1a092d1 (note backup: 2023-10-14 11:48:22)
     "未命名 1.canvas",
     "未命名.canvas",
     "鉅亨網/whenToUseServerAndClientComponents.png",

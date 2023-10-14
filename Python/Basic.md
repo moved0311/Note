@@ -19,6 +19,9 @@ for i in range(5, 1, -1):
 # 2
 ```
 
+```
+[x if i % 2 == 0 else '%' for i,x in enumerate(a)]
+```
 ## enumerate
 
 ```py
