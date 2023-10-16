@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3746d4b677eb31d8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +177,7 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "13098543dd8fce97",
+  "active": "3746d4b677eb31d8",
   "lastOpenFiles": [
 <<<<<<< HEAD
     "指令/Shell/Find.md",
