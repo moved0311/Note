@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Web/CSS/多餘字元.md",
+                "file": "1. Daily/2023-10-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Web/CSS/多餘字元.md",
+                "file": "1. Daily/2023-10-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Web/CSS/多餘字元.md",
+                "file": "1. Daily/2023-10-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Web/CSS/多餘字元.md"
+                "file": "1. Daily/2023-10-03.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "13098543dd8fce97",
   "lastOpenFiles": [
+    "4. Web/CSS/多餘字元.md",
     "1. Daily/2023-10-03.md",
     "News/2023-10-18.md",
     "News/2023-10-17.md",
@@ -209,7 +210,6 @@
     "5.Stocks/IC/IDC2023Q1手機出貨量.png",
     "5.Stocks/ETF/ETF.md",
     "5.Stocks/AI/AI.md",
-    "5.Stocks/6902/6902.md",
     "5.Stocks/5483/5483.png",
     "2. TODO/React/React.canvas",
     "未命名 1.canvas",
