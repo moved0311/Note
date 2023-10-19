@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "13098543dd8fce97",
+            "id": "c8a7334a3c35538b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-10-03.md",
+                "file": "1. Daily/2023-10-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-10-03.md",
+                "file": "1. Daily/2023-10-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-10-03.md",
+                "file": "1. Daily/2023-10-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-10-03.md"
+                "file": "1. Daily/2023-10-19.md"
               }
             }
           },
@@ -166,10 +166,11 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "13098543dd8fce97",
+  "active": "c8a7334a3c35538b",
   "lastOpenFiles": [
-    "4. Web/CSS/多餘字元.md",
     "1. Daily/2023-10-03.md",
+    "1. Daily/2023-10-19.md",
+    "4. Web/CSS/多餘字元.md",
     "News/2023-10-18.md",
     "News/2023-10-17.md",
     "指令/Shell/Find.md",
@@ -209,7 +210,6 @@
     "5.Stocks/IC/phone.md",
     "5.Stocks/IC/IDC2023Q1手機出貨量.png",
     "5.Stocks/ETF/ETF.md",
-    "5.Stocks/AI/AI.md",
     "5.Stocks/5483/5483.png",
     "2. TODO/React/React.canvas",
     "未命名 1.canvas",
