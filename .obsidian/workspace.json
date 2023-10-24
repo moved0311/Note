@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hydrate",
+                "query": "their ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,8 +169,9 @@
   },
   "active": "c8a7334a3c35538b",
   "lastOpenFiles": [
-    "1. Daily/2023-10-03.md",
+    "Git/Git.md",
     "1. Daily/2023-10-19.md",
+    "1. Daily/2023-10-03.md",
     "4. Web/SEO/SEO.md",
     "4. Web/SEO",
     "News/2023-10-20.md",
@@ -208,7 +210,6 @@
     "5.Stocks/PCB/8046.md",
     "5.Stocks/PCB/3037.md",
     "5.Stocks/IP/IP.md",
-    "5.Stocks/IP/6533.md",
     "5.Stocks/IC/IDC2023Q1手機出貨量.png",
     "5.Stocks/5483/5483.png",
     "2. TODO/React/React.canvas",
