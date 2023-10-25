@@ -1,1 +1,0 @@
-* [A Front-End Application Folder Structure that Makes Sense | by Fotis Adamakis | Aug, 2023 | Medium](https://fadamakis.com/a-front-end-application-folder-structure-that-makes-sense-ecc0b690968b)

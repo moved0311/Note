@@ -11,14 +11,11 @@
             "id": "99d0256962ffb275",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "2. TODO/React/React.canvas",
-                "viewState": {
-                  "x": -271.5,
-                  "y": -44.5,
-                  "zoom": 0
-                }
+                "file": "2. TODO/React/Fiber.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -80,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/React/React.canvas",
+                "file": "2. TODO/React/Fiber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/React/React.canvas",
+                "file": "2. TODO/React/Fiber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/React/React.canvas"
+                "file": "2. TODO/React/Fiber.md"
               }
             }
           },
@@ -170,6 +168,18 @@
   },
   "active": "99d0256962ffb275",
   "lastOpenFiles": [
+    "().md",
+    "2. TODO/React/Fiber.md",
+    "2. TODO/React/React.canvas",
+    "2. TODO/React/Diffing algorithm.md",
+    "2. TODO/React/hooks/Hooks.md",
+    "2. TODO/React/Rendering.md",
+    "1. Daily/2023-10-19.md",
+    "2. TODO/Read.md",
+    "2. TODO/React/Reconcliation.md",
+    "Structure/Web.md",
+    "2. TODO/React/VirtualDOM.md",
+    "2. TODO/React/hydration.md",
     "指令/Shell/Find.md",
     "News/2023-10-23.md",
     "News/2023-10-20.md",
@@ -182,30 +192,18 @@
     "4. Web/CSS/多餘字元.md",
     "4. Web/CSS/Scrollbar.md",
     "4. Web/CSS",
-    "1. Daily/2023-10-19.md",
-    "2. TODO/React/hooks/Hooks.md",
-    "2. TODO/React/React.canvas",
     "2. TODO/React/React.md",
     "5.Stocks/ETF/ETF.md",
     "5.Stocks/ETF",
-    "2. TODO/React/VirtualDOM.md",
     "2. TODO/React/react-router-dom.md",
     "2. TODO/React/Memo.md",
     "5.Stocks/晶圓/晶圓.md",
     "5.Stocks/晶圓",
-    "5.Stocks/PCB/PCB.md",
     "5.Stocks/PCB/process.png",
     "5.Stocks/PCB/ABF三雄營收占比客戶比較.png",
     "5.Stocks/PCB/industy.png",
-    "5.Stocks/PCB/8046.md",
-    "5.Stocks/PCB/3037.md",
     "5.Stocks/PCB",
-    "Design Pattern/Creational/Factory.md",
-    "Design Pattern/Creational/Signleton.md",
-    "Design Pattern/Creational/Prototype.md",
-    "Design Pattern/Creational/Builder.md",
     "Design Pattern/Creational",
-    "Design Pattern/Behavioral/State.md",
     "Design Pattern/Behavioral",
     "Books/JavaScript",
     "3. Reference/Performance",
