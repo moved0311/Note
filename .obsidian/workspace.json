@@ -21,31 +21,8 @@
                 }
               }
             }
-          },
-          {
-            "id": "46172bad590c2d5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. TODO/React/hooks/Hooks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cecec602533c04c7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/React/hooks/Hooks.md",
+                "file": "2. TODO/React/React.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/React/hooks/Hooks.md",
+                "file": "2. TODO/React/React.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/React/hooks/Hooks.md"
+                "file": "2. TODO/React/React.canvas"
               }
             }
           },
@@ -191,13 +168,26 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "cecec602533c04c7",
+  "active": "99d0256962ffb275",
   "lastOpenFiles": [
+    "指令/Shell/Find.md",
+    "News/2023-10-23.md",
+    "News/2023-10-20.md",
+    "News/2023-10-18.md",
+    "News/2023-10-17.md",
+    "News/2023-10-13.md",
+    "4. Web/SEO/SEO.md",
+    "4. Web/SEO",
+    "4. Web/JavaScript/Date.md",
+    "4. Web/CSS/多餘字元.md",
+    "4. Web/CSS/Scrollbar.md",
+    "4. Web/CSS",
+    "1. Daily/2023-10-19.md",
+    "2. TODO/React/hooks/Hooks.md",
     "2. TODO/React/React.canvas",
     "2. TODO/React/React.md",
     "5.Stocks/ETF/ETF.md",
     "5.Stocks/ETF",
-    "2. TODO/React/hooks/Hooks.md",
     "2. TODO/React/VirtualDOM.md",
     "2. TODO/React/react-router-dom.md",
     "2. TODO/React/Memo.md",
@@ -216,22 +206,10 @@
     "Design Pattern/Creational/Builder.md",
     "Design Pattern/Creational",
     "Design Pattern/Behavioral/State.md",
-    "Design Pattern/Behavioral/Observer.md",
-    "Design Pattern/Behavioral/Mediator.md",
-    "Design Pattern/Behavioral/Iterator.md",
     "Design Pattern/Behavioral",
-    "Books/JavaScript/JavaScript.md",
     "Books/JavaScript",
-    "3. Reference/Performance/Performance.md",
-    "3. Reference/Performance/JavaScript.md",
-    "3. Reference/架構設計.md",
-    "3. Reference/Rendering.md",
-    "3. Reference/React.md",
     "3. Reference/Performance",
-    "3. Reference/JavaScript.md",
     "3. Reference",
-    "5.Stocks/Panel",
-    "PPT/Command",
     "5.Stocks/網路/WiFi比較圖.png",
     "Stocks/3037/process.png",
     "Stocks/3037/industy.png",
