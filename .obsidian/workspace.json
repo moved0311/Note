@@ -4,31 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "7d592cc836375f8a",
+        "id": "84d99f46444ccfcb",
         "type": "tabs",
         "children": [
           {
-            "id": "ccab74df3b62012d",
+            "id": "99d0256962ffb275",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "2. TODO/React/React.canvas",
+                "viewState": {
+                  "x": -271.5,
+                  "y": -44.5,
+                  "zoom": 0
+                }
+              }
             }
           },
           {
-            "id": "eb6d0494771db6ab",
+            "id": "46172bad590c2d5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.Stocks/ETF/ETF.md",
+                "file": "2. TODO/React/hooks/Hooks.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "cecec602533c04c7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.Stocks/ETF/ETF.md",
+                "file": "2. TODO/React/hooks/Hooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.Stocks/ETF/ETF.md",
+                "file": "2. TODO/React/hooks/Hooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.Stocks/ETF/ETF.md"
+                "file": "2. TODO/React/hooks/Hooks.md"
               }
             }
           },
@@ -174,12 +191,13 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "eb6d0494771db6ab",
+  "active": "cecec602533c04c7",
   "lastOpenFiles": [
+    "2. TODO/React/React.canvas",
+    "2. TODO/React/React.md",
     "5.Stocks/ETF/ETF.md",
     "5.Stocks/ETF",
     "2. TODO/React/hooks/Hooks.md",
-    "2. TODO/React/React.canvas",
     "2. TODO/React/VirtualDOM.md",
     "2. TODO/React/react-router-dom.md",
     "2. TODO/React/Memo.md",
@@ -212,8 +230,6 @@
     "3. Reference/Performance",
     "3. Reference/JavaScript.md",
     "3. Reference",
-    "2. TODO/React/React.md",
-    "2. TODO/React/hooks/useRef.md",
     "5.Stocks/Panel",
     "PPT/Command",
     "5.Stocks/網路/WiFi比較圖.png",

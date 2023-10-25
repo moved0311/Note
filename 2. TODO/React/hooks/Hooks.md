@@ -50,5 +50,19 @@ const Main = () => {
 	)
 }
 ```
+
+## useRef
+> Store a mutable value. won't change when the component re-render.
+> Manipulate HTML element, like input.
+
+
+## useMemo
+
+當一個變數X需要經過複雜計算得到，每次re-render時，都會重複計算X變數。
+這時候可以使用useMemo將X保存在記憶體中避免每次重覆計算。
+
+When a variable X requires complex computation and is recalculated on each re-render, you can use `useMemo` to store X in memory and avoid redundant computations.
+
+
 ## Reference
 * [React Hooks Tutorial - YouTube](https://www.youtube.com/playlist?list=PLxRVWC-K96b2KrTW6AqAE6vUXfOTnD-PS)
