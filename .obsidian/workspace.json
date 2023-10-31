@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/React/Fiber.md",
+                "file": "PPT/Command/Command.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/React/Fiber.md",
+                "file": "PPT/Command/Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/React/Fiber.md",
+                "file": "PPT/Command/Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/React/Fiber.md"
+                "file": "PPT/Command/Command.md"
               }
             }
           },
@@ -168,13 +168,18 @@
   },
   "active": "99d0256962ffb275",
   "lastOpenFiles": [
-    "().md",
-    "2. TODO/React/Fiber.md",
+    "Shell/Commands.md",
+    "PPT/Command/Command.md",
+    "1. Daily/2023-10-03.md",
+    "1. Daily/2023-10-19.md",
     "2. TODO/React/React.canvas",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "2. TODO/React/Fiber.md",
+    "().md",
     "2. TODO/React/Diffing algorithm.md",
     "2. TODO/React/hooks/Hooks.md",
     "2. TODO/React/Rendering.md",
-    "1. Daily/2023-10-19.md",
     "2. TODO/Read.md",
     "2. TODO/React/Reconcliation.md",
     "Structure/Web.md",
@@ -195,9 +200,6 @@
     "2. TODO/React/React.md",
     "5.Stocks/ETF/ETF.md",
     "5.Stocks/ETF",
-    "2. TODO/React/react-router-dom.md",
-    "2. TODO/React/Memo.md",
-    "5.Stocks/晶圓/晶圓.md",
     "5.Stocks/晶圓",
     "5.Stocks/PCB/process.png",
     "5.Stocks/PCB/ABF三雄營收占比客戶比較.png",
@@ -214,7 +216,6 @@
     "Stocks/3037/ABF三雄營收占比客戶比較.png",
     "Stocks/手機/IDC2023Q1手機出貨量.png",
     "Stocks/2454/GS_revenue_mix_segment.png",
-    "5.Stocks/IC/2454/GS_revenue_mix_segment.png",
-    "未命名 1.canvas"
+    "5.Stocks/IC/2454/GS_revenue_mix_segment.png"
   ]
 }
