@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/React/hooks/useRef.md",
+                "file": "1. Daily/2023-10-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/React/hooks/useRef.md",
+                "file": "1. Daily/2023-10-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/React/hooks/useRef.md",
+                "file": "1. Daily/2023-10-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/React/hooks/useRef.md"
+                "file": "1. Daily/2023-10-19.md"
               }
             }
           },
@@ -169,13 +169,16 @@
   },
   "active": "c8a7334a3c35538b",
   "lastOpenFiles": [
+    "5.Stocks/衛星/低軌衛星.md",
+    "5.Stocks/衛星/衛星.md",
+    "5.Stocks/衛星",
+    "2. TODO/React/hooks/useRef.md",
     "1. Daily/2023-10-19.md",
     "TypeScript/TypeScript.md",
     "TypeScript/Event.md",
     "TypeScript/常用.md",
     "TypeScript/5.0.md",
     "2. TODO/React/hooks/Hooks.md",
-    "2. TODO/React/hooks/useRef.md",
     "2. TODO/React/hooks/useClickOutside.md",
     "().md",
     "News/2023-11-02.md",
@@ -196,15 +199,12 @@
     "News/2023-10-20.md",
     "4. Web/CSS/多餘字元.md",
     "News/2023-10-18.md",
-    "News/2023-10-17.md",
-    "指令/Shell/Find.md",
     "Books/Cracking The CodeInterview/Ch5/__test__/5.3.test.js",
     "Books/Cracking The CodeInterview/Ch5/__test__/5.2.test.js",
     "Books/Cracking The CodeInterview/Ch5/__test__/5.1.test.js",
     "Books/Cracking The CodeInterview/Ch5/__test__",
     "Books/Cracking The CodeInterview/Ch5/5.4.ts",
     "Books/Cracking The CodeInterview/Ch5/5.3.js",
-    "Books/Cracking The CodeInterview/Ch5/5.3(bruteforce).js",
     "5.Stocks/IC/2454/GS_revenue_mix_segment.png",
     "5.Stocks/網路/WiFi比較圖.png",
     "5.Stocks/PCB/process.png",
