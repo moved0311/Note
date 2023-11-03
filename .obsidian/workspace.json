@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,11 +168,13 @@
   },
   "active": "c8a7334a3c35538b",
   "lastOpenFiles": [
+    "News/2023-11-03.md",
+    "未命名.canvas",
+    "1. Daily/2023-10-19.md",
     "5.Stocks/衛星/低軌衛星.md",
     "5.Stocks/衛星/衛星.md",
     "5.Stocks/衛星",
     "2. TODO/React/hooks/useRef.md",
-    "1. Daily/2023-10-19.md",
     "TypeScript/TypeScript.md",
     "TypeScript/Event.md",
     "TypeScript/常用.md",
@@ -198,7 +199,6 @@
     "4. Web/SEO",
     "News/2023-10-20.md",
     "4. Web/CSS/多餘字元.md",
-    "News/2023-10-18.md",
     "Books/Cracking The CodeInterview/Ch5/__test__/5.3.test.js",
     "Books/Cracking The CodeInterview/Ch5/__test__/5.2.test.js",
     "Books/Cracking The CodeInterview/Ch5/__test__/5.1.test.js",
@@ -214,7 +214,6 @@
     "5.Stocks/5483/5483.png",
     "2. TODO/React/React.canvas",
     "未命名 1.canvas",
-    "未命名.canvas",
     "鉅亨網/whenToUseServerAndClientComponents.png",
     "Stocks/網路/WiFi比較圖.png",
     "Stocks/網路/截圖 2023-08-28 上午11.21.10.png",
