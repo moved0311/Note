@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-11-03.md",
+                "file": "2. TODO/React/hooks/useRef.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-11-03.md",
+                "file": "2. TODO/React/hooks/useRef.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-11-03.md",
+                "file": "2. TODO/React/hooks/useRef.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-11-03.md"
+                "file": "2. TODO/React/hooks/useRef.md"
               }
             }
           },
@@ -168,9 +169,11 @@
   },
   "active": "a86da388b515b65e",
   "lastOpenFiles": [
+    "1. Daily/2023-11-03.md",
+    "TypeScript/TypeScript.md",
+    "TypeScript/常用.md",
     "News/2023-11-10.md",
     "1. Daily/2023-10-19.md",
-    "1. Daily/2023-11-03.md",
     "Pasted image 20231103174602.png",
     "AD/google ad.md",
     "CodeReview/reference.md",
@@ -181,9 +184,7 @@
     "5.Stocks/衛星/衛星.md",
     "5.Stocks/衛星",
     "2. TODO/React/hooks/useRef.md",
-    "TypeScript/TypeScript.md",
     "TypeScript/Event.md",
-    "TypeScript/常用.md",
     "TypeScript/5.0.md",
     "2. TODO/React/hooks/Hooks.md",
     "2. TODO/React/hooks/useClickOutside.md",
