@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/React/Reference.md",
+                "file": "2. TODO/Read.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/React/Reference.md",
+                "file": "2. TODO/Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/React/Reference.md",
+                "file": "2. TODO/Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/React/Reference.md"
+                "file": "2. TODO/Read.md"
               }
             }
           },
@@ -167,7 +167,22 @@
   },
   "active": "e6014f2516b1f7c8",
   "lastOpenFiles": [
+    "Course/Data Structures.md",
+    "2. TODO/interviewQuestion.md",
+    "Course/Data Mining.md",
+    "Course",
     "Pasted image 20231103174602.png",
+    "2. TODO/CodingInterviewUniversity.md",
+    "2. TODO/Read.md",
+    "2. TODO/LeetCode.md",
+    "4. Web/Framework/Server Framework.md",
+    "4. Web/Framework",
+    "4. Web/未命名.md",
+    "4. Web/Framework.md",
+    "2. TODO/NextJS/名詞解釋.md",
+    "2. TODO/React/React Open Source.md",
+    "2. TODO/React/Reference.md",
+    "2. TODO/React/React.canvas",
     "News/2023/2023-11-03.md",
     "News/2023/2023-11-02.md",
     "News/2023/2023-11-01.md",
@@ -183,21 +198,9 @@
     "5.Stocks/CPO/4977",
     "5.Stocks/CPO",
     "1. Daily/2023-11-03.md",
-    "2. TODO/React/React.canvas",
-    "2. TODO/React/Reference.md",
     "未命名.canvas",
     "PPT/Command/Command.md",
     "News/2023/2023-10-23.md",
-    "News/2023/2023-10-20.md",
-    "News/2023/2023-10-18.md",
-    "News/2023/2023-10-17.md",
-    "News/2023/2023-10-13.md",
-    "News/2023/2023-10-12.md",
-    "News/2023/2023-10-11.md",
-    "News/2023-10-31.md",
-    "News/2023-10-30.md",
-    "Shell/Commands.md",
-    "1. Daily/2023-10-03.md",
     "未命名 1.canvas",
     "4. Web/SEO",
     "4. Web/CSS",
@@ -207,14 +210,11 @@
     "5.Stocks/PCB/ABF三雄營收占比客戶比較.png",
     "5.Stocks/PCB/industy.png",
     "5.Stocks/PCB",
-    "Design Pattern/Creational",
-    "Design Pattern/Behavioral",
     "5.Stocks/網路/WiFi比較圖.png",
     "Stocks/3037/process.png",
     "Stocks/3037/industy.png",
     "Stocks/3037/ABF三雄營收占比客戶比較.png",
     "Stocks/手機/IDC2023Q1手機出貨量.png",
-    "Stocks/2454/GS_revenue_mix_segment.png",
-    "5.Stocks/IC/2454/GS_revenue_mix_segment.png"
+    "Stocks/2454/GS_revenue_mix_segment.png"
   ]
 }

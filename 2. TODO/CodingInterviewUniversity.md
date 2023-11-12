@@ -524,7 +524,6 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [ ] [Quick UML review (video)](https://www.youtube.com/watch?v=3cmzqZzwNDM&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc&index=3)
     - [ ] Learn these patterns:
         - [ ] strategy
-        - [ ] singleton
         - [ ] adapter
         - [ ] prototype
         - [ ] decorator
@@ -701,10 +700,6 @@ Graphs can be used to represent many problems in computer science, so this secti
 ---
 
 ## Final Review
-
-    This section will have shorter videos that you can watch pretty quickly to review most of the important concepts.
-    It's nice if you want a refresher often.
-
 - [ ] Series of 2-3 minutes short subject videos (23 videos)
     - [Videos](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
 - [ ] Series of 2-5 minutes short subject videos - Michael Sambol (40 videos):
@@ -787,27 +782,6 @@ Some of mine (I already may know the answers, but want their opinion or team per
 - What is the work life like?
 - How is the work/life balance?
 
-## Once You've Got The Job
-
-Congratulations!
-
-Keep learning.
-
-You're never really done.
-
----
-
-    *****************************************************************************************************
-    *****************************************************************************************************
-
-    Everything below this point is optional. It is NOT needed for an entry-level interview.
-    However, by studying these, you'll get greater exposure to more CS concepts, and will be better prepared for
-    any software engineering job. You'll be a much more well-rounded software engineer.
-    
-    *****************************************************************************************************
-    *****************************************************************************************************
-
----
 
 ## Additional Books
 
