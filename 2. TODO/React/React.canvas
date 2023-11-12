@@ -3,11 +3,11 @@
 		{"id":"a25670880e2c81aa","type":"group","x":-1066,"y":-886,"width":549,"height":397,"color":"6","label":"Concept"},
 		{"id":"048de6ae09549646","type":"file","file":"2. TODO/React/React.md","x":-144,"y":-142,"width":141,"height":55,"color":"1"},
 		{"id":"d1081d80a11cb9c1","type":"file","file":"2. TODO/React/Diffing algorithm.md","x":-1046,"y":-821,"width":309,"height":50},
-		{"id":"f1daa06409b2e669","type":"file","file":"2. TODO/React/Reconcliation.md","x":-1046,"y":-703,"width":253,"height":66},
 		{"id":"4771a70bc7e62d8d","type":"file","file":"2. TODO/React/VirtualDOM.md","x":-1046,"y":-597,"width":231,"height":50},
 		{"id":"908c47be9ef135c5","type":"file","file":"2. TODO/React/Rendering.md","x":-775,"y":-597,"width":209,"height":68},
 		{"type":"file","file":"2. TODO/React/hooks/Hooks.md","id":"2b2328a46373cd74","x":-830,"y":82,"width":152,"height":50,"color":"2"},
-		{"id":"98d20d5faef14503","type":"file","file":"2. TODO/React/Fiber.md","x":-697,"y":-821,"width":143,"height":50}
+		{"id":"98d20d5faef14503","type":"file","file":"2. TODO/React/Fiber.md","x":-697,"y":-821,"width":143,"height":50},
+		{"id":"f1daa06409b2e669","type":"file","file":"2. TODO/React/Reconcliation.md","x":-1046,"y":-715,"width":253,"height":66}
 	],
 	"edges":[
 		{"id":"281d41c91f03b15c","fromNode":"048de6ae09549646","fromSide":"bottom","toNode":"2b2328a46373cd74","toSide":"top"},

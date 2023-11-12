@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "84d99f46444ccfcb",
+        "id": "b584a20605678e8c",
         "type": "tabs",
         "children": [
           {
-            "id": "99d0256962ffb275",
+            "id": "e6014f2516b1f7c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PPT/Command/Command.md",
+                "file": "2. TODO/React/Reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PPT/Command/Command.md",
+                "file": "2. TODO/React/Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PPT/Command/Command.md",
+                "file": "2. TODO/React/Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PPT/Command/Command.md"
+                "file": "2. TODO/React/Reference.md"
               }
             }
           },
@@ -166,8 +165,12 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "99d0256962ffb275",
+  "active": "e6014f2516b1f7c8",
   "lastOpenFiles": [
+    "2. TODO/React/React.canvas",
+    "2. TODO/React/Reference.md",
+    "未命名.canvas",
+    "PPT/Command/Command.md",
     "News/2023/2023-10-23.md",
     "News/2023/2023-10-20.md",
     "News/2023/2023-10-18.md",
@@ -178,11 +181,8 @@
     "News/2023-10-31.md",
     "News/2023-10-30.md",
     "Shell/Commands.md",
-    "PPT/Command/Command.md",
     "1. Daily/2023-10-03.md",
     "1. Daily/2023-10-19.md",
-    "2. TODO/React/React.canvas",
-    "未命名.canvas",
     "未命名 1.canvas",
     "2. TODO/React/Fiber.md",
     "().md",
@@ -195,8 +195,6 @@
     "2. TODO/React/VirtualDOM.md",
     "2. TODO/React/hydration.md",
     "指令/Shell/Find.md",
-    "News/2023-10-23.md",
-    "News/2023-10-20.md",
     "4. Web/SEO",
     "4. Web/CSS",
     "5.Stocks/ETF",
