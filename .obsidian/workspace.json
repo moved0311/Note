@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b584a20605678e8c",
+        "id": "8b97ce311d29c247",
         "type": "tabs",
         "children": [
           {
-            "id": "e6014f2516b1f7c8",
+            "id": "7cc7354df39e85c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/Read.md",
+                "file": "4. Web/Framework/Server Framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/Read.md",
+                "file": "4. Web/Framework/Server Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/Read.md",
+                "file": "4. Web/Framework/Server Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/Read.md"
+                "file": "4. Web/Framework/Server Framework.md"
               }
             }
           },
@@ -165,15 +165,18 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "e6014f2516b1f7c8",
+  "active": "7cc7354df39e85c4",
   "lastOpenFiles": [
+    "2. TODO/NextJS/Reference.md",
+    "2. TODO/React/Reference.md",
+    "2. TODO/React/Rendering.md",
+    "2. TODO/Read.md",
     "Course/Data Structures.md",
     "2. TODO/interviewQuestion.md",
     "Course/Data Mining.md",
     "Course",
     "Pasted image 20231103174602.png",
     "2. TODO/CodingInterviewUniversity.md",
-    "2. TODO/Read.md",
     "2. TODO/LeetCode.md",
     "4. Web/Framework/Server Framework.md",
     "4. Web/Framework",
@@ -181,7 +184,6 @@
     "4. Web/Framework.md",
     "2. TODO/NextJS/名詞解釋.md",
     "2. TODO/React/React Open Source.md",
-    "2. TODO/React/Reference.md",
     "2. TODO/React/React.canvas",
     "News/2023/2023-11-03.md",
     "News/2023/2023-11-02.md",
@@ -199,8 +201,6 @@
     "5.Stocks/CPO",
     "1. Daily/2023-11-03.md",
     "未命名.canvas",
-    "PPT/Command/Command.md",
-    "News/2023/2023-10-23.md",
     "未命名 1.canvas",
     "4. Web/SEO",
     "4. Web/CSS",
