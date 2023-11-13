@@ -1,11 +1,11 @@
 ```js
 useEffect(() => {  
-    let abortController = new AbortController();  
-    // your async action is here  
-    return () => {  
+  let abortController = new AbortController();  
+  // your async action is here  
+  return () => {  
     abortController.abort();  
-    }  
-    }, []);
+  }  
+}, []);
 ```
 
 
