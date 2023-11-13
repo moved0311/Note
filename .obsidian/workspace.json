@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "49c87f28f1a6a1b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. TODO/NextJS/Reference.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-11-03.md",
+                "file": "2. TODO/NextJS/Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-11-03.md",
+                "file": "2. TODO/NextJS/Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-11-03.md"
+                "file": "2. TODO/NextJS/Reference.md"
               }
             }
           },
@@ -166,9 +179,11 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "a86da388b515b65e",
+  "active": "49c87f28f1a6a1b5",
   "lastOpenFiles": [
     "2. TODO/React/Reference.md",
+    "2. TODO/NextJS/Reference.md",
+    "1. Daily/2023-11-03.md",
     "2. TODO/Open Source.md",
     "2. TODO/React/VirtualDOM.md",
     "2. TODO/React/Rendering.md",
@@ -180,7 +195,6 @@
     "2. TODO/React/Fiber.md",
     "2. TODO/React/Memory Leak.md",
     "2. TODO/React/thrid-party",
-    "1. Daily/2023-11-03.md",
     "News/2023-11-13.md",
     "Shell/Commands.md",
     "Course/Data Structures.md",
@@ -191,7 +205,6 @@
     "2. TODO/NextJS/名詞解釋.md",
     "2. TODO/NextJS/Vercel.md",
     "2. TODO/NextJS/ServerActions.md",
-    "2. TODO/NextJS/Reference.md",
     "2. TODO/NextJS/Next13.md",
     "2. TODO/NextJS/ISR.md",
     "2. TODO/NextJS",
