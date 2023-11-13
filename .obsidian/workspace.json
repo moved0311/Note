@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,6 +168,7 @@
   },
   "active": "a86da388b515b65e",
   "lastOpenFiles": [
+    "News/2023-11-13.md",
     "Shell/Commands.md",
     "Course/Data Structures.md",
     "Course/Data Mining.md",
@@ -200,7 +200,6 @@
     "5.Stocks/衛星/衛星.md",
     "5.Stocks/衛星",
     "TypeScript/Event.md",
-    "TypeScript/5.0.md",
     "5.Stocks/CPO/4977",
     "5.Stocks/CPO",
     "4. Web/SEO",
