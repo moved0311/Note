@@ -13,12 +13,5 @@
       "key": "F"
     }
   ],
-  "editor:delete-paragraph": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "X"
-    }
-  ]
+  "editor:delete-paragraph": []
 }

@@ -1,1 +1,0 @@
-* [bash - How variables inside braces are evaluated(:-, :+, :=)](https://unix.stackexchange.com/questions/286335/how-variables-inside-braces-are-evaluated)
