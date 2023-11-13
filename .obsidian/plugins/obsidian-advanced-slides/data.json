@@ -1,8 +1,8 @@
 {
-  "port": "8787",
+  "port": "3000",
   "autoReload": true,
   "exportDirectory": "/export",
-  "enableChalkboard": true,
+  "enableChalkboard": false,
   "enableOverview": false,
   "enableMenu": false,
   "enablePointer": false,
@@ -13,13 +13,9 @@
   "transitionSpeed": "default",
   "controls": true,
   "progress": true,
-  "slideNumber": true,
+  "slideNumber": false,
   "showGrid": false,
   "autoComplete": "inPreview",
   "paneMode": "split",
-<<<<<<< HEAD
-  "motm": "2023-11-12T12:33:09.632Z"
-=======
-  "motm": "2023-11-09T02:30:26.568Z"
->>>>>>> 89133fd98da0d554084ea1436116b81dc4379870
+  "motm": "2023-11-13T13:13:08.001Z"
 }
