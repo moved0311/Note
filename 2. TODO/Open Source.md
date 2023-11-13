@@ -9,8 +9,6 @@
 * https://github.com/antonioru/beautiful-react-hooks
 	> A collection of tailor-made React hooks to enhance your development process and make it faster.
 
-## Nextjs 13
-* [shadcn-ui/taxonomy: An open source application built using the new router, server components and everything new in Next.js 13. (github.com)](https://github.com/shadcn-ui/taxonomy)
 
 ## 元件庫/元件實作
 * https://github.com/Chalarangelo/30-seconds-of-react

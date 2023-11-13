@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8b97ce311d29c247",
+        "id": "535c72d8b49a957c",
         "type": "tabs",
         "children": [
           {
-            "id": "7cc7354df39e85c4",
+            "id": "3f445550088b0671",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Web/Framework/Server Framework.md",
+                "file": "2. TODO/React/Reconcliation.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 211.5
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Web/Framework/Server Framework.md",
+                "file": "2. TODO/React/Reconcliation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Web/Framework/Server Framework.md",
+                "file": "2. TODO/React/Reconcliation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Web/Framework/Server Framework.md"
+                "file": "2. TODO/React/Reconcliation.md"
               }
             }
           },
@@ -165,18 +165,24 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "7cc7354df39e85c4",
+  "active": "3f445550088b0671",
   "lastOpenFiles": [
+    "2. TODO/React/Rendering.md",
+    "2. TODO/React/Diffing algorithm.md",
+    "2. TODO/React/Reconcliation.md",
+    "2. TODO/React/1. React.canvas",
+    "2. TODO/React/2. Reference.md",
+    "2. TODO/React/React.md",
+    "2. TODO/React/Fiber.md",
+    "2. TODO/Open Source.md",
+    "2. TODO/Read.md",
+    "4. Web/Framework/Server Framework.md",
     "News/2023-11-13.md",
     "2. TODO/React/thrid-party/react-query/window focus refetching.md",
     "2. TODO/React/thrid-party/react-router-dom.md",
     "2. TODO/React/thrid-party/react-query",
     "2. TODO/React/thrid-party",
-    "2. TODO/Open Source.md",
     "2. TODO/NextJS/Reference.md",
-    "2. TODO/React/Reference.md",
-    "2. TODO/React/Rendering.md",
-    "2. TODO/Read.md",
     "Course/Data Structures.md",
     "2. TODO/interviewQuestion.md",
     "Course/Data Mining.md",
@@ -184,21 +190,15 @@
     "Pasted image 20231103174602.png",
     "2. TODO/CodingInterviewUniversity.md",
     "2. TODO/LeetCode.md",
-    "4. Web/Framework/Server Framework.md",
     "4. Web/Framework",
     "4. Web/未命名.md",
     "4. Web/Framework.md",
     "2. TODO/NextJS/名詞解釋.md",
     "2. TODO/React/React Open Source.md",
-    "2. TODO/React/React.canvas",
     "News/2023/2023-11-03.md",
     "News/2023/2023-11-02.md",
     "News/2023/2023-11-01.md",
     "News/2023/2023-10-31.md",
-    "News/2023/2023-10-30.md",
-    "News/2023-11-10.md",
-    "News/2023-11-09.md",
-    "5.Stocks/衛星/衛星.md",
     "5.Stocks/衛星",
     "5.Stocks/CPO/4977",
     "5.Stocks/CPO",
