@@ -7,7 +7,11 @@
 	* Keys
 	* Batched Updates
 
+## Stack Reconcliation
+* LIFO
+* 如果任務有優先順序/任務需要中斷,在Stack結構會較困難實現
+## [[Fiber Reconcliation]]
 
 
-
+## Reference
 [React Fiber Reconciliation: How it Works (Part 1) - YouTube](https://www.youtube.com/watch?v=rKk4XJYzSQA)

@@ -11,15 +11,34 @@
             "id": "3f445550088b0671",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2. TODO/React/Reconcliation.md",
-                "mode": "source",
-                "source": false
+                "file": "2. TODO/React/1. React.canvas",
+                "viewState": {
+                  "x": -1047.1494806477199,
+                  "y": -675.0000536281882,
+                  "zoom": -1.146867221174768
+                }
+              }
+            }
+          },
+          {
+            "id": "371668fc8e6c9b58",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. TODO/React/1. React.canvas",
+                "viewState": {
+                  "x": -1194.8246031437086,
+                  "y": -619.4517372084098,
+                  "zoom": -0.8056361840744646
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/React/Reconcliation.md",
+                "file": "2. TODO/React/1. React.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/React/Reconcliation.md",
+                "file": "2. TODO/React/1. React.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/React/Reconcliation.md"
+                "file": "2. TODO/React/1. React.canvas"
               }
             }
           },
@@ -165,17 +184,21 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "3f445550088b0671",
+  "active": "371668fc8e6c9b58",
   "lastOpenFiles": [
-    "2. TODO/React/Rendering.md",
-    "2. TODO/React/Diffing algorithm.md",
-    "2. TODO/React/Reconcliation.md",
-    "2. TODO/React/1. React.canvas",
-    "2. TODO/React/2. Reference.md",
-    "2. TODO/React/React.md",
-    "2. TODO/React/Fiber.md",
-    "2. TODO/Open Source.md",
     "2. TODO/Read.md",
+    "2. TODO/React/1. React.canvas",
+    "2. TODO/React/Fiber Reconcliation.md",
+    "2. TODO/React/2. Reference.md",
+    "2. TODO/React/Reconcliation.md",
+    "2. TODO/React/Error Bound.md",
+    "2. TODO/React/VirtualDOM.md",
+    "2. TODO/React/Rendering.md",
+    "2. TODO/React/Memory Leak.md",
+    "2. TODO/React/Memo.md",
+    "2. TODO/React/React.md",
+    "2. TODO/React/Diffing algorithm.md",
+    "2. TODO/Open Source.md",
     "4. Web/Framework/Server Framework.md",
     "News/2023-11-13.md",
     "2. TODO/React/thrid-party/react-query/window focus refetching.md",
@@ -194,11 +217,6 @@
     "4. Web/未命名.md",
     "4. Web/Framework.md",
     "2. TODO/NextJS/名詞解釋.md",
-    "2. TODO/React/React Open Source.md",
-    "News/2023/2023-11-03.md",
-    "News/2023/2023-11-02.md",
-    "News/2023/2023-11-01.md",
-    "News/2023/2023-10-31.md",
     "5.Stocks/衛星",
     "5.Stocks/CPO/4977",
     "5.Stocks/CPO",
