@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-11-03.md",
+                "file": "2. TODO/React/Rendering.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-11-03.md",
+                "file": "2. TODO/React/Rendering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-11-03.md",
+                "file": "2. TODO/React/Rendering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-11-03.md"
+                "file": "2. TODO/React/Rendering.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "a86da388b515b65e",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "2. TODO/React/Fiber Reconcliation.md",
     "2. TODO/React/2. Reference.md",
     "2. TODO/React/1. React.canvas",
@@ -182,6 +183,10 @@
     "1. Daily/2023-11-03.md",
     "2. TODO/tmp.md",
     "2. TODO/React/Rendering.md",
+=======
+    "1. Daily/2023-11-03.md",
+    "2. TODO/NextJS/Reference.md",
+>>>>>>> 6a192ab (note backup: 2023-11-14 10:51:55)
     "2. TODO/React/Reference.md",
     "2. TODO/Open Source.md",
     "2. TODO/React/VirtualDOM.md",
