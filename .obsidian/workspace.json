@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Web/Memory.md",
+                "file": "1. Daily/2023-11-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Web/Memory.md",
+                "file": "1. Daily/2023-11-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Web/Memory.md",
+                "file": "1. Daily/2023-11-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Web/Memory.md"
+                "file": "1. Daily/2023-11-03.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "a86da388b515b65e",
   "lastOpenFiles": [
-    "1. Daily/2023-11-03.md",
     "4. Web/Memory.md",
+    "1. Daily/2023-11-03.md",
     "News/2023-11-15.md",
     "News/2023-11-14.md",
     "4. Web/Rendering/ISR.md",
