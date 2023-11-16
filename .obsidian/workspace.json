@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-11-03.md",
+                "file": "4. Web/Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-11-03.md",
+                "file": "4. Web/Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-11-03.md",
+                "file": "4. Web/Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-11-03.md"
+                "file": "4. Web/Memory.md"
               }
             }
           },
@@ -168,6 +168,8 @@
   },
   "active": "a86da388b515b65e",
   "lastOpenFiles": [
+    "1. Daily/2023-11-03.md",
+    "4. Web/Memory.md",
     "News/2023-11-15.md",
     "News/2023-11-14.md",
     "4. Web/Rendering/ISR.md",
@@ -181,7 +183,6 @@
     "2. TODO/NextJS/Reference.md",
     "2. TODO/NextJS/ServerActions.md",
     "2. TODO/NextJS/Vercel.md",
-    "1. Daily/2023-11-03.md",
     "2. TODO/React/Rendering.md",
     "2. TODO/React/Reference.md",
     "2. TODO/Open Source.md",
@@ -195,7 +196,6 @@
     "2. TODO/React/Memory Leak.md",
     "2. TODO/React/thrid-party",
     "News/2023-11-13.md",
-    "Shell/Commands.md",
     "Course",
     "4. Web/Framework",
     "2. TODO/NextJS",
