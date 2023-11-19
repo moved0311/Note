@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "b1fae435d7f74a12",
+            "id": "288a0259eb679bf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vim/Neovim.md",
+                "file": "Vim/Vim.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vim/Neovim.md",
+                "file": "Vim/Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vim/Neovim.md",
+                "file": "Vim/Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vim/Neovim.md"
+                "file": "Vim/Vim.md"
               }
             }
           },
@@ -179,10 +179,10 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "b1fae435d7f74a12",
+  "active": "288a0259eb679bf0",
   "lastOpenFiles": [
-    "1. Daily/2023-11-03.md",
     "Vim/Neovim.md",
+    "1. Daily/2023-11-03.md",
     "Git/Git.md",
     "4. Web/Memory.md",
     "News/2023-11-15.md",
