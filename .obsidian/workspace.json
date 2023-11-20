@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-11-03.md",
+                "file": "1. Daily/2023-11-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vim/Vim.md",
+                "file": "1. Daily/2023-11-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vim/Vim.md",
+                "file": "1. Daily/2023-11-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vim/Vim.md"
+                "file": "1. Daily/2023-11-20.md"
               }
             }
           },
@@ -179,10 +178,12 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "288a0259eb679bf0",
+  "active": "a86da388b515b65e",
   "lastOpenFiles": [
-    "Vim/Neovim.md",
+    "Vim/Vim.md",
+    "1. Daily/2023-11-20.md",
     "1. Daily/2023-11-03.md",
+    "Vim/Neovim.md",
     "Git/Git.md",
     "4. Web/Memory.md",
     "News/2023-11-15.md",
@@ -206,8 +207,6 @@
     "2. TODO/React/thrid-party/react-router-dom.md",
     "2. TODO/React/thrid-party/react-query/window focus refetching.md",
     "2. TODO/React/Diffing algorithm.md",
-    "2. TODO/React/Error Bound.md",
-    "2. TODO/React/Fiber.md",
     "2. TODO/React/thrid-party",
     "Course",
     "4. Web/Framework",
