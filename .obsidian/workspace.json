@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 243.5
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -182,7 +182,7 @@
   "lastOpenFiles": [
     "Vim/Vim.md",
     "1. Daily/2023-11-20.md",
-    "1. Daily/2023-11-03.md",
+    "1. Daily/2023/2023-11-03.md",
     "Vim/Neovim.md",
     "Git/Git.md",
     "4. Web/Memory.md",
