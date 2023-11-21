@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vim/Vim.md",
+                "file": "Workspace/tmux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-11-20.md",
+                "file": "Workspace/tmux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-11-20.md",
+                "file": "Workspace/tmux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-11-20.md"
+                "file": "Workspace/tmux.md"
               }
             }
           },
@@ -178,13 +179,14 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "a86da388b515b65e",
+  "active": "288a0259eb679bf0",
   "lastOpenFiles": [
-    "News/2023-11-21.md",
-    "Vim/Vim.md",
+    "Workspace/Vim.md",
+    "Workspace/tmux.md",
     "1. Daily/2023-11-20.md",
+    "News/2023-11-21.md",
     "1. Daily/2023/2023-11-03.md",
-    "Vim/Neovim.md",
+    "Workspace/Neovim.md",
     "Git/Git.md",
     "4. Web/Memory.md",
     "News/2023-11-15.md",
@@ -206,7 +208,6 @@
     "2. TODO/React/VirtualDOM.md",
     "2. TODO/React/Reconcliation.md",
     "2. TODO/React/thrid-party/react-router-dom.md",
-    "2. TODO/React/thrid-party/react-query/window focus refetching.md",
     "2. TODO/React/thrid-party",
     "Course",
     "4. Web/Framework",
