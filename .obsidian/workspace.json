@@ -11,8 +11,12 @@
             "id": "f5d1bb1c80a03fbc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Workspace/Windows.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Workspace/Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Workspace/Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Workspace/Windows.md"
+              }
             }
           },
           {
@@ -157,11 +165,12 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "0956f11c313356e2",
+  "active": "f5d1bb1c80a03fbc",
   "lastOpenFiles": [
+    "Workspace/Neovim.md",
+    "Workspace/Windows.md",
     "Workspace/Vim.md",
     "Workspace/tmux.md",
-    "Workspace/Neovim.md",
     "Workspace",
     "News/2023/2023-11-21.md",
     "News/2023/2023-11-20.md",
@@ -188,7 +197,6 @@
     "2. TODO/React/Fiber Reconcliation.md",
     "2. TODO/React/2. Reference.md",
     "2. TODO/React/Reconcliation.md",
-    "2. TODO/React/Error Bound.md",
     "2. TODO/React/thrid-party/react-query",
     "2. TODO/React/thrid-party",
     "Course",
