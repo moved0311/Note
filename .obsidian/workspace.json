@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a1e143e5084c2681",
+        "id": "577b4378bddaba3f",
         "type": "tabs",
         "children": [
           {
-            "id": "f5d1bb1c80a03fbc",
+            "id": "4e9931a2f7009fab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workspace/Windows.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workspace/Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workspace/Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Workspace/Windows.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,10 +157,10 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "f5d1bb1c80a03fbc",
+  "active": "4e9931a2f7009fab",
   "lastOpenFiles": [
-    "Workspace/Neovim.md",
     "Workspace/Windows.md",
+    "Workspace/Neovim.md",
     "Workspace/Vim.md",
     "Workspace/tmux.md",
     "Workspace",
