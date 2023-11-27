@@ -30,7 +30,8 @@ imap jj <Esc>
 
 按下@a使用巨集
 
-
+|指令|功能|
+|--|--|
 |c-d|move down half screen|
 |c-u|move up half screen|
 
