@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3c1bc40cbbae406e",
+        "id": "ac6aac06523601fc",
         "type": "tabs",
         "children": [
           {
-            "id": "04993628f6f2c46b",
+            "id": "a86da388b515b65e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Workspace/Neovim.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,12 +48,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "their",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 226.5
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Workspace/Neovim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Workspace/Neovim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,11 +132,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Workspace/Neovim.md"
+              }
             }
           },
           {
-            "id": "b5eb5027da73512c",
+            "id": "cdfe3884fbf0a39a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -139,7 +147,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -157,56 +166,59 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "04993628f6f2c46b",
+  "active": "a86da388b515b65e",
   "lastOpenFiles": [
+    "Workspace/Windows.md",
     "4. Web/Nginx/Nginx.md",
     "4. Web/Nginx",
-    "Workspace/Windows.md",
+    "1. Daily/2023-11-20.md",
+    "Workspace/tmux.md",
     "Workspace/Neovim.md",
     "Workspace/Vim.md",
-    "Workspace/tmux.md",
-    "Workspace",
-    "News/2023/2023-11-21.md",
-    "News/2023/2023-11-20.md",
-    "News/2023/2023-11-15.md",
-    "News/2023/2023-11-14.md",
-    "News/2023/2023-11-13.md",
-    "News/2023/2023-11-10.md",
-    "News/2023/2023-11-09.md",
-    "News/2023-11-22.md",
-    "5.Stocks/面板/面板.md",
-    "5.Stocks/面板",
-    "5.Stocks/封裝/先進封裝.md.md",
-    "5.Stocks/封裝",
-    "4. Web/Rendering/ISR.md",
-    "4. Web/Memory.md",
-    "2. TODO/tmp.md",
-    "2. TODO/NextJS/Next14.md",
+    "1. Daily/2023-12-02.md",
+    "1. Daily/2023/2023-11-20.md",
     "1. Daily/2023/2023-11-03.md",
     "1. Daily/2023/2023-10-19.md",
     "1. Daily/2023/2023-10-03.md",
-    "1. Daily/2023-11-20.md",
+    "1. Daily/2023/2023-09-19.md",
+    "1. Daily/2023/2023-09-05.md",
+    "1. Daily/2023/2023-08-21.md",
+    "1. Daily/2023/2023-08-08.md",
+    "1. Daily/2023/2023-07-24.md",
+    "1. Daily/2023/2023-07-10.md",
+    "1. Daily/2023/2023-06-26.md",
+    "1. Daily/2023/2023-06-13.md",
+    "4. Web/CSS/多餘字元.md",
+    "Python/Basic.md",
+    "Python/pd.md",
+    "5.Stocks/封裝/先進封裝.md.md",
+    "5.Stocks/封裝",
+    "5.Stocks/名詞.md",
+    "5.Stocks/面板/面板.md",
+    "News/2023-11-22.md",
     "2. TODO/React/1. React.canvas",
-    "2. TODO/Read.md",
-    "2. TODO/React/Fiber Reconcliation.md",
-    "2. TODO/React/2. Reference.md",
-    "2. TODO/React/thrid-party/react-query",
     "2. TODO/React/thrid-party",
     "Course",
-    "Pasted image 20231103174602.png",
     "4. Web/Framework",
+    "2. TODO/NextJS",
+    "Pasted image 20231103174602.png",
+    "未命名.canvas",
     "5.Stocks/衛星",
     "5.Stocks/CPO/4977",
-    "未命名.canvas",
-    "未命名 1.canvas",
-    "5.Stocks/PCB/process.png",
-    "5.Stocks/PCB/ABF三雄營收占比客戶比較.png",
-    "5.Stocks/PCB/industy.png",
+    "5.Stocks/CPO",
+    "4. Web/SEO",
+    "5.Stocks/IC/2454/GS_revenue_mix_segment.png",
     "5.Stocks/網路/WiFi比較圖.png",
-    "Stocks/3037/process.png",
-    "Stocks/3037/industy.png",
-    "Stocks/3037/ABF三雄營收占比客戶比較.png",
-    "Stocks/手機/IDC2023Q1手機出貨量.png",
-    "Stocks/2454/GS_revenue_mix_segment.png"
+    "5.Stocks/PCB/process.png",
+    "5.Stocks/PCB/industy.png",
+    "5.Stocks/PCB/ABF三雄營收占比客戶比較.png",
+    "5.Stocks/IC/IDC2023Q1手機出貨量.png",
+    "5.Stocks/5483/5483.png",
+    "2. TODO/React/React.canvas",
+    "未命名 1.canvas",
+    "鉅亨網/whenToUseServerAndClientComponents.png",
+    "Stocks/網路/WiFi比較圖.png",
+    "未命名 3.canvas",
+    "未命名 2.canvas"
   ]
 }
