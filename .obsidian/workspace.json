@@ -168,8 +168,11 @@
   },
   "active": "a86da388b515b65e",
   "lastOpenFiles": [
-    "1. Daily/2023/2023-11-20.md",
+    "Workspace/tmux.md",
+    "Workspace/Neovim.md",
+    "Workspace/Vim.md",
     "1. Daily/2023-12-02.md",
+<<<<<<< HEAD
     "Workspace/Windows.md",
     "4. Web/Nginx/Nginx.md",
     "4. Web/Nginx",
@@ -177,6 +180,9 @@
     "Workspace/tmux.md",
     "Workspace/Neovim.md",
     "Workspace/Vim.md",
+=======
+    "1. Daily/2023/2023-11-20.md",
+>>>>>>> f9eca1f (note backup: 2023-12-02 17:13:37)
     "1. Daily/2023/2023-11-03.md",
     "1. Daily/2023/2023-10-19.md",
     "1. Daily/2023/2023-10-03.md",
@@ -196,6 +202,12 @@
     "5.Stocks/名詞.md",
     "5.Stocks/面板/面板.md",
     "News/2023-11-22.md",
+<<<<<<< HEAD
+=======
+    "News/2023/2023-11-21.md",
+    "News/2023/2023-11-20.md",
+    "News/2023/2023-11-15.md",
+>>>>>>> f9eca1f (note backup: 2023-12-02 17:13:37)
     "2. TODO/React/1. React.canvas",
     "2. TODO/React/thrid-party",
     "Course",
