@@ -73,3 +73,4 @@
 * [Lyft Engineering](https://eng.lyft.com/)
 * [Discord Blog](https://discord.com/blog)                                                 
 * [trivago tech blog](https://tech.trivago.com/)                                          
+* [Spotify Engineering - Spotify’s official technology blog : Spotify Engineering (atspotify.com)](https://engineering.atspotify.com/)
