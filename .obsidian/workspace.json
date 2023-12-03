@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9ac9e8b28d161d8a",
+        "id": "223a5eb33ce9367c",
         "type": "tabs",
         "children": [
           {
-            "id": "ce34a0742f10c1dd",
+            "id": "d3fe8981857db548",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/Read.md",
+                "file": "Git/Subtree.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/Read.md",
+                "file": "Git/Subtree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/Read.md",
+                "file": "Git/Subtree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/Read.md"
+                "file": "Git/Subtree.md"
               }
             }
           },
@@ -165,39 +165,40 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "ce34a0742f10c1dd",
+  "active": "0956f11c313356e2",
   "lastOpenFiles": [
+    "GA/升級GA4.md",
+    "指令/GIt/Tag.md",
+    "3. Reference/Code Review.md",
+    "3. Reference/架構設計.md",
+    "Shortcut/Mac.md",
+    "Python/Basic.md",
+    "Rollup/Reference.md",
+    "LearnEnglish/方式.md",
+    "5.Stocks/5483/5483.md",
+    "5.Stocks/6902/6902.md",
+    "指令/Shell/Find.md",
+    "指令/Shell/目錄大小.md",
+    "指令/Windows.md",
     "1. Daily/2023-12-02.md",
+    "1. Daily/2023/2023-01-09.md",
+    "1. Daily/2023/2023-02-20.md",
+    "1. Daily/2023/2023-02-08.md",
+    "1. Daily/2023/2023-01-30.md",
     "1. Daily/2023/2023-11-20.md",
-    "1. Daily/2023-11-20.md",
-    "4. Web/Nginx/Nginx.md",
+    "3. Reference/Rendering.md",
+    "3. Reference/React.md",
+    "3. Reference/JavaScript.md",
+    "4. Web/Performance/Reference.md",
+    "4. Web/Performance/Pipe.md",
+    "4. Web/Performance/Memoize.md",
+    "4. Web/Performance/Once.md",
+    "鉅亨網/whenToUseServerAndClientComponents.png",
     "4. Web/Nginx",
-    "Workspace/Windows.md",
-    "Workspace/Neovim.md",
-    "Workspace/Vim.md",
-    "Workspace/tmux.md",
     "Workspace",
-    "News/2023/2023-11-21.md",
-    "News/2023/2023-11-20.md",
-    "News/2023/2023-11-15.md",
-    "News/2023/2023-11-14.md",
-    "News/2023/2023-11-13.md",
-    "News/2023/2023-11-10.md",
-    "News/2023/2023-11-09.md",
-    "News/2023-11-22.md",
-    "5.Stocks/面板/面板.md",
     "5.Stocks/面板",
-    "5.Stocks/封裝/先進封裝.md.md",
     "5.Stocks/封裝",
-    "4. Web/Rendering/ISR.md",
-    "4. Web/Memory.md",
-    "2. TODO/tmp.md",
-    "2. TODO/NextJS/Next14.md",
-    "1. Daily/2023/2023-11-03.md",
-    "1. Daily/2023/2023-10-19.md",
-    "1. Daily/2023/2023-10-03.md",
     "2. TODO/React/1. React.canvas",
-    "2. TODO/Read.md",
     "2. TODO/React/thrid-party/react-query",
     "2. TODO/React/thrid-party",
     "Course",
@@ -214,7 +215,6 @@
     "Stocks/3037/process.png",
     "Stocks/3037/industy.png",
     "Stocks/3037/ABF三雄營收占比客戶比較.png",
-    "Stocks/手機/IDC2023Q1手機出貨量.png",
-    "Stocks/2454/GS_revenue_mix_segment.png"
+    "Stocks/手機/IDC2023Q1手機出貨量.png"
   ]
 }

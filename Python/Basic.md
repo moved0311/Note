@@ -61,3 +61,10 @@ num, freq = Counter(nums).most_common(1)[0]
 
 print(num, freq) # 4, 5
 ```
+
+## 讀檔
+```python
+with open('test') as file:
+    lines = file.read().strip().split('\n')
+```
+
