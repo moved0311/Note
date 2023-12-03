@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3c1bc40cbbae406e",
+        "id": "9ac9e8b28d161d8a",
         "type": "tabs",
         "children": [
           {
-            "id": "04993628f6f2c46b",
+            "id": "ce34a0742f10c1dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2023-12-02.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Daily/2023-12-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Daily/2023-12-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Daily/2023-12-02.md"
+              }
             }
           },
           {
@@ -157,11 +165,11 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "04993628f6f2c46b",
+  "active": "ce34a0742f10c1dd",
   "lastOpenFiles": [
-    "1. Daily/2023-11-20.md",
     "1. Daily/2023/2023-11-20.md",
     "1. Daily/2023-12-02.md",
+    "1. Daily/2023-11-20.md",
     "4. Web/Nginx/Nginx.md",
     "4. Web/Nginx",
     "Workspace/Windows.md",
