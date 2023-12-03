@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "577b4378bddaba3f",
+        "id": "3c1bc40cbbae406e",
         "type": "tabs",
         "children": [
           {
-            "id": "4e9931a2f7009fab",
+            "id": "04993628f6f2c46b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 200
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -157,8 +157,10 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "4e9931a2f7009fab",
+  "active": "04993628f6f2c46b",
   "lastOpenFiles": [
+    "4. Web/Nginx/Nginx.md",
+    "4. Web/Nginx",
     "Workspace/Windows.md",
     "Workspace/Neovim.md",
     "Workspace/Vim.md",
@@ -188,7 +190,6 @@
     "2. TODO/Read.md",
     "2. TODO/React/Fiber Reconcliation.md",
     "2. TODO/React/2. Reference.md",
-    "2. TODO/React/Reconcliation.md",
     "2. TODO/React/thrid-party/react-query",
     "2. TODO/React/thrid-party",
     "Course",
@@ -196,7 +197,6 @@
     "4. Web/Framework",
     "5.Stocks/衛星",
     "5.Stocks/CPO/4977",
-    "5.Stocks/CPO",
     "未命名.canvas",
     "未命名 1.canvas",
     "5.Stocks/PCB/process.png",
