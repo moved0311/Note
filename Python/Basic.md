@@ -68,3 +68,12 @@ with open('test') as file:
     lines = file.read().strip().split('\n')
 ```
 
+## Map
+* 將後面的數值作為前面方法的input傳入
+```python
+map(lambda x: x ** 2, [1, 2, 3, 4, 5]) 
+# <map at 0x1d07ea4d910>
+
+list(map(lambda x: x ** 2, [1, 2, 3, 4, 5]))
+# [1, 4, 9, 16, 25]
+```

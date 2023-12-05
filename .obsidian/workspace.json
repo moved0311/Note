@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "5534b24b77d62344",
+    "id": "983d83b246756a5f",
     "type": "split",
     "children": [
       {
-        "id": "df34c68f99c4fa7d",
+        "id": "4c1a81931776b3fa",
         "type": "tabs",
         "children": [
           {
-            "id": "3b54c9eb9f0610d0",
+            "id": "f602f5ccf8f7eb77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-12-02.md",
+                "file": "Python/Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2df4fb1914f4def7",
+    "id": "54d7a0f4caa4bfe3",
     "type": "split",
     "children": [
       {
-        "id": "38b34ca222af2847",
+        "id": "7a3e4dd94f42c4cf",
         "type": "tabs",
         "children": [
           {
-            "id": "871ad62d0ab09a0c",
+            "id": "0956f11c313356e2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,13 +43,13 @@
             }
           },
           {
-            "id": "2cb51d19092c7bcf",
+            "id": "275acea55b99ae4f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -58,7 +58,15 @@
             }
           },
           {
-            "id": "208fa2a55b6eebda",
+            "id": "5e45d0aae34539ae",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b804350217103997",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "c56181c98a8f9c8f",
+    "id": "065c81d18b56bd36",
     "type": "split",
     "children": [
       {
-        "id": "6549e06fb9cb24a6",
+        "id": "b84e32a2d35e6292",
         "type": "tabs",
         "children": [
           {
-            "id": "5b5c742d40122b31",
+            "id": "d87dd5f86373943c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-12-02.md",
+                "file": "Python/Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +105,19 @@
             }
           },
           {
-            "id": "eb351a0e223a772a",
+            "id": "8d6e02ea751580d6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-12-02.md",
+                "file": "Python/Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "60664d92a5ebc789",
+            "id": "39473e6800c3a91e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +128,17 @@
             }
           },
           {
-            "id": "d12762b3648a3c1f",
+            "id": "00f43c5638fd6ef2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python/Basic.md"
+              }
+            }
+          },
+          {
+            "id": "b5eb5027da73512c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -128,47 +146,75 @@
                 "sortOrder": "frequency"
               }
             }
-          },
-          {
-            "id": "02993a02c8a3523a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "1. Daily/2023-12-02.md"
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-advanced-slides:Show Slide Preview": false,
+      "canvas:建立新畫布": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
-      "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
-      "command-palette:開啟命令面板": false
+      "command-palette:開啟命令面板": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "3b54c9eb9f0610d0",
+  "active": "f602f5ccf8f7eb77",
   "lastOpenFiles": [
-    "指令/Windows.md",
-    "Git/清除untrack files.md",
+    "Python/pd.md",
+    "1. Daily/2023-12-02.md",
     "Git/Subtree.md",
-    "4. Web/Event Loop/Micro/Promise.md",
-    "4. Web/Event Loop/Macro/setTimeout.md",
-    "4. Web/Event Loop/Microtask v.s. Macrotask.md",
-    "4. Web/Event Loop/Micro",
-    "4. Web/Event Loop/Macro",
-    "4. Web/Event Loop/Event Loop.md",
-    "4. Web/Event Loop",
-    "3. Reference/Code Review.md"
+    "GA/升級GA4.md",
+    "指令/GIt/Tag.md",
+    "3. Reference/Code Review.md",
+    "3. Reference/架構設計.md",
+    "Shortcut/Mac.md",
+    "Python/Basic.md",
+    "Rollup/Reference.md",
+    "LearnEnglish/方式.md",
+    "5.Stocks/5483/5483.md",
+    "5.Stocks/6902/6902.md",
+    "指令/Shell/Find.md",
+    "指令/Shell/目錄大小.md",
+    "指令/Windows.md",
+    "1. Daily/2023/2023-01-09.md",
+    "1. Daily/2023/2023-02-20.md",
+    "1. Daily/2023/2023-02-08.md",
+    "1. Daily/2023/2023-01-30.md",
+    "1. Daily/2023/2023-11-20.md",
+    "3. Reference/Rendering.md",
+    "3. Reference/React.md",
+    "3. Reference/JavaScript.md",
+    "4. Web/Performance/Reference.md",
+    "4. Web/Performance/Pipe.md",
+    "鉅亨網/whenToUseServerAndClientComponents.png",
+    "4. Web/Nginx",
+    "Workspace",
+    "5.Stocks/面板",
+    "5.Stocks/封裝",
+    "2. TODO/React/1. React.canvas",
+    "2. TODO/React/thrid-party/react-query",
+    "2. TODO/React/thrid-party",
+    "Course",
+    "Pasted image 20231103174602.png",
+    "4. Web/Framework",
+    "5.Stocks/衛星",
+    "5.Stocks/CPO/4977",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "5.Stocks/PCB/process.png",
+    "5.Stocks/PCB/ABF三雄營收占比客戶比較.png",
+    "5.Stocks/PCB/industy.png",
+    "5.Stocks/網路/WiFi比較圖.png",
+    "Stocks/3037/process.png",
+    "Stocks/3037/industy.png",
+    "Stocks/3037/ABF三雄營收占比客戶比較.png",
+    "Stocks/手機/IDC2023Q1手機出貨量.png"
   ]
 }
