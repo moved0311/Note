@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-12-02.md",
+                "file": "4. Web/Memory/Memory Leak.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-12-02.md",
+                "file": "4. Web/Memory/Memory Leak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-12-02.md",
+                "file": "4. Web/Memory/Memory Leak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-12-02.md"
+                "file": "4. Web/Memory/Memory Leak.md"
               }
             }
           }
@@ -159,6 +159,9 @@
   },
   "active": "3b54c9eb9f0610d0",
   "lastOpenFiles": [
+    "4. Web/Memory/Reference.md",
+    "4. Web/Memory/Memory Leak.md",
+    "1. Daily/2023-12-02.md",
     "指令/Windows.md",
     "Git/清除untrack files.md",
     "Git/Subtree.md",
