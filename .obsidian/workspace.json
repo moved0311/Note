@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Web/Memory/Memory Leak.md",
+                "file": "1. Daily/2023-12-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Web/Memory/Memory Leak.md",
+                "file": "1. Daily/2023-12-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Web/Memory/Memory Leak.md",
+                "file": "1. Daily/2023-12-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Web/Memory/Memory Leak.md"
+                "file": "1. Daily/2023-12-02.md"
               }
             }
           }
