@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e573bec44dbe9570",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Web/Monorepo/nx.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-12-02.md",
+                "file": "4. Web/Monorepo/nx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-12-02.md",
+                "file": "4. Web/Monorepo/nx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-12-02.md"
+                "file": "4. Web/Monorepo/nx.md"
               }
             }
           }
@@ -157,11 +170,13 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "3b54c9eb9f0610d0",
+  "active": "e573bec44dbe9570",
   "lastOpenFiles": [
+    "1. Daily/2023-12-02.md",
+    "4. Web/Monorepo/nx.md",
+    "4. Web/Monorepo",
     "4. Web/Memory/Reference.md",
     "4. Web/Memory/Memory Leak.md",
-    "1. Daily/2023-12-02.md",
     "指令/Windows.md",
     "Git/清除untrack files.md",
     "Git/Subtree.md",
