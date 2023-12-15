@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Web/Monorepo/nx.md",
+                "file": "鉅亨網/新聞專案改版.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nx/story",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Web/Monorepo/nx.md",
+                "file": "鉅亨網/新聞專案改版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Web/Monorepo/nx.md",
+                "file": "鉅亨網/新聞專案改版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Web/Monorepo/nx.md"
+                "file": "鉅亨網/新聞專案改版.md"
               }
             }
           }
@@ -172,8 +173,8 @@
   },
   "active": "e573bec44dbe9570",
   "lastOpenFiles": [
-    "1. Daily/2023-12-02.md",
     "4. Web/Monorepo/nx.md",
+    "1. Daily/2023-12-02.md",
     "4. Web/Monorepo",
     "4. Web/Memory/Reference.md",
     "4. Web/Memory/Memory Leak.md",
