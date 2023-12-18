@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df34c68f99c4fa7d",
+        "id": "29a64b02462879d7",
         "type": "tabs",
         "children": [
           {
-            "id": "3b54c9eb9f0610d0",
+            "id": "1e07c5ac3409435a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e573bec44dbe9570",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "鉅亨網/新聞專案改版.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md",
+                "file": "1. Daily/2023-12-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md",
+                "file": "1. Daily/2023-12-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "鉅亨網/新聞專案改版.md"
+                "file": "1. Daily/2023-12-02.md"
               }
             }
           }
@@ -171,10 +158,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "e573bec44dbe9570",
+  "active": "1e07c5ac3409435a",
   "lastOpenFiles": [
-    "4. Web/Monorepo/nx.md",
     "1. Daily/2023-12-02.md",
+    "鉅亨網/新聞專案改版.md",
+    "4. Web/Monorepo/nx.md",
     "4. Web/Monorepo",
     "4. Web/Memory/Reference.md",
     "4. Web/Memory/Memory Leak.md",
