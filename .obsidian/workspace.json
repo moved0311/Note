@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,9 +159,9 @@
   },
   "active": "1e07c5ac3409435a",
   "lastOpenFiles": [
+    "4. Web/Monorepo/Nx.md",
     "1. Daily/2023-12-02.md",
     "鉅亨網/新聞專案改版.md",
-    "4. Web/Monorepo/nx.md",
     "4. Web/Monorepo",
     "4. Web/Memory/Reference.md",
     "4. Web/Memory/Memory Leak.md",
