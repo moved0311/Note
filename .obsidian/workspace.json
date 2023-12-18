@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-12-02.md",
+                "file": "1. Daily/2023-12-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-12-02.md",
+                "file": "1. Daily/2023-12-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-12-02.md",
+                "file": "1. Daily/2023-12-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-12-02.md"
+                "file": "1. Daily/2023-12-18.md"
               }
             }
           }
@@ -159,8 +159,9 @@
   },
   "active": "1e07c5ac3409435a",
   "lastOpenFiles": [
-    "4. Web/Monorepo/Nx.md",
     "1. Daily/2023-12-02.md",
+    "1. Daily/2023-12-18.md",
+    "4. Web/Monorepo/Nx.md",
     "鉅亨網/新聞專案改版.md",
     "4. Web/Monorepo",
     "4. Web/Memory/Reference.md",
