@@ -9,8 +9,6 @@
 ## NextJS
 * [Jack Herrington](https://www.pronextjs.dev/articles)
 
-## [Airbnb](https://medium.com/airbnb-engineering)
-* [Airbnb's Trip to Linaria | The Airbnb Tech Blog](https://medium.com/airbnb-engineering/airbnbs-trip-to-linaria-dc169230bd12) 20220617
 
 ## 演算法
 - [Rohit Verma – Medium](https://medium.com/@rohitverma_87831)

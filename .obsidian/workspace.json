@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/Read.md",
+                "file": "1. Daily/2023-12-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/Read.md",
+                "file": "1. Daily/2023-12-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/Read.md",
+                "file": "1. Daily/2023-12-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/Read.md"
+                "file": "1. Daily/2023-12-18.md"
               }
             }
           }
@@ -159,21 +159,21 @@
   },
   "active": "1e07c5ac3409435a",
   "lastOpenFiles": [
-    "2. TODO/tmp.md",
-    "2. TODO/CodingInterviewUniversity.md",
-    "2. TODO/LeetCode.md",
-    "2. TODO/InterviewQuestion.md",
-    "2. TODO/Read.md",
-    "2. TODO/Open Source.md",
-    "4. Web/CDN.md",
+    "1. Daily/2023/2023-12-02.md",
+    "1. Daily/2023-12-18.md",
+    "4. Web/NextJS/名詞解釋.md",
+    "4. Web/NextJS/Next13.md",
+    "4. Web/NextJS/Next14.md",
+    "4. Web/NextJS/Reference.md",
     "4. Web/NextJS/ServerActions.md",
     "4. Web/NextJS/Vercel.md",
-    "4. Web/NextJS/Reference.md",
-    "4. Web/NextJS/Next14.md",
-    "4. Web/NextJS/Next13.md",
-    "4. Web/NextJS/名詞解釋.md",
-    "1. Daily/2023-12-18.md",
-    "1. Daily/2023/2023-12-02.md",
+    "2. TODO/tmp.md",
+    "2. TODO/Read.md",
+    "4. Web/CDN.md",
+    "2. TODO/Open Source.md",
+    "2. TODO/InterviewQuestion.md",
+    "2. TODO/LeetCode.md",
+    "2. TODO/CodingInterviewUniversity.md",
     "4. Web/Monorepo/Nx.md",
     "鉅亨網/新聞專案改版.md",
     "4. Web/Monorepo",
