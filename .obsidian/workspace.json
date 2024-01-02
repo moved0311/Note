@@ -30,28 +30,16 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9e0ef7b47757fdcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PPT/Slack Ｍessage/Slack Messages.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "7f578c5e7658a52d",
+        "id": "3a8b72b38210c208",
         "type": "tabs",
         "children": [
           {
-            "id": "71abfac5c5ee8598",
+            "id": "5a5e5b03737ba085",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -201,8 +189,10 @@
   },
   "active": "5e4558582a003358",
   "lastOpenFiles": [
-    "PPT/Slack Ｍessage/Slack Messages.md",
+    "[.md",
     "PPT/新聞優化/新聞優化.md",
+    "PPT/Slack Ｍessage/Slack Messages.md",
+    "PPT/新聞優化/codesplitAB.png",
     "PPT/Command/Command.md",
     "PPT/新聞優化/codesplit-mainapp.png",
     "PPT/新聞優化/codesplit.png",
@@ -232,7 +222,6 @@
     "4. Web/NextJS/Next14.md",
     "Books/JavaScript/JavaScript.md",
     "Thrid Party Library/UI Library.md",
-    "Thrid Party Library/Search.md",
     "6. Works/鉅亨網/whenToUseServerAndClientComponents.png",
     "6. Works",
     "4. Web/Monorepo",
