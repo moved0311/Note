@@ -6,7 +6,7 @@
       {
         "id": "59fed09fa7fa122d",
         "type": "tabs",
-        "dimension": 50.214899713467055,
+        "dimension": 52.220630372492835,
         "children": [
           {
             "id": "6450a5dd189905cc",
@@ -50,7 +50,7 @@
       {
         "id": "c0f5ad56a048953b",
         "type": "tabs",
-        "dimension": 49.78510028653295,
+        "dimension": 47.779369627507165,
         "children": [
           {
             "id": "60035a24ee39a131",
@@ -201,13 +201,14 @@
   },
   "active": "5e4558582a003358",
   "lastOpenFiles": [
+    "PPT/Command/Command.md",
+    "PPT/Docker/CICD.md",
+    "PPT/新聞優化/新聞優化.md",
+    "PPT/新聞優化/performance-LCP.png",
     "PPT/新聞優化/performance.png",
     "PPT/新聞優化/lighthouse.png",
-    "PPT/Command/Command.md",
-    "PPT/新聞優化/新聞優化.md",
     "PPT/Vim/Vim.md",
     "1. Daily/2024-01-02.md",
-    "PPT/Docker/CICD.md",
     "PPT/新聞優化",
     "1. Daily/2023/2023-12-18.md",
     "1. Daily/2023/2023-12-02.md",
