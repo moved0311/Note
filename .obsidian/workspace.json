@@ -6,17 +6,46 @@
       {
         "id": "59fed09fa7fa122d",
         "type": "tabs",
+        "dimension": 50.214899713467055,
         "children": [
           {
-            "id": "8e53b28c4d6045a1",
+            "id": "6450a5dd189905cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-12-18.md",
+                "file": "1. Daily/2024-01-02.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "5e4558582a003358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PPT/新聞優化/新聞優化.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "c0f5ad56a048953b",
+        "type": "tabs",
+        "dimension": 49.78510028653295,
+        "children": [
+          {
+            "id": "60035a24ee39a131",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
             }
           }
         ]
@@ -69,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c56181c98a8f9c8f",
@@ -85,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-12-18.md",
+                "file": "PPT/新聞優化/新聞優化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-12-18.md",
+                "file": "PPT/新聞優化/新聞優化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-12-18.md"
+                "file": "PPT/新聞優化/新聞優化.md"
               }
             }
           }
@@ -157,11 +187,17 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "8e53b28c4d6045a1",
+  "active": "5e4558582a003358",
   "lastOpenFiles": [
+    "1. Daily/2024-01-02.md",
+    "PPT/新聞優化/新聞優化.md",
+    "PPT/Vim/Vim.md",
+    "PPT/Command/Command.md",
+    "PPT/Docker/CICD.md",
+    "PPT/新聞優化",
+    "1. Daily/2023/2023-12-18.md",
     "1. Daily/2023/2023-12-02.md",
     "1. Daily/2023/2023-11-20.md",
-    "1. Daily/2023-12-18.md",
     "6. Works/Interview/1. 基本問題/未來規劃.md",
     "6. Works/Interview/1. 基本問題/自我介紹.md",
     "6. Works/Interview/1. 基本問題/為什麼想應徵職位公司.md",
@@ -180,13 +216,8 @@
     "Thrid Party Library/UI Library.md",
     "Thrid Party Library/Search.md",
     "2. TODO/InterviewQuestion.md",
-    "GoogleSheet/GoogleSheet.md",
     "6. Works/鉅亨網/whenToUseServerAndClientComponents.png",
-    "6. Works/鉅亨網/fe-esg.md",
-    "6. Works/鉅亨網/新聞專案改版.md",
     "6. Works",
-    "Obsidian/Syntax.md",
-    "Books/Street Coder/Street Coder.md",
     "4. Web/Monorepo",
     "4. Web/Event Loop/Micro",
     "4. Web/Event Loop/Macro",
