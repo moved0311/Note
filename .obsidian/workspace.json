@@ -31,21 +31,6 @@
               }
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "3a8b72b38210c208",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5a5e5b03737ba085",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
-          }
         ]
       }
     ],
@@ -113,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PPT/新聞優化/新聞優化.md",
+                "file": "1. Daily/2024-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PPT/新聞優化/新聞優化.md",
+                "file": "1. Daily/2024-01-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PPT/新聞優化/新聞優化.md"
+                "file": "1. Daily/2024-01-02.md"
               }
             }
           }
@@ -187,10 +172,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "5e4558582a003358",
+  "active": "6450a5dd189905cc",
   "lastOpenFiles": [
-    "[.md",
     "PPT/新聞優化/新聞優化.md",
+    "1. Daily/2024-01-02.md",
+    "[.md",
     "PPT/Slack Ｍessage/Slack Messages.md",
     "PPT/新聞優化/codesplitAB.png",
     "PPT/Command/Command.md",
@@ -201,7 +187,6 @@
     "PPT/新聞優化/performance.png",
     "PPT/新聞優化/lighthouse.png",
     "PPT/Vim/Vim.md",
-    "1. Daily/2024-01-02.md",
     "PPT/新聞優化",
     "1. Daily/2023/2023-12-18.md",
     "1. Daily/2023/2023-12-02.md",
