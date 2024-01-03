@@ -30,8 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "615ecbbf65a165fa",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c56181c98a8f9c8f",
@@ -97,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-01-02.md",
+                "file": "PPT/新聞優化/新聞優化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-01-02.md",
+                "file": "PPT/新聞優化/新聞優化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-01-02.md"
+                "file": "PPT/新聞優化/新聞優化.md"
               }
             }
           }
@@ -171,10 +181,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "6450a5dd189905cc",
+  "active": "5e4558582a003358",
   "lastOpenFiles": [
-    "1. Daily/2023/2023-12-18.md",
     "1. Daily/2024-01-02.md",
+    "PPT/新聞優化/新聞優化.md",
+    "1. Daily/2023/2023-12-18.md",
     "1. Daily/2023/2023-12-02.md",
     "1. Daily/2023/2023-11-20.md",
     "1. Daily/2023/2023-11-03.md",
@@ -187,7 +198,6 @@
     "1. Daily/2023/2023-07-24.md",
     "1. Daily/2023/2023-07-10.md",
     "1. Daily/2023/2023-06-26.md",
-    "PPT/新聞優化/新聞優化.md",
     "[.md",
     "PPT/Slack Ｍessage/Slack Messages.md",
     "PPT/新聞優化/codesplitAB.png",
