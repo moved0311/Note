@@ -1,3 +1,8 @@
+
+## To Read
+* [7 simple habits of the top 1% of engineers](https://read.engineerscodex.com/p/7-simple-habits-of-the-top-1-of-engineers)
+
+
 ## Web/JS
 * [Dev - Sebastien Lorber](https://dev.to/sebastienlorber)
 * [JSDevJournal | HackerNoon](https://hackernoon.com/u/jsdevjournal)
@@ -8,7 +13,6 @@
 
 ## NextJS
 * [Jack Herrington](https://www.pronextjs.dev/articles)
-
 
 ## 演算法
 - [Rohit Verma – Medium](https://medium.com/@rohitverma_87831)
