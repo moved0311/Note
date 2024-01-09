@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-01-02.md",
+                "file": "2. TODO/Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-01-02.md",
+                "file": "2. TODO/Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-01-02.md"
+                "file": "2. TODO/Read.md"
               }
             }
           }
@@ -184,11 +185,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "6450a5dd189905cc",
+  "active": "a66cec0107fd87a0",
   "lastOpenFiles": [
     "4. Web/React/React Server Component(RSC).md",
-    "2. TODO/Read.md",
     "1. Daily/2024-01-02.md",
+    "2. TODO/Read.md",
     "4. Web/React/hydration.md",
     "4. Web/React/Deploy.md",
     "4. Web/React/1. React.canvas",
