@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 221.50260543823242
   },
   "right": {
     "id": "c56181c98a8f9c8f",
@@ -187,14 +187,16 @@
   },
   "active": "5d60c21abd93b267",
   "lastOpenFiles": [
-    "4. Web/React/1. React.canvas",
+    "1. Daily/2024-01-02.md",
     "4. Web/React/React Server Component(RSC).md",
+    "4. Web/React/hydration.md",
+    "4. Web/React/Deploy.md",
+    "4. Web/React/1. React.canvas",
     "4. Web/React/Reconcliation.md",
     "4. Web/React/hooks/Hooks.md",
     "2. TODO/Read.md",
     "4. Web/Framework/Server Framework.md",
     "Shortcut/copy current url.md",
-    "1. Daily/2024-01-02.md",
     "2. TODO/Open Source.md",
     "2. TODO/tmp.md",
     "PPT/新聞優化/新聞優化.md",
@@ -231,7 +233,6 @@
     "1. Daily/2023/2023-11-03.md",
     "1. Daily/2023/2023-10-19.md",
     "1. Daily/2023/2023-10-03.md",
-    "1. Daily/2023/2023-09-19.md",
-    "1. Daily/2023/2023-09-05.md"
+    "1. Daily/2023/2023-09-19.md"
   ]
 }

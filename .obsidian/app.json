@@ -31,5 +31,8 @@
     "editor:redo",
     "editor:configure-toolbar"
   ],
-  "spellcheck": false
+  "spellcheck": false,
+  "showLineNumber": false,
+  "tabSize": 2,
+  "focusNewTab": false
 }
