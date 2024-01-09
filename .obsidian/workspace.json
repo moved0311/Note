@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Web/React/React Server Component(RSC).md",
+                "file": "1. Daily/2024-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Web/React/React Server Component(RSC).md",
+                "file": "1. Daily/2024-01-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Web/React/React Server Component(RSC).md"
+                "file": "1. Daily/2024-01-02.md"
               }
             }
           }
@@ -185,16 +184,16 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "5d60c21abd93b267",
+  "active": "6450a5dd189905cc",
   "lastOpenFiles": [
-    "1. Daily/2024-01-02.md",
     "4. Web/React/React Server Component(RSC).md",
+    "2. TODO/Read.md",
+    "1. Daily/2024-01-02.md",
     "4. Web/React/hydration.md",
     "4. Web/React/Deploy.md",
     "4. Web/React/1. React.canvas",
     "4. Web/React/Reconcliation.md",
     "4. Web/React/hooks/Hooks.md",
-    "2. TODO/Read.md",
     "4. Web/Framework/Server Framework.md",
     "Shortcut/copy current url.md",
     "2. TODO/Open Source.md",

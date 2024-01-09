@@ -2,6 +2,7 @@
 ## To Read
 * [7 simple habits of the top 1% of engineers](https://read.engineerscodex.com/p/7-simple-habits-of-the-top-1-of-engineers)
 * [The top 7 software engineering workflow tips I wish I knew earlier 🧰](https://careercutler.substack.com/p/the-top-7-software-engineering-workflow)
+* [Resources I wish I knew when I started my career – Harshit Kumar](https://www.harshitkumar.co.in/blog/beginner-resources)
 * 
 ## Web/JS
 * [Dev - Sebastien Lorber](https://dev.to/sebastienlorber)
