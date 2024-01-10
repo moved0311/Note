@@ -2,6 +2,7 @@
 ## To Read
 * [7 simple habits of the top 1% of engineers](https://read.engineerscodex.com/p/7-simple-habits-of-the-top-1-of-engineers)
 * [The top 7 software engineering workflow tips I wish I knew earlier 🧰](https://careercutler.substack.com/p/the-top-7-software-engineering-workflow)
+* [(642) Debugging a memory leak with fuite - YouTube](https://www.youtube.com/watch?v=H0BHL2lo89M)
 * 
 ## Web/JS
 * [Dev - Sebastien Lorber](https://dev.to/sebastienlorber)

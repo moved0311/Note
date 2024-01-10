@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Web/Memory/Reference.md",
+                "file": "1. Daily/2024-01-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Web/Memory/Reference.md",
+                "file": "2. TODO/Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Web/Memory/Reference.md",
+                "file": "2. TODO/Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Web/Memory/Reference.md"
+                "file": "2. TODO/Read.md"
               }
             }
           }
@@ -184,9 +185,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "6450a5dd189905cc",
+  "active": "a66cec0107fd87a0",
   "lastOpenFiles": [
     "1. Daily/2024-01-02.md",
+    "4. Web/Memory/Reference.md",
     "2. TODO/Read.md",
     "Git/Reference.md",
     "Git/Git.md",
@@ -231,7 +233,6 @@
     "1. Daily/2023/2023-12-18.md",
     "1. Daily/2023/2023-12-02.md",
     "1. Daily/2023/2023-11-20.md",
-    "1. Daily/2023/2023-11-03.md",
-    "1. Daily/2023/2023-10-19.md"
+    "1. Daily/2023/2023-11-03.md"
   ]
 }
