@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024-01-02.md",
+                "file": "4. Web/Memory/Reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/Read.md",
+                "file": "4. Web/Memory/Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/Read.md",
+                "file": "4. Web/Memory/Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/Read.md"
+                "file": "4. Web/Memory/Reference.md"
               }
             }
           }
@@ -185,13 +184,13 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "a66cec0107fd87a0",
+  "active": "6450a5dd189905cc",
   "lastOpenFiles": [
-    "Git/Reference.md",
+    "1. Daily/2024-01-02.md",
     "2. TODO/Read.md",
+    "Git/Reference.md",
     "Git/Git.md",
     "4. Web/React/React Server Component(RSC).md",
-    "1. Daily/2024-01-02.md",
     "4. Web/React/hydration.md",
     "4. Web/React/Deploy.md",
     "4. Web/React/1. React.canvas",

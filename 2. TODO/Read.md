@@ -18,7 +18,7 @@
 - [Rohit Verma – Medium](https://medium.com/@rohitverma_87831)
 
 ## 個人
-* [Morris' Blog](https://morris821028.github.io/) 2022-04-02
+* [Morris' Blog](https://morris821028.github.io/) 2023-04-02
 * [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)  2023-03-31
 * [Hannah Lin – Medium](https://hannahlin.medium.com/) 2023-03-21
 * [Felix Chern – Medium](https://medium.com/@fchern)  (關於變強這檔事) 2023-03-12
@@ -26,8 +26,8 @@
 * [Robert-Jan Kuyper – Medium](https://medium.com/@datails)  2023-02-17  
 * [Netflix Technology Blog – Medium](https://netflixtechblog.medium.com/)  2023-01-31  
 * [Complete Think](https://rickhw.github.io/) 2023-01-17
-* [Blog PJCHENder 未整理筆記](https://pjchender.dev/blog/)  2022-12-10 
-* [Addy Osmani – Medium](https://medium.com/@addyosmani)  2022-11-20 
+* [Addy Osmani – Medium](https://medium.com/@addyosmani) 
+	* [Chrome now shows each active tab’s memory usage!](https://medium.com/@addyosmani/chrome-now-shows-each-active-tabs-memory-usage-4f74876538e6) 2023-10-04
 * [Addy Osmani](https://web.dev/authors/addyosmani/)  2022-10-20 
 * [Rida F'kih – Medium](https://medium.com/@ridafkih)  2022-10-20 
 * [Jason's Web Memo](https://jason-memo.dev/) 2022-10-12
