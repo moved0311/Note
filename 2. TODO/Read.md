@@ -12,6 +12,7 @@
 * [Developer way - Nadia](https://www.developerway.com/) (React)
 	* [Teleportation in React: Positioning, Stacking Context, and Portals](https://www.developerway.com/posts/positioning-and-portals-in-react) 20230621
 * [Overreacted — A blog by Dan Abramov](https://overreacted.io/)(React core team)
+	* [The Two Reacts](https://overreacted.io/the-two-reacts/) 20240104
 
 ## NextJS
 * [Jack Herrington](https://www.pronextjs.dev/articles)
