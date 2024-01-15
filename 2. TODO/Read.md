@@ -1,6 +1,5 @@
 
-## To Read
-* [7 simple habits of the top 1% of engineers](https://read.engineerscodex.com/p/7-simple-habits-of-the-top-1-of-engineers)
+## TMP
 * [The top 7 software engineering workflow tips I wish I knew earlier 🧰](https://careercutler.substack.com/p/the-top-7-software-engineering-workflow)
 * [(642) Debugging a memory leak with fuite - YouTube](https://www.youtube.com/watch?v=H0BHL2lo89M)
 * [nolanlawson/fuite: A tool for finding memory leaks in web apps](https://github.com/nolanlawson/fuite)
@@ -9,19 +8,27 @@
 * [Dev - Sebastien Lorber](https://dev.to/sebastienlorber)
 * [JSDevJournal | HackerNoon](https://hackernoon.com/u/jsdevjournal)
 ## React
-* [Developer way - Nadia](https://www.developerway.com/) (React)
-	* [Teleportation in React: Positioning, Stacking Context, and Portals](https://www.developerway.com/posts/positioning-and-portals-in-react) 20230621
+* [Developer way - Nadia](https://www.developerway.com/) 
+	* [Teleportation in React: Positioning, Stacking Context, and Portals](https://www.developerway.com/posts/positioning-and-portals-in-react) 2023/06/21
+	* [React re-renders guide: everything, all at once](https://www.developerway.com/posts/react-re-renders-guide) 2022/08/02
 * [Overreacted — A blog by Dan Abramov](https://overreacted.io/)(React core team)
-	* [The Two Reacts](https://overreacted.io/the-two-reacts/) 20240104
+	* [The Two Reacts](https://overreacted.io/the-two-reacts/) 2024/01/04
+	* [A Chain Reaction](https://overreacted.io/a-chain-reaction/) 2023/12/11
+	* [Before You memo()](https://overreacted.io/before-you-memo/) 2021/02/23
 
 ## NextJS
-* [Jack Herrington](https://www.pronextjs.dev/articles)
+* [Jack Herrington](https://www.pronextjs.dev/articles) (Youtuber)
 
 ## 演算法
 - [Rohit Verma – Medium](https://medium.com/@rohitverma_87831)
 
+## Network
+* [Beej's Guide to Network Concepts](https://beej.us/guide/bgnet0/html/split/)
+
+
 ## 個人
-* [Morris' Blog](https://morris821028.github.io/) 2023-04-02
+* [Morris' Blog](https://morris821028.github.io/)
+	* [Company Ghost Story 公司鬼故事 16 | Morris' Blog](https://morris821028.github.io/2023/10/09/work/company-ghost-story-16/#%E9%9B%9C%E6%B9%8A)
 * [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)  2023-03-31
 * [Hannah Lin – Medium](https://hannahlin.medium.com/) 2023-03-21
 * [Felix Chern – Medium](https://medium.com/@fchern)  (關於變強這檔事) 2023-03-12
@@ -31,8 +38,8 @@
 * [Complete Think](https://rickhw.github.io/) 2023-01-17
 * [Addy Osmani – Medium](https://medium.com/@addyosmani) 
 	* [Chrome now shows each active tab’s memory usage!](https://medium.com/@addyosmani/chrome-now-shows-each-active-tabs-memory-usage-4f74876538e6) 2023-10-04
-* [Addy Osmani](https://web.dev/authors/addyosmani/)  2022-10-20 
-* [Rida F'kih – Medium](https://medium.com/@ridafkih)  2022-10-20 
+* [Rida F'kih – Medium](https://medium.com/@ridafkih)  
+	* [I Re-Wrote These 10+ Single Lines of JavaScript Code, the Team Lead Praised the Code for Being Elegant | by Rida F'kih | Level Up Coding](https://medium.com/gitconnected/i-re-wrote-these-10-single-lines-of-javascript-code-the-team-lead-praised-the-code-for-being-668ade4fea71) 2022-10-20 
 * [Jason's Web Memo](https://jason-memo.dev/) 2022-10-12
 * [Harshal Patil – Medium](https://medium.com/@mistyHarsh) 2022-09-18
 * [Blog —— Bugtender](https://bugtender.com/blog/) 2022-01-31
@@ -59,7 +66,6 @@
 * [Engineering at Quora](https://quoraengineering.quora.com/)
 * [Salesforce Developer Blog](https://developer.salesforce.com/blogs)
 * [Medium Engineering](https://medium.engineering/)
-* [Blog](https://machinelearningmastery.com/blog/)
 * [All posts | SoundCloud Backstage Blog](https://developers.soundcloud.com/blog/)
 * [Engineering](https://blog.twitter.com/engineering/en_us)
 * [Tech Blog - eBay Inc.](https://tech.ebayinc.com/)

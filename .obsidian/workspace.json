@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "a66cec0107fd87a0",
+            "id": "1a933217db0f6ae0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2. TODO/Read.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d60c21abd93b267",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Web/React/React Server Component(RSC).md",
                 "mode": "source",
                 "source": false
               }
@@ -185,14 +173,28 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "a66cec0107fd87a0",
+  "active": "1a933217db0f6ae0",
   "lastOpenFiles": [
-    "1. Daily/2024-01-02.md",
+    "健康/營養素.md",
     "2. TODO/Read.md",
+    "2. TODO/Open Source.md",
+    "2. TODO/LeetCode.md",
+    "3. Reference/React.md",
+    "3. Reference/Performance/JavaScript.md",
+    "3. Reference/Performance/Performance.md",
+    "3. Reference/架構設計.md",
+    "3. Reference/Code Review.md",
+    "3. Reference/JavaScript.md",
+    "1. Daily/2024-01-02.md",
+    "5.Stocks/名詞.md",
+    "5.Stocks/晶圓.md",
+    "5.Stocks/總經.md",
+    "5.Stocks/食品/1218.md",
+    "5.Stocks/食品",
+    "4. Web/React/React Server Component(RSC).md",
     "4. Web/Memory/Reference.md",
     "Git/Reference.md",
     "Git/Git.md",
-    "4. Web/React/React Server Component(RSC).md",
     "4. Web/React/hydration.md",
     "4. Web/React/Deploy.md",
     "4. Web/React/1. React.canvas",
@@ -200,12 +202,7 @@
     "4. Web/React/hooks/Hooks.md",
     "4. Web/Framework/Server Framework.md",
     "Shortcut/copy current url.md",
-    "2. TODO/Open Source.md",
     "2. TODO/tmp.md",
-    "PPT/新聞優化/新聞優化.md",
-    "PPT/Slack Ｍessage/Slack Messages.md",
-    "PPT/Command/Command.md",
-    "export/新聞優化/plugin/chalkboard/README.md",
     "export/新聞優化/plugin/chalkboard/_style.css",
     "export/新聞優化/plugin/chalkboard/img/blackboard.png",
     "export/新聞優化/plugin/chalkboard/img/boardmarker-black.png",
@@ -224,15 +221,6 @@
     "export/新聞優化/plugin/chalkboard",
     "export/新聞優化/plugin/chart/plugin.js",
     "export/新聞優化/plugin/chart/chart.min.js",
-    "export/新聞優化/plugin/chart/README.md",
-    "export/新聞優化/plugin/chart",
-    "export/新聞優化/plugin/customcontrols/style.css",
-    "export/新聞優化/plugin/customcontrols/README.md",
-    "export/新聞優化/plugin/menu/CONTRIBUTING.md",
-    "export/新聞優化/plugin/menu/README.md",
-    "1. Daily/2023/2023-12-18.md",
-    "1. Daily/2023/2023-12-02.md",
-    "1. Daily/2023/2023-11-20.md",
-    "1. Daily/2023/2023-11-03.md"
+    "export/新聞優化/plugin/chart"
   ]
 }
