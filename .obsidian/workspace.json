@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.Stocks/晶圓/5483-中美晶/5483.md",
+                "file": "1. Daily/2024-01-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24585f2c77c4e500",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. TODO/Read.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4a1eeb64e3d5ca1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.Stocks/記憶體/美光.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.Stocks/晶圓/5483-中美晶/5483.md",
+                "file": "1. Daily/2024-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.Stocks/晶圓/5483-中美晶/5483.md",
+                "file": "1. Daily/2024-01-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.Stocks/晶圓/5483-中美晶/5483.md"
+                "file": "1. Daily/2024-01-02.md"
               }
             }
           }
@@ -160,12 +184,14 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "871ad62d0ab09a0c",
+  "active": "6450a5dd189905cc",
   "lastOpenFiles": [
+    "5.Stocks/記憶體/美光.md",
+    "2. TODO/Read.md",
+    "5.Stocks/記憶體/memory.md",
     "1. Daily/2024-01-02.md",
     "5.Stocks/晶圓/5483-中美晶/5483.md",
     "5.Stocks/晶圓/5483-中美晶/5483.png",
-    "2. TODO/Read.md",
     "5.Stocks/SaaS",
     "5.Stocks/6902/6902-走著瞧.md",
     "5.Stocks/ETF/ETF.md",
@@ -189,7 +215,6 @@
     "5.Stocks/食品/1218.md",
     "5.Stocks/食品",
     "4. Web/React/React Server Component(RSC).md",
-    "4. Web/Memory/Reference.md",
     "4. Web/React/1. React.canvas",
     "export/新聞優化/plugin/chalkboard/_style.css",
     "export/新聞優化/plugin/chalkboard/img/blackboard.png",
