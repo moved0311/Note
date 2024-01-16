@@ -1,4 +1,5 @@
 
+## 複製目前網頁markdown形式的標題與連結
 ```js
 javascript:(function() {
 

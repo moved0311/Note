@@ -1,6 +1,5 @@
 
 ## TMP
-* [The top 7 software engineering workflow tips I wish I knew earlier 🧰](https://careercutler.substack.com/p/the-top-7-software-engineering-workflow)
 * [(642) Debugging a memory leak with fuite - YouTube](https://www.youtube.com/watch?v=H0BHL2lo89M)
 * [nolanlawson/fuite: A tool for finding memory leaks in web apps](https://github.com/nolanlawson/fuite)
 * [9 Subtle Tricks To Make Your Python Code Much Faster | by Yang Zhou | TechToFreedom | Dec, 2023 | Medium](https://medium.com/techtofreedom/9-subtle-tricks-to-make-your-python-code-much-faster-50be6dd69a30)
