@@ -4,7 +4,7 @@
 * [Building a simple CLI tool with modern Node.js](https://evertpot.com/node-changelog-cli-tool/)
 * [Four Ways to Build Web Apps :: Tom Hummel](https://tomhummel.com/posts/four-web-apps/)
 * [Asabeneh/30-Days-Of-Python: 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw](https://github.com/Asabeneh/30-Days-Of-Python)
-
+* [How Companies Like Amazon and JPMorgan Spy on Their Staff](https://www.businessinsider.com/how-companies-spy-on-employees-bossware-jpmorgan-amazon-monitor-rto-2023-10)
 ## Web/JS
 * [Dev - Sebastien Lorber](https://dev.to/sebastienlorber)
 * [JSDevJournal | HackerNoon](https://hackernoon.com/u/jsdevjournal)
@@ -31,10 +31,25 @@
 * [Morris' Blog](https://morris821028.github.io/)
 	* [Company Ghost Story 公司鬼故事 16 | Morris' Blog](https://morris821028.github.io/2023/10/09/work/company-ghost-story-16/#%E9%9B%9C%E6%B9%8A)
 * [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)  
-	* [科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录](https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html)
-	* [科技爱好者周刊（第 284 期）：YouTube 有多少个视频？ - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html)
-	* [科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html)
-	* [科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html)
+	* [x] [科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录](https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html)
+	* [x] [科技爱好者周刊（第 284 期）：YouTube 有多少个视频？](https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html)
+	* [x] [科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走](https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html)
+	* [x] [科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电](https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html)
+	* [x] [科技爱好者周刊（第 281 期）：新基建的政策选择](https://www.ruanyifeng.com/blog/2023/12/weekly-issue-281.html)
+	* [ ] [科技爱好者周刊（第 280 期）：机器点餐与宅文化](https://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html)
+	* [ ] [科技爱好者周刊（第 279 期）：网络社区的悲剧](https://www.ruanyifeng.com/blog/2023/11/weekly-issue-279.html)
+	* [ ] [科技爱好者周刊（第 278 期）：棘手的 AI 版权](https://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html)
+	* [ ] [科技爱好者周刊（第 277 期）：工作台副屏的最佳选择](https://www.ruanyifeng.com/blog/2023/11/weekly-issue-277.html)
+	* [ ] [科技爱好者周刊（第 276 期）：内容行业的衰落](https://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html)
+	* [ ] [科技爱好者周刊（第 275 期）：彼得·蒂尔的实验](https://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html)
+	* [ ] [科技爱好者周刊（第 274 期）：加密通信的最后一块拼图](https://www.ruanyifeng.com/blog/2023/10/weekly-issue-274.html)
+	* [ ] [科技爱好者周刊（第 273 期）：任正非的三篇最新谈话](https://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html)
+	* [ ] [科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影](https://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html)
+	* [ ] [科技爱好者周刊（第 271 期）：非线性的世界，线性的你](https://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html)
+	* [ ] [科技爱好者周刊（第 270 期）："精益开发"的精益是什么？](https://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html)
+	* [ ] [科技爱好者周刊（第 269 期）：为什么英雄不使用炸药](https://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html)
+	* [ ] [科技爱好者周刊（第 268 期）：生产力是形容机器，不是形容人](https://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html)
+	* [ ] [科技爱好者周刊（第 267 期）：5G 的春天要来了](https://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html)
 * [Hannah Lin – Medium](https://hannahlin.medium.com/) 2023-03-21
 * [Felix Chern – Medium](https://medium.com/@fchern)  (關於變強這檔事) 2023-03-12
 * [vgod's blog – Medium](https://vgod.medium.com/) 2023-02-26

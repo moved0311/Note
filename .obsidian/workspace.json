@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "f4a1eeb64e3d5ca1",
+            "id": "199cad9b4e2b6e50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shortcut/copy current url.md",
+                "file": "2. TODO/TMP.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shortcut/copy current url.md",
+                "file": "2. TODO/TMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shortcut/copy current url.md",
+                "file": "2. TODO/TMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shortcut/copy current url.md"
+                "file": "2. TODO/TMP.md"
               }
             }
           }
@@ -185,15 +185,16 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "f4a1eeb64e3d5ca1",
+  "active": "199cad9b4e2b6e50",
   "lastOpenFiles": [
-    "4. Web/Memory/Memory Leak.md",
     "2. TODO/Read.md",
+    "Shortcut/copy current url.md",
+    "2. TODO/TMP.md",
+    "1. Daily/2024-01-02.md",
+    "4. Web/Memory/Memory Leak.md",
     "4. Web/CSS/Reference.md",
     "2. TODO/Course/統計.md",
     "5.Stocks/記憶體/美光.md",
-    "1. Daily/2024-01-02.md",
-    "Shortcut/copy current url.md",
     "Shortcut/Mac.md",
     "Thrid Party Library/Search.md",
     "Thrid Party Library/UI Library.md",
@@ -214,7 +215,6 @@
     "5.Stocks/NB.md",
     "5.Stocks/晶圓/晶圓.md",
     "Books/已讀/孫主任的經濟筆記.md",
-    "健康/營養素.md",
     "5.Stocks/食品",
     "4. Web/React/1. React.canvas",
     "export/新聞優化/plugin/chalkboard/_style.css",
