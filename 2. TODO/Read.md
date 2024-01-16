@@ -1,10 +1,10 @@
 
 ## TMP
-* [9 Subtle Tricks To Make Your Python Code Much Faster | by Yang Zhou | TechToFreedom | Dec, 2023 | Medium](https://medium.com/techtofreedom/9-subtle-tricks-to-make-your-python-code-much-faster-50be6dd69a30)
 * [The Life and Death of Open Source Companies | Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/)
 * [Building a simple CLI tool with modern Node.js](https://evertpot.com/node-changelog-cli-tool/)
 * [Four Ways to Build Web Apps :: Tom Hummel](https://tomhummel.com/posts/four-web-apps/)
-* 
+* [Asabeneh/30-Days-Of-Python: 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw](https://github.com/Asabeneh/30-Days-Of-Python)
+
 ## Web/JS
 * [Dev - Sebastien Lorber](https://dev.to/sebastienlorber)
 * [JSDevJournal | HackerNoon](https://hackernoon.com/u/jsdevjournal)

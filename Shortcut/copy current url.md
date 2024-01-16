@@ -29,3 +29,8 @@ var markdown = '[' + document.title + '](' + window.location.href + ')';
 copyToClipboard(markdown);
 })();
 ```
+
+
+```
+javascript:(function(){alert('hi')})();
+```
