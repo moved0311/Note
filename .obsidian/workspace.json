@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-01-02.md",
+                "file": "2. TODO/Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-01-02.md",
+                "file": "2. TODO/Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-01-02.md"
+                "file": "2. TODO/Read.md"
               }
             }
           }
@@ -184,20 +185,21 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "6450a5dd189905cc",
+  "active": "24585f2c77c4e500",
   "lastOpenFiles": [
+    "2. TODO/Course/統計.md",
+    "2. TODO/Read.md",
     "4. Web/Memory/Memory Leak.md",
+    "5.Stocks/記憶體/美光.md",
     "1. Daily/2024-01-02.md",
     "Shortcut/copy current url.md",
     "Shortcut/Mac.md",
     "Thrid Party Library/Search.md",
     "Thrid Party Library/UI Library.md",
-    "Course/Data Mining.md",
-    "Course/Data Structures.md",
+    "2. TODO/Course/Data Mining.md",
+    "2. TODO/Course/Data Structures.md",
     "2. TODO/Open Source.md",
-    "2. TODO/Read.md",
     "2. TODO/CodingInterviewUniversity.md",
-    "5.Stocks/記憶體/美光.md",
     "5.Stocks/記憶體/memory.md",
     "5.Stocks/晶圓/5483-中美晶/5483.md",
     "5.Stocks/晶圓/5483-中美晶/5483.png",
@@ -213,7 +215,6 @@
     "Books/已讀/孫主任的經濟筆記.md",
     "健康/營養素.md",
     "2. TODO/LeetCode.md",
-    "3. Reference/React.md",
     "5.Stocks/食品",
     "4. Web/React/1. React.canvas",
     "export/新聞優化/plugin/chalkboard/_style.css",

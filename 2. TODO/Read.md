@@ -1,7 +1,5 @@
 
 ## TMP
-* [(642) Debugging a memory leak with fuite - YouTube](https://www.youtube.com/watch?v=H0BHL2lo89M)
-* [nolanlawson/fuite: A tool for finding memory leaks in web apps](https://github.com/nolanlawson/fuite)
 * [9 Subtle Tricks To Make Your Python Code Much Faster | by Yang Zhou | TechToFreedom | Dec, 2023 | Medium](https://medium.com/techtofreedom/9-subtle-tricks-to-make-your-python-code-much-faster-50be6dd69a30)
 * [The Life and Death of Open Source Companies | Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/)
 * [Building a simple CLI tool with modern Node.js](https://evertpot.com/node-changelog-cli-tool/)
@@ -29,7 +27,6 @@
 * [Beej's Guide to Network Concepts](https://beej.us/guide/bgnet0/html/split/)
 	* [Beej's Guide to Network Concepts](https://beej.us/guide/bgnet0/html/split/networking-overview.html)
 
-
 ## 個人
 * [Morris' Blog](https://morris821028.github.io/)
 	* [Company Ghost Story 公司鬼故事 16 | Morris' Blog](https://morris821028.github.io/2023/10/09/work/company-ghost-story-16/#%E9%9B%9C%E6%B9%8A)
@@ -37,7 +34,7 @@
 	* [科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录](https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html)
 	* [科技爱好者周刊（第 284 期）：YouTube 有多少个视频？ - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html)
 	* [科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html)
-	* 
+	* [科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html)
 * [Hannah Lin – Medium](https://hannahlin.medium.com/) 2023-03-21
 * [Felix Chern – Medium](https://medium.com/@fchern)  (關於變強這檔事) 2023-03-12
 * [vgod's blog – Medium](https://vgod.medium.com/) 2023-02-26
