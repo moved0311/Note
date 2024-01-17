@@ -1,7 +1,3 @@
-* [x] [Read post](https://api.daily.dev/r/5qzu1araD)
-* [x] [Read post](https://api.daily.dev/r/XNoQ9rhXO)
-* [x] [Read post](https://api.daily.dev/r/BMdtdP3mL)
-* [x] [Read post](https://api.daily.dev/r/0IY50sSIl)
 * [x] [Read post](https://api.daily.dev/r/y0vKE86jA)
 * [ ] [Read post](https://api.daily.dev/r/QoVYhJM36)
 * [ ] [Read post](https://api.daily.dev/r/DjUbEdDHu)
