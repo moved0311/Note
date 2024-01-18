@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "199cad9b4e2b6e50",
+            "id": "7cb50e64066e0fbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,11 +185,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "199cad9b4e2b6e50",
+  "active": "7cb50e64066e0fbe",
   "lastOpenFiles": [
     "2. TODO/Read.md",
-    "1. Daily/2024-01-02.md",
     "2. TODO/TMP.md",
+    "1. Daily/2024-01-02.md",
     "4. Web/CSS/多餘字元.md",
     "Shortcut/copy current url.md",
     "4. Web/Memory/Memory Leak.md",
