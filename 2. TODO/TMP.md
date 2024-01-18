@@ -1,4 +1,3 @@
-* [x] [Read post](https://api.daily.dev/r/y0vKE86jA)
 * [ ] [Read post](https://api.daily.dev/r/QoVYhJM36)
 * [ ] [Read post](https://api.daily.dev/r/DjUbEdDHu)
 * [ ] [Read post](https://api.daily.dev/r/41j8s5Y8B)
