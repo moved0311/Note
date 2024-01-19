@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-01-02.md",
+                "file": "2. TODO/TMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-01-02.md",
+                "file": "2. TODO/TMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-01-02.md"
+                "file": "2. TODO/TMP.md"
               }
             }
           }
@@ -184,13 +185,14 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "6450a5dd189905cc",
+  "active": "7cb50e64066e0fbe",
   "lastOpenFiles": [
+    "1. Daily/2024-01-02.md",
+    "1. Daily/2023/2023-12-18.md",
     "2. TODO/Read.md",
     "2. TODO/TMP.md",
     "4. Web/Open Source.md",
     "4. Web/CDN.md",
-    "1. Daily/2024-01-02.md",
     "4. Web/CSS/多餘字元.md",
     "Shortcut/copy current url.md",
     "4. Web/Memory/Memory Leak.md",
@@ -213,7 +215,6 @@
     "5.Stocks/CPO/4977-眾達KY.md",
     "5.Stocks/總經.md",
     "5.Stocks/晶圓.md",
-    "5.Stocks/NB.md",
     "5.Stocks/食品",
     "4. Web/React/1. React.canvas",
     "export/新聞優化/plugin/chalkboard/_style.css",
