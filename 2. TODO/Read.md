@@ -3,12 +3,12 @@
 * [JSDevJournal | HackerNoon](https://hackernoon.com/u/jsdevjournal)
 ## React
 * [Developer way - Nadia](https://www.developerway.com/) 
-	* [Teleportation in React: Positioning, Stacking Context, and Portals](https://www.developerway.com/posts/positioning-and-portals-in-react) 2023/06/21
-	* [React re-renders guide: everything, all at once](https://www.developerway.com/posts/react-re-renders-guide) 2022/08/02
+	* [Teleportation in React: Positioning, Stacking Context, and Portals](https://www.developerway.com/posts/positioning-and-portals-in-react) 
+	* [React re-renders guide: everything, all at once](https://www.developerway.com/posts/react-re-renders-guide) 
 * [Overreacted — A blog by Dan Abramov](https://overreacted.io/)(React core team)
-	* [The Two Reacts](https://overreacted.io/the-two-reacts/) 2024/01/04
-	* [A Chain Reaction](https://overreacted.io/a-chain-reaction/) 2023/12/11
-	* [Before You memo()](https://overreacted.io/before-you-memo/) 2021/02/23
+	* [The Two Reacts](https://overreacted.io/the-two-reacts/) 
+	* [A Chain Reaction](https://overreacted.io/a-chain-reaction/) 
+	* [Before You memo()](https://overreacted.io/before-you-memo/) 
 ## NextJS
 * [Jack Herrington](https://www.pronextjs.dev/articles) (Youtuber)
 
