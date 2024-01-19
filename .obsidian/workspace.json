@@ -38,13 +38,13 @@
               "type": "markdown",
               "state": {
                 "file": "2. TODO/TMP.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/TMP.md",
+                "file": "2. TODO/Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/TMP.md",
+                "file": "2. TODO/Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/TMP.md"
+                "file": "2. TODO/Read.md"
               }
             }
           }
@@ -185,11 +185,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "7cb50e64066e0fbe",
+  "active": "24585f2c77c4e500",
   "lastOpenFiles": [
-    "2. TODO/Read.md",
-    "2. TODO/TMP.md",
     "1. Daily/2024-01-02.md",
+    "2. TODO/TMP.md",
+    "2. TODO/Read.md",
     "4. Web/CSS/多餘字元.md",
     "Shortcut/copy current url.md",
     "4. Web/Memory/Memory Leak.md",
