@@ -32,19 +32,18 @@
             }
           },
           {
-            "id": "7cb50e64066e0fbe",
+            "id": "d71863d74ce2267a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/TMP.md",
+                "file": "5.Stocks/基本分析.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/TMP.md",
+                "file": "1. Daily/2024-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/TMP.md",
+                "file": "1. Daily/2024-01-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/TMP.md"
+                "file": "1. Daily/2024-01-02.md"
               }
             }
           }
@@ -185,12 +184,24 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "7cb50e64066e0fbe",
+  "active": "6450a5dd189905cc",
   "lastOpenFiles": [
+    "2. TODO/Read.md",
+    "5.Stocks/基本分析.md",
+    "5.Stocks/封裝/先進封裝.md",
+    "5.Stocks/電動車/電動車.md",
+    "5.Stocks/電動車",
+    "2. TODO/TMP.md",
+    "5.Stocks/通信網路/3152-璟德.md",
+    "5.Stocks/通信網路/WiFi.md",
+    "5.Stocks/總經.md",
+    "5.Stocks/名詞.md",
+    "5.Stocks/電腦及週邊設備/NB.md",
+    "5.Stocks/電腦及週邊設備",
+    "5.Stocks/通信網路/5G.md",
+    "5.Stocks/通信網路",
     "1. Daily/2024-01-02.md",
     "1. Daily/2023/2023-12-18.md",
-    "2. TODO/Read.md",
-    "2. TODO/TMP.md",
     "4. Web/Open Source.md",
     "4. Web/CDN.md",
     "4. Web/CSS/多餘字元.md",
@@ -204,17 +215,8 @@
     "Thrid Party Library/UI Library.md",
     "2. TODO/Course/Data Mining.md",
     "2. TODO/Course/Data Structures.md",
-    "2. TODO/CodingInterviewUniversity.md",
-    "5.Stocks/記憶體/memory.md",
-    "5.Stocks/晶圓/5483-中美晶/5483.md",
     "5.Stocks/晶圓/5483-中美晶/5483.png",
     "5.Stocks/SaaS",
-    "5.Stocks/6902/6902-走著瞧.md",
-    "5.Stocks/ETF/ETF.md",
-    "5.Stocks/CPO/CPO.md",
-    "5.Stocks/CPO/4977-眾達KY.md",
-    "5.Stocks/總經.md",
-    "5.Stocks/晶圓.md",
     "5.Stocks/食品",
     "4. Web/React/1. React.canvas",
     "export/新聞優化/plugin/chalkboard/_style.css",
@@ -230,9 +232,6 @@
     "export/新聞優化/plugin/chalkboard/style.css",
     "export/新聞優化/plugin/chalkboard/plugin.js",
     "export/新聞優化/plugin/chalkboard/plugin (copy).js",
-    "export/新聞優化/plugin/chalkboard/img",
-    "export/新聞優化/plugin/chalkboard",
-    "export/新聞優化/plugin/chart/plugin.js",
-    "export/新聞優化/plugin/chart/chart.min.js"
+    "export/新聞優化/plugin/chalkboard/img"
   ]
 }
