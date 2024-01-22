@@ -8,24 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6450a5dd189905cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Daily/2024-01-02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "03f3f0f6ba96bd89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "1. Daily/2024-01-22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee4aad2c62f53926",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.Stocks/電子零組件/電纜/6290-良維.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c31583f56992cbaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.Stocks/基本分析.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nx/story",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.50260543823242
+    "width": 221.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "c56181c98a8f9c8f",
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-01-02.md",
+                "file": "5.Stocks/電子零組件/電纜/6290-良維.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-01-02.md",
+                "file": "5.Stocks/電子零組件/電纜/6290-良維.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-01-02.md"
+                "file": "5.Stocks/電子零組件/電纜/6290-良維.md"
               }
             }
           }
@@ -184,13 +198,16 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "6450a5dd189905cc",
+  "active": "ee4aad2c62f53926",
   "lastOpenFiles": [
-    "1. Daily/2024-01-22.md",
-    "1. Daily/2024-01-02.md",
-    "2. TODO/Read.md",
-    "5.Stocks/通信網路/電信/3045-台灣大.md",
     "5.Stocks/基本分析.md",
+    "5.Stocks/電子零組件/電纜/6290-良維.md",
+    "1. Daily/2024-01-22.md",
+    "5.Stocks/電子零組件/電纜",
+    "5.Stocks/電子零組件",
+    "2. TODO/Read.md",
+    "1. Daily/2024-01-02.md",
+    "5.Stocks/通信網路/電信/3045-台灣大.md",
     "5.Stocks/通信網路/電信",
     "5.Stocks/封裝/先進封裝.md",
     "5.Stocks/電動車/電動車.md",
@@ -215,7 +232,6 @@
     "5.Stocks/記憶體/美光.md",
     "Shortcut/Mac.md",
     "Thrid Party Library/Search.md",
-    "Thrid Party Library/UI Library.md",
     "5.Stocks/晶圓/5483-中美晶/5483.png",
     "5.Stocks/SaaS",
     "5.Stocks/食品",
@@ -230,8 +246,6 @@
     "export/新聞優化/plugin/chalkboard/img/boardmarker-red.png",
     "export/新聞優化/plugin/chalkboard/img/boardmarker-yellow.png",
     "export/新聞優化/plugin/chalkboard/img/chalk-blue.png",
-    "export/新聞優化/plugin/chalkboard/style.css",
-    "export/新聞優化/plugin/chalkboard/plugin.js",
-    "export/新聞優化/plugin/chalkboard/plugin (copy).js"
+    "export/新聞優化/plugin/chalkboard/style.css"
   ]
 }
