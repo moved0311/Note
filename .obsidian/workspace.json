@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.Stocks/電子零組件/電纜/6290-良維.md",
+                "file": "5.Stocks/通信網路/CPO/4977-眾達KY.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "CPO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.Stocks/電子零組件/電纜/6290-良維.md",
+                "file": "5.Stocks/通信網路/CPO/4977-眾達KY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.Stocks/電子零組件/電纜/6290-良維.md",
+                "file": "5.Stocks/通信網路/CPO/4977-眾達KY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.Stocks/電子零組件/電纜/6290-良維.md"
+                "file": "5.Stocks/通信網路/CPO/4977-眾達KY.md"
               }
             }
           }
@@ -200,8 +201,8 @@
   },
   "active": "ee4aad2c62f53926",
   "lastOpenFiles": [
-    "5.Stocks/基本分析.md",
     "5.Stocks/電子零組件/電纜/6290-良維.md",
+    "5.Stocks/基本分析.md",
     "1. Daily/2024-01-22.md",
     "5.Stocks/電子零組件/電纜",
     "5.Stocks/電子零組件",
