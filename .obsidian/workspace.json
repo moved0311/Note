@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "c31583f56992cbaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.Stocks/基本分析.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "24585f2c77c4e500",
             "type": "leaf",
             "state": {
@@ -55,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.Stocks/通信網路/CPO/4977-眾達KY.md",
+                "file": "1. Daily/2024-01-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.Stocks/通信網路/CPO/4977-眾達KY.md",
+                "file": "1. Daily/2024-01-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.Stocks/通信網路/CPO/4977-眾達KY.md"
+                "file": "1. Daily/2024-01-22.md"
               }
             }
           }
@@ -199,10 +186,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "ee4aad2c62f53926",
+  "active": "03f3f0f6ba96bd89",
   "lastOpenFiles": [
-    "5.Stocks/電子零組件/電纜/6290-良維.md",
+    "5.Stocks/通信網路/CPO/4977-眾達KY.md",
     "5.Stocks/基本分析.md",
+    "5.Stocks/電子零組件/電纜/6290-良維.md",
     "1. Daily/2024-01-22.md",
     "5.Stocks/電子零組件/電纜",
     "5.Stocks/電子零組件",
@@ -232,7 +220,6 @@
     "2. TODO/Course/統計.md",
     "5.Stocks/記憶體/美光.md",
     "Shortcut/Mac.md",
-    "Thrid Party Library/Search.md",
     "5.Stocks/晶圓/5483-中美晶/5483.png",
     "5.Stocks/SaaS",
     "5.Stocks/食品",
