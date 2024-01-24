@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.50260543823242,
-    "collapsed": true
+    "width": 221.50260543823242
   },
   "right": {
     "id": "c56181c98a8f9c8f",
@@ -111,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/TMP.md",
+                "file": "1. Daily/2024-01-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/TMP.md",
+                "file": "1. Daily/2024-01-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/TMP.md"
+                "file": "1. Daily/2024-01-22.md"
               }
             }
           }
@@ -186,11 +184,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "39437cf3006a4ee3",
+  "active": "03f3f0f6ba96bd89",
   "lastOpenFiles": [
+    "2. TODO/TMP.md",
     "2. TODO/Read.md",
     "6. Works/鉅亨網/新聞專案改版.md",
-    "2. TODO/TMP.md",
     "1. Daily/2024-01-22.md",
     "5.Stocks/PCB/6664-群翊.md",
     "5.Stocks/通信網路/CPO/4977-眾達KY.md",
