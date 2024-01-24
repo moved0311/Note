@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024-01-22.md",
+                "file": "5.Stocks/PCB/6664-群翊.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-01-22.md",
+                "file": "5.Stocks/PCB/6664-群翊.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-01-22.md",
+                "file": "5.Stocks/PCB/6664-群翊.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-01-22.md"
+                "file": "5.Stocks/PCB/6664-群翊.md"
               }
             }
           }
@@ -176,8 +175,9 @@
   },
   "active": "03f3f0f6ba96bd89",
   "lastOpenFiles": [
-    "5.Stocks/通信網路/CPO/4977-眾達KY.md",
     "1. Daily/2024-01-22.md",
+    "5.Stocks/PCB/6664-群翊.md",
+    "5.Stocks/通信網路/CPO/4977-眾達KY.md",
     "5.Stocks/基本分析.md",
     "5.Stocks/電子零組件/電纜/6290-良維.md",
     "5.Stocks/電子零組件/電纜",
@@ -207,7 +207,6 @@
     "4. Web/CSS/Reference.md",
     "2. TODO/Course/統計.md",
     "5.Stocks/記憶體/美光.md",
-    "Shortcut/Mac.md",
     "5.Stocks/晶圓/5483-中美晶/5483.png",
     "5.Stocks/SaaS",
     "5.Stocks/食品",
