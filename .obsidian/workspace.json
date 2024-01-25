@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024-01-22.md",
+                "file": "4. Web/Monorepo/Nx.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tmp",
+                "query": "tailwind",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-01-22.md",
+                "file": "4. Web/Monorepo/Nx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-01-22.md",
+                "file": "4. Web/Monorepo/Nx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-01-22.md"
+                "file": "4. Web/Monorepo/Nx.md"
               }
             }
           }
@@ -186,10 +186,12 @@
   },
   "active": "03f3f0f6ba96bd89",
   "lastOpenFiles": [
+    "4. Web/CSS/Tailwind.md",
+    "4. Web/Monorepo/Nx.md",
+    "1. Daily/2024-01-22.md",
     "2. TODO/TMP.md",
     "2. TODO/Read.md",
     "6. Works/鉅亨網/新聞專案改版.md",
-    "1. Daily/2024-01-22.md",
     "5.Stocks/PCB/6664-群翊.md",
     "5.Stocks/通信網路/CPO/4977-眾達KY.md",
     "5.Stocks/基本分析.md",
@@ -216,8 +218,6 @@
     "4. Web/CSS/多餘字元.md",
     "Shortcut/copy current url.md",
     "4. Web/Memory/Memory Leak.md",
-    "4. Web/CSS/Reference.md",
-    "2. TODO/Course/統計.md",
     "5.Stocks/晶圓/5483-中美晶/5483.png",
     "5.Stocks/SaaS",
     "5.Stocks/食品",
