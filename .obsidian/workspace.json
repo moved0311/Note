@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/TMP.md",
+                "file": "1. Daily/2024-01-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/TMP.md",
+                "file": "1. Daily/2024-01-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/TMP.md"
+                "file": "1. Daily/2024-01-22.md"
               }
             }
           }
@@ -186,11 +185,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "39437cf3006a4ee3",
+  "active": "03f3f0f6ba96bd89",
   "lastOpenFiles": [
     "2. TODO/Read.md",
-    "2. TODO/TMP.md",
     "1. Daily/2024-01-22.md",
+    "2. TODO/TMP.md",
     "4. Web/Monorepo/Nx.md",
     "4. Web/CSS/Tailwind.md",
     "6. Works/鉅亨網/新聞專案改版.md",
