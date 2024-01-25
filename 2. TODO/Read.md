@@ -1,6 +1,7 @@
 ## Web/JS
 * [Dev - Sebastien Lorber](https://dev.to/sebastienlorber)
 * [JSDevJournal | HackerNoon](https://hackernoon.com/u/jsdevjournal)
+
 ## React
 * [Developer way - Nadia](https://www.developerway.com/) 
 	* [Teleportation in React: Positioning, Stacking Context, and Portals](https://www.developerway.com/posts/positioning-and-portals-in-react) 
