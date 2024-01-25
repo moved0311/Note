@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.50260543823242
+    "width": 221.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "c56181c98a8f9c8f",
@@ -184,7 +185,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "03f3f0f6ba96bd89",
+  "active": "871ad62d0ab09a0c",
   "lastOpenFiles": [
     "4. Web/CSS/Tailwind.md",
     "4. Web/Monorepo/Nx.md",
