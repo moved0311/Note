@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/TMP.md",
+                "file": "1. Daily/2023/2023-07-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tailwind",
+                "query": "storybook",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,12 +89,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 221.50260543823242,
-    "collapsed": true
+    "width": 221.50260543823242
   },
   "right": {
     "id": "c56181c98a8f9c8f",
@@ -187,19 +187,26 @@
   },
   "active": "03f3f0f6ba96bd89",
   "lastOpenFiles": [
-    "2. TODO/Read.md",
-    "1. Daily/2024-01-22.md",
+    "1. Daily/2023/2023-07-24.md",
+    "4. Web/Storybook/Storybook.md",
+    "Rollup/Reference.md",
+    "6. Works/鉅亨網/新聞專案改版.md",
+    "1. Daily/2023/2023-09-19.md",
+    "1. Daily/2023/2023-08-08.md",
     "2. TODO/TMP.md",
+    "1. Daily/2024-01-02.md",
+    "Thrid Party Library/Search.md",
+    "Thrid Party Library/UI Library.md",
+    "1. Daily/2024-01-22.md",
+    "2. TODO/Read.md",
     "4. Web/Monorepo/Nx.md",
     "4. Web/CSS/Tailwind.md",
-    "6. Works/鉅亨網/新聞專案改版.md",
     "5.Stocks/PCB/6664-群翊.md",
     "5.Stocks/通信網路/CPO/4977-眾達KY.md",
     "5.Stocks/基本分析.md",
     "5.Stocks/電子零組件/電纜/6290-良維.md",
     "5.Stocks/電子零組件/電纜",
     "5.Stocks/電子零組件",
-    "1. Daily/2024-01-02.md",
     "5.Stocks/通信網路/電信/3045-台灣大.md",
     "5.Stocks/通信網路/電信",
     "5.Stocks/封裝/先進封裝.md",
@@ -211,14 +218,7 @@
     "5.Stocks/名詞.md",
     "5.Stocks/電腦及週邊設備/NB.md",
     "5.Stocks/電腦及週邊設備",
-    "5.Stocks/通信網路/5G.md",
     "5.Stocks/通信網路",
-    "1. Daily/2023/2023-12-18.md",
-    "4. Web/Open Source.md",
-    "4. Web/CDN.md",
-    "4. Web/CSS/多餘字元.md",
-    "Shortcut/copy current url.md",
-    "4. Web/Memory/Memory Leak.md",
     "5.Stocks/晶圓/5483-中美晶/5483.png",
     "5.Stocks/SaaS",
     "5.Stocks/食品",
