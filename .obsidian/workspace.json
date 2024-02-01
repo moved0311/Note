@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.Stocks/PCB/3037.md",
+                "file": "5.Stocks/名詞.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "storybook",
+                "query": "週轉",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,9 +188,10 @@
   },
   "active": "03f3f0f6ba96bd89",
   "lastOpenFiles": [
-    "5.Stocks/PCB/3037.md",
-    "1. Daily/2024-01-22.md",
+    "5.Stocks/名詞.md",
     "2. TODO/Read.md",
+    "1. Daily/2024-01-22.md",
+    "5.Stocks/PCB/3037.md",
     "1. Daily/2023/2023-07-24.md",
     "4. Web/Storybook/Storybook.md",
     "Rollup/Reference.md",
@@ -217,7 +218,6 @@
     "5.Stocks/通信網路/3152-璟德.md",
     "5.Stocks/通信網路/WiFi.md",
     "5.Stocks/總經.md",
-    "5.Stocks/名詞.md",
     "5.Stocks/電腦及週邊設備",
     "5.Stocks/通信網路",
     "5.Stocks/晶圓/5483-中美晶/5483.png",
