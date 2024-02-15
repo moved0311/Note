@@ -89,13 +89,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 221.50260543823242,
-    "collapsed": true
+    "width": 221.50260543823242
   },
   "right": {
     "id": "c56181c98a8f9c8f",
@@ -188,9 +186,10 @@
   },
   "active": "03f3f0f6ba96bd89",
   "lastOpenFiles": [
-    "5.Stocks/名詞.md",
     "2. TODO/Read.md",
     "1. Daily/2024-01-22.md",
+    "1. Daily/2024-01-02.md",
+    "5.Stocks/名詞.md",
     "5.Stocks/PCB/3037.md",
     "1. Daily/2023/2023-07-24.md",
     "4. Web/Storybook/Storybook.md",
@@ -199,7 +198,6 @@
     "1. Daily/2023/2023-09-19.md",
     "1. Daily/2023/2023-08-08.md",
     "2. TODO/TMP.md",
-    "1. Daily/2024-01-02.md",
     "Thrid Party Library/Search.md",
     "Thrid Party Library/UI Library.md",
     "4. Web/Monorepo/Nx.md",
