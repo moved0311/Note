@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Web/CSS/Tailwind.md",
+                "file": "1. Daily/2024-01-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Web/CSS/Tailwind.md",
+                "file": "1. Daily/2024-01-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Web/CSS/Tailwind.md"
+                "file": "1. Daily/2024-01-22.md"
               }
             }
           }
@@ -185,8 +184,9 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "271bcfd2e0094c5e",
+  "active": "03f3f0f6ba96bd89",
   "lastOpenFiles": [
+    "4. Web/CSS/Tailwind.md",
     "6. Works/鉅亨網/Doc/外匯.md",
     "1. Daily/2024-01-22.md",
     "6. Works/鉅亨網/Doc/API.md",
@@ -206,7 +206,6 @@
     "Thrid Party Library/Search.md",
     "Thrid Party Library/UI Library.md",
     "4. Web/Monorepo/Nx.md",
-    "4. Web/CSS/Tailwind.md",
     "5.Stocks/PCB/6664-群翊.md",
     "5.Stocks/通信網路/CPO/4977-眾達KY.md",
     "5.Stocks/基本分析.md",
