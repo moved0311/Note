@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "週轉",
+                "query": "$$typeof",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,7 +185,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "03f3f0f6ba96bd89",
+  "active": "2cb51d19092c7bcf",
   "lastOpenFiles": [
     "4. Web/CSS/Tailwind.md",
     "6. Works/鉅亨網/Doc/外匯.md",
