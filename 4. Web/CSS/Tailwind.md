@@ -3,6 +3,10 @@
 ## Install tailwind css
 * https://nx.dev/recipes/react/using-tailwind-css-in-react
 
+```sh
+npm add -D tailwindcss@latest postcss@latest autoprefixer@latest
+```
+
 ```shell
 npx tailwindcss init -p
 ```
