@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "03f3f0f6ba96bd89",
+            "id": "f0dd78b4ee6e450a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "1. Daily/2024-01-22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03f3f0f6ba96bd89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2024-02-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-01-22.md",
+                "file": "1. Daily/2024-02-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-01-22.md",
+                "file": "1. Daily/2024-02-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-01-22.md"
+                "file": "1. Daily/2024-02-20.md"
               }
             }
           }
@@ -185,11 +197,12 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "2cb51d19092c7bcf",
+  "active": "03f3f0f6ba96bd89",
   "lastOpenFiles": [
     "4. Web/CSS/Tailwind.md",
-    "6. Works/鉅亨網/Doc/外匯.md",
     "1. Daily/2024-01-22.md",
+    "1. Daily/2024-02-20.md",
+    "6. Works/鉅亨網/Doc/外匯.md",
     "6. Works/鉅亨網/Doc/API.md",
     "6. Works/鉅亨網/Doc",
     "2. TODO/Read.md",
