@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-02-20.md",
+                "file": "1. Daily/2024-01-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-02-20.md",
+                "file": "1. Daily/2024-01-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-02-20.md"
+                "file": "1. Daily/2024-01-22.md"
               }
             }
           }
@@ -197,11 +196,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "03f3f0f6ba96bd89",
+  "active": "f0dd78b4ee6e450a",
   "lastOpenFiles": [
+    "1. Daily/2024-02-20.md",
     "4. Web/CSS/Tailwind.md",
     "1. Daily/2024-01-22.md",
-    "1. Daily/2024-02-20.md",
     "6. Works/鉅亨網/Doc/外匯.md",
     "6. Works/鉅亨網/Doc/API.md",
     "6. Works/鉅亨網/Doc",
