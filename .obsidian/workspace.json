@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f0dd78b4ee6e450a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Daily/2024-01-22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "03f3f0f6ba96bd89",
             "type": "leaf",
             "state": {
@@ -55,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Works/鉅亨網/Doc/API.md",
+                "file": "1. Daily/2024-02-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Works/鉅亨網/Doc/API.md",
+                "file": "1. Daily/2024-02-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Works/鉅亨網/Doc/API.md"
+                "file": "1. Daily/2024-02-20.md"
               }
             }
           }
@@ -197,13 +184,13 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "271bcfd2e0094c5e",
+  "active": "03f3f0f6ba96bd89",
   "lastOpenFiles": [
+    "1. Daily/2024-01-22.md",
+    "6. Works/鉅亨網/Doc/API.md",
     "6. Works/鉅亨網/Doc/外匯.md",
     "4. Web/CSS/Tailwind.md",
-    "1. Daily/2024-01-22.md",
     "1. Daily/2024-02-20.md",
-    "6. Works/鉅亨網/Doc/API.md",
     "6. Works/鉅亨網/Doc",
     "2. TODO/Read.md",
     "5.Stocks/名詞.md",
