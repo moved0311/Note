@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Works/鉅亨網/Doc/API.md",
+                "file": "4. Web/CSS/多餘字元.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-02-20.md",
+                "file": "4. Web/CSS/多餘字元.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-02-20.md",
+                "file": "4. Web/CSS/多餘字元.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-02-20.md"
+                "file": "4. Web/CSS/多餘字元.md"
               }
             }
           }
@@ -184,13 +185,13 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "03f3f0f6ba96bd89",
+  "active": "271bcfd2e0094c5e",
   "lastOpenFiles": [
-    "1. Daily/2024-01-22.md",
     "6. Works/鉅亨網/Doc/API.md",
+    "1. Daily/2024-02-20.md",
+    "1. Daily/2024-01-22.md",
     "6. Works/鉅亨網/Doc/外匯.md",
     "4. Web/CSS/Tailwind.md",
-    "1. Daily/2024-02-20.md",
     "6. Works/鉅亨網/Doc",
     "2. TODO/Read.md",
     "5.Stocks/名詞.md",
