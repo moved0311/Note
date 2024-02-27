@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/Read.md",
+                "file": "1. Daily/2024-02-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/Read.md",
+                "file": "1. Daily/2024-02-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/Read.md"
+                "file": "1. Daily/2024-02-20.md"
               }
             }
           }
@@ -173,8 +172,9 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "24585f2c77c4e500",
+  "active": "03f3f0f6ba96bd89",
   "lastOpenFiles": [
+    "2. TODO/Read.md",
     "1. Daily/2024-02-20.md",
     "4. Web/CSS/多餘字元.md",
     "6. Works/鉅亨網/Doc/API.md",
@@ -182,7 +182,6 @@
     "6. Works/鉅亨網/Doc/外匯.md",
     "4. Web/CSS/Tailwind.md",
     "6. Works/鉅亨網/Doc",
-    "2. TODO/Read.md",
     "5.Stocks/名詞.md",
     "1. Daily/2024-01-02.md",
     "6. Works/鉅亨網/fe-crypto.md",
