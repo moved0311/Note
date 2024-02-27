@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "ed6517bc177c559c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
+          },
+          {
             "id": "24585f2c77c4e500",
             "type": "leaf",
             "state": {
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,7 +195,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "271bcfd2e0094c5e",
+  "active": "ed6517bc177c559c",
   "lastOpenFiles": [
     "6. Works/鉅亨網/Doc/API.md",
     "1. Daily/2024-02-20.md",
