@@ -3,6 +3,34 @@
 - [TradingView 中文开发文档](https://aitrade.ga/books/tradingview/)
 - resolveSymbol欄位出錯(70%問題發生在這) [https://github.com/tradingview/charting_library/wiki/UDF](https://github.com/tradingview/charting_library/wiki/UDF)
     - UDF欄位解釋 [https://github.com/tradingview/charting_library/wiki/Symbology#symbolinfo-structure](https://github.com/tradingview/charting_library/wiki/Symbology#symbolinfo-structure)
+### Install
+1. 將`charting_library`與`datafeeds`資料夾放到`/public`中
+2. 在`page.tsx`載入上面的兩個js檔案
+   ```tsx
+   <Script src='/charting_library/charting_library.standalone.js' />
+   <Script src='/datafeeds/udf/dist/bundle.js' />
+	```
+3. 建立TradingView物件
+   ```jsx
+	const TradingViewChart = ({ symbol, resolution }: Props) => {
+	  useEffect(() => {
+	    new TradingView.widget({
+	      container: 'chartContainer',
+	      locale: 'zh_TW',
+	      library_path: '/charting_library/',
+	      datafeed: new Datafeeds.UDFCompatibleDatafeed('https://demo-feed-data.tradingview.com'),
+	      symbol: 'AAPL',
+	      interval: '1D',
+	      fullscreen: true,
+	    });
+	  }, [symbol, resolution]);
+
+	return (<div id="chartContainer" />)
+	}
+	```
+	library_path: 指向`/charting_library/`資料夾(需要底下的靜態檔案)
+	4.
+
 
 ### 技術線圖(Study)
 
