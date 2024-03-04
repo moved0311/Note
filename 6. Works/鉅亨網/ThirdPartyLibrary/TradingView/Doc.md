@@ -1,4 +1,5 @@
 
+* Github: https://github.com/tradingview/charting_library/ 需要有權限
 - [TradingView 中文开发文档](https://aitrade.ga/books/tradingview/)
 - resolveSymbol欄位出錯(70%問題發生在這) [https://github.com/tradingview/charting_library/wiki/UDF](https://github.com/tradingview/charting_library/wiki/UDF)
     - UDF欄位解釋 [https://github.com/tradingview/charting_library/wiki/Symbology#symbolinfo-structure](https://github.com/tradingview/charting_library/wiki/Symbology#symbolinfo-structure)
