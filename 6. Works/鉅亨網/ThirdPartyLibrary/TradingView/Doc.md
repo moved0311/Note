@@ -29,7 +29,9 @@
 	}
 	```
 	library_path: 指向`/charting_library/`資料夾(需要底下的靜態檔案)
-	4.
+	4. [Next js Example](https://github.com/tradingview/charting-library-examples/blob/master/nextjs/components/TVChartContainer/index.tsx)
+	5. 
+
 
 
 ### 技術線圖(Study)
