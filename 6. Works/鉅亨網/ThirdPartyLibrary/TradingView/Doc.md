@@ -30,7 +30,31 @@
 	```
 	library_path: 指向`/charting_library/`資料夾(需要底下的靜態檔案)
 	4. [Next js Example](https://github.com/tradingview/charting-library-examples/blob/master/nextjs/components/TVChartContainer/index.tsx)
-	5. 
+	5. 實作自己的datafeed ([Doc](https://www.tradingview.com/charting-library-docs/latest/tutorials/implement_datafeed_tutorial/Datafeed-Implementation))
+	```js
+	// datafeed.js
+	export default {  
+	  onReady: (callback) => {  
+		console.log('[onReady]: Method call');  
+	  },  
+	  searchSymbols: (userInput, exchange, symbolType, onResultReadyCallback) => {  
+		console.log('[searchSymbols]: Method call');  
+	  },  
+	  resolveSymbol: (symbolName, onSymbolResolvedCallback, onResolveErrorCallback, extension) => {  
+	    console.log('[resolveSymbol]: Method call', symbolName);  
+	  },  
+	  getBars: (symbolInfo, resolution, periodParams, onHistoryCallback, onErrorCallback) => {  
+		console.log('[getBars]: Method call', symbolInfo);  
+	  },  
+	  subscribeBars: (symbolInfo, resolution, onRealtimeCallback, subscriberUID, onResetCacheNeededCallback) => {  
+		console.log('[subscribeBars]: Method call with subscriberUID:', subscriberUID);  
+	  },  
+	  unsubscribeBars: (subscriberUID) => {  
+		console.log('[unsubscribeBars]: Method call with subscriberUID:', subscriberUID);  
+	  },  
+	};	   
+	```
+	6.  
 
 
 
