@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Doc.md",
+                "file": "1. Daily/2024-02-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Doc.md",
+                "file": "1. Daily/2024-02-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Doc.md"
+                "file": "1. Daily/2024-02-20.md"
               }
             }
           }
@@ -186,10 +185,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "03f3f0f6ba96bd89",
+  "active": "5f026f31a779311f",
   "lastOpenFiles": [
-    "1. Daily/2024-02-20.md",
     "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Doc.md",
+    "1. Daily/2024-02-20.md",
     "2. TODO/Read.md",
     "useful-website/前端.md",
     "useful-website/Icons.md",

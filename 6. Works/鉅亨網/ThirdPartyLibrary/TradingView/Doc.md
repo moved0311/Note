@@ -54,7 +54,11 @@
 	  },  
 	};	   
 	```
-	6.  
+	6.  修改resolution
+	7. 客製化樣式(K線顏色等)
+	8. 修改symbol
+	   * [Doc: setSymbol](https://www.tradingview.com/charting-library-docs/latest/api/interfaces/Charting_Library.IChartWidgetApi/#setsymbol)
+	9. 123
 
 
 
