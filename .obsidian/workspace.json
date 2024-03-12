@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-02-20.md",
+                "file": "6. Works/鉅亨網/Doc/API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-02-20.md",
+                "file": "6. Works/鉅亨網/Doc/API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-02-20.md"
+                "file": "6. Works/鉅亨網/Doc/API.md"
               }
             }
           }
@@ -196,11 +197,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "5f026f31a779311f",
+  "active": "8941e5d4fe958dde",
   "lastOpenFiles": [
+    "1. Daily/2024-02-20.md",
     "Git/Git.md",
     "Git/Diff.md",
-    "1. Daily/2024-02-20.md",
     "4. Web/Monorepo/Nx.md",
     "6. Works/鉅亨網/Doc/API.md",
     "6. Works/鉅亨網/Doc/外匯.md",
