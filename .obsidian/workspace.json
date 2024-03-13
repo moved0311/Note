@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Works/鉅亨網/Doc/API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03f3f0f6ba96bd89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Doc.md",
+                "file": "5.Stocks/半導體/半導體.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 218.5
   },
   "right": {
     "id": "c56181c98a8f9c8f",
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Works/鉅亨網/Doc/API.md",
+                "file": "5.Stocks/半導體/半導體.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Works/鉅亨網/Doc/API.md",
+                "file": "5.Stocks/半導體/半導體.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Works/鉅亨網/Doc/API.md"
+                "file": "5.Stocks/半導體/半導體.md"
               }
             }
           }
@@ -199,13 +187,15 @@
   },
   "active": "8941e5d4fe958dde",
   "lastOpenFiles": [
+    "6. Works/鉅亨網/Doc/API.md",
+    "5.Stocks/半導體/半導體.md",
+    "5.Stocks/半導體",
+    "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Doc.md",
     "1. Daily/2024-02-20.md",
     "Git/Git.md",
     "Git/Diff.md",
     "4. Web/Monorepo/Nx.md",
-    "6. Works/鉅亨網/Doc/API.md",
     "6. Works/鉅亨網/Doc/外匯.md",
-    "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Doc.md",
     "2. TODO/Read.md",
     "useful-website/前端.md",
     "useful-website/Icons.md",
@@ -227,7 +217,6 @@
     "6. Works/鉅亨網/Doc",
     "5.Stocks/名詞.md",
     "1. Daily/2024-01-02.md",
-    "5.Stocks/PCB/3037.md",
     "5.Stocks/電子零組件/電纜",
     "5.Stocks/電子零組件",
     "5.Stocks/通信網路/電信",
@@ -235,7 +224,6 @@
     "5.Stocks/電腦及週邊設備",
     "5.Stocks/通信網路",
     "5.Stocks/晶圓/5483-中美晶/5483.png",
-    "5.Stocks/SaaS",
     "4. Web/React/1. React.canvas",
     "export/新聞優化/plugin/chalkboard/img/blackboard.png",
     "export/新聞優化/plugin/chalkboard/img/boardmarker-black.png",
