@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024-02-20.md",
+                "file": "1. Daily/2024-03-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.Stocks/半導體/半導體.md",
+                "file": "1. Daily/2024-03-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.Stocks/半導體/半導體.md",
+                "file": "1. Daily/2024-03-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.Stocks/半導體/半導體.md"
+                "file": "1. Daily/2024-03-14.md"
               }
             }
           }
@@ -185,13 +184,14 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "8941e5d4fe958dde",
+  "active": "5f026f31a779311f",
   "lastOpenFiles": [
-    "6. Works/鉅亨網/Doc/API.md",
+    "1. Daily/2024-02-20.md",
+    "1. Daily/2024-03-14.md",
     "5.Stocks/半導體/半導體.md",
+    "6. Works/鉅亨網/Doc/API.md",
     "5.Stocks/半導體",
     "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Doc.md",
-    "1. Daily/2024-02-20.md",
     "Git/Git.md",
     "Git/Diff.md",
     "4. Web/Monorepo/Nx.md",
@@ -212,11 +212,10 @@
     "6. Works/鉅亨網/QA",
     "6. Works/鉅亨網/新聞專案改版.md",
     "4. Web/CSS/多餘字元.md",
-    "1. Daily/2024-01-22.md",
+    "1. Daily/2023/2024-01-22.md",
     "4. Web/CSS/Tailwind.md",
     "6. Works/鉅亨網/Doc",
     "5.Stocks/名詞.md",
-    "1. Daily/2024-01-02.md",
     "5.Stocks/電子零組件/電纜",
     "5.Stocks/電子零組件",
     "5.Stocks/通信網路/電信",
