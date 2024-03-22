@@ -6,6 +6,7 @@
       {
         "id": "59fed09fa7fa122d",
         "type": "tabs",
+        "dimension": 50.241254523522315,
         "children": [
           {
             "id": "5f026f31a779311f",
@@ -31,8 +32,29 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "f20bab5292a7a3d1",
+        "type": "tabs",
+        "dimension": 49.758745476477685,
+        "children": [
+          {
+            "id": "e001e846a1dbb82c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Game/未命名.canvas",
+                "viewState": {
+                  "x": 47.24741258481244,
+                  "y": 107.8967449510858,
+                  "zoom": -0.8647888644536336
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/TMP.md",
+                "file": "1. Daily/2024-03-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/TMP.md",
+                "file": "1. Daily/2024-03-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/TMP.md"
+                "file": "1. Daily/2024-03-14.md"
               }
             }
           }
@@ -173,10 +195,12 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "24585f2c77c4e500",
+  "active": "5f026f31a779311f",
   "lastOpenFiles": [
-    "1. Daily/2024-03-14.md",
+    "Game/未命名.canvas",
     "2. TODO/TMP.md",
+    "Game",
+    "1. Daily/2024-03-14.md",
     "6. Works/鉅亨網/Doc/API.md",
     "2. TODO/Read.md",
     "6. Works/鉅亨網/Doc/外匯.md",
@@ -203,14 +227,12 @@
     "6. Works/鉅亨網/新聞專案改版.md",
     "4. Web/CSS/多餘字元.md",
     "1. Daily/2023/2024-01-22.md",
-    "4. Web/CSS/Tailwind.md",
     "6. Works/鉅亨網/Doc",
     "5.Stocks/電子零組件/電纜",
     "5.Stocks/電子零組件",
     "5.Stocks/通信網路/電信",
     "5.Stocks/電動車",
     "5.Stocks/電腦及週邊設備",
-    "5.Stocks/通信網路",
     "5.Stocks/晶圓/5483-中美晶/5483.png",
     "4. Web/React/1. React.canvas",
     "export/新聞優化/plugin/chalkboard/img/blackboard.png",
