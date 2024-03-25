@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.Stocks/通信網路/IPC/未命名.md",
+                "file": "5.Stocks/通信網路/IPC/6245-立端.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.Stocks/通信網路/IPC/未命名.md",
+                "file": "Game/未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.Stocks/通信網路/IPC/未命名.md",
+                "file": "Game/未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.Stocks/通信網路/IPC/未命名.md"
+                "file": "Game/未命名.canvas"
               }
             }
           }
@@ -196,10 +196,12 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "24585f2c77c4e500",
+  "active": "e001e846a1dbb82c",
   "lastOpenFiles": [
+    "5.Stocks/通信網路/IPC/6245-立端.md",
+    "5.Stocks/通信網路/5G.md",
+    "5.Stocks/通信網路/WiFi比較圖.png",
     "5.Stocks/通信網路/IPC/IPC(Industrial PC,工業電腦).md",
-    "5.Stocks/通信網路/IPC/未命名.md",
     "Game/未命名.canvas",
     "1. Daily/2024-03-14.md",
     "2. TODO/TMP.md",
@@ -229,7 +231,6 @@
     "6. Works/鉅亨網/QA/Cache.md",
     "6. Works/鉅亨網/QA",
     "6. Works/鉅亨網/新聞專案改版.md",
-    "4. Web/CSS/多餘字元.md",
     "6. Works/鉅亨網/Doc",
     "5.Stocks/電子零組件/電纜",
     "5.Stocks/電子零組件",
@@ -244,7 +245,6 @@
     "export/新聞優化/plugin/chalkboard/img/boardmarker-orange.png",
     "export/新聞優化/plugin/chalkboard/img/boardmarker-purple.png",
     "export/新聞優化/plugin/chalkboard/img/boardmarker-red.png",
-    "export/新聞優化/plugin/chalkboard/img/boardmarker-yellow.png",
-    "export/新聞優化/plugin/chalkboard/img/chalk-blue.png"
+    "export/新聞優化/plugin/chalkboard/img/boardmarker-yellow.png"
   ]
 }
