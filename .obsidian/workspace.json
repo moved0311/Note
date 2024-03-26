@@ -13,38 +13,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024-03-25.md",
+                "file": "PPT/TradingView/TradingView1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ccaac36c70eea52f",
+            "id": "d2616206561c69a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PPT/TradingView/未命名.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba82ba8977de5e1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.Stocks/通信網路/IPC/IPC(Industrial PC,工業電腦).md",
+                "file": "PPT/TradingView/layout.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "c5a6bacb173d5c1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49642776b2cd48bf",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "anue-cli",
+                "query": "img",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PPT/TradingView/未命名.md",
+                "file": "PPT/TradingView/TradingView1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PPT/TradingView/未命名.md",
+                "file": "PPT/TradingView/TradingView1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PPT/TradingView/未命名.md"
+                "file": "PPT/TradingView/TradingView1.md"
               }
             }
           }
@@ -185,12 +186,20 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "ccaac36c70eea52f",
+  "active": "75f36e1ec0df9819",
   "lastOpenFiles": [
-    "PPT/TradingView/result.png",
-    "PPT/TradingView/未命名.md",
-    "1. Daily/2024-03-25.md",
     "Pasted image 20240326101558.png",
+    "PPT/TradingView/TradingView1.md",
+    "tpl-footer.md",
+    "PPT/TradingView/TradingView.md",
+    "PPT/Slack Ｍessage/Slack Messages.md",
+    "PPT/TradingView/layout.md",
+    "1. Daily/2024-03-25.md",
+    "PPT/新聞優化/新聞優化.md",
+    "PPT/Command/Command.md",
+    "PPT/Docker/CICD.md",
+    "PPT/Slack Ｍessage/postToChannel.png",
+    "PPT/TradingView/result.png",
     "PPT/TradingView",
     "5.Stocks/通信網路/IPC/IPC(Industrial PC,工業電腦).md",
     "1. Daily/2024-03-14.md",
@@ -213,14 +222,7 @@
     "4. Web/Monorepo/Nx.md",
     "useful-website/前端.md",
     "useful-website/Icons.md",
-    "useful-website/職涯.md",
-    "useful-website/圖片相關.md",
-    "6. Works/鉅亨網/fe-crypto.md",
-    "6. Works/鉅亨網/fe-esg.md",
-    "1. Daily/2023/2023-03-20.md",
-    "1. Daily/2022/2022-04-08.md",
     "6. Works/鉅亨網/ThirdPartyLibrary",
-    "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Reference.md",
     "6. Works/鉅亨網/QA",
     "6. Works/鉅亨網/Doc",
     "5.Stocks/電子零組件/電纜",
@@ -232,7 +234,6 @@
     "export/新聞優化/plugin/chalkboard/img/boardmarker-black.png",
     "export/新聞優化/plugin/chalkboard/img/boardmarker-blue.png",
     "export/新聞優化/plugin/chalkboard/img/boardmarker-green.png",
-    "export/新聞優化/plugin/chalkboard/img/boardmarker-orange.png",
-    "export/新聞優化/plugin/chalkboard/img/boardmarker-purple.png"
+    "export/新聞優化/plugin/chalkboard/img/boardmarker-orange.png"
   ]
 }
