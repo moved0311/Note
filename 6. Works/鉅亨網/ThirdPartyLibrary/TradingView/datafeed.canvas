@@ -1,17 +1,20 @@
 {
 	"nodes":[
-		{"id":"58fa440275a557d3","x":-374,"y":-138,"width":366,"height":214,"type":"text","text":"```ts\nnew TradingView.widget({\n  container: \"chartContainer\",\n  locale: \"zh_TW\",\n  library_path: \"charting_library/\",\n  datafeed: DataFeed,\n  symbol: \"GI:DXY:INDEX\",\n  interval: \"1D\",\n})\n```"},
-		{"id":"d9a2830d8eb4490a","x":209,"y":-305,"width":484,"height":479,"type":"text","text":"```ts\nconst DataFeed = {\n  onReady: (callback) => {\n    console.log(\"[onReady]: Method call\");\n  },\n  searchSymbols: () => {\n    console.log(\"[searchSymbols]: Method call\");\n  },\n  resolveSymbol: () => {\n    console.log(\"[resolveSymbol]: Method call\");\n  },\n  getBars: () => {\n    console.log(\"[getBars]: Method call\");\n  },\n  subscribeBars: () => {\n    console.log(\"[subscribeBars]: Method call with subscriberUID:\");\n  },\n  unsubscribeBars: () => {\n    console.log(\"[unsubscribeBars]: Method call with subscriberUID:\");\n  },\n};\n```"},
-		{"id":"0f819c7c7dfaa076","x":-424,"y":634,"width":617,"height":413,"type":"file","file":"PPT/TradingView/AAPL.png"},
-		{"id":"d5b541703e52b727","x":480,"y":385,"width":204,"height":134,"type":"text","text":"## 3. getBars()"},
-		{"id":"fba3175602ec797f","x":11,"y":280,"width":264,"height":165,"type":"text","text":"## 2. resolveSymbol()\n* 顯示名稱\n* 設定時區/開盤時間\n* 小數位數\n* 支援的解析度(resolutions)\n"},
-		{"id":"91dee04c00fd7f3e","x":-344,"y":387,"width":190,"height":50,"type":"text","text":"## 1. onReady()"}
+		{"id":"58fa440275a557d3","type":"text","text":"```ts\nnew TradingView.widget({\n  container: \"chartContainer\",\n  locale: \"zh_TW\",\n  library_path: \"charting_library/\",\n  datafeed: DataFeed,\n  symbol: \"GI:DXY:INDEX\",\n  interval: \"1D\",\n})\n```","x":-374,"y":-138,"width":366,"height":214},
+		{"id":"d9a2830d8eb4490a","type":"text","text":"```ts\nconst DataFeed = {\n  onReady: (callback) => {\n    console.log(\"[onReady]: Method call\");\n  },\n  searchSymbols: () => {\n    console.log(\"[searchSymbols]: Method call\");\n  },\n  resolveSymbol: () => {\n    console.log(\"[resolveSymbol]: Method call\");\n  },\n  getBars: () => {\n    console.log(\"[getBars]: Method call\");\n  },\n  subscribeBars: () => {\n    console.log(\"[subscribeBars]: Method call with subscriberUID:\");\n  },\n  unsubscribeBars: () => {\n    console.log(\"[unsubscribeBars]: Method call with subscriberUID:\");\n  },\n};\n```","x":209,"y":-305,"width":484,"height":479},
+		{"id":"0f819c7c7dfaa076","type":"file","file":"PPT/TradingView/AAPL.png","x":-424,"y":634,"width":617,"height":413},
+		{"id":"fba3175602ec797f","type":"text","text":"## 2. resolveSymbol()\n* 顯示名稱\n* 設定時區/開盤時間\n* 小數位數\n* 支援的解析度(resolutions)\n","x":11,"y":280,"width":264,"height":165},
+		{"id":"91dee04c00fd7f3e","type":"text","text":"## 1. onReady()","x":-344,"y":387,"width":190,"height":50},
+		{"id":"d5b541703e52b727","type":"text","text":"## 3. getBars()\n* call history api","x":476,"y":350,"width":196,"height":107},
+		{"id":"1f10433ac736bdc3","type":"text","text":"## 4. subscribleBars()","x":531,"y":909,"width":259,"height":70}
 	],
 	"edges":[
 		{"id":"3a4eb24bcc56d0a1","fromNode":"58fa440275a557d3","fromSide":"right","toNode":"d9a2830d8eb4490a","toSide":"left","label":"DataFeed"},
 		{"id":"b8b0f87dc045d1ec","fromNode":"0f819c7c7dfaa076","fromSide":"top","toNode":"91dee04c00fd7f3e","toSide":"bottom","label":"初始化"},
 		{"id":"75f1839e6756db2c","fromNode":"91dee04c00fd7f3e","fromSide":"right","toNode":"fba3175602ec797f","toSide":"left"},
 		{"id":"216b377b7b6cb52c","fromNode":"fba3175602ec797f","fromSide":"right","toNode":"d5b541703e52b727","toSide":"left"},
-		{"id":"55cbc84cf478526f","fromNode":"0f819c7c7dfaa076","fromSide":"right","toNode":"d5b541703e52b727","toSide":"bottom","label":"左移/縮放"}
+		{"id":"55cbc84cf478526f","fromNode":"0f819c7c7dfaa076","fromSide":"right","toNode":"d5b541703e52b727","toSide":"bottom","label":"左移/縮放"},
+		{"id":"ce18510e0f0ddca0","fromNode":"0f819c7c7dfaa076","fromSide":"right","toNode":"1f10433ac736bdc3","toSide":"left","label":"即時更新/streaming"},
+		{"id":"2ae9faa06b880244","fromNode":"1f10433ac736bdc3","fromSide":"top","toNode":"d5b541703e52b727","toSide":"bottom"}
 	]
 }

@@ -9,7 +9,7 @@ height: 800
 
 ## Result
 
-<img src="/PPT/TradingView/result.png" width="500" />
+<img src="/PPT/TradingView/result.png" height="500" />
 
 ---
 
@@ -33,7 +33,7 @@ npm start # 啟動專案
   - https://github.com/tradingview/charting_library/
 - Document:
   - https://www.tradingview.com/charting-library-docs/
-- 各種語言下的範例:
+- 各種語言範例:
   - https://github.com/tradingview/charting-library-examples
 
 ---
@@ -83,6 +83,26 @@ const index = () => {
 # 串接 API
 
 Document: [Datafeed-Implementation](https://www.tradingview.com/charting-library-docs/latest/tutorials/implement_datafeed_tutorial/Datafeed-Implementation/)
+
+--
+
+```ts
+const index = () => {
+  useEffect(() => {
+    new window.TradingView.widget({
+      container: "chartContainer",
+      locale: "zh_TW",
+      library_path: "charting_library/",
+      datafeed: new window.Datafeeds.UDFCompatibleDatafeed("https://demo-feed-data.tradingview.com"),
+      symbol: "AAPL",
+      interval: "1D",
+      fullscreen: true,
+    });
+  }, []);
+
+  return <div id="chartContainer"></div>;
+};
+```
 
 ---
 
@@ -134,6 +154,11 @@ const DataFeed = {
 
 export default DataFeed;
 ```
+
+---
+
+- Source Code:
+  - https://gitlab.cnyes.cool/taiyijiang/tradingview/-/tree/master
 
 ---
 
