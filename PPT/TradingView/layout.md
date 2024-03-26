@@ -2,7 +2,7 @@
  <% title %>
 </grid>
  
-<grid drag="64 70" drop="3 15" align="topleft">
+<grid drag="100 80" drop="3 15" align="topleft" bg="white">
 <% left %>
 </grid>
  
