@@ -1,4 +1,11 @@
+---
+width: 1400
+height: 800
+---
+
 ## TradingView
+
+---
 
 ## Result
 
@@ -6,7 +13,9 @@
 
 ---
 
-## Quck Start
+# Quick Start
+
+---
 
 建立專案
 
@@ -29,7 +38,7 @@ npm start # 啟動專案
 
 ---
 
-將`charting_library` 與 `datafeeds` 放到`src/`(`/public`)下
+將 charting_library 與 datafeeds 放到`/public`下
 
 <img src="/PPT/TradingView/put-to-public.png" height="360" />
 
@@ -67,7 +76,73 @@ const index = () => {
 
 ---
 
+<img src="/PPT/TradingView/AAPL.png" />
+
+---
+
+# 串接 API
+
+Document: [Datafeed-Implementation](https://www.tradingview.com/charting-library-docs/latest/tutorials/implement_datafeed_tutorial/Datafeed-Implementation/)
+
+---
+
+```ts
+import DataFeed from "./datafeed";
+
+const index = () => {
+  useEffect(() => {
+    new window.TradingView.widget({
+      container: "chartContainer",
+      locale: "zh_TW",
+      library_path: "charting_library/",
+      datafeed: DataFeed, // <-- 實作自己的DataFeed
+      symbol: "AAPL",
+      interval: "1D",
+      fullscreen: true,
+    });
+  }, []);
+
+  return <div id="chartContainer"></div>;
+};
+```
+
+---
+
+<!-- element class="code-fit-content" -->
+
+```ts
+const DataFeed = {
+  onReady: (callback) => {
+    console.log("[onReady]: Method call");
+  },
+  searchSymbols: () => {
+    console.log("[searchSymbols]: Method call");
+  },
+  resolveSymbol: () => {
+    console.log("[resolveSymbol]: Method call");
+  },
+  getBars: () => {
+    console.log("[getBars]: Method call");
+  },
+  subscribeBars: () => {
+    console.log("[subscribeBars]: Method call with subscriberUID:");
+  },
+  unsubscribeBars: () => {
+    console.log("[unsubscribeBars]: Method call with subscriberUID:");
+  },
+};
+
+export default DataFeed;
+```
+
+---
+
 <style>
+pre,code {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
 p, ul {
   font-size: 36px;
 }
@@ -82,5 +157,11 @@ code  {
   color: #c7254e; 
   background-color: #f9f2f4;
   border-radius: 4px;
+}
+
+.code-fit-content {
+  pre > code {
+    max-height: fit-content;
+  }
 }
 </style>
