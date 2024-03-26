@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "ccaac36c70eea52f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PPT/TradingView/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ba82ba8977de5e1a",
             "type": "leaf",
             "state": {
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.Stocks/通信網路/IPC/IPC(Industrial PC,工業電腦).md",
+                "file": "PPT/TradingView/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.Stocks/通信網路/IPC/IPC(Industrial PC,工業電腦).md",
+                "file": "PPT/TradingView/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.Stocks/通信網路/IPC/IPC(Industrial PC,工業電腦).md"
+                "file": "PPT/TradingView/未命名.md"
               }
             }
           }
@@ -173,9 +185,13 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "ba82ba8977de5e1a",
+  "active": "ccaac36c70eea52f",
   "lastOpenFiles": [
+    "PPT/TradingView/result.png",
+    "PPT/TradingView/未命名.md",
     "1. Daily/2024-03-25.md",
+    "Pasted image 20240326101558.png",
+    "PPT/TradingView",
     "5.Stocks/通信網路/IPC/IPC(Industrial PC,工業電腦).md",
     "1. Daily/2024-03-14.md",
     "Game/未命名.canvas",
@@ -205,14 +221,11 @@
     "1. Daily/2022/2022-04-08.md",
     "6. Works/鉅亨網/ThirdPartyLibrary",
     "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Reference.md",
-    "[.md",
-    "6. Works/鉅亨網/QA/Cache.md",
     "6. Works/鉅亨網/QA",
     "6. Works/鉅亨網/Doc",
     "5.Stocks/電子零組件/電纜",
     "5.Stocks/電子零組件",
     "5.Stocks/通信網路/電信",
-    "5.Stocks/電動車",
     "5.Stocks/晶圓/5483-中美晶/5483.png",
     "4. Web/React/1. React.canvas",
     "export/新聞優化/plugin/chalkboard/img/blackboard.png",
@@ -220,8 +233,6 @@
     "export/新聞優化/plugin/chalkboard/img/boardmarker-blue.png",
     "export/新聞優化/plugin/chalkboard/img/boardmarker-green.png",
     "export/新聞優化/plugin/chalkboard/img/boardmarker-orange.png",
-    "export/新聞優化/plugin/chalkboard/img/boardmarker-purple.png",
-    "export/新聞優化/plugin/chalkboard/img/boardmarker-red.png",
-    "export/新聞優化/plugin/chalkboard/img/boardmarker-yellow.png"
+    "export/新聞優化/plugin/chalkboard/img/boardmarker-purple.png"
   ]
 }
