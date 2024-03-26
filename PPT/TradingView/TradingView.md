@@ -22,7 +22,32 @@ npm start # 啟動專案
 
 ---
 
+- 下載 tradingview-charting-library
+  - https://github.com/tradingview/charting_library/
+- Document:
+  - https://www.tradingview.com/charting-library-docs/
+- 各種語言下的範例:
+  - https://github.com/tradingview/charting-library-examples
+
+---
+
+將`charting_library` 與 `datafeeds` 放到`/public`下
+
+<img src="/PPT/TradingView/put-to-public.png" height="360" />
+
+---
+
+---
+
 <style>
+p, ul {
+  font-size: 36px;
+}
+
+ul > li > ul {
+  font-size: 28px;
+}
+
 code  {
   padding: 2px 4px;
   font-size: 90%;

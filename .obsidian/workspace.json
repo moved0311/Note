@@ -11,8 +11,12 @@
             "id": "1975101e6dea748e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Doc.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Doc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Doc.md"
+              }
             }
           }
         ],
@@ -154,6 +162,9 @@
   },
   "active": "1975101e6dea748e",
   "lastOpenFiles": [
+    "PPT/TradingView/put-to-public.png",
+    "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Reference.md",
+    "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Doc.md",
     "PPT/TradingView/TradingView.md",
     "PPT/TradingView/layout.md",
     "PPT/TradingView/TradingView1.md",
@@ -182,12 +193,10 @@
     "1. Daily/2024-02-20.md",
     "5.Stocks/半導體/半導體.md",
     "5.Stocks/半導體",
-    "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Doc.md",
     "Git/Git.md",
     "Git/Diff.md",
     "4. Web/Monorepo/Nx.md",
     "useful-website/前端.md",
-    "useful-website/Icons.md",
     "6. Works/鉅亨網/ThirdPartyLibrary",
     "6. Works/鉅亨網/QA",
     "6. Works/鉅亨網/Doc",
