@@ -18,24 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "98e08d1e1281654c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/datafeed.canvas",
-                "viewState": {
-                  "x": 294.0024588152835,
-                  "y": 282.1555494920176,
-                  "zoom": -0.17003864397605256
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/datafeed.canvas",
+                "file": "1. Daily/2024-03-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/datafeed.canvas",
+                "file": "1. Daily/2024-03-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/datafeed.canvas"
+                "file": "1. Daily/2024-03-25.md"
               }
             }
           }
@@ -176,11 +160,12 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "98e08d1e1281654c",
+  "active": "da3e4e40b5de76c8",
   "lastOpenFiles": [
     "PPT/TradingView/TradingView.md",
     "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/datafeed.canvas",
     "1. Daily/2024-03-25.md",
+    "PPT/TradingView/flow.png",
     "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Reference.md",
     "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Doc.md",
     "1. Daily/2024-03-14.md",
@@ -224,7 +209,6 @@
     "5.Stocks/晶圓/5483-中美晶/5483.png",
     "4. Web/React/1. React.canvas",
     "export/新聞優化/plugin/chalkboard/img/blackboard.png",
-    "export/新聞優化/plugin/chalkboard/img/boardmarker-black.png",
-    "export/新聞優化/plugin/chalkboard/img/boardmarker-blue.png"
+    "export/新聞優化/plugin/chalkboard/img/boardmarker-black.png"
   ]
 }

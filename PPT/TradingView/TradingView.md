@@ -1,6 +1,9 @@
 ---
 width: 1400
 height: 800
+center: false
+theme: night
+margin: 0.1
 ---
 
 ## TradingView
@@ -29,7 +32,7 @@ npm start # 啟動專案
 
 ---
 
-- 下載 tradingview-charting-library
+- 下載 tradingview-charting-library(需要權限)
   - https://github.com/tradingview/charting_library/
 - Document:
   - https://www.tradingview.com/charting-library-docs/
@@ -44,7 +47,8 @@ npm start # 啟動專案
 
 ---
 
-在 index.html 的\<head\>內加入 script, 會在瀏覽器的 window 加上 TradingView 與 Datafeeds 物件
+在 index.html 的\<head\>內加入 script, <br/>
+會在瀏覽器的 window 加上 TradingView 與 Datafeeds 物件
 
 ```html
 <head>
@@ -84,27 +88,9 @@ const index = () => {
 
 Document: [Datafeed-Implementation](https://www.tradingview.com/charting-library-docs/latest/tutorials/implement_datafeed_tutorial/Datafeed-Implementation/)
 
---
-
-```ts
-const index = () => {
-  useEffect(() => {
-    new window.TradingView.widget({
-      container: "chartContainer",
-      locale: "zh_TW",
-      library_path: "charting_library/",
-      datafeed: new window.Datafeeds.UDFCompatibleDatafeed("https://demo-feed-data.tradingview.com"),
-      symbol: "AAPL",
-      interval: "1D",
-      fullscreen: true,
-    });
-  }, []);
-
-  return <div id="chartContainer"></div>;
-};
-```
-
 ---
+
+<!-- element class="code-fit-content" -->
 
 ```ts
 import DataFeed from "./datafeed";
@@ -116,6 +102,26 @@ const index = () => {
       locale: "zh_TW",
       library_path: "charting_library/",
       datafeed: DataFeed, // <-- 實作自己的DataFeed
+      symbol: "AAPL",
+      interval: "1D",
+      fullscreen: true,
+    });
+  }, []);
+
+  return <div id="chartContainer"></div>;
+};
+```
+
+--
+
+```ts
+const index = () => {
+  useEffect(() => {
+    new window.TradingView.widget({
+      container: "chartContainer",
+      locale: "zh_TW",
+      library_path: "charting_library/",
+      datafeed: new window.Datafeeds.UDFCompatibleDatafeed("https://demo-feed-data.tradingview.com"),
       symbol: "AAPL",
       interval: "1D",
       fullscreen: true,
@@ -170,6 +176,13 @@ pre,code {
 
 p, ul {
   font-size: 36px;
+  line-height: 36px;
+  text-align: left;
+}
+
+li {
+  margin-bottom: 24px;
+  margin-top: 24px;
 }
 
 ul > li > ul {
