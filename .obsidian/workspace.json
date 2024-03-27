@@ -20,22 +20,29 @@
             }
           },
           {
-            "id": "70503ef02ed0688a",
+            "id": "19ea85af22c8bd5d",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/datafeed.canvas",
                 "viewState": {
-                  "x": 197.09585847638206,
-                  "y": 661.2397991997788,
-                  "zoom": 0.20627008602519722
+                  "x": 242.50942490503093,
+                  "y": 475.87740086787926,
+                  "zoom": -0.3806058691392353
                 }
               }
             }
+          },
+          {
+            "id": "2586612bbf994ccf",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/datafeed.canvas",
+                "file": "1. Daily/2024-03-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/datafeed.canvas",
+                "file": "1. Daily/2024-03-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/datafeed.canvas"
+                "file": "1. Daily/2024-03-25.md"
               }
             }
           }
@@ -176,14 +183,14 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "70503ef02ed0688a",
+  "active": "da3e4e40b5de76c8",
   "lastOpenFiles": [
+    "PPT/TradingView/Index.md",
+    "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/datafeed.canvas",
     "1. Daily/2024-03-25.md",
     "PPT/TradingView/layout.md",
     "PPT/TradingView/put-to-public.png",
     "PPT/TradingView/result.png",
-    "PPT/TradingView/TradingView.md",
-    "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/datafeed.canvas",
     "PPT/TradingView/flow.png",
     "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Reference.md",
     "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Doc.md",
