@@ -35,11 +35,15 @@
             }
           },
           {
-            "id": "2586612bbf994ccf",
+            "id": "05a5e4a8eddfb48f",
             "type": "leaf",
             "state": {
-              "type": "reveal-preview-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PPT/TradingView/Index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -185,8 +189,8 @@
   },
   "active": "da3e4e40b5de76c8",
   "lastOpenFiles": [
-    "PPT/TradingView/Index.md",
     "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/datafeed.canvas",
+    "PPT/TradingView/Index.md",
     "1. Daily/2024-03-25.md",
     "PPT/TradingView/layout.md",
     "PPT/TradingView/put-to-public.png",
