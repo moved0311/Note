@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "da3e4e40b5de76c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Daily/2024-03-25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "19ea85af22c8bd5d",
             "type": "leaf",
             "state": {
@@ -27,9 +15,9 @@
               "state": {
                 "file": "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/datafeed.canvas",
                 "viewState": {
-                  "x": 242.50942490503093,
-                  "y": 475.87740086787926,
-                  "zoom": -0.3806058691392353
+                  "x": 384.8789184010751,
+                  "y": -55.19313722923629,
+                  "zoom": 1
                 }
               }
             }
@@ -44,6 +32,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "216706471a9289dd",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
             }
           }
         ]
@@ -96,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "c56181c98a8f9c8f",
@@ -112,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-03-25.md",
+                "file": "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/datafeed.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-03-25.md",
+                "file": "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/datafeed.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-03-25.md"
+                "file": "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/datafeed.canvas"
               }
             }
           }
@@ -187,10 +184,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "da3e4e40b5de76c8",
+  "active": "19ea85af22c8bd5d",
   "lastOpenFiles": [
-    "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/datafeed.canvas",
     "PPT/TradingView/Index.md",
+    "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/datafeed.canvas",
     "1. Daily/2024-03-25.md",
     "PPT/TradingView/layout.md",
     "PPT/TradingView/put-to-public.png",
