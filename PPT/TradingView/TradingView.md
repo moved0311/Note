@@ -43,7 +43,7 @@ npm start # 啟動專案
 
 將 charting_library 與 datafeeds 放到`/public`下
 
-<img src="/PPT/TradingView/put-to-public.png" height="360" />
+<img src="/PPT/TradingView/put-to-public.png" height="550" />
 
 ---
 
@@ -93,6 +93,23 @@ Document: [Datafeed-Implementation](https://www.tradingview.com/charting-library
 <!-- element class="code-fit-content" -->
 
 ```ts
+const index = () => {
+  useEffect(() => {
+    new window.TradingView.widget({
+      container: "chartContainer",
+      locale: "zh_TW",
+      library_path: "charting_library/",
+      datafeed: new window.Datafeeds.UDFCompatibleDatafeed("https://demo-feed-data.tradingview.com"),
+      symbol: "AAPL",
+      interval: "1D",
+    });
+  }, []);
+
+  return <div id="chartContainer"></div>;
+};
+```
+
+```ts
 import DataFeed from "./datafeed";
 
 const index = () => {
@@ -104,27 +121,6 @@ const index = () => {
       datafeed: DataFeed, // <-- 實作自己的DataFeed
       symbol: "AAPL",
       interval: "1D",
-      fullscreen: true,
-    });
-  }, []);
-
-  return <div id="chartContainer"></div>;
-};
-```
-
---
-
-```ts
-const index = () => {
-  useEffect(() => {
-    new window.TradingView.widget({
-      container: "chartContainer",
-      locale: "zh_TW",
-      library_path: "charting_library/",
-      datafeed: new window.Datafeeds.UDFCompatibleDatafeed("https://demo-feed-data.tradingview.com"),
-      symbol: "AAPL",
-      interval: "1D",
-      fullscreen: true,
     });
   }, []);
 
@@ -160,6 +156,10 @@ const DataFeed = {
 
 export default DataFeed;
 ```
+
+---
+
+<img src="/PPT/TradingView/flow.png" />
 
 ---
 

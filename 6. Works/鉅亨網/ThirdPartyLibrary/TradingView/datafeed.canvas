@@ -6,7 +6,8 @@
 		{"id":"fba3175602ec797f","type":"text","text":"## 2. resolveSymbol()\n* 顯示名稱\n* 設定時區/開盤時間\n* 小數位數\n* 支援的解析度(resolutions)\n","x":11,"y":280,"width":264,"height":165},
 		{"id":"91dee04c00fd7f3e","type":"text","text":"## 1. onReady()","x":-344,"y":387,"width":190,"height":50},
 		{"id":"d5b541703e52b727","type":"text","text":"## 3. getBars()\n* call history api","x":476,"y":350,"width":196,"height":107},
-		{"id":"1f10433ac736bdc3","type":"text","text":"## 4. subscribleBars()","x":531,"y":909,"width":259,"height":70}
+		{"id":"1f10433ac736bdc3","type":"text","text":"## 4. subscribleBars()","x":531,"y":909,"width":259,"height":70},
+		{"id":"b2bdfa8d0235e6dd","x":-535,"y":-421,"width":557,"height":165,"type":"text","text":"```js\n<head>\n// ... \n<script src=\"charting_library/charting_library.standalone.js\"></script> \n<script src=\"datafeeds/udf/dist/bundle.js\"></script> \n</head>\n```"}
 	],
 	"edges":[
 		{"id":"3a4eb24bcc56d0a1","fromNode":"58fa440275a557d3","fromSide":"right","toNode":"d9a2830d8eb4490a","toSide":"left","label":"DataFeed"},
@@ -15,6 +16,7 @@
 		{"id":"216b377b7b6cb52c","fromNode":"fba3175602ec797f","fromSide":"right","toNode":"d5b541703e52b727","toSide":"left"},
 		{"id":"55cbc84cf478526f","fromNode":"0f819c7c7dfaa076","fromSide":"right","toNode":"d5b541703e52b727","toSide":"bottom","label":"左移/縮放"},
 		{"id":"ce18510e0f0ddca0","fromNode":"0f819c7c7dfaa076","fromSide":"right","toNode":"1f10433ac736bdc3","toSide":"left","label":"即時更新/streaming"},
-		{"id":"2ae9faa06b880244","fromNode":"1f10433ac736bdc3","fromSide":"top","toNode":"d5b541703e52b727","toSide":"bottom"}
+		{"id":"2ae9faa06b880244","fromNode":"1f10433ac736bdc3","fromSide":"top","toNode":"d5b541703e52b727","toSide":"bottom"},
+		{"id":"3d7f5c11d35d85d0","fromNode":"b2bdfa8d0235e6dd","fromSide":"bottom","toNode":"58fa440275a557d3","toSide":"top","label":"window.TradingView"}
 	]
 }
