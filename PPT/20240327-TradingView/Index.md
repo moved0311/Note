@@ -109,6 +109,11 @@ const index = () => {
 };
 ```
 
+
+---
+
+<!-- element class="code-fit-content" -->
+
 ```ts
 import DataFeed from "./datafeed";
 
@@ -159,14 +164,13 @@ export default DataFeed;
 
 ---
 
-<img src="/PPT/TradingView/flow.png" />
+<img src="/PPT/TradingView/flow.png" height="700"  />
 
 ---
 
 - Source Code:
   - https://gitlab.cnyes.cool/taiyijiang/tradingview/-/tree/master
 
----
 
 <style>
 pre,code {

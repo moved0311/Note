@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"58fa440275a557d3","type":"text","text":"```ts\nnew TradingView.widget({\n  container: \"chartContainer\",\n  locale: \"zh_TW\",\n  library_path: \"charting_library/\",\n  datafeed: DataFeed,\n  symbol: \"GI:DXY:INDEX\",\n  interval: \"1D\",\n})\n```","x":-374,"y":-138,"width":366,"height":214},
+		{"id":"58fa440275a557d3","type":"text","text":"```ts\nnew TradingView.widget({\n  container: \"chartContainer\",\n  locale: \"zh_TW\",\n  library_path: \"charting_library/\",\n  datafeed: DataFeed,\n  symbol: \"GI:DXY:INDEX\",\n  interval: \"1D\",\n})\n```","x":-374,"y":-138,"width":355,"height":232},
 		{"id":"d9a2830d8eb4490a","type":"text","text":"```ts\nconst DataFeed = {\n  onReady: (callback) => {\n    console.log(\"[onReady]: Method call\");\n  },\n  searchSymbols: () => {\n    console.log(\"[searchSymbols]: Method call\");\n  },\n  resolveSymbol: () => {\n    console.log(\"[resolveSymbol]: Method call\");\n  },\n  getBars: () => {\n    console.log(\"[getBars]: Method call\");\n  },\n  subscribeBars: () => {\n    console.log(\"[subscribeBars]: Method call with subscriberUID:\");\n  },\n  unsubscribeBars: () => {\n    console.log(\"[unsubscribeBars]: Method call with subscriberUID:\");\n  },\n};\n```","x":209,"y":-305,"width":484,"height":479},
-		{"id":"0f819c7c7dfaa076","type":"file","file":"PPT/TradingView/AAPL.png","x":-424,"y":634,"width":617,"height":413},
+		{"id":"0f819c7c7dfaa076","type":"file","file":"PPT/20240327-TradingView/AAPL.png","x":-424,"y":634,"width":617,"height":413},
 		{"id":"fba3175602ec797f","type":"text","text":"## 2. resolveSymbol()\n* 顯示名稱\n* 設定時區/開盤時間\n* 小數位數\n* 支援的解析度(resolutions)\n","x":11,"y":280,"width":264,"height":165},
 		{"id":"91dee04c00fd7f3e","type":"text","text":"## 1. onReady()","x":-344,"y":387,"width":190,"height":50},
 		{"id":"d5b541703e52b727","type":"text","text":"## 3. getBars()\n* call history api","x":476,"y":350,"width":196,"height":107},

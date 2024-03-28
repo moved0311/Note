@@ -3,7 +3,7 @@
 
 ---
 
-![Flow](./flow.png)
+![Flow](PPT/20230104-Slack%20Ｍessage/flow.png)
 
 ---
 
@@ -37,7 +37,7 @@
 ---
 
 * 透過shell script執行 
-![slack-message-template](./slack-mseesage.png)
+![slack-message-template](slack-mseesage.png)
 
 ---
 

@@ -4,42 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "83e74bee00ca2b34",
+        "id": "804b2d3c6860e711",
         "type": "tabs",
         "children": [
           {
-            "id": "19ea85af22c8bd5d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/datafeed.canvas",
-                "viewState": {
-                  "x": 384.8789184010751,
-                  "y": -55.19313722923629,
-                  "zoom": 1
-                }
-              }
-            }
-          },
-          {
-            "id": "05a5e4a8eddfb48f",
+            "id": "d2a0483c341496e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PPT/TradingView/Index.md",
+                "file": "1. Daily/2024-03-25.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "216706471a9289dd",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
             }
           }
         ]
@@ -92,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "c56181c98a8f9c8f",
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/datafeed.canvas",
+                "file": "1. Daily/2024-03-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/datafeed.canvas",
+                "file": "1. Daily/2024-03-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/datafeed.canvas"
+                "file": "1. Daily/2024-03-25.md"
               }
             }
           }
@@ -184,28 +160,30 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "19ea85af22c8bd5d",
+  "active": "d2a0483c341496e5",
   "lastOpenFiles": [
-    "PPT/TradingView/Index.md",
     "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/datafeed.canvas",
+    "PPT/20230104-Slack Ｍessage/slack-mseesage.png",
+    "PPT/20230104-Slack Ｍessage/Slack Messages.md",
+    "PPT/20230726-Docker/CICD.md",
+    "PPT/20231004-Command/Command.md",
+    "PPT/20240103-新聞優化/新聞優化.md",
+    "PPT/20230426-Vim/Vim.md",
+    "PPT/20240327-TradingView/Index.md",
     "1. Daily/2024-03-25.md",
-    "PPT/TradingView/layout.md",
-    "PPT/TradingView/put-to-public.png",
-    "PPT/TradingView/result.png",
-    "PPT/TradingView/flow.png",
+    "PPT/20240327-TradingView/layout.md",
+    "PPT/20240327-TradingView/put-to-public.png",
+    "PPT/20240327-TradingView/result.png",
+    "PPT/20240327-TradingView/flow.png",
     "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Reference.md",
     "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Doc.md",
     "1. Daily/2024-03-14.md",
-    "PPT/TradingView/AAPL.png",
+    "PPT/20240327-TradingView/AAPL.png",
     "PPT/TradingView/TradingView1.md",
     "Pasted image 20240326101558.png",
     "tpl-footer.md",
-    "PPT/Slack Ｍessage/Slack Messages.md",
-    "PPT/新聞優化/新聞優化.md",
-    "PPT/Command/Command.md",
-    "PPT/Docker/CICD.md",
-    "PPT/Slack Ｍessage/postToChannel.png",
-    "PPT/TradingView",
+    "PPT/20230104-Slack Ｍessage/postToChannel.png",
+    "PPT/20240327-TradingView",
     "5.Stocks/通信網路/IPC/IPC(Industrial PC,工業電腦).md",
     "Game/未命名.canvas",
     "5.Stocks/通信網路/IPC/6245-立端.md",
@@ -223,7 +201,6 @@
     "Git/Git.md",
     "Git/Diff.md",
     "4. Web/Monorepo/Nx.md",
-    "useful-website/前端.md",
     "6. Works/鉅亨網/ThirdPartyLibrary",
     "6. Works/鉅亨網/QA",
     "6. Works/鉅亨網/Doc",
@@ -232,7 +209,6 @@
     "5.Stocks/通信網路/電信",
     "5.Stocks/晶圓/5483-中美晶/5483.png",
     "4. Web/React/1. React.canvas",
-    "export/新聞優化/plugin/chalkboard/img/blackboard.png",
-    "export/新聞優化/plugin/chalkboard/img/boardmarker-black.png"
+    "export/新聞優化/plugin/chalkboard/img/blackboard.png"
   ]
 }

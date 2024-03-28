@@ -2,7 +2,7 @@
   "port": "8787",
   "autoReload": true,
   "exportDirectory": "/export",
-  "enableChalkboard": true,
+  "enableChalkboard": false,
   "enableOverview": false,
   "enableMenu": false,
   "enablePointer": true,
