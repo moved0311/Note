@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "useful-website/Icons.md",
+                "file": "1. Daily/2024-03-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "useful-website/Icons.md",
+                "file": "1. Daily/2024-03-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "useful-website/Icons.md",
+                "file": "1. Daily/2024-03-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "useful-website/Icons.md"
+                "file": "1. Daily/2024-03-25.md"
               }
             }
           }
@@ -162,10 +162,13 @@
   },
   "active": "d2a0483c341496e5",
   "lastOpenFiles": [
-    "useful-website/圖片相關.md",
-    "useful-website/Icons.md",
-    "useful-website/職涯.md",
+    "5.Stocks/名詞.md",
     "1. Daily/2024-03-25.md",
+    "歷史/時間軸.md",
+    "News/2023/2023-05-12.md",
+    "useful-website/圖片相關.md",
+    "useful-website/職涯.md",
+    "useful-website/Icons.md",
     "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/datafeed.canvas",
     "PPT/20230104-Slack Ｍessage/slack-mseesage.png",
     "PPT/20230104-Slack Ｍessage/Slack Messages.md",
@@ -198,10 +201,7 @@
     "6. Works/鉅亨網/Doc/API.md",
     "2. TODO/Read.md",
     "6. Works/鉅亨網/Doc/外匯.md",
-    "1. Daily/2024-02-20.md",
-    "5.Stocks/半導體/半導體.md",
     "5.Stocks/半導體",
-    "Git/Git.md",
     "6. Works/鉅亨網/ThirdPartyLibrary",
     "6. Works/鉅亨網/QA",
     "6. Works/鉅亨網/Doc",
