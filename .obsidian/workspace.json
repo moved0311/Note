@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d2a0483c341496e5",
+            "id": "c78b3bd013cc6f85",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -160,10 +160,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "d2a0483c341496e5",
+  "active": "c78b3bd013cc6f85",
   "lastOpenFiles": [
-    "5.Stocks/名詞.md",
     "1. Daily/2024-03-25.md",
+    "5.Stocks/名詞.md",
     "歷史/時間軸.md",
     "News/2023/2023-05-12.md",
     "useful-website/圖片相關.md",
