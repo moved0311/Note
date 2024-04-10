@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bcd944720093ec30",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,14 +171,15 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "c78b3bd013cc6f85",
+  "active": "bcd944720093ec30",
   "lastOpenFiles": [
+    "Game/未命名.canvas",
+    "1. Daily/2024-03-25.md",
     "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Reference.md",
     "PPT/20240327-TradingView/AAPL.png",
     "PPT/20240327-TradingView/flow.png",
     "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Doc.md",
     "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/datafeed.canvas",
-    "1. Daily/2024-03-25.md",
     "5.Stocks/名詞.md",
     "歷史/時間軸.md",
     "News/2023/2023-05-12.md",
@@ -191,7 +203,6 @@
     "PPT/20230104-Slack Ｍessage/postToChannel.png",
     "PPT/20240327-TradingView",
     "5.Stocks/通信網路/IPC/IPC(Industrial PC,工業電腦).md",
-    "Game/未命名.canvas",
     "5.Stocks/通信網路/IPC/6245-立端.md",
     "5.Stocks/通信網路/5G.md",
     "5.Stocks/通信網路/WiFi比較圖.png",
