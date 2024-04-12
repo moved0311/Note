@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c78b3bd013cc6f85",
+            "id": "0551197f6e33b98f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024-03-25.md",
+                "file": "1. Daily/2024-04-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-03-25.md",
+                "file": "1. Daily/2024-04-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-03-25.md",
+                "file": "1. Daily/2024-04-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-03-25.md"
+                "file": "1. Daily/2024-04-12.md"
               }
             }
           }
@@ -160,10 +160,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "c78b3bd013cc6f85",
+  "active": "0551197f6e33b98f",
   "lastOpenFiles": [
-    "Game/未命名.canvas",
     "1. Daily/2024-03-25.md",
+    "1. Daily/2024-04-12.md",
+    "Game/未命名.canvas",
     "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Reference.md",
     "PPT/20240327-TradingView/AAPL.png",
     "PPT/20240327-TradingView/flow.png",
