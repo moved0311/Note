@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fe820a1acf3cb3e7",
+        "id": "0bfeff1cd61ab58d",
         "type": "tabs",
         "children": [
           {
-            "id": "0551197f6e33b98f",
+            "id": "6bdc8fe3d086fbf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f68865b88efbd986",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. TODO/react-query/document.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-04-12.md",
+                "file": "2. TODO/react-query/document.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-04-12.md",
+                "file": "2. TODO/react-query/document.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-04-12.md"
+                "file": "2. TODO/react-query/document.md"
               }
             }
           }
@@ -160,16 +173,27 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "0551197f6e33b98f",
+  "active": "f68865b88efbd986",
   "lastOpenFiles": [
-    "1. Daily/2024-03-25.md",
     "1. Daily/2024-04-12.md",
+    "Libs/UI Library.md",
+    "Libs/Search.md",
+    "2. TODO/CodingInterviewUniversity.md",
+    "Course/Data Mining.md",
+    "Course/統計.md",
+    "2. TODO/InterviewQuestion.md",
+    "2. TODO/LeetCode.md",
+    "2. TODO/Read.md",
+    "2. TODO/TMP.md",
+    "2. TODO/react-query/document.md",
+    "2. TODO/react-query",
+    "1. Daily/2023/2024-03-25.md",
     "Game/未命名.canvas",
-    "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Reference.md",
+    "Libs/TradingView/Reference.md",
     "PPT/20240327-TradingView/AAPL.png",
     "PPT/20240327-TradingView/flow.png",
-    "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/Doc.md",
-    "6. Works/鉅亨網/ThirdPartyLibrary/TradingView/datafeed.canvas",
+    "Libs/TradingView/Doc.md",
+    "Libs/TradingView/datafeed.canvas",
     "5.Stocks/名詞.md",
     "歷史/時間軸.md",
     "News/2023/2023-05-12.md",
@@ -183,31 +207,20 @@
     "PPT/20240103-新聞優化/新聞優化.md",
     "PPT/20230426-Vim/Vim.md",
     "PPT/20240327-TradingView/Index.md",
-    "PPT/20240327-TradingView/layout.md",
     "PPT/20240327-TradingView/put-to-public.png",
     "PPT/20240327-TradingView/result.png",
-    "1. Daily/2024-03-14.md",
-    "PPT/TradingView/TradingView1.md",
     "Pasted image 20240326101558.png",
-    "tpl-footer.md",
     "PPT/20230104-Slack Ｍessage/postToChannel.png",
     "PPT/20240327-TradingView",
-    "5.Stocks/通信網路/IPC/IPC(Industrial PC,工業電腦).md",
-    "5.Stocks/通信網路/IPC/6245-立端.md",
-    "5.Stocks/通信網路/5G.md",
     "5.Stocks/通信網路/WiFi比較圖.png",
-    "2. TODO/TMP.md",
     "5.Stocks/通信網路/IPC",
     "Game",
-    "6. Works/鉅亨網/Doc/API.md",
-    "2. TODO/Read.md",
     "5.Stocks/半導體",
-    "6. Works/鉅亨網/ThirdPartyLibrary",
+    "Libs",
     "6. Works/鉅亨網/QA",
     "6. Works/鉅亨網/Doc",
     "5.Stocks/電子零組件/電纜",
     "5.Stocks/電子零組件",
-    "5.Stocks/通信網路/電信",
     "5.Stocks/晶圓/5483-中美晶/5483.png",
     "4. Web/React/1. React.canvas",
     "export/新聞優化/plugin/chalkboard/img/blackboard.png"

@@ -41,20 +41,6 @@ Coding Interview Question Videos:
     - You can watch several in a short time
 - [FisherCoder - LeetCode Solutions](https://youtube.com/FisherCoder)
 
-Challenge/Practice sites:
-- [LeetCode](https://leetcode.com/)
-    - My favorite coding problem site. It's worth the subscription money for the 1-2 months you'll likely be preparing.
-    - See Nick White and FisherCoder Videos above for code walk-throughs.
-- [HackerRank](https://www.hackerrank.com/)
-- [TopCoder](https://www.topcoder.com/)
-- [Codeforces](https://codeforces.com/)
-- [Codility](https://codility.com/programmers/)
-- [Geeks for Geeks](https://practice.geeksforgeeks.org/explore/?page=1)
-- [AlgoExpert](https://www.algoexpert.io/product)
-    - Created by Google engineers, this is also an excellent resource to hone your skills.
-- [Project Euler](https://projecteuler.net/)
-    - very math focused, and not really suited for coding interviews
-
 ## Let's Get Started
 
 Alright, enough talk, let's learn!
