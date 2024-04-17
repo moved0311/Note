@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-04-12.md",
+                "file": "2. TODO/react-query/document.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-04-12.md",
+                "file": "2. TODO/react-query/document.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-04-12.md"
+                "file": "2. TODO/react-query/document.md"
               }
             }
           }
@@ -172,10 +173,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "6bdc8fe3d086fbf7",
+  "active": "f68865b88efbd986",
   "lastOpenFiles": [
-    "2. TODO/react-query/document.md",
     "1. Daily/2024-04-12.md",
+    "2. TODO/react-query/document.md",
     "Libs/UI Library.md",
     "Libs/Search.md",
     "2. TODO/CodingInterviewUniversity.md",
