@@ -25,38 +25,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Works/鉅亨網/新聞專案改版.md",
+                "file": "Docker/Dockerfile.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c35d9b156ced5774",
+            "id": "4a9c6c54ee378d37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023/2024-01-02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f68865b88efbd986",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. TODO/react-query/document.md",
+                "file": "Docker/Reference.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Works/鉅亨網/新聞專案改版.md",
+                "file": "1. Daily/2024-04-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Works/鉅亨網/新聞專案改版.md",
+                "file": "1. Daily/2024-04-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Works/鉅亨網/新聞專案改版.md"
+                "file": "1. Daily/2024-04-30.md"
               }
             }
           }
@@ -198,11 +184,15 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "2dbe05b6757bea84",
+  "active": "e8d28a061162857f",
   "lastOpenFiles": [
+    "Docker/Dockerfile.md",
+    "Docker/Docker.md",
+    "Docker/Reference.md",
+    "2. TODO/react-query/document.md",
+    "6. Works/鉅亨網/新聞專案改版.md",
     "1. Daily/2024-04-30.md",
     "1. Daily/2023/2023-06-13.md",
-    "6. Works/鉅亨網/新聞專案改版.md",
     "1. Daily/2023/2024-01-02.md",
     "1. Daily/2023/2024-01-22.md",
     "1. Daily/2023/2024-02-20.md",
@@ -214,7 +204,6 @@
     "5.Stocks/TradingView/策略1.md",
     "PPT/20240103-新聞優化/新聞優化.md",
     "PPT/20230726-Docker/CICD.md",
-    "2. TODO/react-query/document.md",
     "Libs/UI Library.md",
     "Libs/Search.md",
     "2. TODO/CodingInterviewUniversity.md",
@@ -223,13 +212,10 @@
     "2. TODO/InterviewQuestion.md",
     "2. TODO/LeetCode.md",
     "2. TODO/Read.md",
-    "2. TODO/TMP.md",
     "2. TODO/react-query",
     "Game/未命名.canvas",
-    "Libs/TradingView/Reference.md",
     "PPT/20240327-TradingView/AAPL.png",
     "PPT/20240327-TradingView/flow.png",
-    "Libs/TradingView/Doc.md",
     "Libs/TradingView/datafeed.canvas",
     "PPT/20230104-Slack Ｍessage/slack-mseesage.png",
     "PPT/20240327-TradingView/put-to-public.png",
