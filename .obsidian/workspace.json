@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4c1a81931776b3fa",
+        "id": "b2bee9cd2f1100a4",
         "type": "tabs",
         "children": [
           {
-            "id": "f602f5ccf8f7eb77",
+            "id": "fdc3ce974fb83fdd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Basic.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python/Basic.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,8 +157,9 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "f602f5ccf8f7eb77",
+  "active": "fdc3ce974fb83fdd",
   "lastOpenFiles": [
+    "Python/Basic.md",
     "Python/pd.md",
     "1. Daily/2023-12-02.md",
     "Git/Subtree.md",
@@ -175,7 +168,6 @@
     "3. Reference/Code Review.md",
     "3. Reference/架構設計.md",
     "Shortcut/Mac.md",
-    "Python/Basic.md",
     "Rollup/Reference.md",
     "LearnEnglish/方式.md",
     "5.Stocks/5483/5483.md",
