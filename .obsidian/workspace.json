@@ -15,9 +15,9 @@
               "state": {
                 "file": "Game/遊戲王/QDW.canvas",
                 "viewState": {
-                  "x": 79.8079213212477,
-                  "y": 102.54207204192099,
-                  "zoom": -0.4166666666666666
+                  "x": -188.5299088579198,
+                  "y": 895.6040921124345,
+                  "zoom": -0.4166666666666667
                 }
               }
             }
@@ -171,8 +171,8 @@
   },
   "active": "fdc3ce974fb83fdd",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Game/遊戲王/QDW.canvas",
+    "conflict-files-obsidian-git.md",
     "Git/Reference.md",
     "Git/Diff.md",
     "Docker/Dockerfile.md",
