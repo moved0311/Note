@@ -13,5 +13,17 @@
       "key": "F"
     }
   ],
-  "editor:delete-paragraph": []
+  "editor:delete-paragraph": [],
+  "command-palette:open": [],
+  "obsidian-advanced-slides:open-advanced-slides-preview": [],
+  "editor:toggle-bold": [],
+  "editor:toggle-italics": [],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ]
 }

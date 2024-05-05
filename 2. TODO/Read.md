@@ -1,49 +1,154 @@
+[前端 - 掘金](https://juejin.cn/frontend)
 ## Web/JS
 * [Dev - Sebastien Lorber](https://dev.to/sebastienlorber)
 * [JSDevJournal | HackerNoon](https://hackernoon.com/u/jsdevjournal)
+* [fouber/blog: 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！](https://github.com/fouber/blog)
+* 
 ## React
-* [Developer way - Nadia](https://www.developerway.com/) (React)
-	* [Teleportation in React: Positioning, Stacking Context, and Portals](https://www.developerway.com/posts/positioning-and-portals-in-react) 20230621
-		* Sticky屬性沒辦法被position,z-index蓋過去
-  * [Overreacted — A blog by Dan Abramov](https://overreacted.io/)(React core team)
-  
-
+* [Developer way - Nadia](https://www.developerway.com/) 
+	* [Teleportation in React: Positioning, Stacking Context, and Portals](https://www.developerway.com/posts/positioning-and-portals-in-react) 
+	* [React re-renders guide: everything, all at once](https://www.developerway.com/posts/react-re-renders-guide) 
+* [Overreacted — A blog by Dan Abramov](https://overreacted.io/)(React core team)
+	* [The Two Reacts](https://overreacted.io/the-two-reacts/) 
+	* [A Chain Reaction](https://overreacted.io/a-chain-reaction/) 
+	* [Before You memo()](https://overreacted.io/before-you-memo/) 
 ## NextJS
-* [Jack Herrington](https://www.pronextjs.dev/articles)
-
-## [Airbnb](https://medium.com/airbnb-engineering)
-* [Airbnb's Trip to Linaria | The Airbnb Tech Blog](https://medium.com/airbnb-engineering/airbnbs-trip-to-linaria-dc169230bd12) 20220617
+* [Jack Herrington](https://www.pronextjs.dev/articles) (Youtuber)
 
 ## 演算法
 - [Rohit Verma – Medium](https://medium.com/@rohitverma_87831)
 
+## Network
+* [Beej's Guide to Network Concepts](https://beej.us/guide/bgnet0/html/split/)
+	* [Beej's Guide to Network Concepts](https://beej.us/guide/bgnet0/html/split/networking-overview.html)
+
 ## 個人
-* [Morris' Blog](https://morris821028.github.io/) 2022-04-02
-* [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)  2023-03-31
-* [Hannah Lin – Medium](https://hannahlin.medium.com/) 2023-03-21
-* [Felix Chern – Medium](https://medium.com/@fchern)  (關於變強這檔事) 2023-03-12
-* [vgod's blog – Medium](https://vgod.medium.com/) 2023-02-26
-* [Robert-Jan Kuyper – Medium](https://medium.com/@datails)  2023-02-17  
-* [Netflix Technology Blog – Medium](https://netflixtechblog.medium.com/)  2023-01-31  
-* [Complete Think](https://rickhw.github.io/) 2023-01-17
-* [Blog PJCHENder 未整理筆記](https://pjchender.dev/blog/)  2022-12-10 
-* [Addy Osmani – Medium](https://medium.com/@addyosmani)  2022-11-20 
-* [Addy Osmani](https://web.dev/authors/addyosmani/)  2022-10-20 
-* [Rida F'kih – Medium](https://medium.com/@ridafkih)  2022-10-20 
-* [Jason's Web Memo](https://jason-memo.dev/) 2022-10-12
-* [Harshal Patil – Medium](https://medium.com/@mistyHarsh) 2022-09-18
-* [Blog —— Bugtender](https://bugtender.com/blog/) 2022-01-31
-* [Kai Hao](https://kaihao.dev/) (Dcard Clone) 2022-01-08
+* [Morris' Blog](https://morris821028.github.io/)
+	* [Company Ghost Story 公司鬼故事 16 | Morris' Blog](https://morris821028.github.io/2023/10/09/work/company-ghost-story-16/#%E9%9B%9C%E6%B9%8A)
+* [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)  
+	* [x] [科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录](https://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html)
+	* [x] [科技爱好者周刊（第 284 期）：YouTube 有多少个视频？](https://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html)
+	* [x] [科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走](https://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html)
+	* [x] [科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电](https://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html)
+	* [x] [科技爱好者周刊（第 281 期）：新基建的政策选择](https://www.ruanyifeng.com/blog/2023/12/weekly-issue-281.html)
+	* [x] [科技爱好者周刊（第 280 期）：机器点餐与宅文化](https://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html)
+	* [x] [科技爱好者周刊（第 279 期）：网络社区的悲剧](https://www.ruanyifeng.com/blog/2023/11/weekly-issue-279.html)
+* [Hannah Lin – Medium](https://hannahlin.medium.com/)
+	* [ ] [從非本科系到矽谷工程師 — 夢想完成後的學習](https://hannahlin.medium.com/%E5%BE%9E%E9%9D%9E%E6%9C%AC%E7%A7%91%E7%B3%BB%E5%88%B0%E7%9F%BD%E8%B0%B7%E5%B7%A5%E7%A8%8B%E5%B8%AB-%E5%A4%A2%E6%83%B3%E5%AE%8C%E6%88%90%E5%BE%8C%E7%9A%84%E5%AD%B8%E7%BF%92-5da3945182e3?source=user_profile---------0----------------------------)
+	* [ ] [[TypeScript] The `extends` keyword](https://hannahlin.medium.com/typescript-the-extends-keyword-982674d950ab?source=user_profile---------1----------------------------)
+	* [ ] [[TypeScript] Generics 的使用情境](https://hannahlin.medium.com/typescript-generics-%E7%9A%84%E4%BD%BF%E7%94%A8%E6%83%85%E5%A2%83-f5d714ff1fcf?source=user_profile---------2----------------------------)
+	* [ ] [優雅的在 React 中使用 TS](https://hannahlin.medium.com/%E5%84%AA%E9%9B%85%E7%9A%84%E5%9C%A8-react-%E4%B8%AD%E4%BD%BF%E7%94%A8-ts-6668b341707?source=user_profile---------3----------------------------)
+	* [ ] [為什麼最後我選擇用 React testing library 而放棄 Enzyme](https://hannahlin.medium.com/%E7%82%BA%E4%BB%80%E9%BA%BC%E6%9C%80%E5%BE%8C%E6%88%91%E9%81%B8%E6%93%87%E7%94%A8-react-testing-library-%E8%80%8C%E6%94%BE%E6%A3%84-enzyme-2374bb569a60?source=user_profile---------4----------------------------)
+	* [ ] [[台灣 vs 美國] 2023 產假福利大比拼，以及手把手申請加州 EDD 產假](https://hannahlin.medium.com/%E5%8F%B0%E7%81%A3-vs-%E7%BE%8E%E5%9C%8B-2023-%E7%94%A2%E5%81%87%E7%A6%8F%E5%88%A9%E5%A4%A7%E6%AF%94%E6%8B%BC-%E4%BB%A5%E5%8F%8A%E6%89%8B%E6%8A%8A%E6%89%8B%E7%94%B3%E8%AB%8B%E5%8A%A0%E5%B7%9E-edd-%E7%94%A2%E5%81%87-ec56c2fc5fe3?source=user_profile---------5----------------------------)
+	* [ ] [[CSRF] One click attack: 利用網站對使用者瀏覽器信任達成攻擊](https://hannahlin.medium.com/csrf-one-click-attack-%E5%88%A9%E7%94%A8%E7%B6%B2%E7%AB%99%E5%B0%8D%E4%BD%BF%E7%94%A8%E8%80%85%E7%80%8F%E8%A6%BD%E5%99%A8%E4%BF%A1%E4%BB%BB%E9%81%94%E6%88%90%E6%94%BB%E6%93%8A-fd412144fa4a?source=user_profile---------6----------------------------)
+	* [ ] [真的是很初階的 Bash Shell 筆記](https://hannahlin.medium.com/%E7%A8%8B%E5%BC%8F%E7%AD%86%E8%A8%98-bash-script-8926bbc0ac44?source=user_profile---------7----------------------------)
+	* [ ] [[台灣 vs 美國] 終於把小孩生出來了之自然產體驗大不同](https://hannahlin.medium.com/%E5%8F%B0%E7%81%A3-vs-%E7%BE%8E%E5%9C%8B-%E7%B5%82%E6%96%BC%E6%8A%8A%E5%B0%8F%E5%AD%A9%E7%94%9F%E5%87%BA%E4%BE%86%E4%BA%86%E4%B9%8B%E8%87%AA%E7%84%B6%E7%94%A2%E9%AB%94%E9%A9%97%E5%A4%A7%E4%B8%8D%E5%90%8C-547847c85ee8?source=user_profile---------8----------------------------)
+	* [ ] [[台灣 vs 美國] 懷孕體驗大不同](https://hannahlin.medium.com/%E4%BA%8C%E5%AF%B6%E6%97%A5%E8%A8%98-%E5%8F%B0%E7%81%A3-vs-%E7%BE%8E%E5%9C%8B%E6%87%B7%E5%AD%95%E9%AB%94%E9%A9%97%E5%A4%A7%E4%B8%8D%E5%90%8C-7aefa469a8d?source=user_profile---------9----------------------------)
+	* [ ] [[從關鍵字認識資安 ] Cyber Kill Chain 網路殺傷鏈](https://hannahlin.medium.com/%E5%BE%9E%E9%97%9C%E9%8D%B5%E5%AD%97%E8%AA%8D%E8%AD%98%E8%B3%87%E5%AE%89-3-cyber-kill-chain-%E7%B6%B2%E8%B7%AF%E6%AE%BA%E5%82%B7%E9%8F%88-da5bfe95271a?source=user_profile---------10----------------------------)
+	* [ ] [成為資深前端工程師的第一步 JavaScript Best Practice](https://hannahlin.medium.com/%E6%88%90%E7%82%BA%E8%B3%87%E6%B7%B1%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5-javascript-best-practice-3f88d0d37035?source=user_profile---------11----------------------------)
+	* [ ] [熱騰騰的漏洞排行榜 2021 OWASP TOP 10](https://hannahlin.medium.com/%E7%86%B1%E9%A8%B0%E9%A8%B0%E7%9A%84%E6%BC%8F%E6%B4%9E%E6%8E%92%E8%A1%8C-2021-owasp-top-10-a3fa783d718?source=user_profile---------12----------------------------)
+	* [ ] [[Stitches] Style your components with confidence](https://hannahlin.medium.com/stitches-style-your-components-with-confidence-99950f0249c?source=user_profile---------13----------------------------)
+	* [ ] [初探 MobX](https://hannahlin.medium.com/%E5%88%9D%E6%8E%A2-mobx-2c23d9e116b9?source=user_profile---------14----------------------------)
+	* [ ] [[React Hook 筆記] Custom Hooks 之打造自己的 Hook](https://hannahlin.medium.com/react-hook-%E7%AD%86%E8%A8%98-custom-hooks-%E4%B9%8B%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84-hook-b046f6778f33?source=user_profile---------15----------------------------)
+	* [ ] [[React Hook 筆記] useLayoutEffect](https://hannahlin.medium.com/react-hook-%E7%AD%86%E8%A8%98-uselayouteffect-30c93301a618?source=user_profile---------16----------------------------)
+	* [ ] [矽谷生活第三年 — 實現理想生活模式](https://hannahlin.medium.com/%E7%9F%BD%E8%B0%B7%E7%94%9F%E6%B4%BB%E7%AC%AC%E4%B8%89%E5%B9%B4-%E5%AF%A6%E7%8F%BE%E7%90%86%E6%83%B3%E7%94%9F%E6%B4%BB%E6%A8%A1%E5%BC%8F-7909dc5c8411?source=user_profile---------17----------------------------)
+	* [ ] [[TypeScript] Types 十全大補下— Mapped Types](https://hannahlin.medium.com/typescript-mapped-types-585332906440?source=user_profile---------18----------------------------)
+	* [ ] [為什麼前端工程越來越愛使用 Monorepo 架構](https://hannahlin.medium.com/%E7%82%BA%E4%BB%80%E9%BA%BC%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E8%B6%8A%E4%BE%86%E8%B6%8A%E6%84%9B%E4%BD%BF%E7%94%A8-monorepo-%E6%9E%B6%E6%A7%8B-661afa90910a?source=user_profile---------19----------------------------)
+* [Felix Chern – Medium](https://medium.com/@fchern)  (關於變強這檔事)
+	* [ ] [創新](https://medium.com/@fchern/%E5%89%B5%E6%96%B0-2b2cec8a229a?source=user_profile---------0----------------------------)
+	* [ ] [關於變強這檔事（十二）](https://medium.com/@fchern/%E9%97%9C%E6%96%BC%E8%AE%8A%E5%BC%B7%E9%80%99%E6%AA%94%E4%BA%8B-%E5%8D%81%E4%BA%8C-47adfb634cbb?source=user_profile---------1----------------------------)
+	* [ ] [關於變強這檔事（十一）](https://medium.com/@fchern/%E9%97%9C%E6%96%BC%E8%AE%8A%E5%BC%B7%E9%80%99%E6%AA%94%E4%BA%8B-%E5%8D%81%E4%B8%80-b00c46bab1ea?source=user_profile---------2----------------------------)
+	* [ ] [寫Fortran三日心得](https://medium.com/@fchern/%E5%AF%ABfortran%E4%B8%89%E6%97%A5%E5%BF%83%E5%BE%97-df26dfe9cf42?source=user_profile---------3----------------------------)
+	* [ ] [台積電會變美積電嗎？](https://medium.com/@fchern/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%9C%83%E8%AE%8A%E7%BE%8E%E7%A9%8D%E9%9B%BB%E5%97%8E-253cbf7dd5e5?source=user_profile---------4----------------------------)
+	* [ ] [和平統一不可能和平](https://medium.com/@fchern/%E5%92%8C%E5%B9%B3%E7%B5%B1%E4%B8%80%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%92%8C%E5%B9%B3-568bfbb771b2?source=user_profile---------5----------------------------)
+	* [ ] [權力的本質，是暴力](https://medium.com/@fchern/%E6%AC%8A%E5%8A%9B%E7%9A%84%E6%9C%AC%E8%B3%AA-%E6%98%AF%E6%9A%B4%E5%8A%9B-377e7518a99f?source=user_profile---------6----------------------------)
+	* [ ] [去中心化金融，是未來的經濟嗎？](https://medium.com/@fchern/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E9%87%91%E8%9E%8D-%E6%98%AF%E6%9C%AA%E4%BE%86%E7%9A%84%E7%B6%93%E6%BF%9F%E5%97%8E-e4ae383b3c2a?source=user_profile---------7----------------------------)
+	* [ ] [中途島號遊記](https://medium.com/@fchern/%E4%B8%AD%E9%80%94%E5%B3%B6%E8%99%9F%E9%81%8A%E8%A8%98-cbcd7dfd63e0?source=user_profile---------8----------------------------)
+	* [ ] [那些年，我們讀過的（輕）小說](https://medium.com/@fchern/%E9%82%A3%E4%BA%9B%E5%B9%B4-%E6%88%91%E5%80%91%E8%AE%80%E9%81%8E%E7%9A%84-%E8%BC%95-%E5%B0%8F%E8%AA%AA-d158518e94b4?source=user_profile---------9----------------------------)
+	* [ ] [關於變強這檔事（十）](https://medium.com/@fchern/%E9%97%9C%E6%96%BC%E8%AE%8A%E5%BC%B7%E9%80%99%E6%AA%94%E4%BA%8B-%E5%8D%81-1d6b32525732?source=user_profile---------10----------------------------)
+	* [ ] [幾何視覺化神器GeoGebra](https://medium.com/@fchern/%E5%B9%BE%E4%BD%95%E8%A6%96%E8%A6%BA%E5%8C%96%E7%A5%9E%E5%99%A8geogebra-b47cbb6eb971?source=user_profile---------11----------------------------)
+	* [ ] [小丑：一部沒有流浪漢的社會邊緣人電影](https://medium.com/tag/freehongkong?source=user_profile--------------------freehongkong-----------------)
+	* [ ] [暴政(On Tyranny)讀書心得](https://medium.com/@fchern/%E6%9A%B4%E6%94%BF-on-tyranny-%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97-c209ef933974?source=user_profile---------13----------------------------)
+	* [ ] [紐約僑宴的一些心得](https://medium.com/@fchern/%E7%B4%90%E7%B4%84%E5%83%91%E5%AE%B4%E7%9A%84%E4%B8%80%E4%BA%9B%E5%BF%83%E5%BE%97-35d9e2d7dd8b?source=user_profile---------14----------------------------)
+	* [ ] [關於變強這檔事（九）](https://medium.com/@fchern/%E9%97%9C%E6%96%BC%E8%AE%8A%E5%BC%B7%E9%80%99%E6%AA%94%E4%BA%8B-%E4%B9%9D-3fd36c986313?source=user_profile---------15----------------------------)
+	* [ ] [讀書心得的讀書心得](https://medium.com/@fchern/%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97%E7%9A%84%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97-c5660d47020b?source=user_profile---------16----------------------------)
+	* [ ] [設計高效能的Hash Table（二）](https://medium.com/tag/hash-table?source=user_profile--------------------hash_table-----------------)
+	* [ ] [設計高效能的Hash Table（一）](https://medium.com/@fchern/%E8%A8%AD%E8%A8%88%E9%AB%98%E6%95%88%E8%83%BD%E7%9A%84hash-table-%E4%B8%80-303d9713abab?source=user_profile---------18----------------------------)
+	* [ ] [面試技巧](https://medium.com/@fchern/%E9%9D%A2%E8%A9%A6%E6%8A%80%E5%B7%A7-4be66bcf71f7?source=user_profile---------19----------------------------)
+* [vgod's blog – Medium](https://vgod.medium.com/) 
+	* [x] [換Tesla就跟換手機一樣簡單](https://vgod.medium.com/%E6%8F%9Btesla%E5%B0%B1%E8%B7%9F%E6%8F%9B%E6%89%8B%E6%A9%9F%E4%B8%80%E6%A8%A3%E7%B0%A1%E5%96%AE-c28db4777cd5?source=user_profile---------0----------------------------)
+	* [ ] [機器學習工程和MLOps的典範轉移](https://vgod.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E5%B7%A5%E7%A8%8B%E5%92%8Cmlops%E7%9A%84%E5%85%B8%E7%AF%84%E8%BD%89%E7%A7%BB-1939abeeb80d?source=user_profile---------1----------------------------)
+	* [ ] [軟體工程師的修煉與成長 (10) — 四維的技術能力](https://vgod.medium.com/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E4%BF%AE%E7%85%89%E8%88%87%E6%88%90%E9%95%B7-10-%E5%9B%9B%E7%B6%AD%E7%9A%84%E6%8A%80%E8%A1%93%E8%83%BD%E5%8A%9B-1602882aec33?source=user_profile---------2----------------------------)
+	* [ ] [軟體工程師的修煉與成長 (9) — 選擇適合自己的公司](https://vgod.medium.com/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E4%BF%AE%E7%85%89%E8%88%87%E6%88%90%E9%95%B7-9-%E9%81%B8%E6%93%87%E6%9C%80%E9%81%A9%E5%90%88%E8%87%AA%E5%B7%B1%E7%9A%84%E5%85%AC%E5%8F%B8-bbf12aee64f9?source=user_profile---------3----------------------------)
+	* [ ] [軟體工程師的修煉與成長 (8) — 讓自己可以被取代](https://vgod.medium.com/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E4%BF%AE%E7%85%89%E8%88%87%E6%88%90%E9%95%B7-8-%E8%AE%93%E8%87%AA%E5%B7%B1%E5%8F%AF%E4%BB%A5%E8%A2%AB%E5%8F%96%E4%BB%A3-61e0e2bce857?source=user_profile---------4----------------------------)
+	* [ ] [軟體工程師的修煉與成長 (7) — 如何突破資深工程師的天花板](https://vgod.medium.com/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E4%BF%AE%E7%85%89%E8%88%87%E6%88%90%E9%95%B7-7-%E5%A6%82%E4%BD%95%E7%AA%81%E7%A0%B4%E8%B3%87%E6%B7%B1%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E5%A4%A9%E8%8A%B1%E6%9D%BF-98a1f4326a30?source=user_profile---------5----------------------------)
+	* [ ] [軟體工程師的修煉與成長 (6) — 換團隊 x 2](https://vgod.medium.com/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E4%BF%AE%E7%85%89%E8%88%87%E6%88%90%E9%95%B7-6-%E6%8F%9B%E5%9C%98%E9%9A%8A-x-2-4ae7d88ee7fa?source=user_profile---------6----------------------------)
+	* [ ] [軟體工程師的修煉與成長 (5) — 1:1該談什麼才能讓職涯起飛?](https://vgod.medium.com/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E4%BF%AE%E7%85%89%E8%88%87%E6%88%90%E9%95%B7-5-1-1%E8%A9%B2%E8%AB%87%E4%BB%80%E9%BA%BC%E6%89%8D%E8%83%BD%E8%AE%93%E8%81%B7%E6%B6%AF%E8%B5%B7%E9%A3%9B-eaa10f2df56e?source=user_profile---------7----------------------------)
+	* [ ] [軟體工程師的修煉與成長 (4) — Product vs Infrastructure](https://vgod.medium.com/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E4%BF%AE%E7%85%89%E8%88%87%E6%88%90%E9%95%B7-4-product-vs-infrastructure-384bf6acbbfb?source=user_profile---------8----------------------------)
+	* [ ] [軟體工程師的修煉與成長 (3) — Oncall的挑戰](https://vgod.medium.com/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E4%BF%AE%E7%85%89%E8%88%87%E6%88%90%E9%95%B7-3-oncall%E7%9A%84%E6%8C%91%E6%88%B0-4d7cc8e4529e?source=user_profile---------9----------------------------)
+	* [ ] [追求神乎其技的程式設計之道 — 2022重編版](https://vgod.medium.com/%E8%BF%BD%E6%B1%82%E7%A5%9E%E4%B9%8E%E5%85%B6%E6%8A%80%E7%9A%84%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88%E4%B9%8B%E9%81%93-2022%E9%87%8D%E7%B7%A8%E7%89%88-7cccc3c68f1e?source=user_profile---------10----------------------------)
+	* [ ] [軟體工程師的修煉與成長 (2) — 規模與複雜度](https://vgod.medium.com/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E4%BF%AE%E7%85%89%E8%88%87%E6%88%90%E9%95%B7-2-ac7c98d40ad6?source=user_profile---------11----------------------------)
+	* [ ] [軟體工程師的修煉與成長 (1) — 程式設計 → 軟體工程](https://vgod.medium.com/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E4%BF%AE%E7%85%89%E8%88%87%E6%88%90%E9%95%B7-1-7b906f837d74?source=user_profile---------12----------------------------)
+	* [ ] [Tesla Model 3 三週年 — Road trip與FSD心得](https://vgod.medium.com/tesla-model-3-%E4%B8%89%E9%80%B1%E5%B9%B4-road-trip%E8%88%87fsd%E5%BF%83%E5%BE%97-55af67714b10?source=user_profile---------13----------------------------)
+	* [ ] [快樂學習的秘密](https://vgod.medium.com/%E5%BF%AB%E6%A8%82%E5%AD%B8%E7%BF%92%E7%9A%84%E7%A7%98%E5%AF%86-6e322935c3cf?source=user_profile---------14----------------------------)
+	* [ ] [Effective Mentoring](https://vgod.medium.com/effective-mentoring-8107bcf2b447?source=user_profile---------15----------------------------)
+	* [ ] [Tesla Model 3 一週年心得](https://vgod.medium.com/tesla-model-3-%E4%B8%80%E9%80%B1%E5%B9%B4%E5%BF%83%E5%BE%97-8b768681263e?source=user_profile---------16----------------------------)
+	* [ ] [Tesla Model 3與Autopilot半年心得](https://vgod.medium.com/tesla-model-3%E8%88%87autopilot%E5%8D%8A%E5%B9%B4%E5%BF%83%E5%BE%97-dbbe2c552961?source=user_profile---------17----------------------------)
+	* [ ] [Smart Home 升級中](https://vgod.medium.com/smart-home-%E5%8D%87%E7%B4%9A%E4%B8%AD-1475bccb3c21?source=user_profile---------18----------------------------)
+	* [ ] [Tesla Model 3 — 汽車界的iPhone時刻](https://vgod.medium.com/tesla-model-3-%E6%B1%BD%E8%BB%8A%E7%95%8C%E7%9A%84iphone%E6%99%82%E5%88%BB-be314825d96d?source=user_profile---------19----------------------------)
+* [Robert-Jan Kuyper – Medium](https://medium.com/@datails) 
+	* [ ] [NestJS: The Good, The Bad, and The Ugly](https://medium.com/better-programming/nestjs-the-good-the-bad-and-the-ugly-d51aea04f267?source=user_profile---------0----------------------------)
+	* [ ] [Understanding Providers in Nest.js](https://medium.com/better-programming/mastering-nestjs-understanding-providers-d259909648ba?source=user_profile---------1----------------------------)
+	* [ ] [NestJS — Keep it Simple, Stupid](https://medium.com/tag/nestjs?source=user_profile--------------------nestjs-----------------)
+	* [ ] [Crafting beautiful unit tests](https://medium.com/better-programming/the-simplicity-of-crafting-unit-tests-f0f064449bb4?source=user_profile---------3----------------------------)
+	* [ ] [Store and consume Helm charts using GitLab’s private registry](https://medium.com/faun/store-and-consume-helm-charts-in-gitlabs-private-registry-1967b7f02b2c?source=user_profile---------4----------------------------)
+	* [ ] [Build and deploy only affected services using Nx](https://medium.com/faun/build-and-deploy-only-affect-microservices-using-nx-2d117b703419?source=user_profile---------5----------------------------)
+	* [ ] [Stop running static jobs in GitLab, run dynamically created jobs instead](https://medium.com/tag/gitlab?source=user_profile--------------------gitlab-----------------)
+	* [ ] [End-to-end test multiple microservices using Docker and GitLab CI](https://medium.com/tag/gitlab?source=user_profile--------------------gitlab-----------------)
+	* [ ] [E2E test API’s using Docker and GitLab CI](https://medium.com/tag/docker?source=user_profile--------------------docker-----------------)
+* [Complete Think](https://rickhw.github.io/) 
+* [Addy Osmani – Medium](https://medium.com/@addyosmani) 
+	* [Chrome now shows each active tab’s memory usage!](https://medium.com/@addyosmani/chrome-now-shows-each-active-tabs-memory-usage-4f74876538e6) 
+* [Rida F'kih – Medium](https://medium.com/@ridafkih)  
+	* [ ] [How to Not Expose the Personal Data of 19,577 Canadians](https://medium.com/tag/security?source=user_profile--------------------security-----------------)
+	* [ ] [‘Nothing Chats’ is Not Secure.](https://medium.com/tag/typescript?source=user_profile--------------------typescript-----------------)
+	* [ ] [I've made a response blog post to this thread!](https://medium.com/@ridafkih/ive-made-a-response-blog-post-to-this-thread-aa5cc156b502?source=user_profile---------2----------------------------)
+	* [ ] [I Re-Wrote These 10+ Single Lines of JavaScript Code, the Team Lead Praised the Code for Being Elegant](https://medium.com/gitconnected/i-re-wrote-these-10-single-lines-of-javascript-code-the-team-lead-praised-the-code-for-being-668ade4fea71?source=user_profile---------3----------------------------)
+	* [ ] [Happy 20th birthday Jira! You suck so bad.](https://medium.com/tag/product-management?source=user_profile--------------------product_management-----------------)
+	* [ ] [I'm surprised Elixir isn't further up the list!](https://medium.com/@ridafkih/im-surprised-elixir-isn-t-further-up-the-list-528f89eb3142?source=user_profile---------5----------------------------)
+	* [ ] [Maintaining TypeScript Superpowers When Types Are Out of Reach](https://medium.com/tag/typescript?source=user_profile--------------------typescript-----------------)
+* [Jason's Web Memo](https://jason-memo.dev/) 
+	* [ ] [我的提升生產力 Mac 設定與軟體](https://jason-memo.dev/posts/my-mac-setting/)
+	* [ ] [直接嵌入 iframe 對網頁效能有害](https://jason-memo.dev/posts/embeding-iframe-directly-considered-harmful-for-perf/)
+	* [ ] [在 reduce 使用點點點 spread operator 是效能上的 anti-pattern](https://jason-memo.dev/posts/spread-in-reduce-is-a-perf-antipattern/)
+	* [ ] [透過 webmention 來搜集 blog 的社群迴響](https://jason-memo.dev/posts/webmention/)
+	* [ ] [為了讓世界更好，你應該優先選擇 tab 而不是 space 做程式碼縮排](https://jason-memo.dev/posts/prefer-tab-over-space-for-a11y/)
+	* [ ] [一個前端工程師的婚禮黑客松](https://jason-memo.dev/posts/wedding-hackathon/)
+	* [ ] [一探那些令人興奮的 React 18 三大新 features，auto batching，startTransition，Suspense SSR](https://jason-memo.dev/posts/react-18/)
+	* [ ] [一個有趣的 Chrome 自動觸發 transition 轉場動畫 bug](https://jason-memo.dev/posts/chrome-transition-auto-triggered-bug/)
+	* [ ] [用 hover 取代 click 來開啟選單並不是一個好設計](https://jason-memo.dev/posts/replacing-click-with-hover-interaction-is-not-a-good-design/)
+	* [ ] [網頁黑暗模式 Dark Mode 設計技巧](https://jason-memo.dev/posts/dark-mode-tips/)
+	* [ ] [為什麼我離開 Medium 用 eleventy 做一個 blog](https://jason-memo.dev/posts/why-i-leave-medium-and-build-blog-with-eleventy/)
+	* [ ] [重新學習瀏覽器資源載入機制，這些年努力改善電商網站效能的旅程](https://jason-memo.dev/posts/relearn-browser-loading-resoure-improve-ec-site-performance-journey/)
+	* [ ] [跟 Array push reduce 和 Object property mutation 說再見，JavaScript 優雅的處理資料結構技巧](https://jason-memo.dev/posts/goodbye-array-push-and-reduce-handle-data-structure-gracefully-in-js/)
+	* [ ] [寫 GraphQL 不可不知道的 ECMAScript 的新語法提案 optional chaining 跟 nullish coalescing](https://jason-memo.dev/posts/you-should-know-optional-chaining-and-nullish-coleasing-proposal-when-writing-graphql/)
+	* [ ] [為什麼我的 useReducer 會被執行兩次？在 React hooks 官方文件沒有清楚告訴你的 useReducer 的 bail out 機制](https://jason-memo.dev/posts/why-useReducer-run-twice-useReducer-bailout-mechanism-that-official-document-dont-tell/)
+	* [ ] [如何錯誤地使用 React hooks useCallback 來保存相同的 function instance](https://jason-memo.dev/posts/how-to-use-react-hooks-useCallback-wrongly-for-keeping-same-function-instance/)
+	* [ ] [談談 JavaScript 那些常見的 Functional Programming 的概念帶來了怎樣的好處](https://jason-memo.dev/posts/whats-the-benefit-from-javascript-functional-programing/)
+* [Harshal Patil – Medium](https://medium.com/@mistyHarsh) 
+* [Blog —— Bugtender](https://bugtender.com/blog/) 
+* [Kai Hao](https://kaihao.dev/) (Dcard Clone)
 * [Eason Chang](https://easonchang.com/posts)
 
 ## News
-* [Newsletter | This Week In React](https://thisweekinreact.com/newsletter) 2023-04-11
+* [Newsletter | This Week In React](https://thisweekinreact.com/newsletter) 
 
 ## 公司
-* [The GitHub Blog: Engineering News and Updates](https://github.blog/category/engineering/) 2023-04-05
-* [Engineering at Meta](https://engineering.fb.com/) 2023-03-09
-* [Dcard Tech – Medium](https://dcardlab.medium.com/) 2022-10-26
-* [Heroku Blog - Engineering | Heroku](https://blog.heroku.com/engineering) 2022-01-19
+* [Netflix Technology Blog – Medium](https://netflixtechblog.medium.com/) 
+* [The GitHub Blog: Engineering News and Updates](https://github.blog/category/engineering/) 
+* [Engineering at Meta](https://engineering.fb.com/)
+* [Dcard Tech – Medium](https://dcardlab.medium.com/) 
+* [Heroku Blog - Engineering | Heroku](https://blog.heroku.com/engineering) 
 * [AWS 部落格](https://aws.amazon.com/tw/blogs/)
 * [Azure Blog and Updates | Microsoft Azure](https://azure.microsoft.com/en-us/blog/)
 * [Google Developers Blog](https://developers.googleblog.com/)
@@ -56,7 +161,6 @@
 * [Engineering at Quora](https://quoraengineering.quora.com/)
 * [Salesforce Developer Blog](https://developer.salesforce.com/blogs)
 * [Medium Engineering](https://medium.engineering/)
-* [Blog](https://machinelearningmastery.com/blog/)
 * [All posts | SoundCloud Backstage Blog](https://developers.soundcloud.com/blog/)
 * [Engineering](https://blog.twitter.com/engineering/en_us)
 * [Tech Blog - eBay Inc.](https://tech.ebayinc.com/)

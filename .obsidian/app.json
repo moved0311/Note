@@ -2,7 +2,7 @@
   "vimMode": true,
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
-    "includeName": false,
+    "includeName": true,
     "pageSize": "Tabloid",
     "landscape": false,
     "margin": "0",
@@ -31,5 +31,8 @@
     "editor:redo",
     "editor:configure-toolbar"
   ],
-  "spellcheck": false
+  "spellcheck": false,
+  "showLineNumber": false,
+  "tabSize": 2,
+  "focusNewTab": false
 }

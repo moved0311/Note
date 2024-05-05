@@ -1,6 +1,3 @@
-* [Docker風潮席捲IT世界 | iThome](https://www.ithome.com.tw/news/91839)
-* [Docker社群達人教你快速踏出Docker的第一步 | iThome](https://www.ithome.com.tw/news/91848)
-
 ## Basic
 > Docker Image is a package or a template, it is used to create one or more containers.
 Container are running instances of images

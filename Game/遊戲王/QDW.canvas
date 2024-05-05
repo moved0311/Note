@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"88fd605a0357854c","type":"text","text":"廢品增速者+1-4星","x":-532,"y":-11,"width":202,"height":60},
+		{"id":"783d858d6d241536","type":"text","text":"深淵神獸+鮮花+紅龍+星塵龍","x":-187,"y":-407,"width":321,"height":50,"color":"1"},
+		{"id":"a64ee44797566e85","type":"text","text":"深淵神獸+鮮花+水晶翼龍+星塵龍","x":-192,"y":-346,"width":321,"height":50,"color":"1"},
+		{"id":"2b2c41b731d176d4","type":"text","text":"鮮花/深淵神獸+紅龍+西格瑪","x":-186,"y":-286,"width":277,"height":50,"color":"1"},
+		{"id":"ff24d02287f545d6","type":"text","text":"軌跡上手","x":-129,"y":-133,"width":139,"height":50},
+		{"id":"5d3f8dfc5ffd8871","type":"text","text":"西格瑪+耀變+加速星塵龍","x":-186,"y":-224,"width":270,"height":50,"color":"1"},
+		{"id":"f0c65143b50dd60a","type":"text","text":"深淵神獸+鮮花+削3手牌","x":385,"y":43,"width":258,"height":50,"color":"1"},
+		{"id":"0ae3e783362acdb9","type":"text","text":"+3星協調","x":36,"y":122,"width":139,"height":50},
+		{"id":"47e3775346eb3625","type":"text","text":"+4星協調","x":89,"y":-66,"width":139,"height":50},
+		{"id":"04ae39a45907012e","type":"text","text":"西格瑪+耀變龍+加速星塵龍","x":315,"y":-111,"width":285,"height":54,"color":"1"},
+		{"id":"5acece2937840a15","type":"text","text":"深淵神獸+鮮花+星塵龍+削3手牌","x":167,"y":338,"width":321,"height":50,"color":"1"},
+		{"id":"a73baa1921c6530c","type":"text","text":"西格瑪+紅龍+L9加速同步者+削2手牌","x":136,"y":440,"width":364,"height":50,"color":"1"},
+		{"id":"0ae955db7a65f8a0","type":"text","text":"西格瑪+紅+深淵神獸+削3手","x":175,"y":246,"width":282,"height":50,"color":"1"},
+		{"id":"6c0c7aa03a300b8c","type":"text","text":"+分身戰士","x":-67,"y":256,"width":151,"height":50},
+		{"id":"48369ae4e29dc011","type":"text","text":"+勇者token","x":-107,"y":376,"width":160,"height":50}
+	],
+	"edges":[
+		{"id":"d4d9b38c68baf55d","fromNode":"88fd605a0357854c","fromSide":"right","toNode":"783d858d6d241536","toSide":"left"},
+		{"id":"ca96caf2d3903ab4","fromNode":"88fd605a0357854c","fromSide":"right","toNode":"ff24d02287f545d6","toSide":"left"},
+		{"id":"5afa2f159c3e1382","fromNode":"88fd605a0357854c","fromSide":"right","toNode":"a64ee44797566e85","toSide":"left"},
+		{"id":"7d1951dd7c405054","fromNode":"88fd605a0357854c","fromSide":"right","toNode":"48369ae4e29dc011","toSide":"left"},
+		{"id":"816de5379615bfba","fromNode":"48369ae4e29dc011","fromSide":"right","toNode":"5acece2937840a15","toSide":"left"},
+		{"id":"9d1d2669bdb875a5","fromNode":"48369ae4e29dc011","fromSide":"right","toNode":"a73baa1921c6530c","toSide":"left"},
+		{"id":"96e86fbbc76f3aa3","fromNode":"ff24d02287f545d6","fromSide":"bottom","toNode":"0ae3e783362acdb9","toSide":"top"},
+		{"id":"48efdd3a63c847d9","fromNode":"ff24d02287f545d6","fromSide":"bottom","toNode":"47e3775346eb3625","toSide":"left"},
+		{"id":"ac1c687d6680be5f","fromNode":"47e3775346eb3625","fromSide":"right","toNode":"04ae39a45907012e","toSide":"left"},
+		{"id":"54073c44ce7229e6","fromNode":"0ae3e783362acdb9","fromSide":"right","toNode":"f0c65143b50dd60a","toSide":"left"},
+		{"id":"4f614d6993fbee39","fromNode":"88fd605a0357854c","fromSide":"right","toNode":"6c0c7aa03a300b8c","toSide":"left"},
+		{"id":"dfb8571b9b413751","fromNode":"6c0c7aa03a300b8c","fromSide":"right","toNode":"0ae955db7a65f8a0","toSide":"left"},
+		{"id":"9857e203cb61968d","fromNode":"88fd605a0357854c","fromSide":"right","toNode":"2b2c41b731d176d4","toSide":"left"},
+		{"id":"6d91a088ae66ed53","fromNode":"88fd605a0357854c","fromSide":"right","toNode":"5d3f8dfc5ffd8871","toSide":"left"}
+	]
+}

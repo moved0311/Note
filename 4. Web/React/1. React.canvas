@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"4ae1eb07d24885d4","type":"group","x":-1477,"y":-534,"width":729,"height":311,"color":"1","label":"Reconcliation"},
+		{"id":"908c47be9ef135c5","type":"file","file":"4. Web/React/Rendering.md","x":-1533,"y":-832,"width":209,"height":50},
+		{"id":"4771a70bc7e62d8d","type":"file","file":"4. Web/React/VirtualDOM.md","x":-1692,"y":-962,"width":231,"height":50},
+		{"id":"d1081d80a11cb9c1","type":"file","file":"4. Web/React/Diffing algorithm.md","x":-1629,"y":-1122,"width":309,"height":50},
+		{"type":"file","file":"4. Web/React/hooks/Hooks.md","id":"2b2328a46373cd74","x":-1688,"y":-707,"width":158,"height":54,"color":"2"},
+		{"id":"98d20d5faef14503","type":"file","file":"4. Web/React/Fiber Reconcliation.md","x":-1126,"y":-307,"width":332,"height":50},
+		{"id":"f1daa06409b2e669","type":"file","file":"4. Web/React/Reconcliation.md","x":-1271,"y":-482,"width":271,"height":50},
+		{"id":"14e10172b35f701b","type":"text","text":"## Stack Reconcliation","x":-1450,"y":-311,"width":294,"height":50}
+	],
+	"edges":[
+		{"id":"a8f80e5d173f2899","fromNode":"f1daa06409b2e669","fromSide":"bottom","toNode":"98d20d5faef14503","toSide":"top","label":">16"},
+		{"id":"f9cec1415db8b9ea","fromNode":"f1daa06409b2e669","fromSide":"bottom","toNode":"14e10172b35f701b","toSide":"top","label":"<16"}
+	]
+}
