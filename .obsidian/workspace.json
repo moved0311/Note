@@ -15,22 +15,10 @@
               "state": {
                 "file": "Game/遊戲王/QDW.canvas",
                 "viewState": {
-                  "x": 191.8057851163548,
-                  "y": 156.94147351800177,
-                  "zoom": -0.8333333333333333
+                  "x": 79.8079213212477,
+                  "y": 102.54207204192099,
+                  "zoom": -0.4166666666666666
                 }
-              }
-            }
-          },
-          {
-            "id": "5011737388dcae83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -184,6 +172,7 @@
   "active": "fdc3ce974fb83fdd",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Game/遊戲王/QDW.canvas",
     "Git/Reference.md",
     "Git/Diff.md",
     "Docker/Dockerfile.md",
@@ -195,7 +184,6 @@
     "4. Web/Storybook/Storybook.md",
     "4. Web/Storybook",
     "Game/遊戲王",
-    "Game/遊戲王/QDW.canvas",
     "Game",
     "5.Stocks/半導體/半導體.md",
     "5.Stocks/半導體",
@@ -216,7 +204,6 @@
     "4. Web/React/Reconcliation.md",
     "4. Web/React/thrid-party",
     "4. Web/React/React Server Component(RSC).md",
-    "4. Web/React/Rendering.md",
     "4. Web/React/hooks",
     "4. Web/React/1. React.canvas",
     "4. Web/React",
