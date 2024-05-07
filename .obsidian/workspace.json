@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 227.5
   },
   "right": {
     "id": "c56181c98a8f9c8f",
@@ -162,8 +162,9 @@
   },
   "active": "e8d28a061162857f",
   "lastOpenFiles": [
-    "Docker/Dockerfile.md",
+    "PPT/20231004-Command/Command.md",
     "1. Daily/2024-04-30.md",
+    "Docker/Dockerfile.md",
     "Game/遊戲王/QDW.canvas",
     "Game/遊戲王",
     "1. Daily/2024-04-12.md",
