@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "2b086bbd66aab0cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. TODO/Read.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "450d6502387f2bb8",
             "type": "leaf",
             "state": {
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英文/英文.md",
+                "file": "2. TODO/Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英文/英文.md",
+                "file": "2. TODO/Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英文/英文.md"
+                "file": "2. TODO/Read.md"
               }
             }
           }
@@ -174,9 +186,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "450d6502387f2bb8",
+  "active": "2b086bbd66aab0cf",
   "lastOpenFiles": [
     "1. Daily/2024-05-14.md",
+    "英文/英文.md",
     "Tools/儲存目前網頁markdown.md",
     "Tools",
     "2. TODO/Read.md",
@@ -184,7 +197,6 @@
     "2. TODO/CodingInterviewUniversity.md",
     "CICD/CICD.md",
     "3. Reference/架構設計.md",
-    "英文/英文.md",
     "3. Reference/Careers.md",
     "3. Reference/Code Review.md",
     "3. Reference/JavaScript.md",
