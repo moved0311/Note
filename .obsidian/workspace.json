@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "de57babde6efb928",
+        "id": "9003a858179820fd",
         "type": "tabs",
         "children": [
+          {
+            "id": "d992b9660b2992c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2024-05-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "450d6502387f2bb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024-04-30.md",
+                "file": "英文/英文.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "right": {
     "id": "c56181c98a8f9c8f",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-04-30.md",
+                "file": "1. Daily/2024-05-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-04-30.md",
+                "file": "1. Daily/2024-05-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-04-30.md"
+                "file": "1. Daily/2024-05-14.md"
               }
             }
           }
@@ -160,10 +173,24 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "450d6502387f2bb8",
+  "active": "d992b9660b2992c9",
   "lastOpenFiles": [
-    "1. Daily/2020/2020.md",
+    "2. TODO/Read.md",
+    "1. Daily/2024-05-14.md",
+    "2. TODO/TMP.md",
+    "2. TODO/CodingInterviewUniversity.md",
+    "CICD/CICD.md",
+    "3. Reference/架構設計.md",
+    "英文/英文.md",
+    "3. Reference/Careers.md",
+    "3. Reference/Code Review.md",
+    "3. Reference/JavaScript.md",
+    "3. Reference/Rendering.md",
+    "2. TODO/LeetCode.md",
+    "2. TODO/react-query/document.md",
     "1. Daily/2024-04-30.md",
+    "英文",
+    "1. Daily/2020/2020.md",
     "健康/營養素.md",
     "1. Daily/2023/2024-04-12.md",
     "PPT/20231004-Command/Command.md",
@@ -177,19 +204,6 @@
     "1. Daily/2023/2024-01-02.md",
     "Docker/Docker.md",
     "Docker/Reference.md",
-    "2. TODO/react-query/document.md",
-    "6. Works/鉅亨網/新聞專案改版.md",
-    "1. Daily/2023/2023-06-13.md",
-    "1. Daily/2023/2024-03-25.md",
-    "1. Daily/2023/2023-09-05.md",
-    "5.Stocks/TradingView/策略1.md",
-    "PPT/20240103-新聞優化/新聞優化.md",
-    "PPT/20230726-Docker/CICD.md",
-    "Libs/UI Library.md",
-    "Libs/Search.md",
-    "2. TODO/CodingInterviewUniversity.md",
-    "Course/Data Mining.md",
-    "Course/統計.md",
     "2. TODO/react-query",
     "Game/未命名.canvas",
     "PPT/20240327-TradingView/AAPL.png",
@@ -208,7 +222,6 @@
     "Libs",
     "6. Works/鉅亨網/QA",
     "6. Works/鉅亨網/Doc",
-    "5.Stocks/電子零組件/電纜",
     "5.Stocks/晶圓/5483-中美晶/5483.png",
     "4. Web/React/1. React.canvas",
     "export/新聞優化/plugin/chalkboard/img/blackboard.png"
