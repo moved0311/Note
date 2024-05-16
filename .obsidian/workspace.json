@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker",
+                "query": "performance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "d992b9660b2992c9",
+  "active": "2cb51d19092c7bcf",
   "lastOpenFiles": [
     "4. Web/React/hydration.md",
     "4. Web/React/Diffing algorithm.md",
