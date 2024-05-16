@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/Read.md",
+                "file": "1. Daily/2024-05-14.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Web/React/React Server Component(RSC).md",
+                "file": "1. Daily/2024-05-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Web/React/React Server Component(RSC).md",
+                "file": "1. Daily/2024-05-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Web/React/React Server Component(RSC).md"
+                "file": "1. Daily/2024-05-14.md"
               }
             }
           }
@@ -173,13 +173,14 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "2cb51d19092c7bcf",
+  "active": "2b086bbd66aab0cf",
   "lastOpenFiles": [
+    "2. TODO/Read.md",
+    "4. Web/React/React Server Component(RSC).md",
     "4. Web/React/hydration.md",
     "4. Web/React/Diffing algorithm.md",
     "4. Web/React/Deploy.md",
     "4. Web/React/Error Bound.md",
-    "4. Web/React/React Server Component(RSC).md",
     "Libs/react-query/window focus refetching.md",
     "1. Daily/2024-05-14.md",
     "4. Web/React/1. React.canvas",
@@ -196,7 +197,6 @@
     "英文/Coursera - English for Career Development/English for Career Development.md",
     "英文/方式.md",
     "Tools/儲存目前網頁markdown.md",
-    "2. TODO/Read.md",
     "3. Reference/JavaScript.md",
     "3. Reference/Server Components.md",
     "Tools",
