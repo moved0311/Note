@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024-05-14.md",
+                "file": "4. Web/React/React Server Component(RSC).md",
                 "mode": "source",
                 "source": false
               }
@@ -26,18 +26,6 @@
               "type": "markdown",
               "state": {
                 "file": "2. TODO/Read.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "450d6502387f2bb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "英文/英文.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 255.5
   },
   "right": {
     "id": "c56181c98a8f9c8f",
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-05-14.md",
+                "file": "4. Web/React/React Server Component(RSC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-05-14.md",
+                "file": "4. Web/React/React Server Component(RSC).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-05-14.md"
+                "file": "4. Web/React/React Server Component(RSC).md"
               }
             }
           }
@@ -186,11 +174,20 @@
   },
   "active": "d992b9660b2992c9",
   "lastOpenFiles": [
+    "4. Web/React/hydration.md",
+    "4. Web/React/Diffing algorithm.md",
+    "4. Web/React/Deploy.md",
+    "4. Web/React/Error Bound.md",
+    "4. Web/React/React Server Component(RSC).md",
+    "Libs/react-query/window focus refetching.md",
+    "1. Daily/2024-05-14.md",
+    "4. Web/React/1. React.canvas",
+    "4. Web/React/2. Reference.md",
+    "3. Reference/React.md",
     "英文/英文.md",
     "英文/chatGPT詠唱指令.md",
     "英文/words.md",
     "英文/句子.md",
-    "1. Daily/2024-05-14.md",
     "3. Reference/Nextjs.md",
     "3. Reference/Course/統計.md",
     "3. Reference/Course/Data Mining.md",
@@ -205,15 +202,7 @@
     "2. TODO/TMP.md",
     "2. TODO/CodingInterviewUniversity.md",
     "CICD/CICD.md",
-    "3. Reference/架構設計.md",
-    "3. Reference/Careers.md",
-    "3. Reference/Code Review.md",
-    "3. Reference/Rendering.md",
-    "2. TODO/LeetCode.md",
-    "2. TODO/react-query/document.md",
-    "1. Daily/2024-04-30.md",
     "英文",
-    "1. Daily/2020/2020.md",
     "Game/遊戲王/QDW.canvas",
     "Game/遊戲王",
     "2. TODO/react-query",
@@ -234,7 +223,6 @@
     "Libs",
     "6. Works/鉅亨網/QA",
     "5.Stocks/晶圓/5483-中美晶/5483.png",
-    "4. Web/React/1. React.canvas",
     "export/新聞優化/plugin/chalkboard/img/blackboard.png"
   ]
 }
