@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Web/React/React Server Component(RSC).md",
+                "file": "2. TODO/Read.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-05-14.md",
+                "file": "2. TODO/Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-05-14.md",
+                "file": "2. TODO/Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-05-14.md"
+                "file": "2. TODO/Read.md"
               }
             }
           }
@@ -173,16 +172,19 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "2b086bbd66aab0cf",
+  "active": "d992b9660b2992c9",
   "lastOpenFiles": [
+    "2. TODO/InterviewQuestion.md",
+    "2.1 Pending/CodingInterviewUniversity.md",
+    "2.1 Pending",
+    "2. TODO/React Server Component(RSC).md",
+    "1. Daily/2024-05-14.md",
     "2. TODO/Read.md",
-    "4. Web/React/React Server Component(RSC).md",
     "4. Web/React/hydration.md",
     "4. Web/React/Diffing algorithm.md",
     "4. Web/React/Deploy.md",
     "4. Web/React/Error Bound.md",
     "Libs/react-query/window focus refetching.md",
-    "1. Daily/2024-05-14.md",
     "4. Web/React/1. React.canvas",
     "4. Web/React/2. Reference.md",
     "3. Reference/React.md",
@@ -201,8 +203,6 @@
     "3. Reference/Server Components.md",
     "Tools",
     "2. TODO/TMP.md",
-    "2. TODO/CodingInterviewUniversity.md",
-    "CICD/CICD.md",
     "英文",
     "Game/遊戲王/QDW.canvas",
     "Game/遊戲王",
@@ -222,7 +222,6 @@
     "Game",
     "5.Stocks/半導體",
     "Libs",
-    "6. Works/鉅亨網/QA",
     "5.Stocks/晶圓/5483-中美晶/5483.png",
     "export/新聞優化/plugin/chalkboard/img/blackboard.png"
   ]

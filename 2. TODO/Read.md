@@ -9,9 +9,7 @@
 	* [Teleportation in React: Positioning, Stacking Context, and Portals](https://www.developerway.com/posts/positioning-and-portals-in-react) 
 	* [React re-renders guide: everything, all at once](https://www.developerway.com/posts/react-re-renders-guide) 
 * [Overreacted — A blog by Dan Abramov](https://overreacted.io/)(React core team)
-	* [The Two Reacts](https://overreacted.io/the-two-reacts/) 
-	* [A Chain Reaction](https://overreacted.io/a-chain-reaction/) 
-	* [Before You memo()](https://overreacted.io/before-you-memo/) 
+* [Daishi Kato's blog - zustand](https://blog.axlight.com/)
 ## NextJS
 * [Jack Herrington](https://www.pronextjs.dev/articles) (Youtuber)
 
