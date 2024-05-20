@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "2b086bbd66aab0cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2024-05-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d992b9660b2992c9",
             "type": "leaf",
             "state": {
@@ -20,12 +32,12 @@
             }
           },
           {
-            "id": "2b086bbd66aab0cf",
+            "id": "94cb6dd5e330dcfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024-05-14.md",
+                "file": "英文/英文.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/Read.md",
+                "file": "英文/英文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/Read.md",
+                "file": "英文/英文.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/Read.md"
+                "file": "英文/英文.md"
               }
             }
           }
@@ -172,14 +184,16 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "d992b9660b2992c9",
+  "active": "94cb6dd5e330dcfa",
   "lastOpenFiles": [
+    "2. TODO/Read.md",
+    "1. Daily/2024-05-14.md",
+    "英文/英文.md",
+    "英文/句子.md",
     "2. TODO/InterviewQuestion.md",
     "2.1 Pending/CodingInterviewUniversity.md",
     "2.1 Pending",
     "2. TODO/React Server Component(RSC).md",
-    "1. Daily/2024-05-14.md",
-    "2. TODO/Read.md",
     "4. Web/React/hydration.md",
     "4. Web/React/Diffing algorithm.md",
     "4. Web/React/Deploy.md",
@@ -188,10 +202,8 @@
     "4. Web/React/1. React.canvas",
     "4. Web/React/2. Reference.md",
     "3. Reference/React.md",
-    "英文/英文.md",
     "英文/chatGPT詠唱指令.md",
     "英文/words.md",
-    "英文/句子.md",
     "3. Reference/Nextjs.md",
     "3. Reference/Course/統計.md",
     "3. Reference/Course/Data Mining.md",
