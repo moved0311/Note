@@ -40,13 +40,13 @@
 		{"id":"cfe5c0e0727fb2ca","type":"text","text":"點陣圖+噴氣","x":-1108,"y":909,"width":147,"height":50},
 		{"id":"b0366cc781ce36ea","type":"text","text":"星塵龍降3星(車輪同步)","x":-1188,"y":571,"width":212,"height":50},
 		{"id":"09bb3e476b14057d","type":"text","text":"雨隱","x":-747,"y":445,"width":92,"height":50},
-		{"id":"c40ff400672c4b32","type":"text","text":"8星同步","x":-802,"y":1212,"width":126,"height":50},
-		{"id":"d38e956d8e475a38","type":"text","text":"星塵戰士+強襲","x":-1069,"y":1298,"width":166,"height":50},
-		{"id":"7615c6888295398b","type":"text","text":"同步鳴動","x":-1071,"y":1232,"width":166,"height":50},
 		{"id":"50725294837c4770","type":"text","text":"天輪特招","x":-1127,"y":1076,"width":153,"height":50},
 		{"id":"d8c9997335a03ec8","type":"text","text":"加速同步者","x":-602,"y":484,"width":175,"height":51,"color":"3"},
 		{"id":"f77c0fce9f0747ad","type":"text","text":"加速星塵特招","x":-751,"y":951,"width":151,"height":52,"color":"3"},
-		{"id":"75e615d3a4db2b06","type":"text","text":"1. 增速+1-5協調\n2. 3+5星塵龍\n3. 照耀跳尾跡\n4. 星塵龍+4 = 紅龍\n5. 1+尾跡 = 加速同步者+token\n6. 墓地噴氣+token=雨隱\n7. 增速+加速同步者+雨隱=耀變\n8. 紅龍跳耀變\n9. 同步鳴動跳星塵龍+2=鮮花","x":231,"y":576,"width":286,"height":278}
+		{"id":"75e615d3a4db2b06","type":"text","text":"1. 增速+1-5協調\n2. 3+5星塵龍\n3. 照耀跳尾跡\n4. 星塵龍+4 = 紅龍\n5. 1+尾跡 = 加速同步者+token\n6. 墓地噴氣+token=雨隱\n7. 增速+加速同步者+雨隱=耀變\n8. 紅龍跳耀變\n9. 同步鳴動跳星塵龍+2=鮮花","x":231,"y":576,"width":286,"height":278},
+		{"id":"7615c6888295398b","type":"text","text":"同步鳴動","x":-915,"y":1140,"width":166,"height":50},
+		{"id":"d38e956d8e475a38","type":"text","text":"星塵戰士+強襲","x":-913,"y":1206,"width":166,"height":50},
+		{"id":"c40ff400672c4b32","type":"text","text":"8星同步","x":-646,"y":1120,"width":126,"height":50}
 	],
 	"edges":[
 		{"id":"d4d9b38c68baf55d","fromNode":"88fd605a0357854c","fromSide":"right","toNode":"783d858d6d241536","toSide":"left"},
