@@ -21,3 +21,10 @@ const element = React.createElement(
 );
 ```
 在將JSX轉為字串時就可以判斷jsx的型別在用不同邏輯轉換為字串。
+
+## Pro.
+1. Zero effect on bundle size
+2. Access the backend directly
+3. Automatic client code splitting
+4. Use as much as little as you like
+5. Server mental model, modern UX
