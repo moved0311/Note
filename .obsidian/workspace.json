@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英文/英文.md",
+                "file": "1. Daily/2024-05-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英文/英文.md",
+                "file": "1. Daily/2024-05-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英文/英文.md"
+                "file": "1. Daily/2024-05-14.md"
               }
             }
           }
@@ -184,11 +184,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "94cb6dd5e330dcfa",
+  "active": "2b086bbd66aab0cf",
   "lastOpenFiles": [
+    "英文/英文.md",
     "2. TODO/Read.md",
     "1. Daily/2024-05-14.md",
-    "英文/英文.md",
     "英文/句子.md",
     "2. TODO/InterviewQuestion.md",
     "2.1 Pending/CodingInterviewUniversity.md",
