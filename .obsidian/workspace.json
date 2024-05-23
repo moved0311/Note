@@ -20,30 +20,19 @@
             }
           },
           {
-            "id": "d992b9660b2992c9",
+            "id": "370bdac0e2fbce40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/Read.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94cb6dd5e330dcfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "英文/英文.md",
+                "file": "2. TODO/server.js.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-05-14.md",
+                "file": "2. TODO/server.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-05-14.md",
+                "file": "2. TODO/server.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-05-14.md"
+                "file": "2. TODO/server.js.md"
               }
             }
           }
@@ -184,11 +173,13 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "2b086bbd66aab0cf",
+  "active": "370bdac0e2fbce40",
   "lastOpenFiles": [
+    "4. Web/Open Source.md",
+    "2. TODO/server.js.md",
+    "1. Daily/2024-05-14.md",
     "英文/英文.md",
     "2. TODO/Read.md",
-    "1. Daily/2024-05-14.md",
     "英文/句子.md",
     "2. TODO/InterviewQuestion.md",
     "2.1 Pending/CodingInterviewUniversity.md",
@@ -212,9 +203,7 @@
     "英文/方式.md",
     "Tools/儲存目前網頁markdown.md",
     "3. Reference/JavaScript.md",
-    "3. Reference/Server Components.md",
     "Tools",
-    "2. TODO/TMP.md",
     "英文",
     "Game/遊戲王/QDW.canvas",
     "Game/遊戲王",
