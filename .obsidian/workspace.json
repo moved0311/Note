@@ -11,23 +11,14 @@
             "id": "2b086bbd66aab0cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "1. Daily/2024-05-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "370bdac0e2fbce40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. TODO/server.js.md",
-                "mode": "source",
-                "source": false
+                "file": "2. TODO/RSC.canvas",
+                "viewState": {
+                  "x": -103.3270116238146,
+                  "y": -286.9804160679298,
+                  "zoom": -0.5123820129036907
+                }
               }
             }
           }
@@ -81,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 239.5,
+    "collapsed": true
   },
   "right": {
     "id": "c56181c98a8f9c8f",
@@ -97,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-05-14.md",
+                "file": "2. TODO/RSC.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-05-14.md",
+                "file": "2. TODO/RSC.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-05-14.md"
+                "file": "2. TODO/RSC.canvas"
               }
             }
           }
@@ -175,15 +167,18 @@
   "active": "2b086bbd66aab0cf",
   "lastOpenFiles": [
     "2. TODO/server.js.md",
-    "4. Web/Open Source.md",
+    "2. TODO/RSC.canvas",
     "1. Daily/2024-05-14.md",
-    "英文/英文.md",
+    "3. Reference/Open Source.md",
+    "2. TODO/React Server Component(RSC).md",
     "2. TODO/Read.md",
+    "4. Web/RSC",
+    "3. Reference/Server Components.md",
+    "英文/英文.md",
     "英文/句子.md",
     "2. TODO/InterviewQuestion.md",
     "2.1 Pending/CodingInterviewUniversity.md",
     "2.1 Pending",
-    "2. TODO/React Server Component(RSC).md",
     "4. Web/React/hydration.md",
     "4. Web/React/Diffing algorithm.md",
     "4. Web/React/Deploy.md",
@@ -200,8 +195,6 @@
     "3. Reference/Course/Data Structures.md",
     "英文/Coursera - English for Career Development/English for Career Development.md",
     "英文/方式.md",
-    "Tools/儲存目前網頁markdown.md",
-    "3. Reference/JavaScript.md",
     "Tools",
     "英文",
     "Game/遊戲王/QDW.canvas",
@@ -221,7 +214,6 @@
     "5.Stocks/通信網路/IPC",
     "Game",
     "5.Stocks/半導體",
-    "Libs",
     "5.Stocks/晶圓/5483-中美晶/5483.png",
     "export/新聞優化/plugin/chalkboard/img/blackboard.png"
   ]
