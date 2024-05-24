@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9003a858179820fd",
+        "id": "df2f72b10762eedd",
         "type": "tabs",
         "children": [
           {
-            "id": "2b086bbd66aab0cf",
+            "id": "b3f49fc8c7064b27",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "2. TODO/RSC.canvas",
-                "viewState": {
-                  "x": -113.9428829500506,
-                  "y": -664.210004317254,
-                  "zoom": -0.34392889494697404
-                }
+                "file": "2. TODO/Read.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5,
-    "collapsed": true
+    "width": 239.5
   },
   "right": {
     "id": "c56181c98a8f9c8f",
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/RSC.canvas",
+                "file": "2. TODO/Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/RSC.canvas",
+                "file": "2. TODO/Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/RSC.canvas"
+                "file": "2. TODO/Read.md"
               }
             }
           }
@@ -164,11 +160,12 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "2b086bbd66aab0cf",
+  "active": "b3f49fc8c7064b27",
   "lastOpenFiles": [
-    "2. TODO/server.js.md",
-    "2. TODO/RSC.canvas",
+    "2. TODO/InterviewQuestion.md",
     "1. Daily/2024-05-14.md",
+    "4. Web/RSC/RSC.canvas",
+    "2. TODO/server.js.md",
     "3. Reference/Open Source.md",
     "2. TODO/React Server Component(RSC).md",
     "2. TODO/Read.md",
@@ -176,7 +173,6 @@
     "3. Reference/Server Components.md",
     "英文/英文.md",
     "英文/句子.md",
-    "2. TODO/InterviewQuestion.md",
     "2.1 Pending/CodingInterviewUniversity.md",
     "2.1 Pending",
     "4. Web/React/hydration.md",
