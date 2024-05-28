@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"3bd9dc15f9a6dda8","type":"text","text":"```text\n1:\"$Sreact.suspense\"\n0:[[\"$\",\"h1\",null,{\"children\":\"Hello world\"}],[\"$\",\"$1\",null,{\"fallback\":\"Loading...\",\"children\":\"$L2\"}]] \n2: ....\n```","x":160,"y":-531,"width":452,"height":147,"color":"1"},
+		{"id":"b4b895060b1eb158","type":"text","text":"# 1. Request /","x":-413,"y":-581,"width":200,"height":64},
+		{"id":"dccf80adbaa08aea","type":"text","text":"# 2. Response HTML / JS \nHTML\n```html\n<body>\n <div id=\"root\"></div>\n <script type=\"module\" src=\"/build/_client.js\"></script>\n</body>\n```\nJS\n```js\nconst root = createRoot(document.getElementById('root'));\ncreateFromFetch(fetch('/rsc')).then(comp => {\n  root.render(comp);\n})\n```\n","x":-576,"y":-1058,"width":523,"height":396},
+		{"id":"891ecab7d4d77199","type":"text","text":"# RSC","x":349,"y":-744,"width":143,"height":66},
+		{"id":"ab07b41fb83298cf","type":"text","text":"# Server","x":-70,"y":-581,"width":143,"height":66},
+		{"id":"f51677d17f422161","type":"text","text":"# User","x":-848,"y":-568,"width":124,"height":54},
+		{"id":"a046feacb7373a6b","type":"text","text":"# 3. Request /rsc ","x":-449,"y":-414,"width":271,"height":69}
+	],
+	"edges":[
+		{"id":"f446fe4902efa78e","fromNode":"ab07b41fb83298cf","fromSide":"top","toNode":"891ecab7d4d77199","toSide":"left"},
+		{"id":"522141a8bae1ccd8","fromNode":"891ecab7d4d77199","fromSide":"bottom","toNode":"ab07b41fb83298cf","toSide":"right","color":"1"},
+		{"id":"99da53dab4a36fbc","fromNode":"f51677d17f422161","fromSide":"right","toNode":"b4b895060b1eb158","toSide":"left"},
+		{"id":"fd5ac3b04482edaf","fromNode":"b4b895060b1eb158","fromSide":"right","toNode":"ab07b41fb83298cf","toSide":"left"},
+		{"id":"aea72bf586dce2bf","fromNode":"ab07b41fb83298cf","fromSide":"top","toNode":"dccf80adbaa08aea","toSide":"right"},
+		{"id":"ad7c0ac75c24a954","fromNode":"dccf80adbaa08aea","fromSide":"left","toNode":"f51677d17f422161","toSide":"top"},
+		{"id":"9e7d05ecb7c62a26","fromNode":"f51677d17f422161","fromSide":"bottom","toNode":"a046feacb7373a6b","toSide":"top"},
+		{"id":"3c509f14d2f8b0a3","fromNode":"a046feacb7373a6b","fromSide":"right","toNode":"ab07b41fb83298cf","toSide":"left"},
+		{"id":"5b10124b23587e3d","fromNode":"ab07b41fb83298cf","fromSide":"bottom","toNode":"a046feacb7373a6b","toSide":"right","color":"1"},
+		{"id":"d74f4c80a9d46e82","fromNode":"a046feacb7373a6b","fromSide":"bottom","toNode":"f51677d17f422161","toSide":"bottom","color":"1"}
+	]
+}
