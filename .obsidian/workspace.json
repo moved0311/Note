@@ -11,8 +11,12 @@
             "id": "ed804794842c2032",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2024-05-14.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Daily/2024-05-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Daily/2024-05-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Daily/2024-05-14.md"
+              }
             }
           },
           {
@@ -159,39 +167,39 @@
   },
   "active": "ed804794842c2032",
   "lastOpenFiles": [
-    "英文/Coursera - English for Career Development/English for Career Development.md",
-    "英文/英文.md",
-    "英文/方式.md",
-    "英文/Coursera - English for Career Development",
-    "英文/chatGPT詠唱指令.md",
-    "英文",
-    "Tools/儲存目前網頁markdown.md",
-    "Tools",
-    "Libs/react-router-dom.md",
-    "Libs/react-query/window focus refetching.md",
-    "Libs/react-query",
-    "3. Reference/Server Components.md",
-    "3. Reference/React.md",
-    "3. Reference/Nextjs.md",
-    "3. Reference/Course/統計.md",
-    "3. Reference/Course/Data Structures.md",
-    "3. Reference/Course/Data Mining.md",
-    "3. Reference/Course",
-    "3. Reference/Careers.md",
-    "2.1 Pending/LeetCode.md",
-    "2.1 Pending/CodingInterviewUniversity.md",
-    "2.1 Pending",
-    "2. TODO/React Server Component(RSC).md",
-    "1. Daily/2024-05-14.md",
+    "1. Daily/2024-04-30.md",
+    "1. Daily/2024-04-12.md",
     "1. Daily/2023/2024-04-12.md",
+    "1. Daily/2023/2024-03-25.md",
+    "1. Daily/2023/2024-03-14.md",
+    "1. Daily/2023/2024-02-20.md",
+    "1. Daily/2023/2024-01-22.md",
+    "1. Daily/2023/2024-01-02.md",
+    "1. Daily/2023/2023-12-18.md",
+    "1. Daily/2023/2023-12-02.md",
+    "1. Daily/2023/2023-11-20.md",
+    "1. Daily/2023/2023-11-03.md",
+    "1. Daily/2023/2023-10-19.md",
+    "1. Daily/2023/2023-10-03.md",
+    "1. Daily/2023/2023-09-19.md",
+    "1. Daily/2023/2023-09-05.md",
+    "1. Daily/2023/2023-07-10.md",
+    "1. Daily/2023/2023-06-26.md",
+    "1. Daily/2023/2023-06-13.md",
+    "1. Daily/2023/2023-05-30.md",
+    "1. Daily/2023/2023-05-16.md",
+    "1. Daily/2023/2023-05-03.md",
+    "1. Daily/2023/2023-04-17.md",
+    "1. Daily/2023/2023-04-10.md",
+    "1. Daily/2023/2023-03-20.md",
+    "1. Daily/2023/2023-03-07.md",
+    "英文/Coursera - English for Career Development",
+    "英文",
+    "Tools",
+    "Libs/react-query",
+    "3. Reference/Course",
+    "2.1 Pending",
     "Game/遊戲王/QDW.canvas",
-    "conflict-files-obsidian-git.md",
-    "Git/Reference.md",
-    "Git/Diff.md",
-    "Docker/Dockerfile.md",
-    "Course/統計.md",
-    "5.Stocks/記憶體/美光.md",
-    "5.Stocks/封裝/先進封裝.md",
     "4. Web/Storybook",
     "Game/遊戲王",
     "Game",
