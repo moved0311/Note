@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024-05-14.md",
+                "file": "2. TODO/面試/4. 公司/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-05-14.md",
+                "file": "2. TODO/面試/4. 公司/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-05-14.md",
+                "file": "2. TODO/面試/4. 公司/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-05-14.md"
+                "file": "2. TODO/面試/4. 公司/未命名.md"
               }
             }
           }
@@ -186,8 +186,10 @@
   },
   "active": "38f428aa21eaf446",
   "lastOpenFiles": [
-    "2. TODO/面試/3. 後續想了解問題.md",
     "1. Daily/2024-05-14.md",
+    "2. TODO/面試/4. 公司/未命名.md",
+    "2. TODO/面試/4. 公司",
+    "2. TODO/面試/3. 後續想了解問題.md",
     "Git/清除untrack files.md",
     "Git/產生ssh key.md",
     "Git/Cache.md",
@@ -217,7 +219,6 @@
     "英文/句子.md",
     "2.1 Pending/CodingInterviewUniversity.md",
     "2.1 Pending",
-    "4. Web/React/hydration.md",
     "4. Web/React/1. React.canvas",
     "Tools",
     "英文",
@@ -233,7 +234,6 @@
     "PPT/20240327-TradingView/result.png",
     "Pasted image 20240326101558.png",
     "PPT/20230104-Slack Ｍessage/postToChannel.png",
-    "PPT/20240327-TradingView",
     "5.Stocks/通信網路/WiFi比較圖.png",
     "5.Stocks/晶圓/5483-中美晶/5483.png",
     "export/新聞優化/plugin/chalkboard/img/blackboard.png"
