@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/面試/4. 公司/未命名.md",
+                "file": "2. TODO/面試/2. 專業問題/問題.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/面試/4. 公司/未命名.md",
+                "file": "2. TODO/面試/2. 專業問題/問題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/面試/4. 公司/未命名.md",
+                "file": "2. TODO/面試/2. 專業問題/問題.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/面試/4. 公司/未命名.md"
+                "file": "2. TODO/面試/2. 專業問題/問題.md"
               }
             }
           }
@@ -174,6 +174,8 @@
   },
   "active": "38f428aa21eaf446",
   "lastOpenFiles": [
+    "2. TODO/面試/2. 專業問題/開發流程.md",
+    "2. TODO/面試/2. 專業問題/問題.md",
     "2. TODO/面試/3. 後續想了解問題.md",
     "2. TODO/面試/4. 公司/未命名.md",
     "1. Daily/2024-05-14.md",
@@ -182,10 +184,8 @@
     "Git/產生ssh key.md",
     "Git/Cache.md",
     "1. Daily/2024-05-29.md",
-    "2. TODO/面試/2. 專業問題/問題.md",
     "3. Reference/JavaScript.md",
     "2. TODO/面試/1. 基本問題/最大成就與挫折經驗.md",
-    "2. TODO/面試/2. 專業問題/開發流程.md",
     "2. TODO/面試/1. 基本問題/離職原因.md",
     "2. TODO/面試/1. 基本問題/自我介紹.md",
     "2. TODO/面試/1. 基本問題/能有什麼貢獻.md",
