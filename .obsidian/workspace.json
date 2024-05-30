@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 206.5
   },
   "right": {
     "id": "c56181c98a8f9c8f",
@@ -172,7 +172,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "38f428aa21eaf446",
+  "active": "871ad62d0ab09a0c",
   "lastOpenFiles": [
     "2. TODO/面試/2. 專業問題/開發流程.md",
     "2. TODO/面試/2. 專業問題/問題.md",
