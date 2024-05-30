@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "4d0d659041664946",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. TODO/面試/3. 後續想了解問題.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b3f49fc8c7064b27",
             "type": "leaf",
             "state": {
@@ -186,10 +174,10 @@
   },
   "active": "38f428aa21eaf446",
   "lastOpenFiles": [
-    "1. Daily/2024-05-14.md",
-    "2. TODO/面試/4. 公司/未命名.md",
-    "2. TODO/面試/4. 公司",
     "2. TODO/面試/3. 後續想了解問題.md",
+    "2. TODO/面試/4. 公司/未命名.md",
+    "1. Daily/2024-05-14.md",
+    "2. TODO/面試/4. 公司",
     "Git/清除untrack files.md",
     "Git/產生ssh key.md",
     "Git/Cache.md",
