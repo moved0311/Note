@@ -20,18 +20,31 @@
             }
           },
           {
+            "id": "03e1728f0445decf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. TODO/面試/4. 公司/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b3f49fc8c7064b27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/面試/1. 基本問題/問題.md",
+                "file": "2. TODO/面試/1. 基本問題/想像.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/React19.md",
+                "file": "2. TODO/面試/4. 公司/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/React19.md",
+                "file": "2. TODO/面試/4. 公司/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/React19.md"
+                "file": "2. TODO/面試/4. 公司/未命名.md"
               }
             }
           }
@@ -173,16 +186,18 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "38f428aa21eaf446",
+  "active": "03e1728f0445decf",
   "lastOpenFiles": [
+    "2. TODO/面試/1. 基本問題/想像.md",
+    "2. TODO/React19.md",
+    "2. TODO/面試/4. 公司/未命名.md",
+    "2. TODO/面試/1. 基本問題/離職原因.md",
     "2. TODO/面試/1. 基本問題/問題.md",
     "2. TODO/面試/1. 基本問題/自我介紹.md",
     "2. TODO/面試/1. 基本問題/未來規劃.md",
     "2. TODO/面試/2. 專業問題/問題.md",
-    "2. TODO/React19.md",
     "2. TODO/面試/2. 專業問題/開發流程.md",
     "2. TODO/面試/3. 後續想了解問題.md",
-    "2. TODO/面試/4. 公司/未命名.md",
     "1. Daily/2024-05-14.md",
     "2. TODO/面試/4. 公司",
     "Git/清除untrack files.md",
@@ -191,7 +206,6 @@
     "1. Daily/2024-05-29.md",
     "3. Reference/JavaScript.md",
     "2. TODO/面試/1. 基本問題/最大成就與挫折經驗.md",
-    "2. TODO/面試/1. 基本問題/離職原因.md",
     "2. TODO/面試/1. 基本問題/能有什麼貢獻.md",
     "2. TODO/面試/1. 基本問題/為什麼想應徵職位公司.md",
     "2. TODO/面試/1. 基本問題/優點與缺點.md",
@@ -206,7 +220,6 @@
     "2. TODO/React Server Component(RSC).md",
     "4. Web/RSC",
     "3. Reference/Server Components.md",
-    "英文/英文.md",
     "2.1 Pending",
     "4. Web/React/1. React.canvas",
     "Tools",
