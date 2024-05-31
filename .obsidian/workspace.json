@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/React19.md",
+                "file": "2. TODO/留言區問題.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5,
+    "width": 261.5,
     "collapsed": true
   },
   "right": {
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/React19.md",
+                "file": "2. TODO/留言區問題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/React19.md",
+                "file": "2. TODO/留言區問題.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/React19.md"
+                "file": "2. TODO/留言區問題.md"
               }
             }
           }
@@ -188,7 +188,12 @@
   "active": "38f428aa21eaf446",
   "lastOpenFiles": [
     "2. TODO/面試/4. 公司/未命名.md",
+    "2. TODO/留言區問題.md",
     "2. TODO/面試/1. 基本問題/想像.md",
+    "2. TODO/server.js.md",
+    "2. TODO/React Server Component(RSC).md",
+    "2. TODO/InterviewQuestion.md",
+    "2. TODO/Read.md",
     "2. TODO/React19.md",
     "2. TODO/面試/1. 基本問題/離職原因.md",
     "2. TODO/面試/1. 基本問題/問題.md",
@@ -211,14 +216,9 @@
     "2. TODO/面試/2. 專業問題",
     "2. TODO/面試/1. 基本問題",
     "2. TODO/面試",
-    "2. TODO/Read.md",
-    "2. TODO/InterviewQuestion.md",
     "4. Web/RSC/RSC.canvas",
-    "2. TODO/server.js.md",
     "3. Reference/Open Source.md",
-    "2. TODO/React Server Component(RSC).md",
     "4. Web/RSC",
-    "3. Reference/Server Components.md",
     "2.1 Pending",
     "4. Web/React/1. React.canvas",
     "Tools",
