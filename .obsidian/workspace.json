@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "performance",
+                "query": "CORS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,12 +89,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "c56181c98a8f9c8f",
@@ -187,10 +187,11 @@
   },
   "active": "38f428aa21eaf446",
   "lastOpenFiles": [
+    "6. Works/鉅亨網/新聞專案改版.md",
+    "2. TODO/留言區問題.md",
     "2. TODO/面試/2. 專業問題/問題.md",
     "2. TODO/面試/4. 公司/未命名.md",
     "2. TODO/面試/1. 基本問題/想像.md",
-    "2. TODO/留言區問題.md",
     "2. TODO/server.js.md",
     "2. TODO/React Server Component(RSC).md",
     "2. TODO/InterviewQuestion.md",
@@ -217,7 +218,6 @@
     "2. TODO/面試/1. 基本問題",
     "2. TODO/面試",
     "4. Web/RSC/RSC.canvas",
-    "3. Reference/Open Source.md",
     "4. Web/RSC",
     "2.1 Pending",
     "4. Web/React/1. React.canvas",
