@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "95b5dcfff64144e1",
+            "id": "aefe8574f50c9c05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2. TODO/面試/2. 專業問題/問題.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95b5dcfff64144e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Web/Event Loop/Event Loop.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CORS",
+                "query": "Macro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,36 +186,36 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "95b5dcfff64144e1",
+  "active": "aefe8574f50c9c05",
   "lastOpenFiles": [
-    "1. Daily/2024-05-29.md",
+    "2. TODO/面試/1. 基本問題/離職原因.md",
     "2. TODO/面試/1. 基本問題/問題.md",
+    "2. TODO/面試/1. 基本問題/優點與缺點.md",
+    "2. TODO/面試/1. 基本問題/最大成就與挫折經驗.md",
+    "2. TODO/面試/1. 基本問題/為什麼想應徵職位公司.md",
+    "2. TODO/面試/1. 基本問題/未來工作內容的期許規劃.md",
+    "2. TODO/面試/1. 基本問題/自我介紹.md",
     "2. TODO/面試/2. 專業問題/問題.md",
+    "2. TODO/面試/1. 基本問題/能有什麼貢獻.md",
+    "2. TODO/面試/2. 專業問題/開發流程.md",
+    "2. TODO/面試/3. 行為問題.md",
+    "1. Daily/2024-05-29.md",
+    "4. Web/Event Loop/Event Loop.md",
+    "4. Web/Event Loop/Macro/setTimeout.md",
+    "4. Web/Event Loop/Microtask v.s. Macrotask.md",
     "2. TODO/留言區問題.md",
     "2. TODO/Read.md",
     "2. TODO/server.js.md",
     "2. TODO/React19.md",
-    "2. TODO/面試/2. 專業問題/開發流程.md",
-    "2. TODO/面試/1. 基本問題/能有什麼貢獻.md",
-    "2. TODO/面試/1. 基本問題/為什麼想應徵職位公司.md",
-    "2. TODO/面試/1. 基本問題/自我介紹.md",
-    "2. TODO/面試/1. 基本問題/未來工作內容的期許規劃.md",
     "2. TODO/面試/1. 基本問題/未來規劃.md",
     "2. TODO/面試/4. 公司/91APP.md",
-    "2. TODO/面試/3. 行為問題.md",
     "2. TODO/面試/2. 專業問題/團隊.md",
     "2. TODO/面試/5. 後續想了解問題.md",
     "2. TODO/面試/3. 行為問題",
     "6. Works/鉅亨網/新聞專案改版.md",
     "2. TODO/React Server Component(RSC).md",
     "2. TODO/InterviewQuestion.md",
-    "2. TODO/面試/1. 基本問題/離職原因.md",
-    "1. Daily/2024-05-14.md",
     "2. TODO/面試/4. 公司",
-    "Git/清除untrack files.md",
-    "Git/產生ssh key.md",
-    "Git/Cache.md",
-    "3. Reference/JavaScript.md",
     "2. TODO/面試/2. 專業問題",
     "2. TODO/面試/1. 基本問題",
     "2. TODO/面試",

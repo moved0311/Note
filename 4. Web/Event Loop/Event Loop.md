@@ -7,54 +7,14 @@
 
  
  [Event loop視覺化](https://www.jsv9000.app/)
-```js
-function func1() {
-  console.log("func1 start");
-  return new Promise((resolve) => {
-    resolve("OK");
-  });
-}
 
-function func2() {
-  console.log("func2 start");
-  return new Promise((resolve) => {
-    setTimeout(() => {
-      resolve("OK");
-    }, 10);
-  });
-}
+## Microtask v.s. Macrotask
+* [浏览器知识点整理（十三）不同的回调执行时机：宏任务和微任务 - 掘金](https://juejin.cn/post/6978122767451291679)
+*  [⭐️🎀 JavaScript Visualized: Promises & Async/Await - DEV Community 👩‍💻👨‍💻](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke) 
 
-setTimeout(() => Promise.resolve().then(
-  function func3() {
-    console.log(2);
+## setTimeout
 
-    Promise.resolve().then(
-      function func4() {
-        func1()
-      }
-    )
-    console.log(3);
-  }
-), 20);
+*  [为什么都说定时器 setTimeout 不能准时执行呢？ - 掘金](https://juejin.cn/post/6977746526441308173)
 
 
-console.log(1);
 
-
-console.log(4);
-
-func1().then(() => {
-  console.log(5);
-});
-
-func2().then(() => {
-  console.log(6);
-});
-
-setTimeout(() => {
-  console.log(7);
-}, 0);
-
-console.log(8);
-
-```
