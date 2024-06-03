@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/面試/2. 專業問題/問題.md",
+                "file": "1. Daily/2024-05-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,10 +174,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "38f428aa21eaf446",
+  "active": "95b5dcfff64144e1",
   "lastOpenFiles": [
-    "2. TODO/面試/1. 基本問題/問題.md",
     "1. Daily/2024-05-29.md",
+    "2. TODO/面試/1. 基本問題/問題.md",
     "2. TODO/面試/2. 專業問題/問題.md",
     "2. TODO/留言區問題.md",
     "2. TODO/Read.md",
