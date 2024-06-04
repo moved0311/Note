@@ -1,9 +1,9 @@
 [浏览器知识点整理（十二）事件循环机制（Event Loop） - 掘金](https://juejin.cn/post/6977746526441308173)
 
-* Mircotask (jobs)
-	* process.nextTick, promise, MutationObserver
 * Macrotask (task)
-	* `<script>`, setTimeout, setInterval, setImmediate, I/O, UI rendering
+	* `<script>`, setTimeout, setInterval, setImmediate, I/O, UI rendering, 網路請求fetch
+* Mircotask (jobs)
+	* Promise.then, Promise.catch, process.nextTick, MutationObserver,  queueMicrotask
 
  
  [Event loop視覺化](https://www.jsv9000.app/)
