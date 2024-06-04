@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024-05-29.md",
+                "file": "PPT/20240605-share-localstorage/index.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "c56181c98a8f9c8f",
@@ -111,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/面試/2. 專業問題/問題.md",
+                "file": "PPT/20240605-share-localstorage/index.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/面試/2. 專業問題/問題.md",
+                "file": "PPT/20240605-share-localstorage/index.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/面試/2. 專業問題/問題.md"
+                "file": "PPT/20240605-share-localstorage/index.md.md"
               }
             }
           }
@@ -186,10 +184,13 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "aefe8574f50c9c05",
+  "active": "38f428aa21eaf446",
   "lastOpenFiles": [
-    "1. Daily/2024-05-29.md",
     "2. TODO/面試/2. 專業問題/問題.md",
+    "PPT/20240605-share-localstorage/index.md.md",
+    "PPT/20240327-TradingView/Index.md",
+    "1. Daily/2024-05-29.md",
+    "PPT/20240605-share-localstorage",
     "2. TODO/面試/5. 後續想了解問題.md",
     "2. TODO/面試/1. 基本問題/離職原因.md",
     "2. TODO/面試/1. 基本問題/優點與缺點.md",
@@ -213,8 +214,6 @@
     "2. TODO/面試/2. 專業問題/團隊.md",
     "2. TODO/面試/3. 行為問題",
     "6. Works/鉅亨網/新聞專案改版.md",
-    "2. TODO/React Server Component(RSC).md",
-    "2. TODO/InterviewQuestion.md",
     "2. TODO/面試/4. 公司",
     "2. TODO/面試/2. 專業問題",
     "2. TODO/面試/1. 基本問題",
@@ -226,7 +225,6 @@
     "Tools",
     "英文",
     "Game/遊戲王/QDW.canvas",
-    "Game/遊戲王",
     "Game/未命名.canvas",
     "PPT/20240327-TradingView/AAPL.png",
     "PPT/20240327-TradingView/flow.png",
