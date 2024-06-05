@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aefe8574f50c9c05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. TODO/面試/2. 專業問題/問題.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "38f428aa21eaf446",
             "type": "leaf",
             "state": {
@@ -29,6 +17,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "ca2108df8dadd2f2",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
             }
           }
         ],
@@ -82,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "c56181c98a8f9c8f",
@@ -173,7 +170,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "38f428aa21eaf446",
+  "active": "871ad62d0ab09a0c",
   "lastOpenFiles": [
     "PPT/20240327-TradingView/Index.md",
     "PPT/20240605-share-localstorage/index.md.md",
