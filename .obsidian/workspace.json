@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ca2108df8dadd2f2",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +161,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "871ad62d0ab09a0c",
+  "active": "38f428aa21eaf446",
   "lastOpenFiles": [
     "PPT/20240327-TradingView/Index.md",
     "PPT/20240605-share-localstorage/index.md.md",
