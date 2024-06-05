@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "38f428aa21eaf446",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PPT/20240605-share-localstorage/index.md.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "aefe8574f50c9c05",
             "type": "leaf",
             "state": {
@@ -32,18 +20,19 @@
             }
           },
           {
-            "id": "716919724c620657",
+            "id": "38f428aa21eaf446",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Web/Event Loop/Event Loop.md",
+                "file": "PPT/20240605-share-localstorage/index.md.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,9 +175,10 @@
   },
   "active": "38f428aa21eaf446",
   "lastOpenFiles": [
-    "2. TODO/面試/2. 專業問題/問題.md",
-    "PPT/20240605-share-localstorage/index.md.md",
     "PPT/20240327-TradingView/Index.md",
+    "PPT/20240605-share-localstorage/index.md.md",
+    "2. TODO/面試/2. 專業問題/問題.md",
+    "4. Web/Event Loop/Event Loop.md",
     "1. Daily/2024-05-29.md",
     "PPT/20240605-share-localstorage",
     "2. TODO/面試/5. 後續想了解問題.md",
@@ -196,7 +186,6 @@
     "2. TODO/面試/1. 基本問題/優點與缺點.md",
     "2. TODO/面試/1. 基本問題/最大成就與挫折經驗.md",
     "2. TODO/面試/1. 基本問題/問題.md",
-    "4. Web/Event Loop/Event Loop.md",
     "2. TODO/面試/1. 基本問題/為什麼想應徵職位公司.md",
     "2. TODO/面試/1. 基本問題/未來工作內容的期許規劃.md",
     "2. TODO/面試/1. 基本問題/自我介紹.md",
