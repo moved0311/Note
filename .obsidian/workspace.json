@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024-05-29.md",
+                "file": "2. TODO/面試/2. 專業問題/問題.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "c56181c98a8f9c8f",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-05-29.md",
+                "file": "2. TODO/面試/2. 專業問題/問題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-05-29.md",
+                "file": "2. TODO/面試/2. 專業問題/問題.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-05-29.md"
+                "file": "2. TODO/面試/2. 專業問題/問題.md"
               }
             }
           }
@@ -162,9 +163,9 @@
   },
   "active": "871ad62d0ab09a0c",
   "lastOpenFiles": [
+    "1. Daily/2024-05-29.md",
     "1. Daily/2024",
     "1. Daily/2024-05-14.md",
-    "1. Daily/2024-05-29.md",
     "PPT/20240605-share-localstorage/index.md.md",
     "PPT/20240327-TradingView/Index.md",
     "2. TODO/面試/2. 專業問題/問題.md",
@@ -199,7 +200,6 @@
     "2.1 Pending",
     "4. Web/React/1. React.canvas",
     "Tools",
-    "英文",
     "Game/遊戲王/QDW.canvas",
     "Game/未命名.canvas",
     "PPT/20240327-TradingView/AAPL.png",
