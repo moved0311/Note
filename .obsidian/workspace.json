@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "f8f31f0191c337c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Libs/react-query/window focus refetching.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a521f102247fa907",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libs/react-query/document.md",
+                "file": "2. TODO/留言區問題.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libs/react-query/window focus refetching.md",
+                "file": "2. TODO/留言區問題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Libs/react-query/window focus refetching.md",
+                "file": "2. TODO/留言區問題.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Libs/react-query/window focus refetching.md"
+                "file": "2. TODO/留言區問題.md"
               }
             }
           }
@@ -185,9 +173,15 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "f8f31f0191c337c4",
+  "active": "a521f102247fa907",
   "lastOpenFiles": [
+    "2. TODO/InterviewQuestion.md",
+    "2. TODO/Read.md",
+    "2. TODO/React19.md",
+    "2. TODO/留言區問題.md",
     "1. Daily/2024-06-11.md",
+    "Libs/react-query/document.md",
+    "Libs/react-query/window focus refetching.md",
     "未命名.md",
     "4. Web/RSC/React Server Component(RSC).md",
     "4. Web/server.js.md",
@@ -201,12 +195,7 @@
     "1. Daily/2023/2024-02-20.md",
     "1. Daily/2023/2024-01-22.md",
     "1. Daily/2023/2024-01-02.md",
-    "2. TODO/留言區問題.md",
     "1. Daily/2024-05-29.md",
-    "Libs/react-query/document.md",
-    "2. TODO/InterviewQuestion.md",
-    "2. TODO/React19.md",
-    "2. TODO/Read.md",
     "2. TODO/面試/2. 專業問題/問題.md",
     "1. Daily/2024",
     "1. Daily/2024-05-14.md",
@@ -214,7 +203,6 @@
     "PPT/20240327-TradingView/Index.md",
     "4. Web/Event Loop/Event Loop.md",
     "PPT/20240605-share-localstorage",
-    "2. TODO/面試/5. 後續想了解問題.md",
     "2. TODO/面試/3. 行為問題",
     "2. TODO/面試/4. 公司",
     "2. TODO/面試/2. 專業問題",
