@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/留言區問題.md",
+                "file": "1. Daily/2024-06-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/留言區問題.md",
+                "file": "1. Daily/2024-06-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/留言區問題.md"
+                "file": "1. Daily/2024-06-11.md"
               }
             }
           }
@@ -173,12 +172,12 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "a521f102247fa907",
+  "active": "11c5113d4dde8626",
   "lastOpenFiles": [
+    "2. TODO/留言區問題.md",
     "2. TODO/InterviewQuestion.md",
     "2. TODO/Read.md",
     "2. TODO/React19.md",
-    "2. TODO/留言區問題.md",
     "1. Daily/2024-06-11.md",
     "Libs/react-query/document.md",
     "Libs/react-query/window focus refetching.md",
