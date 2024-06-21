@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Docker",
+                "query": "none",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,7 +161,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "871ad62d0ab09a0c",
+  "active": "2cb51d19092c7bcf",
   "lastOpenFiles": [
     "2. TODO/面試/1. 基本問題/自我介紹.md",
     "1. Daily/2024/2024-04-30.md",
