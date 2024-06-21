@@ -34,57 +34,6 @@ $ docker images ls
 $ docker container ls --all
 ```
 
-## Part2 : Containers
-```bash
-## 建立一個新的資料夾HelloWorld
-mkdir HelloWorld
-
-## 切換到HelloWorld資料夾
-cd HelloWorld
-
-## 創一個Dockerfile的檔案
-vim Dockerfile
-## 輸入 :set paste
-## 按 i 
-## 下面內容複製好，右鍵貼上
-## :wq 儲存離開
-
-## 創立一個requirements.txt檔案
-vim requirements.txt
-## Dockerfile第四個部分會安裝requirements.txt內需要用到的套件
-
-## 建立一個app.py檔案
-vim app.py 
-```
-
-__`Dockerfile`__
-```bash
-## Use an official Python runtime as a parent image
-FROM python:2.7-slim
-
-# Set the working directory to /app
-WORKDIR /app
-
-# Copy the current directory contents into the container at /app
-ADD . /app
-
-# Install any needed packages specified in requirements.txt
-RUN pip install --trusted-host pypi.python.org -r requirements.txt
-
-# Make port 80 available to the world outside this container
-EXPOSE 80
-
-# Define environment variable
-ENV NAME World
-
-# Run app.py when the container launches
-CMD ["python", "app.py"]
-```
-__`requirements.txt`__
-```
-Flask
-Redis
-```
 __`app.py`__
 ```py
 from flask import Flask

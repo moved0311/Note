@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024-06-11.md",
+                "file": "6. Works/鉅亨網/新聞專案改版.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Macro",
+                "query": "Docker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 335.5
   },
   "right": {
     "id": "c56181c98a8f9c8f",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-06-11.md",
+                "file": "6. Works/鉅亨網/新聞專案改版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-06-11.md",
+                "file": "6. Works/鉅亨網/新聞專案改版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-06-11.md"
+                "file": "6. Works/鉅亨網/新聞專案改版.md"
               }
             }
           }
@@ -160,11 +160,17 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "11c5113d4dde8626",
+  "active": "871ad62d0ab09a0c",
   "lastOpenFiles": [
+    "2. TODO/面試/1. 基本問題/自我介紹.md",
+    "1. Daily/2024/2024-04-30.md",
+    "1. Daily/2023/2023-08-21.md",
+    "1. Daily/2023/2023-06-13.md",
     "Docker/Docker.md",
-    "Docker/Dockerfile.md",
+    "PPT/20230726-Docker/CICD.md",
+    "6. Works/鉅亨網/新聞專案改版.md",
     "1. Daily/2024-06-11.md",
+    "Docker/Dockerfile.md",
     "2. TODO/留言區問題.md",
     "2. TODO/InterviewQuestion.md",
     "2. TODO/Read.md",
@@ -182,13 +188,7 @@
     "1. Daily/2023/2024-03-25.md",
     "1. Daily/2023/2024-03-14.md",
     "1. Daily/2023/2024-02-20.md",
-    "1. Daily/2023/2024-01-22.md",
-    "1. Daily/2023/2024-01-02.md",
-    "1. Daily/2024-05-29.md",
-    "2. TODO/面試/2. 專業問題/問題.md",
     "1. Daily/2024",
-    "1. Daily/2024-05-14.md",
-    "PPT/20240605-share-localstorage/index.md.md",
     "PPT/20240605-share-localstorage",
     "2. TODO/面試/3. 行為問題",
     "2. TODO/面試/4. 公司",
