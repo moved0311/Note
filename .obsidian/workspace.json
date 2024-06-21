@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "cbd29a03f792751a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2024-06-11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "11c5113d4dde8626",
             "type": "leaf",
             "state": {
@@ -65,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Works/鉅亨網/新聞專案改版.md",
+                "file": "1. Daily/2024-06-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Works/鉅亨網/新聞專案改版.md",
+                "file": "1. Daily/2024-06-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Works/鉅亨網/新聞專案改版.md"
+                "file": "1. Daily/2024-06-11.md"
               }
             }
           }
@@ -161,15 +172,15 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "2cb51d19092c7bcf",
+  "active": "cbd29a03f792751a",
   "lastOpenFiles": [
+    "6. Works/鉅亨網/新聞專案改版.md",
     "2. TODO/面試/1. 基本問題/自我介紹.md",
     "1. Daily/2024/2024-04-30.md",
     "1. Daily/2023/2023-08-21.md",
     "1. Daily/2023/2023-06-13.md",
     "Docker/Docker.md",
     "PPT/20230726-Docker/CICD.md",
-    "6. Works/鉅亨網/新聞專案改版.md",
     "1. Daily/2024-06-11.md",
     "Docker/Dockerfile.md",
     "2. TODO/留言區問題.md",
