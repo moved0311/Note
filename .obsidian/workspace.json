@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/面試/2. 專業問題/問題.md",
+                "file": "2. TODO/面試/1. 基本問題/問題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/面試/2. 專業問題/問題.md",
+                "file": "2. TODO/面試/1. 基本問題/問題.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/面試/2. 專業問題/問題.md"
+                "file": "2. TODO/面試/1. 基本問題/問題.md"
               }
             }
           }
@@ -172,13 +173,13 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "5cd1f6ebc99fe977",
+  "active": "5d2b9e44b2e7346c",
   "lastOpenFiles": [
+    "2. TODO/面試/2. 專業問題/問題.md",
     "1. Daily/2024-06-11.md",
     "2. TODO/面試/1. 基本問題/問題.md",
     "2. TODO/面試/4. 後續想了解問題.md",
     "2. TODO/面試/3. 行為問題.md",
-    "2. TODO/面試/2. 專業問題/問題.md",
     "2. TODO/面試/2. 專業問題/開發流程.md",
     "2. TODO/面試/1. 基本問題/自我介紹.md",
     "2. TODO/面試/1. 基本問題/為什麼想應徵職位公司.md",
