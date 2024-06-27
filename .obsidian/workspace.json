@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "58be578a7f1e9f6f",
+        "id": "71a89525ac33ffbd",
         "type": "tabs",
         "children": [
           {
-            "id": "cbd29a03f792751a",
+            "id": "5cd1f6ebc99fe977",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5d2b9e44b2e7346c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. TODO/面試/2. 專業問題/問題.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 225.5
   },
   "right": {
     "id": "c56181c98a8f9c8f",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-06-11.md",
+                "file": "2. TODO/面試/2. 專業問題/問題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-06-11.md",
+                "file": "2. TODO/面試/2. 專業問題/問題.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-06-11.md"
+                "file": "2. TODO/面試/2. 專業問題/問題.md"
               }
             }
           }
@@ -160,8 +173,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "cbd29a03f792751a",
+  "active": "5d2b9e44b2e7346c",
   "lastOpenFiles": [
+    "1. Daily/2024-06-11.md",
+    "2. TODO/面試/2. 專業問題/問題.md",
     "6. Works/鉅亨網/新聞專案改版.md",
     "2. TODO/面試/1. 基本問題/自我介紹.md",
     "1. Daily/2024/2024-04-30.md",
@@ -169,7 +184,6 @@
     "1. Daily/2023/2023-06-13.md",
     "Docker/Docker.md",
     "PPT/20230726-Docker/CICD.md",
-    "1. Daily/2024-06-11.md",
     "Docker/Dockerfile.md",
     "2. TODO/留言區問題.md",
     "2. TODO/InterviewQuestion.md",
@@ -187,7 +201,6 @@
     "1. Daily/2023/2024-04-12.md",
     "1. Daily/2023/2024-03-25.md",
     "1. Daily/2023/2024-03-14.md",
-    "1. Daily/2023/2024-02-20.md",
     "1. Daily/2024",
     "PPT/20240605-share-localstorage",
     "2. TODO/面試/3. 行為問題",
