@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024-06-11.md",
+                "file": "2. TODO/面試/2. 專業問題/問題.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/面試/2. 專業問題/問題.md",
+                "file": "2. TODO/面試/1. 基本問題/問題.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,12 +172,22 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "5d2b9e44b2e7346c",
+  "active": "5cd1f6ebc99fe977",
   "lastOpenFiles": [
     "1. Daily/2024-06-11.md",
+    "2. TODO/面試/1. 基本問題/問題.md",
+    "2. TODO/面試/4. 後續想了解問題.md",
+    "2. TODO/面試/3. 行為問題.md",
     "2. TODO/面試/2. 專業問題/問題.md",
-    "6. Works/鉅亨網/新聞專案改版.md",
+    "2. TODO/面試/2. 專業問題/開發流程.md",
     "2. TODO/面試/1. 基本問題/自我介紹.md",
+    "2. TODO/面試/1. 基本問題/為什麼想應徵職位公司.md",
+    "2. TODO/面試/1. 基本問題/未來工作內容的期許規劃.md",
+    "2. TODO/面試/1. 基本問題/離職原因.md",
+    "2. TODO/面試/1. 基本問題/優點與缺點.md",
+    "2. TODO/面試/1. 基本問題/最大成就與挫折經驗.md",
+    "2. TODO/面試/公司/91APP.md",
+    "6. Works/鉅亨網/新聞專案改版.md",
     "1. Daily/2024/2024-04-30.md",
     "1. Daily/2023/2023-08-21.md",
     "1. Daily/2023/2023-06-13.md",
@@ -191,20 +200,10 @@
     "2. TODO/React19.md",
     "Libs/react-query/document.md",
     "Libs/react-query/window focus refetching.md",
-    "未命名.md",
-    "4. Web/RSC/React Server Component(RSC).md",
-    "4. Web/server.js.md",
-    "conflict-files-obsidian-git.md",
-    "2. TODO/server.js.md",
-    "2. TODO/React Server Component(RSC).md",
-    "1. Daily/2023/2024-04-30.md",
-    "1. Daily/2023/2024-04-12.md",
-    "1. Daily/2023/2024-03-25.md",
-    "1. Daily/2023/2024-03-14.md",
     "1. Daily/2024",
     "PPT/20240605-share-localstorage",
     "2. TODO/面試/3. 行為問題",
-    "2. TODO/面試/4. 公司",
+    "2. TODO/面試/公司",
     "2. TODO/面試/2. 專業問題",
     "2. TODO/面試/1. 基本問題",
     "2. TODO/面試",
