@@ -1,5 +1,5 @@
 {
-  "port": "7878",
+  "port": "3000",
   "autoReload": true,
   "exportDirectory": "/export",
   "enableChalkboard": false,
@@ -17,5 +17,5 @@
   "showGrid": false,
   "autoComplete": "inPreview",
   "paneMode": "split",
-  "motm": "2024-06-05T02:01:38.319Z"
+  "motm": "2024-07-01T01:44:22.928Z"
 }
