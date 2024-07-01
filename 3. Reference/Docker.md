@@ -1,0 +1,1 @@
+* [Containerizing A NextJs Application For Development - DEV Community](https://dev.to/scaabel/containerizing-a-nextjs-application-for-development-204d)
