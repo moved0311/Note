@@ -13,19 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024-06-11.md",
+                "file": "2. TODO/面試/1.  基本問題.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a4c3770b704bda7d",
+            "id": "03d7700ef742a9a3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "1. Daily/2024-06-11.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -171,12 +173,12 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "a4c3770b704bda7d",
+  "active": "03d7700ef742a9a3",
   "lastOpenFiles": [
-    "3. Reference/Docker.md",
-    "1. Daily/2024-06-11.md",
-    "2. TODO/面試/2. 專業問題.md",
     "2. TODO/面試/1.  基本問題.md",
+    "1. Daily/2024-06-11.md",
+    "3. Reference/Docker.md",
+    "2. TODO/面試/2. 專業問題.md",
     "2. TODO/面試/2. 專業問題/問題.md",
     "2. TODO/面試/2. 專業問題/開發流程.md",
     "2. TODO/面試/1. 基本問題/自我介紹.md",
