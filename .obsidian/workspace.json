@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a4c3770b704bda7d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +171,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "5cd1f6ebc99fe977",
+  "active": "a4c3770b704bda7d",
   "lastOpenFiles": [
     "3. Reference/Docker.md",
     "1. Daily/2024-06-11.md",
