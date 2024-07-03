@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/面試/1.  基本問題.md",
+                "file": "1. Daily/2024-06-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024-06-11.md",
+                "file": "2. TODO/各種程式語言功能檢查.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,10 +172,12 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "03d7700ef742a9a3",
+  "active": "5cd1f6ebc99fe977",
   "lastOpenFiles": [
     "2. TODO/面試/1.  基本問題.md",
+    "2. TODO/各種程式語言功能檢查.md",
     "1. Daily/2024-06-11.md",
+    "2. TODO/未命名",
     "3. Reference/Docker.md",
     "2. TODO/面試/2. 專業問題.md",
     "2. TODO/面試/2. 專業問題/問題.md",
@@ -200,7 +201,6 @@
     "Docker/Dockerfile.md",
     "2. TODO/留言區問題.md",
     "2. TODO/InterviewQuestion.md",
-    "2. TODO/Read.md",
     "1. Daily/2024",
     "PPT/20240605-share-localstorage",
     "2. TODO/面試/3. 行為問題",
@@ -212,7 +212,6 @@
     "4. Web/RSC",
     "2.1 Pending",
     "4. Web/React/1. React.canvas",
-    "Tools",
     "Game/遊戲王/QDW.canvas",
     "Game/未命名.canvas",
     "PPT/20240327-TradingView/AAPL.png",
