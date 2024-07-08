@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b632f62cf7c9fc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. TODO/Blind.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "none",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-07-08.md",
+                "file": "2. TODO/Blind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-07-08.md",
+                "file": "2. TODO/Blind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-07-08.md"
+                "file": "2. TODO/Blind.md"
               }
             }
           }
@@ -160,10 +173,14 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "69c8741001439abf",
+  "active": "3b632f62cf7c9fc7",
   "lastOpenFiles": [
-    "2. TODO/各種程式語言功能檢查.md",
     "1. Daily/2024-07-08.md",
+    "2. TODO/Blind.md",
+    "2. TODO/各種程式語言功能檢查.md",
+    "2. TODO/InterviewQuestion.md",
+    "2. TODO/React19.md",
+    "2. TODO/Read.md",
     "1. Daily/2024/2024-06-11.md",
     "1. Daily/2024/2024-05-29.md",
     "6. Works/鉅亨網/QA/留言區問題.md",
@@ -185,10 +202,6 @@
     "2. TODO/面試/1. 基本問題/離職原因.md",
     "2. TODO/面試/1. 基本問題/優點與缺點.md",
     "2. TODO/面試/1. 基本問題/最大成就與挫折經驗.md",
-    "2. TODO/面試/公司/91APP.md",
-    "6. Works/鉅亨網/新聞專案改版.md",
-    "1. Daily/2024/2024-04-30.md",
-    "1. Daily/2023/2023-08-21.md",
     "1. Daily/2024",
     "PPT/20240605-share-localstorage",
     "2. TODO/面試/3. 行為問題",
