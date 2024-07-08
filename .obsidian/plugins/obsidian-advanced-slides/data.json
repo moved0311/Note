@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "port": "3000",
-=======
-  "port": "8787",
->>>>>>> f1208c94976b6460535a21c915fa9f694901b3ae
   "autoReload": true,
   "exportDirectory": "/export",
   "enableChalkboard": false,
@@ -21,9 +17,5 @@
   "showGrid": false,
   "autoComplete": "inPreview",
   "paneMode": "split",
-<<<<<<< HEAD
-  "motm": "2024-07-01T01:44:22.928Z"
-=======
-  "motm": "2024-06-13T07:25:16.971Z"
->>>>>>> f1208c94976b6460535a21c915fa9f694901b3ae
+  "motm": "2024-07-08T02:29:16.942Z"
 }

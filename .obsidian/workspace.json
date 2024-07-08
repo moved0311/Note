@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bdb5da64798250e5",
+        "id": "bfbd5ce8d602f6b4",
         "type": "tabs",
         "children": [
           {
-            "id": "8f25bf849b2e7fa9",
+            "id": "a7cf8d4eccf4fa4a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
             }
           }
         ]
@@ -73,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -157,19 +160,21 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "8f25bf849b2e7fa9",
+  "active": "a7cf8d4eccf4fa4a",
   "lastOpenFiles": [
+    "2. TODO/面試/2. 專業問題.md",
+    "2. TODO/面試/公司/銓鍇國際 CKmates.md",
+    "2. TODO/面試/1.  基本問題.md",
+    "2. TODO/面試/3. 行為問題.md",
+    "2. TODO/面試/4. 後續想了解問題.md",
+    "2. TODO/面試/1. 基本問題/未來工作內容的期許規劃.md",
     "2. TODO/面試/1. 基本問題/離職原因.md",
     "3. Reference/Docker.md",
     "2. TODO/面試/公司/Binance.md",
     "2. TODO/面試/公司/91APP.md",
     "2. TODO/面試/公司",
-    "2. TODO/面試/4. 後續想了解問題.md",
-    "2. TODO/面試/2. 專業問題.md",
-    "2. TODO/面試/1.  基本問題.md",
     "2. TODO/面試/1. 基本問題/自我介紹.md",
     "2. TODO/面試/1. 基本問題/為什麼想應徵職位公司.md",
-    "2. TODO/面試/1. 基本問題/未來工作內容的期許規劃.md",
     "conflict-files-obsidian-git.md",
     "PPT/20240605-share-localstorage/index.md.md",
     "PPT/20240605-share-localstorage",
@@ -186,8 +191,6 @@
     "1. Daily/2024",
     "1. Daily/2024-06-11.md",
     "2. TODO/面試/4. 公司/Binance.md",
-    "2. TODO/面試/5. 後續想了解問題.md",
-    "2. TODO/面試/2. 專業問題/問題.md",
     "2. TODO/面試/4. 公司",
     "4. Web/RSC/RSC.canvas",
     "4. Web/RSC",
