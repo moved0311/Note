@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/Gitlab Runner.md",
+                "file": "6. Works/鉅亨網/新聞專案改版.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "docker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/Gitlab Runner.md",
+                "file": "6. Works/鉅亨網/新聞專案改版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/Gitlab Runner.md",
+                "file": "6. Works/鉅亨網/新聞專案改版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/Gitlab Runner.md"
+                "file": "6. Works/鉅亨網/新聞專案改版.md"
               }
             }
           }
@@ -187,8 +188,8 @@
   },
   "active": "42fd3102b9cf07c2",
   "lastOpenFiles": [
-    "1. Daily/2024-07-08.md",
     "2. TODO/Gitlab Runner.md",
+    "1. Daily/2024-07-08.md",
     "LeetCode/Weekly Contest.md",
     "LeetCode/Reference.md",
     "2. TODO/Blind75.md",
