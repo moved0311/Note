@@ -10,3 +10,10 @@
 缺點是：電腦需要分資源跑gitlab runner程式，docker要一直開著，電腦已經很慢還會再更慢。跑完後機器上會多一堆images，每一個都500+MB。
 
 詳細註冊方式參考: [為你自己學 GitLab CI/CD Day 11 - 在本機的 GitLab Runner - YouTube](https://www.youtube.com/watch?v=wRXBztn6OkE&list=PLBd8JGCAcUAEwyH2kT1wW2BUmcSPQzGcu&index=11)
+
+
+https://hub.docker.com/_/alpine
+
+互動模式下執行docker image 
+`docker run -it [image]`
+

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Works/鉅亨網/新聞專案改版.md",
+                "file": "2. TODO/Gitlab Runner.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Works/鉅亨網/新聞專案改版.md",
+                "file": "2. TODO/Gitlab Runner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Works/鉅亨網/新聞專案改版.md",
+                "file": "2. TODO/Gitlab Runner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Works/鉅亨網/新聞專案改版.md"
+                "file": "2. TODO/Gitlab Runner.md"
               }
             }
           }
@@ -188,11 +187,12 @@
   },
   "active": "42fd3102b9cf07c2",
   "lastOpenFiles": [
+    "6. Works/鉅亨網/新聞專案改版.md",
+    "2. TODO/Blind75.md",
     "2. TODO/Gitlab Runner.md",
     "1. Daily/2024-07-08.md",
     "LeetCode/Weekly Contest.md",
     "LeetCode/Reference.md",
-    "2. TODO/Blind75.md",
     "2. TODO/各種程式語言功能檢查.md",
     "2. TODO/InterviewQuestion.md",
     "2. TODO/React19.md",
@@ -214,7 +214,6 @@
     "2. TODO/面試/4. 後續想了解問題.md",
     "2. TODO/面試/3. 行為問題.md",
     "2. TODO/面試/1. 基本問題/為什麼想應徵職位公司.md",
-    "2. TODO/面試/1. 基本問題/未來工作內容的期許規劃.md",
     "1. Daily/2024",
     "PPT/20240605-share-localstorage",
     "2. TODO/面試/3. 行為問題",
