@@ -30,3 +30,16 @@ lookup_plugins = ~/.ansible/plugins/lookup_plugins/:/usr/share/ansible_plugins/l
 callback_plugins = /usr/share/ansible_plugins/callback
 stdout_callback = protect_data
 ```
+
+```
+export ANSIBLE_ETCD_USER=test
+export ANSIBLE_ETCD_PASSWORD=123
+export DEPLOYER_PROJECT_NAME=deployer/fe-cnyes
+export GIT_CLONE_DIR=/etc/ansible/roles/fe-cnyes
+export INVENTORY=inventory
+export PLAYBOOK_NAME=deployment.yaml
+export STAGE=beta
+export PROJECT_IMAGE_TAG=latest
+export ETCD_BRANCH=origin/master
+export CI_COMMIT_REF_SLUG=release-4-123-0
+```
