@@ -43,3 +43,7 @@ export PROJECT_IMAGE_TAG=latest
 export ETCD_BRANCH=origin/master
 export CI_COMMIT_REF_SLUG=release-4-123-0
 ```
+
+```
+ansible-playbook -i ${GIT_CLONE_DIR}/${INVENTORY} ${GIT_CLONE_DIR}/${PLAYBOOK_NAME} -e stage=${STAGE} -e project_image_tag=${PROJECT_IMAGE_TAG} -e etcd_branch=${ETCD_BRANCH} -e ci_commit_ref_slug=${CI_COMMIT_REF_SLUG}
+```
