@@ -45,6 +45,7 @@ export STAGE=beta
 export PROJECT_IMAGE_TAG=latest
 export ETCD_BRANCH=origin/master
 export CI_COMMIT_REF_SLUG=release-4-123-0
+export CI_COMMIT_REF_NAME=release/test-runner
 ```
 
 ```
