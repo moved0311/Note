@@ -20,3 +20,13 @@ https://hub.docker.com/_/alpine
 ```
 ansible-playbook -i /etc/ansible/roles/fe-cnyes/inventory /etc/ansible/roles/fe-cnyes/deployment.yaml -e stage=beta -e project_image_tag=latest -e etcd_branch=master -e ci_commit_ref_slug=release-4-123-0`
 ```
+
+`ansible.cfg`
+```
+[defaults]
+host_key_checking = False
+ssh_args = 
+lookup_plugins = ~/.ansible/plugins/lookup_plugins/:/usr/share/ansible_plugins/lookup_plugins
+callback_plugins = /usr/share/ansible_plugins/callback
+stdout_callback = protect_data
+```
