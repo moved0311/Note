@@ -17,6 +17,9 @@ https://hub.docker.com/_/alpine
 互動模式下執行docker image 
 `docker run -it [image]`
 
+進入正在執行中的container
+`docker attach [container]`
+
 ```
 ansible-playbook -i /etc/ansible/roles/fe-cnyes/inventory /etc/ansible/roles/fe-cnyes/deployment.yaml -e stage=beta -e project_image_tag=latest -e etcd_branch=master -e ci_commit_ref_slug=release-4-123-0`
 ```
