@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 200
   },
   "right": {
     "id": "c56181c98a8f9c8f",
@@ -175,16 +175,16 @@
   },
   "active": "42fd3102b9cf07c2",
   "lastOpenFiles": [
-    "6. Works/鉅亨網/新聞專案改版.md",
-    "2. TODO/Blind75.md",
-    "2. TODO/Gitlab Runner.md",
     "1. Daily/2024-07-08.md",
+    "2. TODO/Gitlab Runner.md",
+    "2. TODO/InterviewQuestion.md",
+    "2. TODO/Read.md",
+    "2. TODO/React19.md",
+    "2. TODO/Blind75.md",
+    "2. TODO/各種程式語言功能檢查.md",
+    "6. Works/鉅亨網/新聞專案改版.md",
     "LeetCode/Weekly Contest.md",
     "LeetCode/Reference.md",
-    "2. TODO/各種程式語言功能檢查.md",
-    "2. TODO/InterviewQuestion.md",
-    "2. TODO/React19.md",
-    "2. TODO/Read.md",
     "1. Daily/2024/2024-06-11.md",
     "1. Daily/2024/2024-05-29.md",
     "6. Works/鉅亨網/QA/留言區問題.md",

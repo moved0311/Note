@@ -35,18 +35,18 @@ stdout_callback = protect_data
 ```
 
 ```
-export ANSIBLE_ETCD_USER=test
-export ANSIBLE_ETCD_PASSWORD=123
-export DEPLOYER_PROJECT_NAME=deployer/fe-cnyes
-export GIT_CLONE_DIR=/etc/ansible/roles/fe-cnyes
-export INVENTORY=inventory
-export PLAYBOOK_NAME=deployment.yaml
-export STAGE=beta
-export PROJECT_IMAGE_TAG=latest
-export ETCD_BRANCH=origin/master
-export CI_COMMIT_REF_SLUG=release-4-123-0
-export CI_COMMIT_REF_NAME=release/test-runner
+export ANSIBLE_ETCD_USER=test ANSIBLE_ETCD_PASSWORD=123 DEPLOYER_PROJECT_NAME=deployer/fe-cnyes GIT_CLONE_DIR=/etc/ansible/roles/fe-cnyes INVENTORY=inventory PLAYBOOK_NAME=deployment.yaml STAGE=beta PROJECT_IMAGE_TAG=latest ETCD_BRANCH=origin/master CI_COMMIT_REF_SLUG=release-test-runner CI_PROJECT_NAME=fe-news
 ```
+
+```
+CI_COMMIT_REF_NAME = os.getenv('CI_COMMIT_REF_NAME')
+ANSIBLE_ETCD_USER = os.getenv('ANSIBLE_ETCD_USER')
+ANSIBLE_ETCD_PASSWORD = os.getenv('ANSIBLE_ETCD_PASSWORD')
+ANSIBLE_ETCD_PREFIX = os.getenv('ANSIBLE_ETCD_PREFIX') or 'e3w_test'
+ANSIBLE_ETCD_URL = os.getenv('ANSIBLE_ETCD_URL')
+```
+
+要這個專案的權限: https://gitlab.cnyes.cool/groups/deployer/-/settings/ci_cd
 
 ```
 ansible-playbook -i ${GIT_CLONE_DIR}/${INVENTORY} ${GIT_CLONE_DIR}/${PLAYBOOK_NAME} -e stage=${STAGE} -e project_image_tag=${PROJECT_IMAGE_TAG} -e etcd_branch=${ETCD_BRANCH} -e ci_commit_ref_slug=${CI_COMMIT_REF_SLUG}
