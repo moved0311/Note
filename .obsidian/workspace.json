@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "44262c0292842949",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. TODO/Blind75.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/Gitlab Runner.md",
+                "file": "2. TODO/Blind75.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/Gitlab Runner.md",
+                "file": "2. TODO/Blind75.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/Gitlab Runner.md"
+                "file": "2. TODO/Blind75.md"
               }
             }
           }
@@ -173,10 +185,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "42fd3102b9cf07c2",
+  "active": "44262c0292842949",
   "lastOpenFiles": [
-    "1. Daily/2024-07-08.md",
     "2. TODO/Gitlab Runner.md",
+    "1. Daily/2024-07-08.md",
     "2. TODO/InterviewQuestion.md",
     "2. TODO/Read.md",
     "2. TODO/React19.md",
