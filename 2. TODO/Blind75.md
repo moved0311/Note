@@ -11,7 +11,8 @@
  * [x] 10. Container with Most Water
  * [x] 11. Number of 1 Bits
  * [x] 12. Counting Bits
- * [ ] 13. Missing Number
+ * [x] 13. Missing Number
+	 * 看到要找不同數字嘗試使用XOR
  * [ ] 14. Reverse Bits
  * [ ] 15. Climbing Stairs
  * [ ] 16. Coin Change
