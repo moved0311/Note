@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024-07-08.md",
+                "file": "2. TODO/Gitlab Runner.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-07-08.md",
+                "file": "2. TODO/Gitlab Runner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-07-08.md",
+                "file": "2. TODO/Gitlab Runner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-07-08.md"
+                "file": "2. TODO/Gitlab Runner.md"
               }
             }
           }
@@ -187,19 +188,19 @@
   },
   "active": "42fd3102b9cf07c2",
   "lastOpenFiles": [
-    "2. TODO/Blind75.md",
-    "1. Daily/2024-07-08.md",
-    "2. TODO/React18.md",
+    "6. Works/鉅亨網/新聞專案改版.md",
+    "2. TODO/Gitlab Runner.md",
     "2. TODO/React19.md",
+    "2. TODO/Read.md",
+    "1. Daily/2024-07-08.md",
+    "2. TODO/Blind75.md",
+    "2. TODO/React18.md",
     "6. Works/鉅亨網/fe-esg.md",
     "6. Works/鉅亨網/whenToUseServerAndClientComponents.png",
     "2.1 Pending/LeetCode.md",
-    "2. TODO/Read.md",
-    "2. TODO/Gitlab Runner.md",
     "2. TODO/面試/Reference.md",
     "2. TODO/InterviewQuestion.md",
     "2. TODO/各種程式語言功能檢查.md",
-    "6. Works/鉅亨網/新聞專案改版.md",
     "LeetCode/Weekly Contest.md",
     "LeetCode/Reference.md",
     "1. Daily/2024/2024-06-11.md",
