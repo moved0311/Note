@@ -51,3 +51,14 @@ ANSIBLE_ETCD_URL = os.getenv('ANSIBLE_ETCD_URL')
 ```
 ansible-playbook -i ${GIT_CLONE_DIR}/${INVENTORY} ${GIT_CLONE_DIR}/${PLAYBOOK_NAME} -e stage=${STAGE} -e project_image_tag=${PROJECT_IMAGE_TAG} -e etcd_branch=${ETCD_BRANCH} -e ci_commit_ref_slug=${CI_COMMIT_REF_SLUG}
 ```
+
+```
+$ echo BUILD_NAME ${BUILD_NAME}
+BUILD_NAME release-3-125-0-2de39199
+
+$ echo IMG_NAME_LOCAL_TEST ${IMG_NAME_LOCAL_TEST}
+IMG_NAME_LOCAL_TEST fe-lobby:release-3-125-0-2de39199
+
+$ echo IMG_NAME_RELEASE ${IMG_NAME_RELEASE}
+IMG_NAME_RELEASE gitlab.cnyes.cool:5000/anue/frontend/fe-lobby/release-3-125-0:latest
+```
