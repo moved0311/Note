@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/Gitlab Runner.md",
+                "file": "1. Daily/2024-07-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/Gitlab Runner.md",
+                "file": "1. Daily/2024-07-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/Gitlab Runner.md"
+                "file": "1. Daily/2024-07-08.md"
               }
             }
           }
@@ -186,14 +185,14 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "42fd3102b9cf07c2",
+  "active": "69c8741001439abf",
   "lastOpenFiles": [
-    "6. Works/鉅亨網/新聞專案改版.md",
+    "2. TODO/Blind75.md",
     "2. TODO/Gitlab Runner.md",
+    "6. Works/鉅亨網/新聞專案改版.md",
     "2. TODO/React19.md",
     "2. TODO/Read.md",
     "1. Daily/2024-07-08.md",
-    "2. TODO/Blind75.md",
     "2. TODO/React18.md",
     "6. Works/鉅亨網/fe-esg.md",
     "6. Works/鉅亨網/whenToUseServerAndClientComponents.png",
