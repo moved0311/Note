@@ -89,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,7 +184,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "69c8741001439abf",
+  "active": "871ad62d0ab09a0c",
   "lastOpenFiles": [
     "2. TODO/Gitlab Runner.md",
     "1. Daily/2024-07-08.md",
