@@ -13,7 +13,8 @@
  * [x] 12. Counting Bits
  * [x] 13. Missing Number
 	 * 看到要找不同數字嘗試使用XOR
- * [ ] 14. Reverse Bits
+ * [x] 14. Reverse Bits
+	 * shift n bits  & 1 拿特定位數值，在shift n bits OR 設定
  * [ ] 15. Climbing Stairs
  * [ ] 16. Coin Change
  * [ ] 17. Longest Increasing Subsequence
