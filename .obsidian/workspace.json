@@ -18,42 +18,8 @@
                 "source": false
               }
             }
-<<<<<<< HEAD
           }
         ]
-=======
-          },
-          {
-            "id": "42fd3102b9cf07c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. TODO/Gitlab Runner.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44262c0292842949",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. TODO/Blind75.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-<<<<<<< HEAD
-        ],
-        "currentTab": 2
->>>>>>> 28453dc (note backup: 2024-07-22 09:29:49)
-=======
-        ]
->>>>>>> fac74dd (note backup: 2024-07-22 10:29:46)
       }
     ],
     "direction": "vertical"
@@ -194,31 +160,20 @@
       "command-palette:開啟命令面板": false
     }
   },
-<<<<<<< HEAD
-<<<<<<< HEAD
   "active": "69c8741001439abf",
-=======
-  "active": "cb84066e3f1b9f6f",
->>>>>>> 28453dc (note backup: 2024-07-22 09:29:49)
   "lastOpenFiles": [
+    "4. Web/React/hooks/resize.md",
+    "4. Web/JavaScript/proxy.md",
     "conflict-files-obsidian-git.md",
     "2. TODO/CICD流程.md",
     "2. TODO/面試/公司/TSMC.md",
     "1. Daily/2024-07-08.md",
     "2. TODO/Read.md",
     "2. TODO/Performance Optimization.md",
-=======
-  "active": "69c8741001439abf",
-  "lastOpenFiles": [
-    "2. TODO/Gitlab Runner.md",
-    "1. Daily/2024-07-08.md",
->>>>>>> fac74dd (note backup: 2024-07-22 10:29:46)
     "2. TODO/Blind75.md",
     "2. TODO/Gitlab Runner.md",
     "4. Web/CSS/多餘字元.md",
-    "4. Web/React/hooks/resize.md",
     "4. Web/React/hooks/Hooks.md",
-    "4. Web/JavaScript/proxy.md",
     "1. Daily/2021/2021.md",
     "6. Works/鉅亨網/新聞專案改版.md",
     "2. TODO/React19.md",
