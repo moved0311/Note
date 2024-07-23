@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3ecfabc064891aac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. TODO/Gitlab Runner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-07-08.md",
+                "file": "2. TODO/Gitlab Runner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-07-08.md",
+                "file": "2. TODO/Gitlab Runner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-07-08.md"
+                "file": "2. TODO/Gitlab Runner.md"
               }
             }
           }
@@ -160,15 +173,15 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "69c8741001439abf",
+  "active": "3ecfabc064891aac",
   "lastOpenFiles": [
+    "1. Daily/2024-07-08.md",
     "2. TODO/CICD流程.md",
     "2. TODO/Performance Optimization.md",
     "4. Web/React/hooks/resize.md",
     "4. Web/JavaScript/proxy.md",
     "conflict-files-obsidian-git.md",
     "2. TODO/面試/公司/TSMC.md",
-    "1. Daily/2024-07-08.md",
     "2. TODO/Read.md",
     "2. TODO/Blind75.md",
     "2. TODO/Gitlab Runner.md",

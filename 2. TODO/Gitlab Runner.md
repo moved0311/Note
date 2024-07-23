@@ -16,6 +16,7 @@ https://hub.docker.com/_/alpine
 
 互動模式下執行docker image 
 `docker run -it [image]`
+`docker run -it [image] sh`
 
 進入正在執行中的container
 `docker attach [container]`
