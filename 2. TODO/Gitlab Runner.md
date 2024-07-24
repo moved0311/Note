@@ -16,6 +16,7 @@ https://hub.docker.com/_/alpine
 
 互動模式下執行docker image 
 `docker run -it [image]`
+`docker run -it [image] sh`
 
 進入正在執行中的container
 `docker attach [container]`
@@ -46,8 +47,6 @@ ANSIBLE_ETCD_PREFIX = os.getenv('ANSIBLE_ETCD_PREFIX') or 'e3w_test'
 ANSIBLE_ETCD_URL = os.getenv('ANSIBLE_ETCD_URL')
 ```
 
-要這個專案的權限: https://gitlab.cnyes.cool/groups/deployer/-/settings/ci_cd
-
 ```
 ansible-playbook -i ${GIT_CLONE_DIR}/${INVENTORY} ${GIT_CLONE_DIR}/${PLAYBOOK_NAME} -e stage=${STAGE} -e project_image_tag=${PROJECT_IMAGE_TAG} -e etcd_branch=${ETCD_BRANCH} -e ci_commit_ref_slug=${CI_COMMIT_REF_SLUG}
 ```
@@ -61,4 +60,16 @@ IMG_NAME_LOCAL_TEST fe-lobby:release-3-125-0-2de39199
 
 $ echo IMG_NAME_RELEASE ${IMG_NAME_RELEASE}
 IMG_NAME_RELEASE gitlab.cnyes.cool:5000/anue/frontend/fe-lobby/release-3-125-0:latest
+```
+
+
+## issue
+
+1. ERROR: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+
+`/etc/gitlab-runner/config.toml`
+```yaml
+# ...
+volumes = ["/var/run/docker.sock:/var/run/docker.sock", "/cache"]    
+# ...
 ```
