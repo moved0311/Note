@@ -47,7 +47,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-07-08.md",
+                "file": "2. TODO/Gitlab Runner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-07-08.md",
+                "file": "2. TODO/Gitlab Runner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,6 +174,7 @@
               "state": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "sortOrder": "frequency"
 =======
                 "file": "2. TODO/Blind75.md"
@@ -180,6 +182,9 @@
 =======
                 "file": "1. Daily/2024-07-08.md"
 >>>>>>> 371b8de (note backup: 2024-07-26 10:10:07)
+=======
+                "file": "2. TODO/Gitlab Runner.md"
+>>>>>>> 6348ece (note backup: 2024-07-26 11:10:06)
               }
             }
           }
@@ -203,6 +208,7 @@
   },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "active": "95d3f233e07fc909",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
@@ -211,10 +217,13 @@
 =======
   "active": "69c8741001439abf",
 >>>>>>> 371b8de (note backup: 2024-07-26 10:10:07)
+=======
+  "active": "3ecfabc064891aac",
+>>>>>>> 6348ece (note backup: 2024-07-26 11:10:06)
   "lastOpenFiles": [
+    "1. Daily/2024-07-08.md",
     "2. TODO/Blind75.md",
     "2. TODO/Gitlab Runner.md",
-    "1. Daily/2024-07-08.md",
     "2. TODO/CICD流程.md",
     "2. TODO/Performance Optimization.md",
 >>>>>>> 6837243 (note backup: 2024-07-23 18:16:08)
