@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/Blind75.md",
+                "file": "1. Daily/2024-07-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/Blind75.md",
+                "file": "1. Daily/2024-07-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,10 +172,14 @@
               "type": "all-properties",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "sortOrder": "frequency"
 =======
                 "file": "2. TODO/Blind75.md"
 >>>>>>> 6837243 (note backup: 2024-07-23 18:16:08)
+=======
+                "file": "1. Daily/2024-07-08.md"
+>>>>>>> 371b8de (note backup: 2024-07-26 10:10:07)
               }
             }
           }
@@ -198,14 +202,19 @@
     }
   },
 <<<<<<< HEAD
+<<<<<<< HEAD
   "active": "95d3f233e07fc909",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
 =======
   "active": "98a915762ceb74ba",
+=======
+  "active": "69c8741001439abf",
+>>>>>>> 371b8de (note backup: 2024-07-26 10:10:07)
   "lastOpenFiles": [
-    "1. Daily/2024-07-08.md",
+    "2. TODO/Blind75.md",
     "2. TODO/Gitlab Runner.md",
+    "1. Daily/2024-07-08.md",
     "2. TODO/CICD流程.md",
     "2. TODO/Performance Optimization.md",
 >>>>>>> 6837243 (note backup: 2024-07-23 18:16:08)
@@ -216,12 +225,16 @@
     "2. TODO/面試/1.  基本問題.md",
     "2. TODO/面試/公司/Binance.md",
     "2. TODO/面試/公司/TSMC.md",
+<<<<<<< HEAD
     "2. TODO/面試/公司/銓鍇國際 CKmates.md",
     "2. TODO/面試/公司/91APP.md",
     "2. TODO/Blind75.md",
 <<<<<<< HEAD
     "2. TODO/面試/2. 專業問題.md",
 =======
+=======
+    "2. TODO/Read.md",
+>>>>>>> 371b8de (note backup: 2024-07-26 10:10:07)
     "4. Web/CSS/多餘字元.md",
     "4. Web/React/hooks/Hooks.md",
     "1. Daily/2021/2021.md",
