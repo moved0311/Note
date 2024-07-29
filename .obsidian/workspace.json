@@ -20,7 +20,23 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "306de8faf7b399ea",
+=======
+            "id": "98a915762ceb74ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. TODO/Blind75.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ecfabc064891aac",
+>>>>>>> 6837243 (note backup: 2024-07-23 18:16:08)
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,7 +171,11 @@
             "state": {
               "type": "all-properties",
               "state": {
+<<<<<<< HEAD
                 "sortOrder": "frequency"
+=======
+                "file": "2. TODO/Blind75.md"
+>>>>>>> 6837243 (note backup: 2024-07-23 18:16:08)
               }
             }
           }
@@ -177,9 +197,18 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
+<<<<<<< HEAD
   "active": "95d3f233e07fc909",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+=======
+  "active": "98a915762ceb74ba",
+  "lastOpenFiles": [
+    "1. Daily/2024-07-08.md",
+    "2. TODO/Gitlab Runner.md",
+    "2. TODO/CICD流程.md",
+    "2. TODO/Performance Optimization.md",
+>>>>>>> 6837243 (note backup: 2024-07-23 18:16:08)
     "4. Web/React/hooks/resize.md",
     "4. Web/JavaScript/proxy.md",
     "2. TODO/Performance Optimization.md",
@@ -190,7 +219,19 @@
     "2. TODO/面試/公司/銓鍇國際 CKmates.md",
     "2. TODO/面試/公司/91APP.md",
     "2. TODO/Blind75.md",
+<<<<<<< HEAD
     "2. TODO/面試/2. 專業問題.md",
+=======
+    "4. Web/CSS/多餘字元.md",
+    "4. Web/React/hooks/Hooks.md",
+    "1. Daily/2021/2021.md",
+    "6. Works/鉅亨網/新聞專案改版.md",
+    "2. TODO/React19.md",
+    "2. TODO/React18.md",
+    "6. Works/鉅亨網/fe-esg.md",
+    "6. Works/鉅亨網/whenToUseServerAndClientComponents.png",
+    "2.1 Pending/LeetCode.md",
+>>>>>>> 6837243 (note backup: 2024-07-23 18:16:08)
     "2. TODO/面試/Reference.md",
     "2. TODO/React18.md",
     "2. TODO/Gitlab Runner.md",
