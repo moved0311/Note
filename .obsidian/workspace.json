@@ -1,47 +1,19 @@
 {
   "main": {
-    "id": "983d83b246756a5f",
+    "id": "5534b24b77d62344",
     "type": "split",
     "children": [
       {
-        "id": "9e15e6497b53f704",
+        "id": "640981075da7a79b",
         "type": "tabs",
         "children": [
           {
-            "id": "95d3f233e07fc909",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. TODO/Blind75.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-<<<<<<< HEAD
-            "id": "306de8faf7b399ea",
-=======
             "id": "98a915762ceb74ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/Blind75.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ecfabc064891aac",
->>>>>>> 6837243 (note backup: 2024-07-23 18:16:08)
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "1. Daily/2024-07-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "54d7a0f4caa4bfe3",
+    "id": "2df4fb1914f4def7",
     "type": "split",
     "children": [
       {
-        "id": "7a3e4dd94f42c4cf",
+        "id": "38b34ca222af2847",
         "type": "tabs",
         "children": [
           {
-            "id": "0956f11c313356e2",
+            "id": "871ad62d0ab09a0c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -71,13 +43,13 @@
             }
           },
           {
-            "id": "275acea55b99ae4f",
+            "id": "2cb51d19092c7bcf",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "proxy",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -86,15 +58,7 @@
             }
           },
           {
-            "id": "5e45d0aae34539ae",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "b804350217103997",
+            "id": "208fa2a55b6eebda",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -105,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 256.5
   },
   "right": {
-    "id": "065c81d18b56bd36",
+    "id": "c56181c98a8f9c8f",
     "type": "split",
     "children": [
       {
-        "id": "b84e32a2d35e6292",
+        "id": "6549e06fb9cb24a6",
         "type": "tabs",
         "children": [
           {
-            "id": "d87dd5f86373943c",
+            "id": "5b5c742d40122b31",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-07-08.md",
+                "file": "1. Daily/2024/2024-07-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,19 +97,19 @@
             }
           },
           {
-            "id": "8d6e02ea751580d6",
+            "id": "eb351a0e223a772a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-07-08.md",
+                "file": "1. Daily/2024/2024-07-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "39473e6800c3a91e",
+            "id": "60664d92a5ebc789",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -156,101 +120,59 @@
             }
           },
           {
-            "id": "00f43c5638fd6ef2",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "2. TODO/Blind75.md"
-              }
-            }
-          },
-          {
-            "id": "b5eb5027da73512c",
+            "id": "d12762b3648a3c1f",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "sortOrder": "frequency"
-=======
-                "file": "2. TODO/Blind75.md"
->>>>>>> 6837243 (note backup: 2024-07-23 18:16:08)
-=======
-                "file": "1. Daily/2024-07-08.md"
->>>>>>> 371b8de (note backup: 2024-07-26 10:10:07)
-=======
-                "file": "2. TODO/Gitlab Runner.md"
->>>>>>> 6348ece (note backup: 2024-07-26 11:10:06)
-=======
-                "file": "1. Daily/2024-07-08.md"
->>>>>>> 482e113 (note backup: 2024-07-26 12:10:06)
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "02993a02c8a3523a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Daily/2024/2024-07-08.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:建立新畫布": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
-      "command-palette:開啟命令面板": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "daily-notes:開啟今天的每日筆記": false
+      "command-palette:開啟命令面板": false
     }
   },
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "active": "95d3f233e07fc909",
+  "active": "871ad62d0ab09a0c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-=======
-  "active": "98a915762ceb74ba",
-=======
-  "active": "69c8741001439abf",
->>>>>>> 371b8de (note backup: 2024-07-26 10:10:07)
-=======
-  "active": "3ecfabc064891aac",
->>>>>>> 6348ece (note backup: 2024-07-26 11:10:06)
-=======
-  "active": "69c8741001439abf",
->>>>>>> 482e113 (note backup: 2024-07-26 12:10:06)
-  "lastOpenFiles": [
+    "1. Daily/2024-07-29.md",
+    "1. Daily/2024/2024-07-08.md",
+    "4. Web/Performance/Performance Optimization.md",
     "2. TODO/Gitlab Runner.md",
-    "1. Daily/2024-07-08.md",
     "2. TODO/Blind75.md",
+    "conflict-files-obsidian-git.md",
     "2. TODO/CICD流程.md",
-    "2. TODO/Performance Optimization.md",
->>>>>>> 6837243 (note backup: 2024-07-23 18:16:08)
     "4. Web/React/hooks/resize.md",
     "4. Web/JavaScript/proxy.md",
-    "2. TODO/Performance Optimization.md",
-    "2. TODO/CICD流程.md",
-    "2. TODO/面試/1.  基本問題.md",
-    "2. TODO/面試/公司/Binance.md",
     "2. TODO/面試/公司/TSMC.md",
-<<<<<<< HEAD
-    "2. TODO/面試/公司/銓鍇國際 CKmates.md",
-    "2. TODO/面試/公司/91APP.md",
-    "2. TODO/Blind75.md",
-<<<<<<< HEAD
-    "2. TODO/面試/2. 專業問題.md",
-=======
-=======
     "2. TODO/Read.md",
->>>>>>> 371b8de (note backup: 2024-07-26 10:10:07)
     "4. Web/CSS/多餘字元.md",
     "4. Web/React/hooks/Hooks.md",
     "1. Daily/2021/2021.md",
@@ -260,47 +182,36 @@
     "6. Works/鉅亨網/fe-esg.md",
     "6. Works/鉅亨網/whenToUseServerAndClientComponents.png",
     "2.1 Pending/LeetCode.md",
->>>>>>> 6837243 (note backup: 2024-07-23 18:16:08)
     "2. TODO/面試/Reference.md",
-    "2. TODO/React18.md",
-    "2. TODO/Gitlab Runner.md",
+    "2. TODO/InterviewQuestion.md",
+    "2. TODO/各種程式語言功能檢查.md",
+    "LeetCode/Weekly Contest.md",
+    "LeetCode/Reference.md",
     "1. Daily/2024/2024-06-11.md",
     "1. Daily/2024/2024-05-29.md",
-    "1. Daily/2024-07-08.md",
-    "Books/待讀.md",
-    "2. TODO/面試/3. 行為問題.md",
-    "2. TODO/各種程式語言功能檢查.md",
-    "2. TODO/interviewQuestion.md",
-    "6. Works/鉅亨網/QA/留言區問題.md",
-    "6. Works/鉅亨網/新聞專案改版.md",
-    "2. TODO/面試/4. 後續想了解問題.md",
-    "2. TODO/面試/1. 基本問題/未來工作內容的期許規劃.md",
-    "2. TODO/面試/公司",
-    "PPT/20240605-share-localstorage",
+    "2. TODO/未命名",
     "1. Daily/2024",
-    "2. TODO/面試/4. 公司",
+    "PPT/20240605-share-localstorage",
+    "2. TODO/面試/3. 行為問題",
+    "2. TODO/面試/公司",
+    "2. TODO/面試/2. 專業問題",
+    "2. TODO/面試/1. 基本問題",
+    "2. TODO/面試",
     "4. Web/RSC/RSC.canvas",
     "4. Web/RSC",
-    "英文/Coursera - English for Career Development",
-    "英文",
-    "Tools",
-    "Libs/react-query",
-    "3. Reference/Course",
-    "Game/遊戲王/QDW.canvas",
+    "2.1 Pending",
     "4. Web/React/1. React.canvas",
-    "5.Stocks/晶圓/5483-中美晶/5483.png",
+    "Game/遊戲王/QDW.canvas",
+    "Game/未命名.canvas",
+    "PPT/20240327-TradingView/AAPL.png",
+    "PPT/20240327-TradingView/flow.png",
     "Libs/TradingView/datafeed.canvas",
     "PPT/20230104-Slack Ｍessage/slack-mseesage.png",
-    "PPT/20230104-Slack Ｍessage/postToChannel.png",
-    "PPT/20230104-Slack Ｍessage/postman.png",
-    "PPT/20230104-Slack Ｍessage/notion_obsidian.png",
-    "PPT/20230104-Slack Ｍessage/gitlab-cicd-2.png",
-    "PPT/20230104-Slack Ｍessage/gitlab-ci.png",
-    "PPT/20230104-Slack Ｍessage/flow.png",
-    "PPT/20240327-TradingView/result.png",
     "PPT/20240327-TradingView/put-to-public.png",
-    "2. TODO/React/1. React.canvas",
-    "未命名.canvas",
-    "未命名 1.canvas"
+    "PPT/20240327-TradingView/result.png",
+    "Pasted image 20240326101558.png",
+    "PPT/20230104-Slack Ｍessage/postToChannel.png",
+    "5.Stocks/通信網路/WiFi比較圖.png",
+    "5.Stocks/晶圓/5483-中美晶/5483.png"
   ]
 }
