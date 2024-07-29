@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024/2024-07-08.md",
+                "file": "1. Daily/2024-07-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024/2024-07-08.md",
+                "file": "1. Daily/2024-07-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024/2024-07-08.md"
+                "file": "1. Daily/2024-07-29.md"
               }
             }
           }
@@ -160,10 +160,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "871ad62d0ab09a0c",
+  "active": "98a915762ceb74ba",
   "lastOpenFiles": [
-    "1. Daily/2024-07-29.md",
     "1. Daily/2024/2024-07-08.md",
+    "1. Daily/2024-07-29.md",
     "4. Web/Performance/Performance Optimization.md",
     "2. TODO/Gitlab Runner.md",
     "2. TODO/Blind75.md",
