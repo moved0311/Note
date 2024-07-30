@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "63e71f4d1ce69bdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. TODO/面試/1.  基本問題.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c3ff5ad4a0070a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. TODO/面試/2. 專業問題.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/面試/2. 專業問題.md",
+                "file": "1. Daily/2024-07-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/面試/2. 專業問題.md",
+                "file": "1. Daily/2024-07-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/面試/2. 專業問題.md"
+                "file": "1. Daily/2024-07-29.md"
               }
             }
           }
@@ -185,11 +160,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "5c3ff5ad4a0070a1",
+  "active": "98a915762ceb74ba",
   "lastOpenFiles": [
     "2. TODO/面試/1.  基本問題.md",
-    "1. Daily/2024-07-29.md",
     "2. TODO/面試/2. 專業問題.md",
+    "1. Daily/2024-07-29.md",
     "2. TODO/面試/3. 行為問題.md",
     "1. Daily/2024/2024-07-08.md",
     "4. Web/Performance/Performance Optimization.md",
