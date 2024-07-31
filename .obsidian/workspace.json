@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-07-29.md",
+                "file": "1. Daily/2024/2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-07-29.md",
+                "file": "1. Daily/2024/2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-07-29.md"
+                "file": "1. Daily/2024/2024.md"
               }
             }
           }
@@ -172,11 +173,12 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "98a915762ceb74ba",
+  "active": "08e9ca78347faaad",
   "lastOpenFiles": [
-    "1. Daily/2024/2024.md",
-    "2. TODO/Plan.md",
     "1. Daily/2024-07-29.md",
+    "2. TODO/Plan.md",
+    "2. TODO/React18.md",
+    "1. Daily/2024/2024.md",
     "1. Daily/2023/2023-01-09.md",
     "1. Daily/2022/2022.md",
     "1. Daily/2021/2021.md",
@@ -198,7 +200,6 @@
     "1. Daily/2023/2023-02-20.md",
     "1. Daily/2023/2023-02-08.md",
     "1. Daily/2023/2023-01-30.md",
-    "2. TODO/React18.md",
     "2. TODO/Read.md",
     "6. Works/鉅亨網/whenToUseServerAndClientComponents.png",
     "2. TODO/未命名",
