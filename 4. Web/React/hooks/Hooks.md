@@ -63,6 +63,10 @@ const Main = () => {
 
 When a variable X requires complex computation and is recalculated on each re-render, you can use `useMemo` to store X in memory and avoid redundant computations.
 
+## 判斷desktop/mobile
+* [The Best Way to Detect Mobile Devices in Next.js 14 | by Marcos Cámara | Stackademic](https://blog.stackademic.com/the-best-way-to-detect-mobile-device-in-next-js-14-5837fc40def5)
+
 
 ## Reference
 * [React Hooks Tutorial - YouTube](https://www.youtube.com/playlist?list=PLxRVWC-K96b2KrTW6AqAE6vUXfOTnD-PS)
+* 
