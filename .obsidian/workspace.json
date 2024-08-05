@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024/2024.md",
+                "file": "1. Daily/2024-07-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024/2024.md",
+                "file": "1. Daily/2024-07-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024/2024.md"
+                "file": "1. Daily/2024-07-29.md"
               }
             }
           }
@@ -173,8 +172,9 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "08e9ca78347faaad",
+  "active": "98a915762ceb74ba",
   "lastOpenFiles": [
+    "1. Daily/2024/2024.md",
     "1. Daily/2024-07-29.md",
     "1. Daily/2024/2024-07-08.md",
     "1. Daily/2024/2024-06-11.md",
@@ -184,7 +184,6 @@
     "1. Daily/2024/2024-04-12.md",
     "1. Daily/2024/2024-03-25.md",
     "PPT/20240327-TradingView/Index.md",
-    "1. Daily/2024/2024.md",
     "PPT/20240103-新聞優化/新聞優化.md",
     "1. Daily/2024/2024-03-14.md",
     "1. Daily/2024/2024-02-20.md",
