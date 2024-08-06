@@ -30,6 +30,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6f6b5187abf09354",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. TODO/面試/2. 專業問題.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef5923ef1fb6bd01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. TODO/面試/Reference.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -175,8 +199,11 @@
   },
   "active": "5f4c81f4d821eaf1",
   "lastOpenFiles": [
-    "1. Daily/2024-07-29.md",
+    "2. TODO/面試/Reference.md",
+    "2. TODO/面試/3. 行為問題.md",
     "2. TODO/面試/1.  基本問題.md",
+    "1. Daily/2024-07-29.md",
+    "2. TODO/面試/2. 專業問題.md",
     "1. Daily/2024/2024.md",
     "1. Daily/2024/2024-01-22.md",
     "1. Daily/2024/2024-01-02.md",
@@ -199,9 +226,6 @@
     "1. Daily/2020/2020.md",
     "4. Web/React/hooks/Hooks.md",
     "4. Web/React/1. React.canvas",
-    "4. Web/React/Rendering.md",
-    "4. Web/CSS/Scrollbar.md",
-    "2. TODO/Plan.md",
     "6. Works/鉅亨網/whenToUseServerAndClientComponents.png",
     "2. TODO/未命名",
     "1. Daily/2024",
