@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "640981075da7a79b",
+        "id": "81854e22ca4e8173",
         "type": "tabs",
         "children": [
           {
-            "id": "5f4c81f4d821eaf1",
+            "id": "ef18105ab74385f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/面試/1.  基本問題.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f6b5187abf09354",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. TODO/面試/2. 專業問題.md",
+                "file": "1. Daily/2024-07-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/面試/1.  基本問題.md",
+                "file": "1. Daily/2024-07-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/面試/1.  基本問題.md",
+                "file": "1. Daily/2024-07-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/面試/1.  基本問題.md"
+                "file": "1. Daily/2024-07-29.md"
               }
             }
           }
@@ -172,11 +160,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "5f4c81f4d821eaf1",
+  "active": "ef18105ab74385f3",
   "lastOpenFiles": [
-    "2. TODO/面試/公司/MEXC.md",
-    "2. TODO/面試/1.  基本問題.md",
     "2. TODO/面試/2. 專業問題.md",
+    "2. TODO/面試/1.  基本問題.md",
+    "2. TODO/面試/公司/MEXC.md",
     "2. TODO/面試/Reference.md",
     "1. Daily/2024-07-29.md",
     "2. TODO/面試/3. 行為問題.md",
