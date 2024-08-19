@@ -13,20 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/Blind75.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "306de8faf7b399ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
+                "file": "2. TODO/Read.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/Blind75.md",
+                "file": "2. TODO/Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/Blind75.md",
+                "file": "2. TODO/Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/Blind75.md"
+                "file": "2. TODO/Read.md"
               }
             }
           },
@@ -179,6 +167,10 @@
   },
   "active": "95d3f233e07fc909",
   "lastOpenFiles": [
+    "2. TODO/Youtube Bookmark.md",
+    "2. TODO/Read.md",
+    "2. TODO/React18.md",
+    "2. TODO/Blind75.md",
     "conflict-files-obsidian-git.md",
     "4. Web/React/hooks/resize.md",
     "4. Web/JavaScript/proxy.md",
@@ -189,10 +181,8 @@
     "2. TODO/面試/公司/TSMC.md",
     "2. TODO/面試/公司/銓鍇國際 CKmates.md",
     "2. TODO/面試/公司/91APP.md",
-    "2. TODO/Blind75.md",
     "2. TODO/面試/2. 專業問題.md",
     "2. TODO/面試/Reference.md",
-    "2. TODO/React18.md",
     "2. TODO/Gitlab Runner.md",
     "1. Daily/2024/2024-06-11.md",
     "1. Daily/2024/2024-05-29.md",
@@ -203,8 +193,6 @@
     "2. TODO/interviewQuestion.md",
     "6. Works/鉅亨網/QA/留言區問題.md",
     "6. Works/鉅亨網/新聞專案改版.md",
-    "2. TODO/面試/4. 後續想了解問題.md",
-    "2. TODO/面試/1. 基本問題/未來工作內容的期許規劃.md",
     "2. TODO/面試/公司",
     "PPT/20240605-share-localstorage",
     "1. Daily/2024",
