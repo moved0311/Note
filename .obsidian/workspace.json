@@ -11,8 +11,12 @@
             "id": "d8ab26cc7b72463d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. TODO/面試/公司/Zerologix.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. TODO/面試/公司/Zerologix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. TODO/面試/公司/Zerologix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. TODO/面試/公司/Zerologix.md"
+              }
             }
           },
           {
@@ -159,6 +167,12 @@
   },
   "active": "d8ab26cc7b72463d",
   "lastOpenFiles": [
+    "2. TODO/面試/公司/91APP.md",
+    "2. TODO/面試/公司/Zerologix.md",
+    "2. TODO/面試/公司/銓鍇國際 CKmates.md",
+    "2. TODO/面試/公司/Binance.md",
+    "2. TODO/面試/公司/MEXC.md",
+    "2. TODO/面試/公司/TSMC.md",
     "CICD/Gitlab Runner.md",
     "5. Stocks/通信網路/電信/3045-台灣大.md",
     "5. Stocks/通信網路/IPC/IPC(Industrial PC,工業電腦).md",
@@ -187,12 +201,6 @@
     "5. Stocks/食品/1218.md",
     "5. Stocks/電子零組件/電纜",
     "5. Stocks/電腦及週邊設備/NB.md",
-    "5. Stocks/面板/面板.md",
-    "5. Stocks/電動車/電動車.md",
-    "5. Stocks/衛星/衛星.md",
-    "5. Stocks/能源/電池.md",
-    "5. Stocks/衛星/低軌衛星.md",
-    "5. Stocks/能源/綠能.md",
     "5. Stocks/晶圓/5483-中美晶",
     "5. Stocks/IC/IDC2023Q1手機出貨量.png",
     "5. Stocks/IP",
