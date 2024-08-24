@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/面試/1.  基本問題.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a54a97900a19e680",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. TODO/面試/2. 專業問題.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8ab26cc7b72463d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "2. TODO/面試/公司/Zerologix.md",
                 "mode": "source",
                 "source": false
@@ -101,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -118,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/面試/1.  基本問題.md",
+                "file": "2. TODO/面試/公司/Zerologix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/面試/1.  基本問題.md",
+                "file": "2. TODO/面試/公司/Zerologix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/面試/1.  基本問題.md"
+                "file": "2. TODO/面試/公司/Zerologix.md"
               }
             }
           },
@@ -192,8 +167,8 @@
   },
   "active": "2a0499d20db4770c",
   "lastOpenFiles": [
-    "2. TODO/面試/公司/Zerologix.md",
     "2. TODO/面試/1.  基本問題.md",
+    "2. TODO/面試/公司/Zerologix.md",
     "2. TODO/面試/2. 專業問題.md",
     "2. TODO/面試/公司/91APP.md",
     "2. TODO/面試/公司/銓鍇國際 CKmates.md",
