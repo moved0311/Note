@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4139894446e58f15",
+        "id": "b008b30793a990d9",
         "type": "tabs",
         "children": [
           {
-            "id": "2a0499d20db4770c",
+            "id": "577164a541be340b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. TODO/面試/公司/Zerologix.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/面試/公司/Zerologix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/面試/公司/Zerologix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. TODO/面試/公司/Zerologix.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,7 +157,7 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "2a0499d20db4770c",
+  "active": "577164a541be340b",
   "lastOpenFiles": [
     "2. TODO/面試/1.  基本問題.md",
     "2. TODO/面試/公司/Zerologix.md",
