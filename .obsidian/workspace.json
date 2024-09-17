@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b008b30793a990d9",
+        "id": "9953cef114985c8f",
         "type": "tabs",
         "children": [
           {
-            "id": "577164a541be340b",
+            "id": "36b5f27a735c9b42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. TODO/面試/1.  基本問題.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86af2358384cb2b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. TODO/面試/2. 專業問題.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -89,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -106,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/面試/1.  基本問題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/面試/1.  基本問題.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. TODO/面試/1.  基本問題.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,10 +157,16 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "577164a541be340b",
+  "active": "36b5f27a735c9b42",
   "lastOpenFiles": [
+    "2. TODO/Blind75.md",
+    "2. TODO/Read.md",
+    "2. TODO/React18.md",
+    "2. TODO/React19.md",
+    "2. TODO/Plan.md",
     "2. TODO/面試/2. 專業問題.md",
     "2. TODO/面試/1.  基本問題.md",
+    "2. TODO/面試/公司/LineGo.md",
     "未命名.canvas",
     "2. TODO/面試/3. 行為問題.md",
     "2. TODO/面試/公司/Zerologix.md",
@@ -189,8 +174,6 @@
     "2. TODO/面試/公司/Binance.md",
     "2. TODO/面試/公司/銓鍇國際 CKmates.md",
     "2. TODO/面試/公司/91APP.md",
-    "2. TODO/React18.md",
-    "2. TODO/React19.md",
     "2. TODO/面試/公司/MEXC.md",
     "CICD/Gitlab Runner.md",
     "5. Stocks/通信網路/電信/3045-台灣大.md",
@@ -204,11 +187,8 @@
     "5. Stocks/晶圓/5483-中美晶/5483.md",
     "5. Stocks/IP/IP.md",
     "5. Stocks/IP/6533.md",
-    "5. Stocks/記憶體/美光.md",
-    "5. Stocks/記憶體/memory.md",
     "5. Stocks/通信網路/WiFi比較圖.png",
     "5. Stocks/通信網路/電信",
-    "5. Stocks/通信網路/WiFi.md",
     "5. Stocks/通信網路/IPC",
     "5. Stocks/通信網路/CPO",
     "5. Stocks/IC/2454/GS_revenue_mix_segment.png",
