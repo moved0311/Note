@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "7d4ff068458bff6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. TODO/Read.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1b729dd1f9992d9b",
             "type": "leaf",
             "state": {
@@ -179,6 +191,9 @@
   },
   "active": "36b5f27a735c9b42",
   "lastOpenFiles": [
+    "2. TODO/面試/1.  基本問題.md",
+    "2. TODO/Read.md",
+    "2. TODO/Blind75.md",
     "2. TODO/面試/公司/Akohub.md",
     "2. TODO/面試/公司/91APP.md",
     "2. TODO/面試/公司/銓鍇國際 CKmates.md",
@@ -187,13 +202,10 @@
     "2. TODO/面試/公司/TSMC.md",
     "2. TODO/面試/公司/LineGo.md",
     "2. TODO/面試/公司/Binance.md",
-    "2. TODO/面試/1.  基本問題.md",
     "2. TODO/Plan.md",
-    "2. TODO/Read.md",
     "2. TODO/React19.md",
     "2. TODO/React18.md",
     "2. TODO/面試/2. 專業問題.md",
-    "2. TODO/Blind75.md",
     "未命名.canvas",
     "2. TODO/面試/3. 行為問題.md",
     "CICD/Gitlab Runner.md",
