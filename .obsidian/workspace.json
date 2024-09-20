@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/面試/1.  基本問題.md",
+                "file": "2. TODO/面試/公司/Akohub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/面試/1.  基本問題.md",
+                "file": "2. TODO/面試/公司/Akohub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/面試/1.  基本問題.md"
+                "file": "2. TODO/面試/公司/Akohub.md"
               }
             }
           },
@@ -179,10 +178,10 @@
       "daily-notes:開啟今天的每日筆記": false
     }
   },
-  "active": "1b729dd1f9992d9b",
+  "active": "36b5f27a735c9b42",
   "lastOpenFiles": [
-    "2. TODO/面試/公司/Akohub.md",
     "2. TODO/面試/1.  基本問題.md",
+    "2. TODO/面試/公司/Akohub.md",
     "2. TODO/面試/2. 專業問題.md",
     "2. TODO/面試/公司/91APP.md",
     "2. TODO/面試/公司/銓鍇國際 CKmates.md",
