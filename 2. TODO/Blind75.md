@@ -22,7 +22,7 @@
  * [ ] 19. Word Break
  * [ ] 20. Combination Sum
  * [ ] 21. House Robber
- * [ ] 22. House Robber II
+ * [x] 22. House Robber II
  * [ ] 23. Decode Ways
  * [ ] 24. Unique Paths
  * [ ] 25. Jump Game
