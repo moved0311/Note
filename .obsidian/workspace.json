@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/面試/公司/Akohub.md",
+                "file": "2. TODO/Blind75.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/面試/公司/Akohub.md",
+                "file": "2. TODO/Blind75.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/面試/公司/Akohub.md",
+                "file": "2. TODO/Blind75.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/面試/公司/Akohub.md"
+                "file": "2. TODO/Blind75.md"
               }
             }
           },
@@ -180,21 +179,21 @@
   },
   "active": "36b5f27a735c9b42",
   "lastOpenFiles": [
-    "2. TODO/面試/1.  基本問題.md",
     "2. TODO/面試/公司/Akohub.md",
-    "2. TODO/面試/2. 專業問題.md",
     "2. TODO/面試/公司/91APP.md",
     "2. TODO/面試/公司/銓鍇國際 CKmates.md",
-    "2. TODO/面試/公司/Binance.md",
-    "2. TODO/面試/公司/LineGo.md",
     "2. TODO/面試/公司/MEXC.md",
-    "2. TODO/面試/公司/TSMC.md",
     "2. TODO/面試/公司/Zerologix.md",
-    "2. TODO/Blind75.md",
-    "2. TODO/Read.md",
-    "2. TODO/React18.md",
-    "2. TODO/React19.md",
+    "2. TODO/面試/公司/TSMC.md",
+    "2. TODO/面試/公司/LineGo.md",
+    "2. TODO/面試/公司/Binance.md",
+    "2. TODO/面試/1.  基本問題.md",
     "2. TODO/Plan.md",
+    "2. TODO/Read.md",
+    "2. TODO/React19.md",
+    "2. TODO/React18.md",
+    "2. TODO/面試/2. 專業問題.md",
+    "2. TODO/Blind75.md",
     "未命名.canvas",
     "2. TODO/面試/3. 行為問題.md",
     "CICD/Gitlab Runner.md",
