@@ -25,7 +25,7 @@
  * [x] 22. House Robber II
  * [ ] 23. Decode Ways
  * [x] 24. Unique Paths
- * [ ] 25. Jump Game
+ * [x] 25. Jump Game
  * [ ] 26. Clone Graph
  * [ ] 27. Course Schedule
  * [ ] 28. Pacific Atlantic Water Flow
