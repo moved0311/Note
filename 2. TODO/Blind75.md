@@ -24,7 +24,7 @@
  * [ ] 21. House Robber
  * [x] 22. House Robber II
  * [ ] 23. Decode Ways
- * [ ] 24. Unique Paths
+ * [x] 24. Unique Paths
  * [ ] 25. Jump Game
  * [ ] 26. Clone Graph
  * [ ] 27. Course Schedule
