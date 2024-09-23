@@ -1,14 +1,26 @@
 {
   "main": {
-    "id": "983d83b246756a5f",
+    "id": "5534b24b77d62344",
     "type": "split",
     "children": [
       {
-        "id": "9953cef114985c8f",
+        "id": "15d84d3d0432bc84",
         "type": "tabs",
         "children": [
           {
-            "id": "36b5f27a735c9b42",
+            "id": "b98c4a943d023b4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2024-09-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd02e13a28688fa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,34 +30,23 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7d4ff068458bff6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. TODO/Read.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "54d7a0f4caa4bfe3",
+    "id": "2df4fb1914f4def7",
     "type": "split",
     "children": [
       {
-        "id": "7a3e4dd94f42c4cf",
+        "id": "38b34ca222af2847",
         "type": "tabs",
         "children": [
           {
-            "id": "0956f11c313356e2",
+            "id": "871ad62d0ab09a0c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,13 +56,13 @@
             }
           },
           {
-            "id": "275acea55b99ae4f",
+            "id": "2cb51d19092c7bcf",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "scroll",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -70,15 +71,7 @@
             }
           },
           {
-            "id": "5e45d0aae34539ae",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "b804350217103997",
+            "id": "208fa2a55b6eebda",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -89,19 +82,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 210.5
   },
   "right": {
-    "id": "065c81d18b56bd36",
+    "id": "c56181c98a8f9c8f",
     "type": "split",
     "children": [
       {
-        "id": "b84e32a2d35e6292",
+        "id": "6549e06fb9cb24a6",
         "type": "tabs",
         "children": [
           {
-            "id": "d87dd5f86373943c",
+            "id": "5b5c742d40122b31",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -118,7 +110,7 @@
             }
           },
           {
-            "id": "8d6e02ea751580d6",
+            "id": "eb351a0e223a772a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -130,7 +122,7 @@
             }
           },
           {
-            "id": "39473e6800c3a91e",
+            "id": "60664d92a5ebc789",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,7 +133,19 @@
             }
           },
           {
-            "id": "00f43c5638fd6ef2",
+            "id": "d12762b3648a3c1f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "02993a02c8a3523a",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -149,89 +153,78 @@
                 "file": "2. TODO/Blind75.md"
               }
             }
-          },
-          {
-            "id": "b5eb5027da73512c",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:建立新畫布": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "daily-notes:開啟今天的每日筆記": false
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "36b5f27a735c9b42",
+  "active": "dd02e13a28688fa8",
   "lastOpenFiles": [
-    "2. TODO/Read.md",
-    "2. TODO/面試/1.  基本問題.md",
-    "2. TODO/Blind75.md",
-    "Python/Basic.md",
-    "2. TODO/面試/公司/Akohub.md",
-    "2. TODO/面試/公司/91APP.md",
-    "2. TODO/面試/公司/銓鍇國際 CKmates.md",
-    "2. TODO/面試/公司/MEXC.md",
+    "1. Daily/2024-07-29.md",
+    "6. Works/鉅亨網/QA/留言區問題.md",
+    "6. Works/鉅亨網/QA/Cache.md",
+    "6. Works/鉅亨網/Doc/外匯.md",
+    "6. Works/鉅亨網/Doc/API.md",
+    "6. Works/鉅亨網/新聞專案改版.md",
+    "6. Works/鉅亨網/whenToUseServerAndClientComponents.png",
+    "6. Works/鉅亨網/fe-esg.md",
+    "6. Works/鉅亨網/fe-crypto.md",
+    "6. Works/鉅亨網/QA",
+    "6. Works/鉅亨網/Doc",
+    "6. Works/鉅亨網",
     "2. TODO/面試/公司/Zerologix.md",
-    "2. TODO/面試/公司/TSMC.md",
     "2. TODO/面試/公司/LineGo.md",
-    "2. TODO/面試/公司/Binance.md",
-    "2. TODO/Plan.md",
-    "2. TODO/React19.md",
-    "2. TODO/React18.md",
-    "2. TODO/面試/2. 專業問題.md",
-    "未命名.canvas",
-    "2. TODO/面試/3. 行為問題.md",
-    "CICD/Gitlab Runner.md",
-    "5. Stocks/通信網路/電信/3045-台灣大.md",
-    "5. Stocks/通信網路/IPC/IPC(Industrial PC,工業電腦).md",
-    "5. Stocks/通信網路/IPC/6245-立端.md",
-    "5. Stocks/通信網路/CPO/CPO.md",
-    "5. Stocks/通信網路/CPO/4977-眾達KY.md",
-    "5. Stocks/高爾夫球/6670/6670.md",
-    "5. Stocks/電子零組件/電纜/6290-良維.md",
-    "5. Stocks/晶圓/5483-中美晶/5483.png",
-    "5. Stocks/晶圓/5483-中美晶/5483.md",
-    "5. Stocks/通信網路/WiFi比較圖.png",
-    "5. Stocks/通信網路/電信",
-    "5. Stocks/通信網路/IPC",
-    "5. Stocks/通信網路/CPO",
-    "5. Stocks/IC/2454/GS_revenue_mix_segment.png",
-    "5. Stocks/高爾夫球/6670",
-    "5. Stocks/電子零組件/電纜",
-    "5. Stocks/晶圓/5483-中美晶",
-    "5. Stocks/IC/IDC2023Q1手機出貨量.png",
-    "5. Stocks/IP",
-    "5. Stocks/記憶體",
-    "5. Stocks/通信網路",
-    "5. Stocks/IC/2454",
-    "5. Stocks/PCB/process.png",
-    "5. Stocks/PCB/industy.png",
-    "5. Stocks/PCB/ABF三雄營收占比客戶比較.png",
+    "2. TODO/面試/公司/Akohub.md",
+    "1. Daily/2024-09-19.md",
+    "2. TODO/Blind75.md",
+    "1. Daily/2024-08-22.md",
+    "3. Reference/Docker.md",
+    "3. Reference/架構設計.md",
+    "3. Reference/Careers.md",
+    "3. Reference/Code Review.md",
+    "3. Reference/JavaScript.md",
+    "3. Reference/Nextjs.md",
+    "2. TODO/面試/1.  基本問題.md",
+    "Python/Basic.md",
+    "Python/pd.md",
+    "PPT/20240327-TradingView/Index.md",
+    "Shortcut/copy current url.md",
+    "1. Daily/2020/2020.md",
+    "2. TODO/未命名",
+    "6. Works/1. 晟悅(2020)",
+    "4. Web/Storage",
+    "4. Web/React/1. React.canvas",
+    "6. Works/2. 鉅亨網(2021)/whenToUseServerAndClientComponents.png",
+    "1. Daily/2024",
+    "PPT/20240605-share-localstorage",
+    "2. TODO/面試/3. 行為問題",
+    "2. TODO/面試/公司",
     "4. Web/RSC/RSC.canvas",
     "Game/遊戲王/QDW.canvas",
-    "4. Web/React/1. React.canvas",
-    "5.Stocks/晶圓/5483-中美晶/5483.png",
+    "Game/未命名.canvas",
+    "PPT/20240327-TradingView/AAPL.png",
+    "PPT/20240327-TradingView/flow.png",
     "Libs/TradingView/datafeed.canvas",
     "PPT/20230104-Slack Ｍessage/slack-mseesage.png",
+    "PPT/20240327-TradingView/put-to-public.png",
+    "PPT/20240327-TradingView/result.png",
+    "Pasted image 20240326101558.png",
     "PPT/20230104-Slack Ｍessage/postToChannel.png",
-    "2. TODO/React/1. React.canvas",
-    "未命名 1.canvas"
+    "5. Stocks/通信網路/WiFi比較圖.png"
   ]
 }

@@ -17,12 +17,21 @@
 	 * shift n bits  & 1 拿特定位數值，在shift n bits OR 設定
  * [x] 15. Climbing Stairs
  * [x] 16. Coin Change
+<<<<<<< HEAD
  * [ ] 17. Longest Increasing Subsequence
  * [ ] 18. Longest Common Subsequence
  * [ ] 19. Word Break
  * [ ] 20. Combination Sum
  * [ ] 21. House Robber
  * [x] 22. House Robber II
+=======
+ * [x] 17. Longest Increasing Subsequence
+ * [x] 18. Longest Common Subsequence
+ * [x] 19. Word Break
+ * [ ] 20. Combination Sum
+ * [x] 21. House Robber
+ * [ ] 22. House Robber II
+>>>>>>> bed38cf (feat: mac)
  * [ ] 23. Decode Ways
  * [x] 24. Unique Paths
  * [x] 25. Jump Game

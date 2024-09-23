@@ -1,4 +1,5 @@
 * [ ] 學習linux排程 cronjob
+* [ ] 學習nginx
 * [ ] 月報價與總經資料疊圖
 * [ ] Share: 爬蟲/廣告/程式碼產生器
 * [ ] ui library
