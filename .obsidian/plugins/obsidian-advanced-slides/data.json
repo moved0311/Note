@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "port": "3333",
-=======
-  "port": "8787",
->>>>>>> bed38cf (feat: mac)
+  "port": "3000",
   "autoReload": true,
   "exportDirectory": "/export",
   "enableChalkboard": false,
@@ -21,9 +17,5 @@
   "showGrid": false,
   "autoComplete": "inPreview",
   "paneMode": "split",
-<<<<<<< HEAD
-  "motm": "2024-09-13T06:05:30.605Z"
-=======
-  "motm": "2024-09-04T06:26:29.777Z"
->>>>>>> bed38cf (feat: mac)
+  "motm": "2024-10-02T14:32:36.773Z"
 }
