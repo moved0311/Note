@@ -1,1 +1,0 @@
-* [ ] 新聞改成Next13後，Next會對fetch做強化，例如增加cache與revalidate機制。會造成客戶在修改資料時沒辦法馬上看到更新結果，因為api cache還是舊的資料，要做revalidate才會更新，但revalidate要設定多久?
