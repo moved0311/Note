@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workspace/Neovim.md",
+                "file": "1. Daily/2024-10-14.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0172835d3c87fea8",
+            "id": "f0580940bd573bcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/Plan.md",
+                "file": "Workspace/tmux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workspace/Neovim.md",
+                "file": "Workspace/tmux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workspace/Neovim.md",
+                "file": "Workspace/tmux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workspace/Neovim.md"
+                "file": "Workspace/tmux.md"
               }
             }
           },
@@ -177,8 +178,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f598146dd1f9800d",
+  "active": "f0580940bd573bcb",
   "lastOpenFiles": [
+    "1. Daily/2024-10-14.md",
+    "2. TODO/Plan.md",
+    "Workspace/Neovim.md",
     "Git/Git.md",
     "Git/Subtree.md",
     "Git/Reference.md",
@@ -187,9 +191,6 @@
     "Git/產生ssh key.md",
     "Git/Deploy.md",
     "Git/Diff.md",
-    "Workspace/Neovim.md",
-    "1. Daily/2024-10-14.md",
-    "2. TODO/Plan.md",
     "6. Works/2. 鉅亨網(2021)/專案推版.md",
     "2. TODO/Question.md",
     "6. Works/2. 鉅亨網(2021)/新聞專案改版.md",
