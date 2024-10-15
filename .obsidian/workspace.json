@@ -18,18 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f0580940bd573bcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workspace/tmux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -179,8 +167,13 @@
   },
   "active": "f598146dd1f9800d",
   "lastOpenFiles": [
-    "Workspace/tmux.md",
+    "Shell/Commands.md",
+    "Shortcut/Mac.md",
+    "Shortcut/copy current url.md",
+    "Workspace/Vim.md",
+    "Workspace/Windows.md",
     "1. Daily/2024-10-14.md",
+    "Workspace/tmux.md",
     "2. TODO/Plan.md",
     "Workspace/Neovim.md",
     "Git/Git.md",
@@ -201,11 +194,6 @@
     "2. TODO/Blind75.md",
     "6. Works/2. 鉅亨網(2021)/Doc/API.md",
     "1. Daily/2024/2024-09-19.md",
-    "6. Works/2. 鉅亨網(2021)/Doc/玉山.md",
-    "6. Works/2. 鉅亨網(2021)/Doc/個人化新聞.md",
-    "6. Works/2. 鉅亨網(2021)/Doc/外匯.md",
-    "6. Works/2. 鉅亨網(2021)/QA/留言區問題.md",
-    "6. Works/2. 鉅亨網(2021)/QA/Cache.md",
     "Pasted image 20241002235109.png",
     "6. Works/2. 鉅亨網(2021)/QA",
     "6. Works/2. 鉅亨網(2021)/Doc",
