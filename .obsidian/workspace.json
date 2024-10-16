@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cbfeffed7f7f5999",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Works/2. 鉅亨網(2021)/專案推版.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -167,12 +179,13 @@
   },
   "active": "f598146dd1f9800d",
   "lastOpenFiles": [
+    "6. Works/2. 鉅亨網(2021)/專案推版.md",
+    "1. Daily/2024-10-14.md",
     "Shell/Commands.md",
     "Shortcut/Mac.md",
     "Shortcut/copy current url.md",
     "Workspace/Vim.md",
     "Workspace/Windows.md",
-    "1. Daily/2024-10-14.md",
     "Workspace/tmux.md",
     "2. TODO/Plan.md",
     "Workspace/Neovim.md",
@@ -184,7 +197,6 @@
     "Git/產生ssh key.md",
     "Git/Deploy.md",
     "Git/Diff.md",
-    "6. Works/2. 鉅亨網(2021)/專案推版.md",
     "2. TODO/Question.md",
     "6. Works/2. 鉅亨網(2021)/新聞專案改版.md",
     "6. Works/2. 鉅亨網(2021)/fe-crypto.md",
