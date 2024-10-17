@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Works/2. 鉅亨網(2021)/Doc/API.md",
+                "file": "1. Daily/2024-10-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Works/2. 鉅亨網(2021)/Doc/API.md",
+                "file": "1. Daily/2024-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Works/2. 鉅亨網(2021)/Doc/API.md",
+                "file": "1. Daily/2024-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Works/2. 鉅亨網(2021)/Doc/API.md"
+                "file": "1. Daily/2024-10-14.md"
               }
             }
           },
@@ -179,9 +179,10 @@
   },
   "active": "f598146dd1f9800d",
   "lastOpenFiles": [
-    "1. Daily/2024-10-14.md",
-    "6. Works/2. 鉅亨網(2021)/Doc/玉山.md",
     "6. Works/2. 鉅亨網(2021)/專案推版.md",
+    "1. Daily/2024-10-14.md",
+    "6. Works/2. 鉅亨網(2021)/Doc/API.md",
+    "6. Works/2. 鉅亨網(2021)/Doc/玉山.md",
     "Shell/Commands.md",
     "Shortcut/Mac.md",
     "Shortcut/copy current url.md",
@@ -205,7 +206,6 @@
     "6. Works/2. 鉅亨網(2021)/whenToUseServerAndClientComponents.png",
     "2. TODO/Read.md",
     "2. TODO/Blind75.md",
-    "6. Works/2. 鉅亨網(2021)/Doc/API.md",
     "Pasted image 20241002235109.png",
     "6. Works/2. 鉅亨網(2021)/QA",
     "6. Works/2. 鉅亨網(2021)/Doc",
