@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024-10-14.md",
+                "file": "6. Works/2. 鉅亨網(2021)/Doc/玉山.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-10-14.md",
+                "file": "6. Works/2. 鉅亨網(2021)/Doc/玉山.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-10-14.md",
+                "file": "6. Works/2. 鉅亨網(2021)/Doc/玉山.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-10-14.md"
+                "file": "6. Works/2. 鉅亨網(2021)/Doc/玉山.md"
               }
             }
           },
@@ -179,8 +179,8 @@
   },
   "active": "f598146dd1f9800d",
   "lastOpenFiles": [
-    "6. Works/2. 鉅亨網(2021)/專案推版.md",
     "1. Daily/2024-10-14.md",
+    "6. Works/2. 鉅亨網(2021)/專案推版.md",
     "Shell/Commands.md",
     "Shortcut/Mac.md",
     "Shortcut/copy current url.md",
