@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Works/2. 鉅亨網(2021)/專案推版.md",
+                "file": "1. Daily/2024-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Works/2. 鉅亨網(2021)/專案推版.md",
+                "file": "1. Daily/2024-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Works/2. 鉅亨網(2021)/專案推版.md"
+                "file": "1. Daily/2024-10-14.md"
               }
             }
           },
@@ -178,10 +177,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "cbfeffed7f7f5999",
+  "active": "f598146dd1f9800d",
   "lastOpenFiles": [
-    "1. Daily/2024-10-14.md",
     "6. Works/2. 鉅亨網(2021)/專案推版.md",
+    "1. Daily/2024-10-14.md",
     "6. Works/2. 鉅亨網(2021)/Doc/API.md",
     "6. Works/2. 鉅亨網(2021)/Doc/玉山.md",
     "Shell/Commands.md",
