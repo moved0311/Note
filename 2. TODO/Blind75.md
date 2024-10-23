@@ -57,7 +57,7 @@
 * [x] 53. Valid Parentheses
 * [x] 54. Valid Palindrome
 * [ ] 55. Longest Palindromic Substring
-* [ ] 56. Palindromic Substrings
+* [x] 56. Palindromic Substrings
 * [ ] 57. Encode and Decode Strings
 * [x] 58. Maximum Depth of Binary Tree
 * [x] 59. Same Tree

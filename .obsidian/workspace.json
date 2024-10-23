@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-10-14.md",
+                "file": "2. TODO/Blind75.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-10-14.md",
+                "file": "2. TODO/Blind75.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-10-14.md"
+                "file": "2. TODO/Blind75.md"
               }
             }
           },
@@ -190,10 +190,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f598146dd1f9800d",
+  "active": "b6081b265b02b140",
   "lastOpenFiles": [
-    "6. Works/2. 鉅亨網(2021)/專案推版.md",
     "1. Daily/2024-10-14.md",
+    "6. Works/2. 鉅亨網(2021)/專案推版.md",
     "6. Works/2. 鉅亨網(2021)/Doc/API.md",
     "6. Works/2. 鉅亨網(2021)/Doc/玉山.md",
     "Shell/Commands.md",
