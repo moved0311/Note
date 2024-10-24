@@ -1,1 +1,0 @@
-* 打各種符號 ctrl + cmd + space

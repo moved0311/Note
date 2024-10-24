@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b6081b265b02b140",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "指令/Shell/Find.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "指令/Shell/Find.md",
+                "file": "Books/JavaScript/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "指令/Shell/Find.md",
+                "file": "Books/JavaScript/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "指令/Shell/Find.md"
+                "file": "Books/JavaScript/JavaScript.md"
               }
             }
           },
@@ -190,13 +178,22 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b6081b265b02b140",
+  "active": "0956f11c313356e2",
   "lastOpenFiles": [
-    "指令/Shell/目錄大小.md",
-    "指令/Shell/Find.md",
-    "2. TODO/Blind75.md",
+    "2.1 Pending/CodingInterviewUniversity.md",
+    "2.1 Pending/LeetCode.md",
+    "useful-website/Icons.md",
+    "useful-website/職涯.md",
+    "useful-website/前端.md",
+    "useful-website/圖片相關.md",
+    "Tools/儲存目前網頁markdown.md",
+    "Shortcut/copy current url.md",
+    "Shortcut/Mac.md",
     "6. Works/2. 鉅亨網(2021)/專案推版.md",
     "1. Daily/2024-10-14.md",
+    "指令/Shell/Find.md",
+    "指令/Shell/目錄大小.md",
+    "2. TODO/Blind75.md",
     "6. Works/2. 鉅亨網(2021)/fe-crypto.md",
     "6. Works/2. 鉅亨網(2021)/fe-esg.md",
     "6. Works/2. 鉅亨網(2021)/whenToUseServerAndClientComponents.png",
@@ -204,21 +201,12 @@
     "6. Works/2. 鉅亨網(2021)/Doc/API.md",
     "6. Works/2. 鉅亨網(2021)/Doc/玉山.md",
     "Shell/Commands.md",
-    "Shortcut/Mac.md",
-    "Shortcut/copy current url.md",
     "Workspace/Vim.md",
     "Workspace/Windows.md",
     "Workspace/tmux.md",
     "2. TODO/Plan.md",
     "Workspace/Neovim.md",
     "Git/Git.md",
-    "Git/Subtree.md",
-    "Git/Reference.md",
-    "Git/Gitlab/Package Registry.md",
-    "Git/cache.md",
-    "Git/產生ssh key.md",
-    "Git/Deploy.md",
-    "Git/Diff.md",
     "Pasted image 20241002235109.png",
     "6. Works/2. 鉅亨網(2021)/QA",
     "6. Works/2. 鉅亨網(2021)/Doc",
