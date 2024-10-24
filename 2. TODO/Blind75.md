@@ -73,7 +73,7 @@
 * [ ] 69. Implement Trie (Prefix Tree)
 * [ ] 70. Design Add and Search Words Data Structure
 * [ ] 71. Word Search II
-* [ ] 72. Top K Frequent Elements
+* [x] 72. Top K Frequent Elements
 * [ ] 73. Find Median from Data Stream
 * [x] 74. Valid Anagram
 * [ ] 75. Sum of Two Integers
