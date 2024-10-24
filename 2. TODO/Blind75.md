@@ -51,7 +51,7 @@
 * [ ] 47. Rotate Image
 * [ ] 48. Word Search
 * [x] 49.  Longest Substring Without Duplicates
-* [ ] 50. Longest Repeating Character Replacement
+* [x] 50. Longest Repeating Character Replacement
 * [ ] 51. Minimum Window Substring
 * [ ] 52. Group Anagrams
 * [x] 53. Valid Parentheses
