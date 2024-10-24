@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/JavaScript/JavaScript.md",
+                "file": "1. Daily/2024-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/JavaScript/JavaScript.md",
+                "file": "1. Daily/2024-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/JavaScript/JavaScript.md"
+                "file": "1. Daily/2024-10-14.md"
               }
             }
           },
@@ -178,8 +177,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0956f11c313356e2",
+  "active": "f598146dd1f9800d",
   "lastOpenFiles": [
+    "Books/JavaScript/JavaScript.md",
     "2.1 Pending/CodingInterviewUniversity.md",
     "2.1 Pending/LeetCode.md",
     "useful-website/Icons.md",
@@ -206,7 +206,6 @@
     "Workspace/tmux.md",
     "2. TODO/Plan.md",
     "Workspace/Neovim.md",
-    "Git/Git.md",
     "Pasted image 20241002235109.png",
     "6. Works/2. 鉅亨網(2021)/QA",
     "6. Works/2. 鉅亨網(2021)/Doc",
