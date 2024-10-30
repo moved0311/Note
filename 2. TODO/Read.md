@@ -1,4 +1,3 @@
-[前端 - 掘金](https://juejin.cn/frontend)
 ## Web/JS
 * [Dev - Sebastien Lorber](https://dev.to/sebastienlorber)
 * [JSDevJournal | HackerNoon](https://hackernoon.com/u/jsdevjournal)
@@ -12,24 +11,11 @@
 * [Developer way - Nadia](https://www.developerway.com/) 
 * [Overreacted — A blog by Dan Abramov](https://overreacted.io/)(React core team)
 * [Daishi Kato's blog - zustand](https://blog.axlight.com/)
-## NextJS
-* [Jack Herrington](https://www.pronextjs.dev/articles) (Youtuber)
 
 ## 演算法
 - [Rohit Verma – Medium](https://medium.com/@rohitverma_87831)
 
-## Network
-* [Beej's Guide to Network Concepts](https://beej.us/guide/bgnet0/html/split/)
 ## 個人
-* [Morris' Blog](https://morris821028.github.io/)
-	* [Company Ghost Story 公司鬼故事 16 | Morris' Blog](https://morris821028.github.io/2023/10/09/work/company-ghost-story-16/#%E9%9B%9C%E6%B9%8A)
-* [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)  
-* [Hannah Lin – Medium](https://hannahlin.medium.com/)
-* [Felix Chern – Medium](https://medium.com/@fchern)  (關於變強這檔事)
-* [vgod's blog – Medium](https://vgod.medium.com/) 
-* [Robert-Jan Kuyper – Medium](https://medium.com/@datails) 
-* [Complete Think](https://rickhw.github.io/) 
-* [Addy Osmani – Medium](https://medium.com/@addyosmani) 
 * [Rida F'kih – Medium](https://medium.com/@ridafkih)  
 * [Jason's Web Memo](https://jason-memo.dev/) 
 * [Harshal Patil – Medium](https://medium.com/@mistyHarsh) 

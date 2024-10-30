@@ -8,6 +8,7 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "f73af38c593919be",
             "type": "leaf",
             "state": {
@@ -15,6 +16,31 @@
               "state": {},
               "icon": "lucide-file",
               "title": "新分頁"
+=======
+            "id": "f598146dd1f9800d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. TODO/Blind75.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blind75"
+            }
+          },
+          {
+            "id": "ba8e4997bd8963aa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2. TODO/靈茶山基礎算法影片.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "靈茶山基礎算法影片"
+>>>>>>> c553a2bcd74eb6f328d085f8d1ecc04dad067c51
             }
           }
         ]
@@ -39,7 +65,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
+<<<<<<< HEAD
               "title": "檔案瀏覽器"
+=======
+              "title": "Files"
+>>>>>>> c553a2bcd74eb6f328d085f8d1ecc04dad067c51
             }
           },
           {
@@ -56,7 +86,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
+<<<<<<< HEAD
               "title": "搜尋"
+=======
+              "title": "Search"
+>>>>>>> c553a2bcd74eb6f328d085f8d1ecc04dad067c51
             }
           },
           {
@@ -66,7 +100,11 @@
               "type": "starred",
               "state": {},
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "外掛程式已不復活躍"
+=======
+              "title": "Plugin no longer active"
+>>>>>>> c553a2bcd74eb6f328d085f8d1ecc04dad067c51
             }
           },
           {
@@ -76,15 +114,18 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
+<<<<<<< HEAD
               "title": "書籤"
+=======
+              "title": "Bookmarks"
+>>>>>>> c553a2bcd74eb6f328d085f8d1ecc04dad067c51
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 217.5
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -109,7 +150,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+<<<<<<< HEAD
               "title": "反向連結"
+=======
+              "title": "Backlinks for Blind75"
+>>>>>>> c553a2bcd74eb6f328d085f8d1ecc04dad067c51
             }
           },
           {
@@ -122,7 +167,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+<<<<<<< HEAD
               "title": "對外連結"
+=======
+              "title": "Outgoing links from Blind75"
+>>>>>>> c553a2bcd74eb6f328d085f8d1ecc04dad067c51
             }
           },
           {
@@ -135,7 +184,11 @@
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
+<<<<<<< HEAD
               "title": "標籤"
+=======
+              "title": "Tags"
+>>>>>>> c553a2bcd74eb6f328d085f8d1ecc04dad067c51
             }
           },
           {
@@ -143,9 +196,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {},
               "icon": "lucide-list",
               "title": "大綱"
+=======
+              "state": {
+                "file": "2. TODO/Blind75.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Blind75"
+>>>>>>> c553a2bcd74eb6f328d085f8d1ecc04dad067c51
             }
           },
           {
@@ -157,7 +218,11 @@
                 "sortOrder": "frequency"
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "外掛程式已不復活躍"
+=======
+              "title": "Plugin no longer active"
+>>>>>>> c553a2bcd74eb6f328d085f8d1ecc04dad067c51
             }
           }
         ]
@@ -169,15 +234,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:建立新畫布": false,
-      "switcher:開啟快速切換": false,
-      "graph:查看關聯圖": false,
-      "templates:插入模板": false,
-      "command-palette:開啟命令面板": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "daily-notes:開啟今天的每日筆記": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+<<<<<<< HEAD
   "active": "f73af38c593919be",
   "lastOpenFiles": [
     "2. TODO/面試/3. 行為問題.md",
@@ -199,16 +266,44 @@
     "Pasted image 20241002235109.png",
     "2. TODO/React18.md",
     "2. TODO/React19.md",
+=======
+  "active": "f598146dd1f9800d",
+  "lastOpenFiles": [
+    "1. Daily/2024-10-30.md",
+    "2. TODO/靈茶山基礎算法影片.md",
+    "1. Daily/2024/2024-10-14.md",
+    "2. TODO/Untitled.md",
+    "2. TODO/Blind75.md",
+    "Excalidraw",
+>>>>>>> c553a2bcd74eb6f328d085f8d1ecc04dad067c51
     "2. TODO/Read.md",
-    "PPT/20240814.md",
-    "6. Works/2. 鉅亨網(2021)/QA/留言區問題.md",
-    "6. Works/2. 鉅亨網(2021)/QA/Cache.md",
-    "6. Works/2. 鉅亨網(2021)/Doc/外匯.md",
-    "6. Works/2. 鉅亨網(2021)/Doc/API.md",
-    "6. Works/2. 鉅亨網(2021)/whenToUseServerAndClientComponents.png",
-    "6. Works/2. 鉅亨網(2021)/新聞專案改版.md",
-    "6. Works/2. 鉅亨網(2021)/QA",
+    "2. TODO/Question.md",
+    "2. TODO/Plan.md",
+    "6. Works/2. 鉅亨網(2021)/專案推版.md",
+    "Books/JavaScript/JavaScript.md",
+    "2.1 Pending/CodingInterviewUniversity.md",
+    "2.1 Pending/LeetCode.md",
+    "useful-website/Icons.md",
+    "useful-website/職涯.md",
+    "useful-website/前端.md",
+    "useful-website/圖片相關.md",
+    "Tools/儲存目前網頁markdown.md",
+    "Shortcut/copy current url.md",
+    "Shortcut/Mac.md",
+    "指令/Shell/Find.md",
+    "指令/Shell/目錄大小.md",
+    "6. Works/2. 鉅亨網(2021)/fe-crypto.md",
     "6. Works/2. 鉅亨網(2021)/fe-esg.md",
+    "6. Works/2. 鉅亨網(2021)/whenToUseServerAndClientComponents.png",
+    "6. Works/2. 鉅亨網(2021)/QA/留言區問題.md",
+    "6. Works/2. 鉅亨網(2021)/Doc/API.md",
+    "6. Works/2. 鉅亨網(2021)/Doc/玉山.md",
+    "Pasted image 20241002235109.png",
+    "6. Works/2. 鉅亨網(2021)/QA",
+<<<<<<< HEAD
+    "6. Works/2. 鉅亨網(2021)/fe-esg.md",
+=======
+>>>>>>> c553a2bcd74eb6f328d085f8d1ecc04dad067c51
     "6. Works/2. 鉅亨網(2021)/Doc",
     "6. Works/2. 鉅亨網(2021)",
     "4. Web/Storage",
@@ -221,7 +316,6 @@
     "5. Stocks/IC/2454/GS_revenue_mix_segment.png",
     "5. Stocks/高爾夫球/6670",
     "5. Stocks/電子零組件/電纜",
-    "5. Stocks/晶圓/5483-中美晶",
     "5. Stocks/IC/IDC2023Q1手機出貨量.png",
     "5. Stocks/PCB/process.png",
     "5. Stocks/PCB/industy.png",
