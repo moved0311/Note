@@ -41,8 +41,8 @@
  * [x] 37. Meeting Rooms
  * [ ] 38. Meeting Roms II
  * [x] 39. Reverse Linked List
- * [ ] 40. Linked List Cycle
- * [ ] 41. Merge Two Sorted Lists
+ * [x] 40. Linked List Cycle
+ * [x] 41. Merge Two Sorted Lists
 * [ ] 42. Merge K Sorted Lists
 * [ ] 43. Remove Nth Node from End of List
 * [ ] 44. Linkedin Interview Question
@@ -65,7 +65,7 @@
 * [ ] 61. Binary Tree Maximum Path Sum
 * [ ] 62. Binary Tree Level Order Traversal
 * [ ] 63. Serialize and Deserialize Binary Tree
-* [ ] 64. Subtree of Another Tree
+* [x] 64. Subtree of Another Tree
 * [ ] 65. Construct Binary Tree from Inorder and Preorder Traversal
 * [ ] 66. Validate Binary Search Tree
 * [ ] 67. Kth Smallest Element in a BST
@@ -76,4 +76,4 @@
 * [ ] 72. Top K Frequent Elements
 * [ ] 73. Find Median from Data Stream
 * [x] 74. Valid Anagram
-* [ ] 75. Sum of Two Integers
+* [x] 75. Sum of Two Integers
