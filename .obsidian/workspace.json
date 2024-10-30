@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024-10-30.md",
+                "file": "2. TODO/Blind75.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-30"
+              "title": "Blind75"
             }
           },
           {
@@ -99,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5,
-    "collapsed": true
+    "width": 217.5
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-10-30.md",
+                "file": "2. TODO/Blind75.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-10-30"
+              "title": "Backlinks for Blind75"
             }
           },
           {
@@ -135,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-10-30.md",
+                "file": "2. TODO/Blind75.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-10-30"
+              "title": "Outgoing links from Blind75"
             }
           },
           {
@@ -162,10 +161,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-10-30.md"
+                "file": "2. TODO/Blind75.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-10-30"
+              "title": "Outline of Blind75"
             }
           },
           {
@@ -201,9 +200,9 @@
   },
   "active": "f598146dd1f9800d",
   "lastOpenFiles": [
-    "1. Daily/2024/2024-10-14.md",
     "1. Daily/2024-10-30.md",
     "2. TODO/靈茶山基礎算法影片.md",
+    "1. Daily/2024/2024-10-14.md",
     "2. TODO/Untitled.md",
     "2. TODO/Blind75.md",
     "Excalidraw",
