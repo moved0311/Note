@@ -16,7 +16,9 @@
                 "file": "1. Daily/2024-10-14.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-14"
             }
           },
           {
@@ -28,7 +30,21 @@
                 "file": "2. TODO/Read.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Read"
+            }
+          },
+          {
+            "id": "b3c91eae698c205b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           },
           {
@@ -40,10 +56,13 @@
                 "file": "6. Works/2. 鉅亨網(2021)/專案推版.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "專案推版"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +82,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -78,7 +99,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -86,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -94,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -125,7 +152,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-10-14"
             }
           },
           {
@@ -137,7 +166,9 @@
                 "file": "1. Daily/2024-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-10-14"
             }
           },
           {
@@ -148,7 +179,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -158,7 +191,9 @@
               "type": "outline",
               "state": {
                 "file": "1. Daily/2024-10-14.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-10-14"
             }
           },
           {
@@ -168,7 +203,9 @@
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -189,14 +226,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f598146dd1f9800d",
+  "active": "b3c91eae698c205b",
   "lastOpenFiles": [
-    "2. TODO/Read.md",
+    "6. Works/2. 鉅亨網(2021)/專案推版.md",
     "1. Daily/2024-10-14.md",
+    "2. TODO/Blind75.md",
     "2. TODO/Plan.md",
     "2. TODO/Question.md",
-    "2. TODO/Blind75.md",
-    "6. Works/2. 鉅亨網(2021)/專案推版.md",
+    "2. TODO/Read.md",
     "Books/JavaScript/JavaScript.md",
     "2.1 Pending/CodingInterviewUniversity.md",
     "2.1 Pending/LeetCode.md",

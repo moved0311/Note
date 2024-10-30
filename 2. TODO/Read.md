@@ -16,14 +16,6 @@
 - [Rohit Verma – Medium](https://medium.com/@rohitverma_87831)
 
 ## 個人
-* [Morris' Blog](https://morris821028.github.io/)
-* [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)  
-* [Hannah Lin – Medium](https://hannahlin.medium.com/)
-* [Felix Chern – Medium](https://medium.com/@fchern)  (關於變強這檔事)
-* [vgod's blog – Medium](https://vgod.medium.com/) 
-* [Robert-Jan Kuyper – Medium](https://medium.com/@datails) 
-* [Complete Think](https://rickhw.github.io/) 
-* [Addy Osmani – Medium](https://medium.com/@addyosmani) 
 * [Rida F'kih – Medium](https://medium.com/@ridafkih)  
 * [Jason's Web Memo](https://jason-memo.dev/) 
 * [Harshal Patil – Medium](https://medium.com/@mistyHarsh) 
