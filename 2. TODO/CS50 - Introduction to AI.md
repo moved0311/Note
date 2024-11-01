@@ -1,23 +1,2 @@
----
+[CS50's Introduction to Artificial Intelligence with Python 2023](https://www.youtube.com/playlist?list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm)
 
-excalidraw-plugin: parsed
-tags: [excalidraw]
-
----
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
-
-
-# Excalidraw Data
-## Text Elements
-%%
-## Drawing
-```compressed-json
-N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQA2bR4aOiCEfQQOKGZuAG0AXX4IXDg4AGUoqHFUUDBIdXTqiGJcUgBrFLqGQgQKACFcbDblUmEOYgBhNnw2Um4IAGIAMxXV
-
-zshsEUCsgEkq/QrRtoQpmbmJBYBGBGvr9YhN0m2oPfSBoZGxyenZ+ahyDjMOCtTJQe6PZ6vfQAMUI+HwFRgwXmgg84K2oKhhzYxwA6iR1Nw+OANhjdvtscdEciJKiSOinpj9gAlYTKSQccI5NCXfikxnk9IAeWB2DUMG4lwADFK+Q8yS99tDOFBobh9HCJWgAKxyiFM9LKrJlQhGao8WUk+UCxXpAAqWCgAEEiMouBJgkswXqFVioqRnU82BRJCF
-
-iNwOEJ4T6bVCAKLjJ1BkNh+atUZUGOQ/ZJjN2+BNUZCcb3ZjYUbwgAa3AALFKAMxJXVWssV/AATSJ8W12gAnAB2bvxHjNrpGNgGbi1Lr0AhCaqXEkAXyzBv0rOLxE5zG56CLJblIxIJrNRMtXSPxAqCDg3FHkEvAFk2MQEAncJpguG0EsCGFD6QJCnL8aDTpAfTTN+e7KJouAABQ8Jc/bULwSEoYhyGoFK2jagAlOskDMggyhRq08ykDB8E8PWsq
-
-8DR6H0VhOH4cuq7Gv8OIICKUDsICEZRvgcpLOQGREeMTCEBwyhTiSkCZB+X7cP8858hsRC3mgykIKpEAcOq1RaTpwhQEQnJKaQ86sVadgAFYINg2RlHpcDPq+76fggUG/vg/5WoMPGMHaE74DJdT1AWKJpA5vEEfKzBQAY+aIPx0ayRAMxDJ53Deb5YXpaEzrRYFwUpfgy7gCudBLHC4RTkuIBLkAA==
-```
-%%
