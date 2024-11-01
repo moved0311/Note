@@ -27,24 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/CS50 - Introduction to AI.md",
+                "file": "2. TODO/Chrome Dev Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS50 - Introduction to AI"
-            }
-          },
-          {
-            "id": "719f2a83fa2df14c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2. TODO/靈茶山基礎算法影片.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "靈茶山基礎算法影片"
+              "title": "Chrome Dev Tools"
             }
           }
         ],
@@ -216,12 +204,13 @@
   "active": "c59ddf037340c7c5",
   "lastOpenFiles": [
     "2. TODO/CS50 - Introduction to AI.md",
-    "2. TODO/CS50 - Introduction to AI.md",
+    "2. TODO/Chrome Dev Tools.md",
+    "2. TODO/Vite.md",
+    "2. TODO/Read.md",
+    "2. TODO/Question.md",
+    "2. TODO/Plan.md",
     "2. TODO/靈茶山基礎算法影片.md",
     "1. Daily/2024-11-01.md",
-    "2. TODO/Plan.md",
-    "2. TODO/Question.md",
-    "2. TODO/Read.md",
     "2. TODO/Blind75.md",
     "1. Daily/2024/2024-10-30.md",
     "Game/遊戲王/QDW.canvas",
@@ -241,8 +230,6 @@
     "Shortcut/Mac.md",
     "指令/Shell/Find.md",
     "指令/Shell/目錄大小.md",
-    "6. Works/2. 鉅亨網(2021)/fe-crypto.md",
-    "6. Works/2. 鉅亨網(2021)/fe-esg.md",
     "6. Works/2. 鉅亨網(2021)/whenToUseServerAndClientComponents.png",
     "Pasted image 20241002235109.png",
     "6. Works/2. 鉅亨網(2021)/QA",
