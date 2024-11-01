@@ -11,10 +11,14 @@
             "id": "8c4b4a18df7c0d55",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2024-11-01.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2024-11-01"
             }
           }
         ]
@@ -184,6 +188,7 @@
   },
   "active": "8c4b4a18df7c0d55",
   "lastOpenFiles": [
+    "1. Daily/2024-11-01.md",
     "1. Daily/2024-10-30.md",
     "Game/遊戲王/QDW.canvas",
     "2. TODO/靈茶山基礎算法影片.md",
