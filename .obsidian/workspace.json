@@ -176,13 +176,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+<<<<<<< HEAD
   "active": "21dbdf08672a4c15",
   "lastOpenFiles": [
     "2. TODO/Read.md",
     "6. Works/面試/公司/Bonanza Quant Corporation.md",
     "2. TODO/Plan.md",
     "2. TODO/Question.md",
+=======
+  "active": "8c4b4a18df7c0d55",
+  "lastOpenFiles": [
+>>>>>>> faa18db (note backup: 2024-11-01 18:05:02)
     "2. TODO/CS50 - Introduction to AI.md",
+    "2. TODO/Blind75.md",
     "2. TODO/Chrome Dev Tools.md",
     "2. TODO/Blind75.md",
     "2. TODO/靈茶山基礎算法影片.md",
