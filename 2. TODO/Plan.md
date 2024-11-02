@@ -3,7 +3,7 @@
 * [ ] 月報價與總經資料疊圖
 * [ ] Share: 爬蟲/廣告/程式碼產生器
 * [ ] ui library
-	* [ ] month close/eps chart
+* [ ] month close/eps chart
 * [ ] Jira - Gitlab
 	* [ ] 將PR的內容貼到Jira票下
 * [ ] `[Blog]`功能` Blog改版

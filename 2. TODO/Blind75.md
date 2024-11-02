@@ -11,14 +11,8 @@
  * [ ] 35. Merge Intervals
  * [ ] 36. Non-Overlapping Intervals
  * [ ] 38. Meeting Roms II
-<<<<<<< HEAD
- * [x] 39. Reverse Linked List
- * [x] 40. Linked List Cycle
- * [x] 41. Merge Two Sorted Lists
-=======
  * [ ] 40. Linked List Cycle
  * [ ] 41. Merge Two Sorted Lists
->>>>>>> c553a2bcd74eb6f328d085f8d1ecc04dad067c51
 * [ ] 42. Merge K Sorted Lists
 * [ ] 43. Remove Nth Node from End of List
 * [ ] 44. Linkedin Interview Question
@@ -32,7 +26,6 @@
 * [ ] 61. Binary Tree Maximum Path Sum
 * [ ] 62. Binary Tree Level Order Traversal
 * [ ] 63. Serialize and Deserialize Binary Tree
-* [x] 64. Subtree of Another Tree
 * [ ] 65. Construct Binary Tree from Inorder and Preorder Traversal
 * [ ] 66. Validate Binary Search Tree
 * [ ] 67. Kth Smallest Element in a BST
@@ -41,9 +34,4 @@
 * [ ] 70. Design Add and Search Words Data Structure
 * [ ] 71. Word Search II
 * [ ] 73. Find Median from Data Stream
-<<<<<<< HEAD
-* [x] 74. Valid Anagram
-* [x] 75. Sum of Two Integers
-=======
 * [ ] 75. Sum of Two Integers
->>>>>>> c553a2bcd74eb6f328d085f8d1ecc04dad067c51

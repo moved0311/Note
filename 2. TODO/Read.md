@@ -12,9 +12,6 @@
 * [Overreacted — A blog by Dan Abramov](https://overreacted.io/)(React core team)
 * [Daishi Kato's blog - zustand](https://blog.axlight.com/)
 
-## 演算法
-- [Rohit Verma – Medium](https://medium.com/@rohitverma_87831)
-
 ## 個人
 * [Rida F'kih – Medium](https://medium.com/@ridafkih)  
 * [Jason's Web Memo](https://jason-memo.dev/) 

@@ -11,14 +11,10 @@
             "id": "21dbdf08672a4c15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Daily/2024-10-30.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024-10-30"
+              "title": "新分頁"
             }
           }
         ]
@@ -167,6 +163,10 @@
   "active": "21dbdf08672a4c15",
   "lastOpenFiles": [
     "1. Daily/2024-10-30.md",
+    "2. TODO/Chrome Dev Tools.md",
+    "2. TODO/CS50 - Introduction to AI.md",
+    "1. Daily/2024/2024-10-30.md",
+    "1. Daily/2024-11-01.md",
     "2. TODO/靈茶山基礎算法影片.md"
   ]
 }
