@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ecff737fce953a86",
+        "id": "62b30fad2d460e2a",
         "type": "tabs",
         "children": [
           {
-            "id": "4fbdd29703d21214",
+            "id": "21dbdf08672a4c15",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2. TODO/靈茶山基礎算法影片.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "靈茶山基礎算法影片"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
             }
           }
         ]
@@ -75,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "38be5f50e9895b3f",
@@ -163,6 +160,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4fbdd29703d21214",
-  "lastOpenFiles": []
+  "active": "21dbdf08672a4c15",
+  "lastOpenFiles": [
+    "1. Daily/2024-10-30.md",
+    "2. TODO/靈茶山基礎算法影片.md"
+  ]
 }
