@@ -1,36 +1,24 @@
 {
   "main": {
-    "id": "6974d3a43e2ea2de",
+    "id": "983d83b246756a5f",
     "type": "split",
     "children": [
       {
-        "id": "62b30fad2d460e2a",
+        "id": "391fad6b34c6a912",
         "type": "tabs",
         "children": [
           {
-            "id": "21dbdf08672a4c15",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2. TODO/靈茶山基礎算法影片.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "靈茶山基礎算法影片"
-            }
-          },
-          {
-            "id": "f67df4788b791d17",
+            "id": "8c4b4a18df7c0d55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/Read.md",
+                "file": "2. TODO/React From Scratch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Read"
+              "title": "React From Scratch"
             }
           }
         ]
@@ -39,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5cc8f7a3bb358dc4",
+    "id": "54d7a0f4caa4bfe3",
     "type": "split",
     "children": [
       {
-        "id": "9264529b5173ae0f",
+        "id": "7a3e4dd94f42c4cf",
         "type": "tabs",
         "children": [
           {
-            "id": "af1748adb4d50205",
+            "id": "0956f11c313356e2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,57 +43,67 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "檔案瀏覽器"
+              "title": "Files"
             }
           },
           {
-            "id": "41ff9eabc2e2f72f",
+            "id": "275acea55b99ae4f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜尋"
+              "title": "Search"
             }
           },
           {
-            "id": "98b642dcb2ce3d23",
+            "id": "5e45d0aae34539ae",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b804350217103997",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "書籤"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 236.5
   },
   "right": {
-    "id": "38be5f50e9895b3f",
+    "id": "065c81d18b56bd36",
     "type": "split",
     "children": [
       {
-        "id": "351fe9bb41f087c5",
+        "id": "b84e32a2d35e6292",
         "type": "tabs",
         "children": [
           {
-            "id": "80732d52072d37d7",
+            "id": "d87dd5f86373943c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. TODO/靈茶山基礎算法影片.md",
+                "file": "2. TODO/Blind75.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,25 +113,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "靈茶山基礎算法影片 的反向連結"
+              "title": "Backlinks for Blind75"
             }
           },
           {
-            "id": "699d68d678d5f2d4",
+            "id": "8d6e02ea751580d6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. TODO/靈茶山基礎算法影片.md",
+                "file": "2. TODO/Blind75.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "靈茶山基礎算法影片 的對外連結"
+              "title": "Outgoing links from Blind75"
             }
           },
           {
-            "id": "aeae9a0789981094",
+            "id": "39473e6800c3a91e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,69 +140,106 @@
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "標籤"
+              "title": "Tags"
             }
           },
           {
-            "id": "c5ed4be991be0abb",
+            "id": "00f43c5638fd6ef2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TODO/靈茶山基礎算法影片.md"
+                "file": "2. TODO/Blind75.md"
               },
               "icon": "lucide-list",
-              "title": "靈茶山基礎算法影片 的大綱"
+              "title": "Outline of Blind75"
+            }
+          },
+          {
+            "id": "b5eb5027da73512c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:開啟快速切換": false,
-      "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
-      "daily-notes:開啟今天的每日筆記": false,
-      "templates:插入模板": false,
-      "command-palette:開啟命令面板": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-<<<<<<< HEAD
-  "active": "21dbdf08672a4c15",
-  "lastOpenFiles": [
-    "2. TODO/Read.md",
-    "6. Works/面試/公司/Bonanza Quant Corporation.md",
-    "2. TODO/Plan.md",
-    "2. TODO/Question.md",
-=======
   "active": "8c4b4a18df7c0d55",
   "lastOpenFiles": [
-<<<<<<< HEAD
->>>>>>> faa18db (note backup: 2024-11-01 18:05:02)
-    "2. TODO/CS50 - Introduction to AI.md",
-    "2. TODO/Blind75.md",
-    "2. TODO/Chrome Dev Tools.md",
-    "2. TODO/Blind75.md",
-=======
-    "2. TODO/Chrome Dev Tools.md",
-    "2. TODO/CS50 - Introduction to AI.md",
-    "2. TODO/Blind75.md",
-    "1. Daily/2024-11-01.md",
-    "2. TODO/Vite.md",
-    "2. TODO/Read.md",
-    "2. TODO/Question.md",
     "2. TODO/Plan.md",
->>>>>>> 7eeb86a (note backup: 2024-11-04 10:09:47)
-    "2. TODO/靈茶山基礎算法影片.md",
+    "2. TODO/React From Scratch.md",
     "1. Daily/2024-11-01.md",
-    "1. Daily/2024-10-30.md",
-    "1. Daily/2024/2024-10-30.md"
+    "2. TODO/Question.md",
+    "4. Web/DevTools/Chrome Dev Tools.md",
+    "4. Web/DevTools",
+    "指令/Windows.md",
+    "6. Works/2. 鉅亨網(2021)/Projects/會員跨商品自選改版.md",
+    "6. Works/2. 鉅亨網(2021)/Projects/新聞專案改版.md",
+    "6. Works/2. 鉅亨網(2021)/Projects",
+    "2. TODO/Read.md",
+    "2. TODO/CS50 - Introduction to AI.md",
+    "2. TODO/靈茶山基礎算法影片.md",
+    "2. TODO/Blind75.md",
+    "2. TODO/Vite.md",
+    "1. Daily/2024/2024-10-30.md",
+    "Game/遊戲王/QDW.canvas",
+    "6. Works/面試/公司/Bonanza Quant Corporation.md",
+    "1. Daily/2024/2024-10-14.md",
+    "Excalidraw",
+    "6. Works/2. 鉅亨網(2021)/專案推版.md",
+    "Books/JavaScript/JavaScript.md",
+    "2.1 Pending/CodingInterviewUniversity.md",
+    "2.1 Pending/LeetCode.md",
+    "useful-website/Icons.md",
+    "useful-website/職涯.md",
+    "useful-website/前端.md",
+    "useful-website/圖片相關.md",
+    "Tools/儲存目前網頁markdown.md",
+    "Shortcut/copy current url.md",
+    "6. Works/2. 鉅亨網(2021)/Projects/whenToUseServerAndClientComponents.png",
+    "Pasted image 20241002235109.png",
+    "6. Works/2. 鉅亨網(2021)/QA",
+    "6. Works/2. 鉅亨網(2021)/Doc",
+    "6. Works/2. 鉅亨網(2021)",
+    "4. Web/Storage",
+    "未命名.canvas",
+    "5. Stocks/晶圓/5483-中美晶/5483.png",
+    "5. Stocks/通信網路/WiFi比較圖.png",
+    "5. Stocks/通信網路/電信",
+    "5. Stocks/通信網路/IPC",
+    "5. Stocks/通信網路/CPO",
+    "5. Stocks/IC/2454/GS_revenue_mix_segment.png",
+    "5. Stocks/IC/IDC2023Q1手機出貨量.png",
+    "5. Stocks/PCB/process.png",
+    "5. Stocks/PCB/industy.png",
+    "5. Stocks/PCB/ABF三雄營收占比客戶比較.png",
+    "4. Web/RSC/RSC.canvas",
+    "4. Web/React/1. React.canvas",
+    "5.Stocks/晶圓/5483-中美晶/5483.png",
+    "Libs/TradingView/datafeed.canvas",
+    "2. TODO/React/1. React.canvas",
+    "未命名 1.canvas"
   ]
 }
