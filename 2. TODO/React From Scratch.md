@@ -16,9 +16,6 @@
 	- [\[Video\]\[JavaScrip\] Redux: Implementing Store from Scratch_](https://egghead.io/lessons/react-redux-implementing-store-from-scratch) 
 
 ## Step
-- **Step I**: The `createElement` Function
-- **Step II**: The `render` Function
-- **Step III**: Concurrent Mode
 - **Step IV**: Fibers
 - **Step V**: Render and Commit Phases
 - **Step VI**: Reconciliation

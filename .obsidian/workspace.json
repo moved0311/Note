@@ -11,12 +11,14 @@
             "id": "21dbdf08672a4c15",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2. TODO/靈茶山基礎算法影片.md"
+                "file": "2. TODO/Read.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "靈茶山基礎算法影片"
+              "icon": "lucide-file",
+              "title": "Read"
             }
           },
           {
@@ -178,7 +180,11 @@
   },
   "active": "21dbdf08672a4c15",
   "lastOpenFiles": [
+    "2. TODO/Question.md",
+    "2. TODO/React From Scratch.md",
     "2. TODO/Read.md",
+    "2. TODO/Plan.md",
+    "2. TODO/Blind75.md",
     "2. TODO/靈茶山基礎算法影片.md",
     "6. Works/2. 鉅亨網(2021)/Projects/新聞專案改版.md",
     "6. Works/2. 鉅亨網(2021)/Projects/會員跨商品自選改版.md",
@@ -188,14 +194,10 @@
     "6. Works/2. 鉅亨網(2021)/Projects",
     "4. Web/DevTools/Chrome Dev Tools.md",
     "4. Web/DevTools",
-    "2. TODO/React From Scratch.md",
     "1. Daily/2024-11.md",
     "6. Works/面試/公司/Bonanza Quant Corporation.md",
-    "2. TODO/Plan.md",
-    "2. TODO/Question.md",
     "2. TODO/CS50 - Introduction to AI.md",
     "2. TODO/Chrome Dev Tools.md",
-    "2. TODO/Blind75.md",
     "1. Daily/2024-11-01.md",
     "1. Daily/2024-10-30.md",
     "1. Daily/2024/2024-10-30.md"
