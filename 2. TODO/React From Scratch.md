@@ -1,7 +1,5 @@
 ## Reference
 * [Build your own Front-end Framework//Library](https://build-your-own-x.vercel.app/#build-your-own-front-end-framework--library)
-	-  [**JavaScript**: _WTF is JSX (Let's Build a JSX Renderer)_](https://jasonformat.com/wtf-is-jsx/)
-	
 	* [Build your own React](https://pomb.us/build-your-own-react/)
 	- [**JavaScript**: _A DIY guide to build your own React_](https://github.com/hexacta/didact)
 	- [**JavaScript**: _Gooact: React in 160 lines of JavaScript_](https://medium.com/@sweetpalma/gooact-react-in-160-lines-of-javascript-44e0742ad60f)
@@ -14,6 +12,7 @@
 	- [\[Video(33min)\]\[JavaScript\]:Building React From Scratch_](https://www.youtube.com/watch?v=_MAD4Oly9yg) 
 	- [\[Video\]\[JavaScrip\] Building a Custom React Renderer_](https://youtu.be/CGpMlWVcHok) 
 	- [\[Video\]\[JavaScrip\] Redux: Implementing Store from Scratch_](https://egghead.io/lessons/react-redux-implementing-store-from-scratch) 
+	-  [**JavaScript**: _WTF is JSX (Let's Build a JSX Renderer)_](https://jasonformat.com/wtf-is-jsx/)
 
 ## Step
 - **Step IV**: Fibers
@@ -21,3 +20,26 @@
 - **Step VI**: Reconciliation
 - **Step VII**: Function Components
 - **Step VIII**: Hooks
+
+## Step0
+```js
+const element = {
+  type: "h1",
+  props: {
+      title: "foo",
+      children: "Hello1"
+  }
+}
+
+const node = document.createElement(element.type)
+node["title"] = element.props.title
+
+const text = document.createTextNode("")
+text["nodeValue"] = element.props.children
+node.appendChild(text)
+
+const container = document.getElementById('app')
+container.appendChild(node)
+```
+
+## Step1: createElement

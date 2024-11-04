@@ -22,17 +22,29 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "f67df4788b791d17",
+=======
+            "id": "3d5fa6218ff90e38",
+>>>>>>> 233f82b (note backup: 2024-11-04 15:07:32)
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "2. TODO/Read.md",
+=======
+                "file": "2. TODO/React From Scratch.md",
+>>>>>>> 233f82b (note backup: 2024-11-04 15:07:32)
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Read"
+=======
+              "title": "React From Scratch"
+>>>>>>> 233f82b (note backup: 2024-11-04 15:07:32)
             }
           }
         ]
@@ -178,7 +190,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+<<<<<<< HEAD
   "active": "21dbdf08672a4c15",
+=======
+  "active": "3d5fa6218ff90e38",
+>>>>>>> 233f82b (note backup: 2024-11-04 15:07:32)
   "lastOpenFiles": [
     "2. TODO/Question.md",
     "2. TODO/React From Scratch.md",
