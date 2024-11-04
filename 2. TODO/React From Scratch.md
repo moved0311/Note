@@ -14,6 +14,7 @@
 	- [\[Video\]\[JavaScrip\] Redux: Implementing Store from Scratch_](https://egghead.io/lessons/react-redux-implementing-store-from-scratch) 
 	-  [**JavaScript**: _WTF is JSX (Let's Build a JSX Renderer)_](https://jasonformat.com/wtf-is-jsx/)
 
+<<<<<<< HEAD
 ## Step
 <<<<<<< HEAD
 - **Step IV**: Fibers
@@ -121,4 +122,6 @@ const element = (
 const container = document.getElementById('app')
 MyReact.render(element, container)
 ```
+=======
+>>>>>>> 2735e94 (note backup: 2024-11-04 17:09:02)
 

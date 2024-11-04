@@ -11,3 +11,4 @@ breakpoint type: Breakpoint / Conditional breakpoint / Logpoint
 [5 Chrome DevTools Tricks You Didn't Know! - YouTube](https://www.youtube.com/watch?v=CNsvPG13ozg)
 * `$0` print the dom node you selected
 * print the node png
+* press `cmd + shift + p` and search `fps` , click `Show frames per second(FPS)` will show fps graph
