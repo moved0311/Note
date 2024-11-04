@@ -3,22 +3,6 @@
 * [JSDevJournal | HackerNoon](https://hackernoon.com/u/jsdevjournal)
 * [fouber/blog: 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！](https://github.com/fouber/blog)
 * [Frontend Weekly - Medium](https://medium.com/front-end-weekly)
-* [The most insightful stories about Optimism - Medium](https://medium.com/tag/optimism)
-* [The most insightful stories about React - Medium](https://medium.com/tag/react)
-* [The most insightful stories about Nextjs - Medium](https://medium.com/tag/nextjs)
-* [Sean Chou – Medium](https://sean1093.medium.com/)
-## React
-* [Developer way - Nadia](https://www.developerway.com/) 
-* [Overreacted — A blog by Dan Abramov](https://overreacted.io/)(React core team)
-* [Daishi Kato's blog - zustand](https://blog.axlight.com/)
-
-## 個人
-* [Rida F'kih – Medium](https://medium.com/@ridafkih)  
-* [Jason's Web Memo](https://jason-memo.dev/) 
-* [Harshal Patil – Medium](https://medium.com/@mistyHarsh) 
-* [Blog —— Bugtender](https://bugtender.com/blog/) 
-* [Kai Hao](https://kaihao.dev/) (Dcard Clone)
-* [Eason Chang](https://easonchang.com/posts)
 
 ## News
 * [Newsletter | This Week In React](https://thisweekinreact.com/newsletter) 
