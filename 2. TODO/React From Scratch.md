@@ -15,11 +15,20 @@
 	-  [**JavaScript**: _WTF is JSX (Let's Build a JSX Renderer)_](https://jasonformat.com/wtf-is-jsx/)
 
 ## Step
+<<<<<<< HEAD
 - **Step IV**: Fibers
 - **Step V**: Render and Commit Phases
 - **Step VI**: Reconciliation
 - **Step VII**: Function Components
 - **Step VIII**: Hooks
+=======
+- [ ]  **Step III**: Concurrent Mode
+- [ ]  **Step IV**: Fibers
+- [ ]  **Step V**: Render and Commit Phases
+- [ ]  **Step VI**: Reconciliation
+- [ ]  **Step VII**: Function Components
+- [ ]  **Step VIII**: Hooks
+>>>>>>> 0544b25 (note backup: 2024-11-04 16:07:29)
 
 ## Step0
 ```js
@@ -42,4 +51,74 @@ const container = document.getElementById('app')
 container.appendChild(node)
 ```
 
-## Step1: createElement
+## Step1 - 2: createElement() and render()
+
+`my-react.js`
+```js
+const TEXT_ELEMENT = "TEXT ELEMENT";
+
+const createElement = (type, props, ...children) => {
+  return {
+    type,
+    props: {
+      ...props,
+      children: children.map(child => typeof child === "object"
+        ? child : createTextElement(children)
+      )
+    }
+  }
+}
+
+const createTextElement = text => ({
+  type: TEXT_ELEMENT,
+  props: {
+    nodeValue: text,
+    children: []
+  }
+})
+
+const render = (element, container) => {
+  const dom =
+    element.type == TEXT_ELEMENT
+      ? document.createTextNode("")
+      : document.createElement(element.type)
+
+
+  const isProperty = key => key !== "children"
+  Object.keys(element.props)
+    .filter(isProperty)
+    .forEach(name => {
+      dom[name] = element.props[name]
+    })
+
+  element.props.children.forEach(child =>
+    render(child, dom)
+  )
+
+  container.appendChild(dom)
+}
+
+const MyReact = {
+  createElement,
+  render
+}
+
+export default MyReact
+```
+
+`main.jsx`
+```jsx
+import MyReact from './my-react'
+
+/** @jsx MyReact.createElement */
+const element = (
+  <div style="background: salmon">
+    <h1>Hello World</h1>
+    <h2 style="text-align:right">from Didact</h2>
+  </div>
+)
+
+const container = document.getElementById('app')
+MyReact.render(element, container)
+```
+
