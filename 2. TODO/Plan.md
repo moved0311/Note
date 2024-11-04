@@ -20,3 +20,6 @@
 * [ ] `[研究]`
 	* [ ] Vercel要怎麼把不同網域對到不同專案
 	* [ ] React DevTools Profiler
+* [ ] Python code visualization
+* [ ] Use [Getting Started | Code Hike](https://codehike.org/docs)
+* [ ] 

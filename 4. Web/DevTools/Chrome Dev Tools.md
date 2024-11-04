@@ -8,3 +8,6 @@ Watch panel can add any javascript express like `typeof sum`
 breakpoint type: Breakpoint / Conditional breakpoint / Logpoint
 
 
+[5 Chrome DevTools Tricks You Didn't Know! - YouTube](https://www.youtube.com/watch?v=CNsvPG13ozg)
+* `$0` print the dom node you selected
+* print the node png
