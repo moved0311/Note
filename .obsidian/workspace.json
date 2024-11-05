@@ -35,7 +35,8 @@
               "title": "React From Scratch"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,15 +201,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8c4b4a18df7c0d55",
+  "active": "3d5fa6218ff90e38",
   "lastOpenFiles": [
+    "1. Daily/2024-11.md",
     "2. TODO/React From Scratch.md",
     "2. TODO/Question.md",
     "2. TODO/Plan.md",
     "2. TODO/CS50 - Introduction to AI.md",
     "2. TODO/Blind75.md",
     "2. TODO/靈茶山基礎算法影片.md",
-    "1. Daily/2024-11.md",
     "6. Works/2. 鉅亨網(2021)/Projects/新聞專案改版.md",
     "6. Works/2. 鉅亨網(2021)/Projects/會員跨商品自選改版.md",
     "1. Daily/2024/2024-10-30.md",
