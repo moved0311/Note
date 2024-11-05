@@ -1,1 +1,0 @@
-* https://www.developerway.com/posts/react-elements-children-parents#part2

@@ -27,16 +27,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/React From Scratch.md",
+                "file": "4. Web/React/Reconcliation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React From Scratch"
+              "title": "Reconcliation"
+            }
+          },
+          {
+            "id": "5e94e1b6cd319f19",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2. TODO/build-you-own-react.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "build-you-own-react"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 236.5,
+    "collapsed": true
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -201,10 +214,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d5fa6218ff90e38",
+  "active": "5e94e1b6cd319f19",
   "lastOpenFiles": [
-    "4. Web/React/Deploy.md",
+    "4. Web/React/Reconcliation.md",
+    "2. TODO/build-you-own-react.md",
+    "4. Web/React/Fiber Reconcliation.md",
+    "4. Web/React/Memory Leak.md",
+    "4. Web/React/LazyLoading.md",
+    "4. Web/React/Memo.md",
+    "4. Web/React/Rendering.md",
+    "4. Web/React/hydration.md",
     "2. TODO/React From Scratch.md",
+    "4. Web/React/Deploy.md",
     "4. Web/React/1. React.canvas",
     "1. Daily/2024-11.md",
     "2. TODO/Question.md",
@@ -224,16 +245,8 @@
     "Game/遊戲王/QDW.canvas",
     "6. Works/面試/公司/Bonanza Quant Corporation.md",
     "1. Daily/2024/2024-10-14.md",
-    "Excalidraw",
+    "7. Excalidraw",
     "6. Works/2. 鉅亨網(2021)/專案推版.md",
-    "Books/JavaScript/JavaScript.md",
-    "2.1 Pending/CodingInterviewUniversity.md",
-    "2.1 Pending/LeetCode.md",
-    "useful-website/Icons.md",
-    "useful-website/職涯.md",
-    "useful-website/前端.md",
-    "useful-website/圖片相關.md",
-    "Tools/儲存目前網頁markdown.md",
     "6. Works/2. 鉅亨網(2021)/Projects/whenToUseServerAndClientComponents.png",
     "Pasted image 20241002235109.png",
     "6. Works/2. 鉅亨網(2021)/QA",
