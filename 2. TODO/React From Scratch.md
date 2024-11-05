@@ -12,12 +12,6 @@
 	- [\[Video(33min)\]\[JavaScript\]:Building React From Scratch_](https://www.youtube.com/watch?v=_MAD4Oly9yg) 
 	- [\[Video\]\[JavaScrip\] Building a Custom React Renderer_](https://youtu.be/CGpMlWVcHok) 
 	- [\[Video\]\[JavaScrip\] Redux: Implementing Store from Scratch_](https://egghead.io/lessons/react-redux-implementing-store-from-scratch) 
-	-  [**JavaScript**: _WTF is JSX (Let's Build a JSX Renderer)_](https://jasonformat.com/wtf-is-jsx/)
 
-## Step
-- **Step IV**: Fibers
-- **Step V**: Render and Commit Phases
-- **Step VI**: Reconciliation
-- **Step VII**: Function Components
-- **Step VIII**: Hooks
+
 
