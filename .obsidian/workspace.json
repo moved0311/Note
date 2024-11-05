@@ -24,6 +24,7 @@
           {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "id": "f67df4788b791d17",
 =======
 =======
@@ -42,6 +43,8 @@
           },
           {
 >>>>>>> 2735e94 (note backup: 2024-11-04 17:09:02)
+=======
+>>>>>>> 02d747c (mac)
             "id": "3d5fa6218ff90e38",
 >>>>>>> 233f82b (note backup: 2024-11-04 15:07:32)
             "type": "leaf",
@@ -209,6 +212,7 @@
   },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "active": "21dbdf08672a4c15",
 =======
   "active": "3d5fa6218ff90e38",
@@ -216,6 +220,9 @@
   "lastOpenFiles": [
 =======
   "active": "d1aa1c3f65f439ae",
+=======
+  "active": "3d5fa6218ff90e38",
+>>>>>>> 02d747c (mac)
   "lastOpenFiles": [
     "1. Daily/2024-11.md",
     "2. TODO/React From Scratch.md",
