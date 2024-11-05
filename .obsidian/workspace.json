@@ -204,6 +204,7 @@
   "left-ribbon": {
     "hiddenItems": {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
@@ -222,14 +223,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
 =======
+=======
+>>>>>>> 0d86682 (note backup: 2024-11-05 21:43:27)
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
->>>>>>> 3a9d1b1 (note backup: 2024-11-05 20:43:29)
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
 <<<<<<< HEAD
@@ -258,7 +261,10 @@
 =======
   "active": "f7923b31cd1df8fe",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "2. TODO/build-you-own-react.md",
+=======
+>>>>>>> 0d86682 (note backup: 2024-11-05 21:43:27)
     "2. TODO/Read.md",
     "2. TODO/靈茶山基礎算法影片.md",
     "2. TODO/Question.md",
