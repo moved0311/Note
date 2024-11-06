@@ -22,31 +22,15 @@
             }
           },
           {
-            "id": "3d5fa6218ff90e38",
+            "id": "2596388863d70841",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "4. Web/React/Fiber Reconcliation.md",
-                "mode": "source",
-                "source": false
+                "file": "2. TODO/靈茶山基礎算法影片.md"
               },
-              "icon": "lucide-file",
-              "title": "Fiber Reconcliation"
-            }
-          },
-          {
-            "id": "17d509d2a7c51818",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Web/React/Fiber Reconcliation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fiber Reconcliation"
+              "icon": "excalidraw-icon",
+              "title": "靈茶山基礎算法影片"
             }
           },
           {
@@ -227,20 +211,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d5fa6218ff90e38",
+  "active": "2596388863d70841",
   "lastOpenFiles": [
-    "4. Web/React/Memory Leak.md",
-    "4. Web/React/Reconcliation.md",
-    "4. Web/React/Fiber Reconcliation.md",
+    "1. Daily/2024-11.md",
     "2. TODO/build-you-own-react.md",
-    "4. Web/React/1. React.canvas",
-    "2. TODO/React From Scratch.md",
     "4. Web/React/LazyLoading.md",
+    "4. Web/React/1. React.canvas",
+    "4. Web/React/Memory Leak.md",
+    "4. Web/React/Fiber Reconcliation.md",
+    "4. Web/React/Reconcliation.md",
+    "2. TODO/React From Scratch.md",
     "4. Web/React/Memo.md",
     "4. Web/React/Rendering.md",
     "4. Web/React/hydration.md",
     "4. Web/React/Deploy.md",
-    "1. Daily/2024-11.md",
     "2. TODO/Question.md",
     "2. TODO/Plan.md",
     "2. TODO/CS50 - Introduction to AI.md",
