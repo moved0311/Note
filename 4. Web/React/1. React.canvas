@@ -6,8 +6,7 @@
 		{"type":"file","file":"4. Web/React/hooks/Hooks.md","id":"2b2328a46373cd74","x":-1688,"y":-707,"width":147,"height":50,"color":"2"},
 		{"id":"98d20d5faef14503","type":"file","file":"4. Web/React/Fiber Reconcliation.md","x":-1126,"y":-307,"width":332,"height":50},
 		{"id":"f1daa06409b2e669","type":"file","file":"4. Web/React/Reconcliation.md","x":-1271,"y":-482,"width":271,"height":50},
-		{"id":"14e10172b35f701b","type":"text","text":"## Stack Reconcliation","x":-1450,"y":-311,"width":294,"height":50},
-		{"id":"908c47be9ef135c5","type":"file","file":"4. Web/React/Rendering.md","x":-1379,"y":-854,"width":371,"height":132}
+		{"id":"14e10172b35f701b","type":"text","text":"## Stack Reconcliation","x":-1450,"y":-311,"width":294,"height":50}
 	],
 	"edges":[
 		{"id":"a8f80e5d173f2899","fromNode":"f1daa06409b2e669","fromSide":"bottom","toNode":"98d20d5faef14503","toSide":"top","label":">16"},

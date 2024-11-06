@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -214,19 +213,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5e94e1b6cd319f19",
+  "active": "3d5fa6218ff90e38",
   "lastOpenFiles": [
-    "4. Web/React/Reconcliation.md",
     "2. TODO/build-you-own-react.md",
+    "4. Web/React/Reconcliation.md",
+    "4. Web/React/1. React.canvas",
+    "2. TODO/React From Scratch.md",
     "4. Web/React/Fiber Reconcliation.md",
     "4. Web/React/Memory Leak.md",
     "4. Web/React/LazyLoading.md",
     "4. Web/React/Memo.md",
     "4. Web/React/Rendering.md",
     "4. Web/React/hydration.md",
-    "2. TODO/React From Scratch.md",
     "4. Web/React/Deploy.md",
-    "4. Web/React/1. React.canvas",
     "1. Daily/2024-11.md",
     "2. TODO/Question.md",
     "2. TODO/Plan.md",
@@ -246,7 +245,6 @@
     "6. Works/面試/公司/Bonanza Quant Corporation.md",
     "1. Daily/2024/2024-10-14.md",
     "7. Excalidraw",
-    "6. Works/2. 鉅亨網(2021)/專案推版.md",
     "6. Works/2. 鉅亨網(2021)/Projects/whenToUseServerAndClientComponents.png",
     "Pasted image 20241002235109.png",
     "6. Works/2. 鉅亨網(2021)/QA",
