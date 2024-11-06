@@ -64,9 +64,25 @@
               "title": "靈茶山基礎算法影片"
 >>>>>>> b834507 (note backup: 2024-11-05 00:00:42)
             }
+          },
+          {
+            "id": "b044e892e9c717ce",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 1
+=======
+        "currentTab": 3
+>>>>>>> 4f7cb81 (note backup: 2024-11-06 21:43:46)
       }
     ],
     "direction": "vertical"
@@ -236,6 +252,7 @@
     }
   },
 <<<<<<< HEAD
+<<<<<<< HEAD
   "active": "ed1a914193f1e596",
   "lastOpenFiles": [
     "2. TODO/build-you-own-react.md",
@@ -260,6 +277,9 @@
     "4. Web/React/Deploy.md",
 =======
   "active": "f7923b31cd1df8fe",
+=======
+  "active": "b044e892e9c717ce",
+>>>>>>> 4f7cb81 (note backup: 2024-11-06 21:43:46)
   "lastOpenFiles": [
 <<<<<<< HEAD
     "2. TODO/build-you-own-react.md",
