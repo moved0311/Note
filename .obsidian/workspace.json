@@ -15,6 +15,7 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "21dbdf08672a4c15",
 >>>>>>> b834507 (note backup: 2024-11-05 00:00:42)
             "type": "leaf",
@@ -31,6 +32,8 @@
 <<<<<<< HEAD
             "id": "ed1a914193f1e596",
 =======
+=======
+>>>>>>> 2dee02f (note backup: 2024-11-06 22:43:43)
             "id": "f67df4788b791d17",
 >>>>>>> b834507 (note backup: 2024-11-05 00:00:42)
             "type": "leaf",
@@ -68,6 +71,7 @@
         ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "currentTab": 1
 =======
         "currentTab": 3
@@ -75,6 +79,9 @@
 =======
         "currentTab": 2
 >>>>>>> 6a23e70 (windows)
+=======
+        "currentTab": 1
+>>>>>>> 2dee02f (note backup: 2024-11-06 22:43:43)
       }
     ],
     "direction": "vertical"
@@ -211,28 +218,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-      "switcher:開啟快速切換": false,
-      "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
-      "daily-notes:開啟今天的每日筆記": false,
-      "templates:插入模板": false,
-      "command-palette:開啟命令面板": false,
-=======
-<<<<<<< HEAD
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
->>>>>>> b6d03e3 (note backup: 2024-11-05 20:43:29)
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
-=======
-=======
->>>>>>> 0d86682 (note backup: 2024-11-05 21:43:27)
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
@@ -277,12 +262,10 @@
   "active": "f7923b31cd1df8fe",
 >>>>>>> 6a23e70 (windows)
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "2. TODO/build-you-own-react.md",
-=======
->>>>>>> 0d86682 (note backup: 2024-11-05 21:43:27)
     "2. TODO/Read.md",
     "2. TODO/靈茶山基礎算法影片.md",
+    "1. Daily/2024-11.md",
+    "2. TODO/build-you-own-react.md",
     "2. TODO/Question.md",
     "2. TODO/React From Scratch.md",
     "2. TODO/Plan.md",
@@ -296,7 +279,6 @@
     "6. Works/2. 鉅亨網(2021)/Projects",
     "4. Web/DevTools/Chrome Dev Tools.md",
     "4. Web/DevTools",
-    "1. Daily/2024-11.md",
     "6. Works/面試/公司/Bonanza Quant Corporation.md",
 <<<<<<< HEAD
     "7. Excalidraw",
