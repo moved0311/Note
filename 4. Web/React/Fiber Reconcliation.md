@@ -20,7 +20,8 @@ It can
 	* 原本的current就變為workInProgress
 
 ## Reference
-* [What Is React Fiber? React.js Deep Dive #2](https://www.youtube.com/watch?v=0ympFIwQFJw)
-* [React Fiber Reconciliation: How it Works (Part 1) - YouTube](https://www.youtube.com/watch?v=rKk4XJYzSQA)
-* [Inspecting React Fiber Reconciliation: Deep Dive (Part 2) - YouTube](https://www.youtube.com/watch?v=Zan16X8VvGM)
-* 
+
+[React Fiber Reconciliation: How it Works (Part 1) - YouTube](https://www.youtube.com/watch?v=rKk4XJYzSQA)
+[What Is React Fiber? React.js Deep Dive #2](https://www.youtube.com/watch?v=0ympFIwQFJw)
+[React Fiber Reconciliation: How it Works (Part 1) - YouTube](https://www.youtube.com/watch?v=rKk4XJYzSQA)
+[Inspecting React Fiber Reconciliation: Deep Dive (Part 2) - YouTube](https://www.youtube.com/watch?v=Zan16X8VvGM)
