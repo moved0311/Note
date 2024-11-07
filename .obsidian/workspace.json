@@ -13,24 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024-11.md",
+                "file": "2. TODO/Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11"
+              "title": "Plan"
             }
           },
           {
-            "id": "2596388863d70841",
+            "id": "eb4edd5a8526fcac",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2. TODO/靈茶山基礎算法影片.md"
+                "file": "2. TODO/Puppeteer.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "靈茶山基礎算法影片"
+              "icon": "lucide-file",
+              "title": "Puppeteer"
             }
           },
           {
@@ -112,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "065c81d18b56bd36",
@@ -212,9 +213,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2596388863d70841",
+  "active": "eb4edd5a8526fcac",
   "lastOpenFiles": [
+    "2. TODO/Plan.md",
+    "2. TODO/Puppeteer.md",
     "1. Daily/2024-11.md",
+    "2. TODO/靈茶山基礎算法影片.md",
     "2. TODO/build-you-own-react.md",
     "4. Web/React/LazyLoading.md",
     "4. Web/React/1. React.canvas",
@@ -227,10 +231,8 @@
     "4. Web/React/hydration.md",
     "4. Web/React/Deploy.md",
     "2. TODO/Question.md",
-    "2. TODO/Plan.md",
     "2. TODO/CS50 - Introduction to AI.md",
     "2. TODO/Blind75.md",
-    "2. TODO/靈茶山基礎算法影片.md",
     "6. Works/2. 鉅亨網(2021)/Projects/新聞專案改版.md",
     "6. Works/2. 鉅亨網(2021)/Projects/會員跨商品自選改版.md",
     "1. Daily/2024/2024-10-30.md",
