@@ -31,8 +31,7 @@
               "title": "build-you-own-react"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,14 +174,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cd66597b24aa8415",
+  "active": "ad54dbe718cf0e32",
   "lastOpenFiles": [
+    "2. TODO/build-you-own-react.md",
     "2. TODO/靈茶山基礎算法影片.md",
     "1. Daily/2024-11.md",
     "conflict-files-obsidian-git.md",
     "2. TODO/圖表.md",
     "2. TODO/Read.md",
-    "2. TODO/build-you-own-react.md",
     "2. TODO/Question.md",
     "2. TODO/React From Scratch.md",
     "2. TODO/Plan.md",
