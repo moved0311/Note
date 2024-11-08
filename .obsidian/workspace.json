@@ -4,20 +4,11 @@
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "1bf5886caa18db3e",
+        "id": "c1f9fe8261512227",
         "type": "tabs",
         "children": [
           {
-            "id": "9e7d1208be82b8bb",
-=======
-        "id": "62b30fad2d460e2a",
-        "type": "tabs",
-        "children": [
-          {
-<<<<<<< HEAD
-            "id": "21dbdf08672a4c15",
->>>>>>> b834507 (note backup: 2024-11-05 00:00:42)
+            "id": "ad54dbe718cf0e32",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -29,59 +20,19 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "ed1a914193f1e596",
-=======
-=======
->>>>>>> 2dee02f (note backup: 2024-11-06 22:43:43)
-            "id": "f67df4788b791d17",
->>>>>>> b834507 (note backup: 2024-11-05 00:00:42)
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "2. TODO/React From Scratch.md",
-=======
-                "file": "2. TODO/Read.md",
->>>>>>> b834507 (note backup: 2024-11-05 00:00:42)
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "React From Scratch"
-=======
-              "title": "Read"
-            }
-          },
-          {
-            "id": "f7923b31cd1df8fe",
+            "id": "cd66597b24aa8415",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "2. TODO/靈茶山基礎算法影片.md"
+                "file": "2. TODO/build-you-own-react.md"
               },
               "icon": "excalidraw-icon",
-              "title": "靈茶山基礎算法影片"
->>>>>>> b834507 (note backup: 2024-11-05 00:00:42)
+              "title": "build-you-own-react"
             }
           }
         ],
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
         "currentTab": 1
-=======
-        "currentTab": 3
->>>>>>> 4f7cb81 (note backup: 2024-11-06 21:43:46)
-=======
-        "currentTab": 2
->>>>>>> 6a23e70 (windows)
-=======
-        "currentTab": 1
->>>>>>> 2dee02f (note backup: 2024-11-06 22:43:43)
       }
     ],
     "direction": "vertical"
@@ -137,11 +88,7 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 291.5
-=======
     "width": 300
->>>>>>> b834507 (note backup: 2024-11-05 00:00:42)
   },
   "right": {
     "id": "38be5f50e9895b3f",
@@ -228,49 +175,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "active": "ed1a914193f1e596",
+  "active": "cd66597b24aa8415",
   "lastOpenFiles": [
-    "2. TODO/build-you-own-react.md",
-    "2. TODO/React From Scratch.md",
+    "2. TODO/靈茶山基礎算法影片.md",
     "1. Daily/2024-11.md",
-    "2. TODO/Question.md",
-    "2. TODO/Read.md",
-    "2. TODO/CS50 - Introduction to AI.md",
+    "conflict-files-obsidian-git.md",
     "2. TODO/圖表.md",
-    "2. TODO/靈茶山基礎算法影片.md",
-    "2. TODO/Blind75.md",
-    "2. TODO/Plan.md",
-    "2. TODO/Puppeteer.md",
-    "4. Web/React/LazyLoading.md",
-    "4. Web/React/1. React.canvas",
-    "4. Web/React/Memory Leak.md",
-    "4. Web/React/Fiber Reconcliation.md",
-    "4. Web/React/Reconcliation.md",
-    "4. Web/React/Memo.md",
-    "4. Web/React/Rendering.md",
-    "4. Web/React/hydration.md",
-    "4. Web/React/Deploy.md",
-=======
-  "active": "f7923b31cd1df8fe",
-=======
-  "active": "b044e892e9c717ce",
->>>>>>> 4f7cb81 (note backup: 2024-11-06 21:43:46)
-=======
-  "active": "f7923b31cd1df8fe",
->>>>>>> 6a23e70 (windows)
-  "lastOpenFiles": [
     "2. TODO/Read.md",
-    "2. TODO/靈茶山基礎算法影片.md",
-    "1. Daily/2024-11.md",
     "2. TODO/build-you-own-react.md",
     "2. TODO/Question.md",
     "2. TODO/React From Scratch.md",
     "2. TODO/Plan.md",
     "2. TODO/Blind75.md",
->>>>>>> b834507 (note backup: 2024-11-05 00:00:42)
     "6. Works/2. 鉅亨網(2021)/Projects/新聞專案改版.md",
     "6. Works/2. 鉅亨網(2021)/Projects/會員跨商品自選改版.md",
     "6. Works/2. 鉅亨網(2021)/Projects/whenToUseServerAndClientComponents.png",
@@ -280,36 +196,10 @@
     "4. Web/DevTools/Chrome Dev Tools.md",
     "4. Web/DevTools",
     "6. Works/面試/公司/Bonanza Quant Corporation.md",
-<<<<<<< HEAD
-    "7. Excalidraw",
-    "6. Works/2. 鉅亨網(2021)/Projects/whenToUseServerAndClientComponents.png",
-    "Pasted image 20241002235109.png",
-    "6. Works/2. 鉅亨網(2021)/QA",
-    "6. Works/2. 鉅亨網(2021)/Doc",
-    "6. Works/2. 鉅亨網(2021)",
-    "4. Web/Storage",
-    "未命名.canvas",
-    "5. Stocks/晶圓/5483-中美晶/5483.png",
-    "5. Stocks/通信網路/WiFi比較圖.png",
-    "5. Stocks/通信網路/電信",
-    "5. Stocks/通信網路/IPC",
-    "5. Stocks/通信網路/CPO",
-    "5. Stocks/IC/2454/GS_revenue_mix_segment.png",
-    "5. Stocks/IC/IDC2023Q1手機出貨量.png",
-    "5. Stocks/PCB/process.png",
-    "5. Stocks/PCB/industy.png",
-    "5. Stocks/PCB/ABF三雄營收占比客戶比較.png",
-    "4. Web/RSC/RSC.canvas",
-    "5.Stocks/晶圓/5483-中美晶/5483.png",
-    "Libs/TradingView/datafeed.canvas",
-    "2. TODO/React/1. React.canvas",
-    "未命名 1.canvas"
-=======
     "2. TODO/CS50 - Introduction to AI.md",
     "2. TODO/Chrome Dev Tools.md",
     "1. Daily/2024-11-01.md",
     "1. Daily/2024-10-30.md",
     "1. Daily/2024/2024-10-30.md"
->>>>>>> b834507 (note backup: 2024-11-05 00:00:42)
   ]
 }
