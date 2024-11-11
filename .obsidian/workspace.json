@@ -30,25 +30,17 @@
               "icon": "excalidraw-icon",
               "title": "build-you-own-react"
             }
-          },
-          {
-            "id": "5a782e48422c41c7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
           }
+<<<<<<< HEAD
 <<<<<<< HEAD
         ]
 =======
         ],
         "currentTab": 2
 >>>>>>> a69ae7e (note backup: 2024-11-11 09:54:35)
+=======
+        ]
+>>>>>>> f999274 (mac)
       }
     ],
     "direction": "vertical"
@@ -192,12 +184,24 @@
     }
   },
 <<<<<<< HEAD
+<<<<<<< HEAD
   "active": "ad54dbe718cf0e32",
 =======
   "active": "5a782e48422c41c7",
 >>>>>>> a69ae7e (note backup: 2024-11-11 09:54:35)
   "lastOpenFiles": [
     "2. TODO/build-you-own-react.md",
+=======
+  "active": "9e7d1208be82b8bb",
+  "lastOpenFiles": [
+    "2. TODO/React From Scratch.md",
+    "2. TODO/build-you-own-react.md",
+    "1. Daily/2024-11.md",
+    "2. TODO/Question.md",
+    "2. TODO/Read.md",
+    "2. TODO/CS50 - Introduction to AI.md",
+    "2. TODO/圖表.md",
+>>>>>>> f999274 (mac)
     "2. TODO/靈茶山基礎算法影片.md",
     "1. Daily/2024-11.md",
     "conflict-files-obsidian-git.md",
