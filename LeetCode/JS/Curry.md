@@ -12,4 +12,3 @@ function curry(fn) {
 };
 ```
 
-[2632. Curry]([Curry - LeetCode](https://leetcode.com/problems/curry/description/?utm_campaign=PostD10&utm_medium=Post&utm_source=Post&gio_link_id=QRekxgjo))
