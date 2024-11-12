@@ -14,6 +14,7 @@
               "type": "markdown",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "1. Daily/2024-11.md",
 =======
 <<<<<<< HEAD
@@ -26,10 +27,14 @@
                 "file": "1. Daily/2024-11.md",
 >>>>>>> cce80dc (note backup: 2024-11-12 22:49:06)
 >>>>>>> b3a054e (note backup: 2024-11-12 22:49:06)
+=======
+                "file": "1. Daily/2024-11.md",
+>>>>>>> 1a9b200 (note backup: 2024-11-12 23:49:03)
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
 <<<<<<< HEAD
               "title": "2024-11"
 =======
@@ -43,6 +48,9 @@
               "title": "2024-11"
 >>>>>>> cce80dc (note backup: 2024-11-12 22:49:06)
 >>>>>>> b3a054e (note backup: 2024-11-12 22:49:06)
+=======
+              "title": "2024-11"
+>>>>>>> 1a9b200 (note backup: 2024-11-12 23:49:03)
             }
           },
           {
@@ -216,6 +224,7 @@
   "active": "886f858c2a67721a",
   "lastOpenFiles": [
 <<<<<<< HEAD
+<<<<<<< HEAD
     "conflict-files-obsidian-git.md",
 =======
 <<<<<<< HEAD
@@ -259,6 +268,12 @@
     "1. Daily/2024/2024-10-30.md",
     "4. Web/React/1. React.canvas",
 =======
+=======
+    "1. Daily/2024-11.md",
+    "2. TODO/Blind75.md",
+    "2. TODO/靈茶山基礎算法影片.md",
+    "2. TODO/build-you-own-react.md",
+>>>>>>> 1a9b200 (note backup: 2024-11-12 23:49:03)
     "conflict-files-obsidian-git.md",
 >>>>>>> b3a054e (note backup: 2024-11-12 22:49:06)
     "2. TODO/圖表.md",
@@ -275,8 +290,8 @@
     "6. Works/2. 鉅亨網(2021)/Projects/fe-crypto.md",
     "6. Works/2. 鉅亨網(2021)/Projects",
     "4. Web/DevTools/Chrome Dev Tools.md",
->>>>>>> cce80dc (note backup: 2024-11-12 22:49:06)
     "4. Web/DevTools",
+<<<<<<< HEAD
     "6. Works/2. 鉅亨網(2021)/Projects",
     "Game/遊戲王/QDW.canvas",
     "7. Excalidraw",
@@ -287,6 +302,8 @@
     "6. Works/2. 鉅亨網(2021)/Projects",
     "4. Web/DevTools/Chrome Dev Tools.md",
     "4. Web/DevTools",
+=======
+>>>>>>> 1a9b200 (note backup: 2024-11-12 23:49:03)
     "6. Works/面試/公司/Bonanza Quant Corporation.md",
     "2. TODO/CS50 - Introduction to AI.md",
     "2. TODO/Chrome Dev Tools.md",
