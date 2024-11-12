@@ -13,12 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "1. Daily/2024-11.md",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+                "file": "1. Daily/2024-11.md",
+=======
+                "file": "2. TODO/Blind75.md",
+>>>>>>> ad90667 (note backup: 2024-11-10 22:22:00)
+=======
+                "file": "1. Daily/2024-11.md",
+>>>>>>> cce80dc (note backup: 2024-11-12 22:49:06)
+>>>>>>> b3a054e (note backup: 2024-11-12 22:49:06)
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "2024-11"
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+              "title": "2024-11"
+=======
+              "title": "Blind75"
+>>>>>>> ad90667 (note backup: 2024-11-10 22:22:00)
+=======
+              "title": "2024-11"
+>>>>>>> cce80dc (note backup: 2024-11-12 22:49:06)
+>>>>>>> b3a054e (note backup: 2024-11-12 22:49:06)
             }
           },
           {
@@ -191,11 +215,52 @@
   },
   "active": "886f858c2a67721a",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "conflict-files-obsidian-git.md",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    "LeetCode/Contest/354.md",
+=======
+=======
+    "2. TODO/Blind75.md",
+>>>>>>> cce80dc (note backup: 2024-11-12 22:49:06)
+>>>>>>> b3a054e (note backup: 2024-11-12 22:49:06)
     "2. TODO/靈茶山基礎算法影片.md",
     "1. Daily/2024-11.md",
+<<<<<<< HEAD
     "2. TODO/Blind75.md",
     "2. TODO/build-you-own-react.md",
+=======
+<<<<<<< HEAD
+    "LeetCode/JS/timeLimitedCache.md",
+    "LeetCode/JS/throttle.md",
+    "LeetCode/JS/jsonStringify.md",
+    "LeetCode/JS/flaten.md",
+    "LeetCode/JS/debounce.md",
+    "LeetCode/JS/Curry.md",
+    "[Curry.md",
+    "LeetCode/Weekly Contest.md",
+    "LeetCode/Reference.md",
+    "LeetCode/String/2734. Lexicographically Smallest String After Substring Operation.md",
+    "Workspace/Vim.md",
+    "Cache/LRU(Least Recently Used Cache).md",
+    "Tools/儲存目前網頁markdown.md",
+    "Python/pd.md",
+    "Python/Basic.md",
+    "ServiceWorker/用途.md",
+    "GoogleSheet/GoogleSheet.md",
+    "歷史/時間軸.md",
+    "健康/營養素.md",
+    "英文/chatGPT詠唱指令.md",
+    "英文/方式.md",
+    "英文/Coursera - English for Career Development/English for Career Development.md",
+    "英文/英文.md",
+    "1. Daily/2024/2024-10-30.md",
+    "4. Web/React/1. React.canvas",
+=======
+    "conflict-files-obsidian-git.md",
+>>>>>>> b3a054e (note backup: 2024-11-12 22:49:06)
     "2. TODO/圖表.md",
     "2. TODO/Read.md",
     "2. TODO/Question.md",
@@ -203,6 +268,19 @@
     "2. TODO/Plan.md",
     "6. Works/2. 鉅亨網(2021)/Projects/新聞專案改版.md",
     "6. Works/2. 鉅亨網(2021)/Projects/會員跨商品自選改版.md",
+<<<<<<< HEAD
+=======
+    "6. Works/2. 鉅亨網(2021)/Projects/whenToUseServerAndClientComponents.png",
+    "6. Works/2. 鉅亨網(2021)/Projects/fe-esg.md",
+    "6. Works/2. 鉅亨網(2021)/Projects/fe-crypto.md",
+    "6. Works/2. 鉅亨網(2021)/Projects",
+    "4. Web/DevTools/Chrome Dev Tools.md",
+>>>>>>> cce80dc (note backup: 2024-11-12 22:49:06)
+    "4. Web/DevTools",
+    "6. Works/2. 鉅亨網(2021)/Projects",
+    "Game/遊戲王/QDW.canvas",
+    "7. Excalidraw",
+>>>>>>> b3a054e (note backup: 2024-11-12 22:49:06)
     "6. Works/2. 鉅亨網(2021)/Projects/whenToUseServerAndClientComponents.png",
     "6. Works/2. 鉅亨網(2021)/Projects/fe-esg.md",
     "6. Works/2. 鉅亨網(2021)/Projects/fe-crypto.md",
