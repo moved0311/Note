@@ -20,20 +20,6 @@
               "icon": "lucide-file",
               "title": "2024-11"
             }
-          },
-          {
-            "id": "ed1a914193f1e596",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workspace/Vim.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vim"
-            }
           }
         ]
       }
@@ -202,9 +188,9 @@
   },
   "active": "9e7d1208be82b8bb",
   "lastOpenFiles": [
+    "1. Daily/2024-11.md",
     "Workspace/Vim.md",
     "LeetCode/Contest/354.md",
-    "1. Daily/2024-11.md",
     "LeetCode/JS/timeLimitedCache.md",
     "LeetCode/JS/throttle.md",
     "LeetCode/JS/jsonStringify.md",
