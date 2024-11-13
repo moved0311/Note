@@ -35,8 +35,7 @@
               "title": "Vim"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,8 +200,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ed1a914193f1e596",
+  "active": "9e7d1208be82b8bb",
   "lastOpenFiles": [
+    "Workspace/Vim.md",
     "LeetCode/Contest/354.md",
     "1. Daily/2024-11.md",
     "LeetCode/JS/timeLimitedCache.md",
@@ -215,7 +215,6 @@
     "LeetCode/Weekly Contest.md",
     "LeetCode/Reference.md",
     "LeetCode/String/2734. Lexicographically Smallest String After Substring Operation.md",
-    "Workspace/Vim.md",
     "Cache/LRU(Least Recently Used Cache).md",
     "Tools/儲存目前網頁markdown.md",
     "Python/pd.md",
