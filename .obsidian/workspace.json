@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TODO/React/React From Scratch.md",
+                "file": "useful-website/圖片相關.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React From Scratch"
+              "title": "圖片相關"
             }
           }
         ],
@@ -203,12 +203,13 @@
   },
   "active": "b53cef832c34e9ac",
   "lastOpenFiles": [
-    "2. TODO/React/build-you-own-react.md",
-    "2. TODO/React/React From Scratch.md",
+    "2. TODO/圖表.md",
+    "useful-website/Icons.md",
     "2. TODO/Blind75.md",
     "2. TODO/靈茶山基礎算法影片.md",
+    "2. TODO/React/React From Scratch.md",
+    "2. TODO/React/build-you-own-react.md",
     "1. Daily/2024-11.md",
-    "2. TODO/圖表.md",
     "Shortcut/copy current url.md",
     "Shell/Commands.md",
     "Rollup/Reference.md",
@@ -229,7 +230,6 @@
     "LeetCode/String/2734. Lexicographically Smallest String After Substring Operation.md",
     "Cache/LRU(Least Recently Used Cache).md",
     "Tools/儲存目前網頁markdown.md",
-    "Python/pd.md",
     "4. Web/React/1. React.canvas",
     "4. Web/DevTools",
     "6. Works/2. 鉅亨網(2021)/Projects",
