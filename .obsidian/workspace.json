@@ -35,8 +35,7 @@
               "title": "圖表"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,10 +200,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b53cef832c34e9ac",
+  "active": "9e7d1208be82b8bb",
   "lastOpenFiles": [
-    "2. TODO/Blind75.md",
     "2. TODO/圖表.md",
+    "2. TODO/Blind75.md",
     "2. TODO/React/build-you-own-react.md",
     "2. TODO/React/React From Scratch.md",
     "Shortcut/copy current url.md",
