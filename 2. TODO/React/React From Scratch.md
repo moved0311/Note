@@ -5,6 +5,7 @@
 - [\[Video(33min)\]\[JavaScript\]:Building React From Scratch_](https://www.youtube.com/watch?v=_MAD4Oly9yg) 
 - [\[Video\]\[JavaScrip\] Building a Custom React Renderer_](https://youtu.be/CGpMlWVcHok) 
 - [(1) Lin Clark - A Cartoon Intro to Fiber - React Conf 2017 - YouTube](https://www.youtube.com/watch?v=ZCuYPiUIONs)
+- [A virtual DOM in 200 lines of JavaScript – Marcelo Lazaroni – Developing for the Interwebs](https://lazamar.github.io/virtual-dom/)
 - 
 
 
