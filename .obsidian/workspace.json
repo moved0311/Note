@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024-11.md",
+                "file": "2. TODO/React/React From Scratch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11"
+              "title": "React From Scratch"
             }
           }
         ]
@@ -188,15 +188,15 @@
   },
   "active": "9e7d1208be82b8bb",
   "lastOpenFiles": [
-    "2. TODO/圖表.md",
+    "2. TODO/React/build-you-own-react.md",
     "1. Daily/2024-11.md",
+    "2. TODO/圖表.md",
     "Shortcut/copy current url.md",
     "Shell/Commands.md",
     "Rollup/Reference.md",
     "PPT/20240814.md",
     "PPT/20240605-share-localstorage/index.md.md",
     "2. TODO/靈茶山基礎算法影片.md",
-    "2. TODO/React/build-you-own-react.md",
     "2. TODO/React/React From Scratch.md",
     "2. TODO/React",
     "Workspace/Vim.md",
