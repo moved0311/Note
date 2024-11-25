@@ -25,12 +25,14 @@
             "id": "cf8488d76be0a044",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "2. TODO/圖表.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "圖表"
             }
           }
         ],
@@ -201,8 +203,9 @@
   },
   "active": "cf8488d76be0a044",
   "lastOpenFiles": [
-    "2. TODO/圖表.md",
     "1. Daily/2024-11.md",
+    "2. TODO/Blind75.md",
+    "2. TODO/圖表.md",
     "Books/JavaScript/JavaScript.md",
     "資安/DDOS.md",
     "Books/已讀/用心於不交易.md",
@@ -215,7 +218,6 @@
     "Game/遊戲王/QDW.canvas",
     "Git/Subtree.md",
     "Git/Diff.md",
-    "2. TODO/Blind75.md",
     "2. TODO/React/build-you-own-react.md",
     "2. TODO/React/React From Scratch.md",
     "Shortcut/copy current url.md",
