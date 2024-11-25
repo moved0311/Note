@@ -22,20 +22,19 @@
             }
           },
           {
-            "id": "b53cef832c34e9ac",
+            "id": "cf8488d76be0a044",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "2. TODO/圖表.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.7.7"
               },
               "icon": "lucide-file",
-              "title": "圖表"
+              "title": "Release Notes 1.7.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,9 +199,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e7d1208be82b8bb",
+  "active": "cf8488d76be0a044",
   "lastOpenFiles": [
     "2. TODO/圖表.md",
+    "1. Daily/2024-11.md",
+    "Books/JavaScript/JavaScript.md",
+    "資安/DDOS.md",
+    "Books/已讀/用心於不交易.md",
+    "Cache/Cache.md",
+    "Git/清除untrack files.md",
+    "Git/cache.md",
+    "Git/Deploy.md",
+    "Git/rebase.md",
+    "Git/Gitlab/Package Registry.md",
+    "Game/遊戲王/QDW.canvas",
+    "Git/Subtree.md",
+    "Git/Diff.md",
     "2. TODO/Blind75.md",
     "2. TODO/React/build-you-own-react.md",
     "2. TODO/React/React From Scratch.md",
@@ -213,26 +225,13 @@
     "useful-website/圖片相關.md",
     "useful-website/Icons.md",
     "2. TODO/靈茶山基礎算法影片.md",
-    "1. Daily/2024-11.md",
     "Shell/Commands.md",
     "Rollup/Reference.md",
     "PPT/20240814.md",
-    "PPT/20240605-share-localstorage/index.md.md",
     "2. TODO/React",
-    "LeetCode/Contest/354.md",
-    "LeetCode/JS/timeLimitedCache.md",
-    "LeetCode/JS/throttle.md",
-    "LeetCode/JS/jsonStringify.md",
-    "LeetCode/JS/flaten.md",
-    "LeetCode/JS/debounce.md",
-    "LeetCode/JS/Curry.md",
-    "[Curry.md",
-    "LeetCode/Weekly Contest.md",
-    "LeetCode/Reference.md",
     "4. Web/React/1. React.canvas",
     "4. Web/DevTools",
     "6. Works/2. 鉅亨網(2021)/Projects",
-    "Game/遊戲王/QDW.canvas",
     "7. Excalidraw",
     "6. Works/2. 鉅亨網(2021)/Projects/whenToUseServerAndClientComponents.png",
     "Pasted image 20241002235109.png",
