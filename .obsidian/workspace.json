@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024-11.md",
+                "file": "1. Daily/2024/2024-11.md",
                 "mode": "source",
                 "source": false
               },
@@ -188,14 +188,15 @@
   },
   "active": "9e7d1208be82b8bb",
   "lastOpenFiles": [
+    "2. TODO/Blind75.md",
+    "1. Daily/2024/2024-11.md",
+    "2. TODO/圖表.md",
+    "1. Daily/2024-12.md",
     "2. TODO/tmp.md",
-    "1. Daily/2024-11.md",
     "6. Works/面試/1.  基本問題.md",
     "6. Works/面試/2. 專業問題.md",
     "6. Works/面試/Reference.md",
     "6. Works/面試/3. 行為問題.md",
-    "2. TODO/Blind75.md",
-    "2. TODO/圖表.md",
     "Books/JavaScript/JavaScript.md",
     "資安/DDOS.md",
     "Books/已讀/用心於不交易.md",
@@ -214,7 +215,6 @@
     "Tools/儲存目前網頁markdown.md",
     "Workspace/Vim.md",
     "useful-website/前端.md",
-    "useful-website/圖片相關.md",
     "2. TODO/React",
     "4. Web/React/1. React.canvas",
     "4. Web/DevTools",
