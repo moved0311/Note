@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c1611f70513d4184",
+        "id": "a3ad636b3fe94ddc",
         "type": "tabs",
         "children": [
           {
-            "id": "e6ddb3d1d6504b6a",
+            "id": "b1e29938aac00eef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2024-12.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "2024-12"
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "38be5f50e9895b3f",
@@ -160,16 +165,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af1748adb4d50205",
+  "active": "b1e29938aac00eef",
   "lastOpenFiles": [
-<<<<<<< HEAD
-=======
-    "1. Daily/2024-11.md",
-    "Obsidian/Syntax.md",
->>>>>>> 22e84ae (bak)
-    "2. TODO/Blind75.md",
+    "1. Daily/2024/2024-10-14.md",
+    "1. Daily/2024/2024-10-30.md",
     "1. Daily/2024/2024-11.md",
     "1. Daily/2024-12.md",
+    "2. TODO/Blind75.md",
     "1. Daily/2024-11.md",
     "Obsidian/Syntax.md",
     "2.1 Pending/CodingInterviewUniversity.md",
@@ -194,7 +196,6 @@
     "2. TODO/CS50 - Introduction to AI.md",
     "2. TODO/Chrome Dev Tools.md",
     "1. Daily/2024-11-01.md",
-    "1. Daily/2024-10-30.md",
-    "1. Daily/2024/2024-10-30.md"
+    "1. Daily/2024-10-30.md"
   ]
 }
