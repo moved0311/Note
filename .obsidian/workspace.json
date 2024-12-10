@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 200
   },
   "right": {
     "id": "38be5f50e9895b3f",
@@ -179,10 +179,10 @@
   },
   "active": "7b642c891a212425",
   "lastOpenFiles": [
-    "Pasted Image 20241210115959_068.png",
-    "螢幕擷取畫面 2024-12-10 115413.png",
     "1. Daily/2024-12.md",
     "2. TODO/GUI.md",
+    "Pasted Image 20241210115959_068.png",
+    "螢幕擷取畫面 2024-12-10 115413.png",
     "螢幕擷取畫面 2024-12-10 101424.png",
     "6. Works/3. Bonanza(202412)",
     "3. Reference/JavaScript.md",
