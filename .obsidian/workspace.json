@@ -33,7 +33,8 @@
               "title": "名詞"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,19 +174,18 @@
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "712598498addfea3",
+  "active": "2be666d66a3b8580",
   "lastOpenFiles": [
+    "2. TODO/GUI.md",
     "5. Stocks/名詞.md",
     "5. Stocks/總經.md",
     "5. Stocks/高爾夫球/產業.md",
     "5. Stocks/2308/2308.md",
     "5. Stocks/6902/6902-走著瞧.md",
     "5. Stocks/基本分析.md",
-    "2. TODO/GUI.md",
     "PPT/20240814.md",
     "1. Daily/2024-12.md",
     "3. Reference/JavaScript.md",
