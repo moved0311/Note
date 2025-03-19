@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a3ad636b3fe94ddc",
+        "id": "628b8b5dcaadcd84",
         "type": "tabs",
         "children": [
           {
-            "id": "712598498addfea3",
+            "id": "8bf9890aec8d3560",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "2. TODO/GUI.md"
+                "file": "Excalidraw/Drawing 2025-03-19 11.10.03.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "GUI"
+              "title": "Drawing 2025-03-19 11.10.03.excalidraw"
             }
           }
         ]
@@ -75,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "38be5f50e9895b3f",
@@ -163,10 +162,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "712598498addfea3",
+  "active": "8bf9890aec8d3560",
   "lastOpenFiles": [
-    "5. Stocks/名詞.md",
     "2. TODO/GUI.md",
+    "Excalidraw/Drawing 2025-03-19 11.10.03.excalidraw.md",
+    "5. Stocks/名詞.md",
     "5. Stocks/總經.md",
     "5. Stocks/高爾夫球/產業.md",
     "5. Stocks/2308/2308.md",
@@ -196,7 +196,6 @@
     "4. Web/React/build-your-own-react",
     "4. Web/React/build-your-own-react/build-you-own-react.md",
     "conflict-files-obsidian-git.md",
-    "2. TODO/Read.md",
     "6. Works/2. 鉅亨網(202109-202412)/Projects/whenToUseServerAndClientComponents.png",
     "6. Works/2. 鉅亨網(202109-202412)/Projects",
     "4. Web/DevTools"
