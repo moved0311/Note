@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-03-19 11.10.03.excalidraw"
             }
+          },
+          {
+            "id": "246fe7a27028f362",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-03-19 11.10.03.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-19 11.10.03.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "檔案瀏覽器"
@@ -162,10 +176,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8bf9890aec8d3560",
+  "active": "97fe74b08f35bd92",
   "lastOpenFiles": [
-    "2. TODO/GUI.md",
     "Excalidraw/Drawing 2025-03-19 11.10.03.excalidraw.md",
+    "2. TODO/GUI.md",
     "5. Stocks/名詞.md",
     "5. Stocks/總經.md",
     "5. Stocks/高爾夫球/產業.md",
