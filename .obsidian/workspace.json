@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "628b8b5dcaadcd84",
+        "id": "a3a1681f881c30ee",
         "type": "tabs",
         "children": [
           {
-            "id": "8bf9890aec8d3560",
+            "id": "a128059d3a9bc041",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-19 11.10.03.excalidraw.md"
+                "file": "1. Daily/2025-06-23.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-19 11.10.03.excalidraw"
-            }
-          },
-          {
-            "id": "246fe7a27028f362",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-03-19 11.10.03.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-19 11.10.03.excalidraw"
+              "icon": "lucide-file",
+              "title": "2025-06-23"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "38be5f50e9895b3f",
@@ -176,10 +166,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "97fe74b08f35bd92",
+  "active": "a128059d3a9bc041",
   "lastOpenFiles": [
+    "Git/Private repo.md",
+    "1. Daily/2025-06-23.md",
+    "Git/1. Basic.md",
+    "Git/rebase.md",
+    "Git/Cache.md",
+    "Git/Deploy.md",
+    "Git/清除untrack files.md",
+    "Git/Gitlab/Package Registry.md",
     "Excalidraw/Drawing 2025-03-19 11.10.03.excalidraw.md",
-    "2. TODO/GUI.md",
+    "CICD/CICD流程.md",
+    "CICD/CICD.md",
+    "Shortcut/copy current url.md",
+    "Workspace/Vim.md",
+    "6. Works/3. Bonanza(202412)/GUI.md",
+    "1. Daily/2024/2024-12.md",
+    "1. Daily/2025",
     "5. Stocks/名詞.md",
     "5. Stocks/總經.md",
     "5. Stocks/高爾夫球/產業.md",
@@ -187,7 +191,6 @@
     "5. Stocks/6902/6902-走著瞧.md",
     "5. Stocks/基本分析.md",
     "PPT/20240814.md",
-    "1. Daily/2024-12.md",
     "3. Reference/JavaScript.md",
     "Pasted Image 20241210115959_068.png",
     "螢幕擷取畫面 2024-12-10 115413.png",
@@ -197,19 +200,7 @@
     "3. Reference/Docker.md",
     "3. Reference/Code Review.md",
     "Libs/圖表.md",
-    "3. Reference/架構設計.md",
-    "1. Daily/2024/2024-10-14.md",
-    "1. Daily/2024/2024-10-30.md",
-    "1. Daily/2024/2024-11.md",
-    "2. TODO/Blind75.md",
-    "1. Daily/2024-11.md",
-    "Obsidian/Syntax.md",
-    "2.1 Pending/CodingInterviewUniversity.md",
-    "2. TODO/靈茶山基礎算法影片.md",
-    "4. Web/React/build-your-own-react/React From Scratch.md",
     "4. Web/React/build-your-own-react",
-    "4. Web/React/build-your-own-react/build-you-own-react.md",
-    "conflict-files-obsidian-git.md",
     "6. Works/2. 鉅亨網(202109-202412)/Projects/whenToUseServerAndClientComponents.png",
     "6. Works/2. 鉅亨網(202109-202412)/Projects",
     "4. Web/DevTools"

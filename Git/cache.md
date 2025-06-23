@@ -6,3 +6,11 @@ git rm --cached xxx/list.tsx
 
 # -r (遞迴/刪除資料夾)
 ```
+
+
+## 清除untrack files
+```sh
+git clean -df
+git checkout -- .
+```
+
