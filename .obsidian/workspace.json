@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4fbc84f8dbb30174",
+            "id": "bc2aa1e80d536ca4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "a128059d3a9bc041",
+            "id": "0f6efa1dc6875579",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "2025-06-30"
             }
+          },
+          {
+            "id": "a128059d3a9bc041",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2025-07-07.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-07"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,8 +197,9 @@
   },
   "active": "a128059d3a9bc041",
   "lastOpenFiles": [
-    "1. Daily/2025-06-23.md",
     "1. Daily/2025-06-30.md",
+    "1. Daily/2025-06-23.md",
+    "1. Daily/2025-07-07.md",
     "Git/Private repo.md",
     "Git/1. Basic.md",
     "Git/rebase.md",
@@ -214,7 +229,6 @@
     "6. Works/3. Bonanza(202412)",
     "Excalidraw",
     "3. Reference/Docker.md",
-    "3. Reference/Code Review.md",
     "4. Web/React/build-your-own-react",
     "6. Works/2. 鉅亨網(202109-202412)/Projects/whenToUseServerAndClientComponents.png",
     "6. Works/2. 鉅亨網(202109-202412)/Projects",
