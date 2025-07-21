@@ -35,8 +35,7 @@
               "title": "2025-07-14"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,10 +180,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c815d7ff8b6c598",
+  "active": "e9a2f138d93d973e",
   "lastOpenFiles": [
-    "1. Daily/2025-07-07.md",
     "1. Daily/2025-07-14.md",
+    "1. Daily/2025-07-07.md",
     "1. Daily/2025-06-30.md",
     "1. Daily/2025-06-23.md",
     "Git/Private repo.md",
