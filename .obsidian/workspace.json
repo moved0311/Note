@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e11796d6425f9897",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Daily/2025-07-21.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-21"
-            }
-          },
-          {
-            "id": "6abb6bae52f30737",
+            "id": "5a493555343a6d05",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,9 +20,20 @@
               "icon": "lucide-file",
               "title": "2025-07-28"
             }
+          },
+          {
+            "id": "6abb6bae52f30737",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-07-30 09.58.00.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-30 09.58.00.excalidraw"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "38be5f50e9895b3f",
@@ -181,10 +177,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6abb6bae52f30737",
+  "active": "5a493555343a6d05",
   "lastOpenFiles": [
-    "1. Daily/2025-07-21.md",
+    "Excalidraw/Drawing 2025-07-30 09.58.00.excalidraw.md",
     "1. Daily/2025-07-28.md",
+    "Excalidraw/Drawing 2025-03-19 11.10.03.excalidraw.md",
+    "未命名.md",
+    "1. Daily/2025-07-21.md",
     "1. Daily/2025-07-14.md",
     "1. Daily/2025-07-07.md",
     "1. Daily/2025-06-30.md",
@@ -196,7 +195,6 @@
     "Git/Deploy.md",
     "Git/清除untrack files.md",
     "Git/Gitlab/Package Registry.md",
-    "Excalidraw/Drawing 2025-03-19 11.10.03.excalidraw.md",
     "CICD/CICD流程.md",
     "CICD/CICD.md",
     "Shortcut/copy current url.md",
@@ -208,8 +206,6 @@
     "5. Stocks/總經.md",
     "5. Stocks/高爾夫球/產業.md",
     "5. Stocks/2308/2308.md",
-    "5. Stocks/6902/6902-走著瞧.md",
-    "5. Stocks/基本分析.md",
     "Pasted Image 20241210115959_068.png",
     "螢幕擷取畫面 2024-12-10 115413.png",
     "螢幕擷取畫面 2024-12-10 101424.png",
