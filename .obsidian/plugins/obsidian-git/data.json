@@ -2,7 +2,7 @@
   "commitMessage": "note backup: {{date}}",
   "autoCommitMessage": "note backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 240,
+  "autoSaveInterval": 7000,
   "autoPushInterval": 1440,
   "autoPullInterval": 0,
   "autoPullOnBoot": true,
