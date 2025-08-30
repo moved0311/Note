@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ed254a6aaf67abe",
+            "id": "6f80b68f7c3f39cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2025-08-18.md",
+                "file": "1. Daily/2025-08-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-18"
+              "title": "2025-08-25"
             }
           }
         ]
@@ -167,20 +167,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6ed254a6aaf67abe",
+  "active": "6f80b68f7c3f39cf",
   "lastOpenFiles": [
+    "1. Daily/2025/2025-07-28.md",
+    "1. Daily/2025-08-04.md",
+    "1. Daily/2025-08-25.md",
     "1. Daily/2025-08-11.md",
     "1. Daily/2025-08-18.md",
-    "1. Daily/2025-07-14.md",
+    "1. Daily/2025/2025-07-21.md",
+    "1. Daily/2025/2025-07-14.md",
+    "未命名 1.base",
+    "未命名.base",
     "1. Daily/2025/2025-07-07.md",
     "1. Daily/2025/2025-06-30.md",
     "1. Daily/2025/2025-06-23.md",
-    "1. Daily/2025-08-04.md",
-    "1. Daily/2025-07-28.md",
     "Excalidraw/Drawing 2025-07-30 09.58.00.excalidraw.md",
     "Excalidraw/Drawing 2025-03-19 11.10.03.excalidraw.md",
     "未命名.md",
-    "1. Daily/2025-07-21.md",
     "Git/Private repo.md",
     "Git/1. Basic.md",
     "Git/rebase.md",
@@ -193,9 +196,7 @@
     "Shortcut/copy current url.md",
     "Workspace/Vim.md",
     "6. Works/3. Bonanza(202412)/GUI.md",
-    "1. Daily/2024/2024-12.md",
     "1. Daily/2025",
-    "5. Stocks/名詞.md",
     "Pasted Image 20241210115959_068.png",
     "螢幕擷取畫面 2024-12-10 115413.png",
     "螢幕擷取畫面 2024-12-10 101424.png",
