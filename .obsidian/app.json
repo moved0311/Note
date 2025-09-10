@@ -34,5 +34,6 @@
   "spellcheck": true,
   "showLineNumber": false,
   "tabSize": 2,
-  "focusNewTab": true
+  "focusNewTab": true,
+  "promptDelete": false
 }
